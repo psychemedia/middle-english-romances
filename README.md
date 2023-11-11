@@ -32,3 +32,7 @@ And these, indeed, whenever you think of me, I believe the same to others, they 
 
 How far this description may apply to the minstrels of the north, it would be, perhaps, presumptuous to say ; the internal evidence of some of the Metrical Romances goes far to prove that they were composed in the Cloister, and, like the poems which Petrarch gave to his friends the Troubadours, must have been given to the minstrel to publish, *aut prece aut pretio* ["either by prayer or by price"].
 
+The three poems now printed very probably formed part of the stock of some individual of this by-gone pro¬ fession. They have been apparently written from recita¬ tion, and are remarkable for the complete contrast of matter, style and diction. The first two or three pages have evidently been taken down by one who was not in¬ timate with the form of the stanza ; some lines are di¬ vided, and some run into each other, just as we might suppose would be the case till the writer had made him¬ self acquainted with the intricacies of the versification. A professed minstrel, or even a person who had read the poem through, would have avoided such irregularities.
+
+It may be too, that the recitation of these and similar productions, was accompanied by something of dramatic action, as the “ he- sayd,” and <c ho sayd,” are very fre¬ quently additions which the metre itself will not allow
+
