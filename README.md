@@ -6,6 +6,9 @@ TO DO
 eg  [[`Sir Amadace`](https://middleenglishromance.org.uk/mer/50)] ; [`Sir Isumbras`](https://middleenglishromance.org.uk/mer/58) ; [`Sir Gowther`](https://middleenglishromance.org.uk/mer/57), etc.
 
 
+eg Tale of Gamelyn (cf Robin Hood?) https://archive.org/details/taleofgamelyn00skeauoft/taleofgamelyn00skeauoft/page/n7/mode/2up
+The tale of Gamelyn. From the Harleian MS. no. 7334, collated with six other MSS. Edited with notes and a glossarial index by Walter W. Skeat by Skeat, Walter W. (Walter William), 1835-1912 Publication date 1884
+
 eg
 
 
