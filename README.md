@@ -39,3 +39,14 @@ The three poems now printed very probably formed part of the stock of some indiv
 
 It may be too, that the recitation of these and similar productions, was accompanied by something of dramatic action, as the “ he- sayd,” and <c ho sayd,” are very fre¬ quently additions which the metre itself will not allow
 
+
+---
+
+
+
+---
+https://archive.org/details/bib_fict_2517737/
+Syr Gawayne; a collection of ancient romance-poems, by Scotish and English authors, relating to that celebrated knight of the Round Table, with an introduction, notes, and a glossary. By Sir Frederic Madden [...]
+by Madden, Frederic (ed.)
+
+Publication date 1839
