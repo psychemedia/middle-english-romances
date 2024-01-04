@@ -1,6 +1,12 @@
 # middle-english-romances
 Some fantastic tales, orginally presented as metrical poems...
 
+Dictionary:
+https://archive.org/details/middleenglishdic00stra/
+A Middle English dictionary, containing words used by English writers from the twelfth to the fifteenth century
+by Stratmann, Francis Henry, d. 1884; Bradley, Henry, 1845-1923
+Publication date [1891]
+
 TO DO 
 
 eg  [[`Sir Amadace`](https://middleenglishromance.org.uk/mer/50)] ; [`Sir Isumbras`](https://middleenglishromance.org.uk/mer/58) ; [`Sir Gowther`](https://middleenglishromance.org.uk/mer/57), etc.
