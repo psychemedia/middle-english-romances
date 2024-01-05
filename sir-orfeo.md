@@ -971,9 +971,134 @@ Than thus to lese the quen mi wiif,
 He asked conseyl at ich man,  
 Ac no man him help no can.  
 A morwe the under tide is come  
+And Orfeo hath his armes y nome,  
+And wele ten hundred knightes with him,  
+Ich y armed stout and grim ;  
+And with the quen wenten he,  
+Right unto that ympe tre.  
+Thai made scheltrom `[defence]` in ich aside,  
+And sayd thai wold ther abide,  
+And dye ther everichon,  
+Er the quen schuld fram hem gon :  
+Ac yete amiddes hem ful right,  
+The quen was oway y twight, `[taken]`  
+With fairi forth y nome,  
+Men wist never wher sche was bicome.  
+Tho was ther criing, wepe and wo,  
+The king into his chamber is go,  
+And oft swoned opon the ston  
+And made swiche diol `[dole]` and swiche mon,  
+That neighe his liif was y spent ;  
+Ther was non amendement.  
+He cleped to gider his barouns,  
+Erls, lordes of renouns,  
+And when thai al y comen were :  
+Lordinges, he said, bifor you here  
+Ich ordainy min heigh steward  
+To wite `[order]` mi kingdom after ward,  
+In mi stede ben he schal,  
+To kepe mi londes over al,  
+For now Ichave mi quen y lore, `[lost]`  
+The fairest levedi that ever was bore ;  
+Never eft y nil no woman se,
+Into wildernes Ichil te, `[roam]`  
+And live ther ever more,  
+With wilde bestes in holtes `[woods]` hore ;  
+And when ye under stond that y be spent,  
+Make you than a parlement,  
+And chese you a newe king :  
+Now doth your best with al mi thing.
+
+Tho was ther wepeing in the halle,  
+And grete cri among hem alle ;  
+Unnethe `[scarcely]` might old or yong  
+For wepeing speke a word with tong.  
+Thai kneled adoun al y fere, `[together]`  
+And praid him yif his wille were,  
+That he no schuld nought from hem go.  
+Do way ! quath he, it schal be so :  
+All his kingdom he forsoke,  
+But a sclavin `[pilgrim's robe]` on him he toke ;  
+He no hadde kirtel, no hode,  
+Schert, no nother gode,  
+Bot his harp he toke algate, `[however]`  
+And dede him barfot out atte gate :  
+No man most with him go.  
+O way ! what ther was wepe and wo,  
+When he that hadde ben king with croun,  
+Went so poverlich out of toun.  
+Thurch wode, and over heth,  
+Into the wildernes he geth,  
+Nothing he fint that him is ays, `[ease]`  
+Bot ever he liveth in gret malais `[discomfort]` ;
+He that hadde y werd the fowe `[fur (variegated)]` and griis, `[fur (gray)]`  
+And on bed the purper biis, `[linen]`  
+Now on hard hethe he lith,  
+With leves and gresse he him writh `[wraps]` :  
+He that hadde castels, and tours,  
+River, forest, frith with flours ;  
+Now, thei it commenci to snewe and frese,  
+This king mot make his bed in mese `[moss (?)]` :  
+He that had y had knightes of priis.  
+Bifor him kneland, and levedis,  
+Now seth he no thing that him liketh,  
+Bot wild wormes by him striketh :  
+He that had y had plente  
+Of mete and drink, of ich deynte,  
+Now may he al day digge and wrote, `[grub]`  
+Er he finde his fille of rote ;  
+In somer he liveth bi wild frut,  
+And berren, bot gode lite ;  
+In winter may he no thing finde,  
+Bot rote, grases, and the rinde ;  
+Al his bodi was oway dwine  
+For missays, and al to chine, `[shrunken]`  
+Lord ! who may telle the sore  
+This king sufferd ten yere and more :  
+His here of his berd, blac and rowe, `[rough]`  
+To his girdel stede was growe ;  
+His harp, where on was al his gle,  
+He hidde in an holwe tre ;  
+And, when the weder was clere and bright,  
+He toke his harp to him wel right,  
+And harped at his owhen wille,  
+Into alle the wode the soun gan schille,  
+That alle the wilde bestes that ther beth,  
+For joie abouten him thai teth `[gather]` ;  
+And all the foules that ther were,  
+Come and sete on ich a brere ;  
+To here his harping a fine, `[at last]`  
+So miche melody was ther in.  
+And when he his harping lete wold,  
+No best bi him abide nold.
+
+He might se besides  
+Oft in hot under tides,  
+The king o fairy, with his rout,  
+Com to hunt him al about :  
+With dim cri and bloweing,  
+And houndes also with him berking ;  
+Ac no best thai no nome,  
+No never he nist whider thai bi come.  
+And other while he might him se  
+As a gret ost bi him te,  
+Wele atourned `[about]` ten hundred knightes,  
+Ich y armed to his rightes ;  
+Of cuntenaunce stout and fers,  
+With mani displaid baners ;  
+And ich his swerd y drawe hold :  
+Ac never he nist whider thai wold.  
+And other while he seighe other thing :  
+Knightes and levedis com daunceing,  
+In queynt atire gisely,  
+Queyitt pas, and softly :  
+Tabours and trimpes yede him bi,  
+And al maner menstraci.
 
 
+And on a day he seighe him biside Sexti levdis on hors ride, Gentil and jolif, as brid on ris 1 ; Nought o man amonges hem ther nis ; And ich a faucoun on hond bere, And riden on haukin bi o rivere, Of game thai founde wel gode haunt, Maulardes, hayroun, and cormeraunt ; The foules of the water ariseth, The faucouns hem wele deviseth, Ich faucoun his pray slough : That seighe Orfeo, and lough. Par fay, quath he, ther is fair game ! Thider Ichil bi Godes name, Ich was y won 2 swiche werk to se. He aros, and thider gan te ; To a levedi he was y come, Biheld, and hath wele under nome, And seth, bi al thing, that it is His owhen quen dam Heurodis. Yern he biheld hir, and sche him eke, Ac noither to other a word no speke : For messais that sche on him seighe, That had ben so riche and so heighe, The teres fel out of her eighe ; The other levedis this y seighe, And maked hir oway to ride,
 
+1 branch. 2 accustomed.
 
 
 NOTES
