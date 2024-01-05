@@ -999,6 +999,103 @@ by Laing, David, 1793-1878
 
 Publication date 1822
 
+`Herken, lordyngys, that ben trewe.  
+`And Y wol you telle of fir Orphewe.'
+
+THE fairy tale of *Orfeo and Heurodis* is possessed of a very distinct, though not less interesting character, from the numerous remains of early Romantic fiction. In the concluding lines it professes to be a lay of Bretaigne, but whether a translation or not, there can be no doubt that it was formed on the classical story of *Orpheus and Eurydice*. This tale was extensively known at an early period, owing to the circulation of the Latin poets and the works of other ancient authors in which it has been so beautifully narrated. In proof of this, Mr. Turner, in his valuable and instructive history has shewn, that during the 11th century, King Alfred, when translating the Metrum to the *Consolations of Philosophy*, in his Anglo-Saxon version of Boethius, where the incident is described in a general manner, by that popular writer, has told " the story so completely in his own way, and with so many of his own little touches and additions, as to make his account an original tale `[History of the Anglo-Saxons, vol. ii. p. 157, edit. 1820.]`." In the present instance, the narrative, (as observed by a distinguished writer of our times, who, in a felicitous manner, has employed it to illustrate a highly interesting Essay on the *Fairies of Popular Superstition* `[Minstrelsy of the Scottish Border, vol. ii. p. 174. edit. 1803.]`) has been transformed into a beautiful romantic tale of Faery, in which the Gothick Mythology and the usages of Chivalry are with singular skill engrafted on the fables of Greece.
+
+Among the pleysand storeis enumerated in *The Complaynt of Scotland*, 1549, as being popular, is *Opheus, kyng of Portingal*; but no romance of this particular title is known. Therefore, it is more than probable that it might be some corruption of the present story; as we know how little stress should be laid on the geographical correctness, or consistency of the Minstrel-writers. Thus in the following tale, we have Orfeo represented as King of Winchester, the ancient name of which, ' the Romancer, with unparalled ingenuity, discovers to have been Traciens or Thrace:' `[Minstrelsy of the Scottish Border, vol. ii. p. 203.]` and, in the burlesque interlude of the laying of a gaist, printed in this collection, the Gaist is married to ' the Spenzie flie' —
+
+And crownd him kyng of Kandelie ;  
+And thay gat them thame betwene  
+Orpheus Kyng, and Elpha quene.'
+
+The story of Orpheus and Eurydice, in the latter part of the fifteenth Century, was moralized by Robert Henryson, the Scotish poet. It was first printed at Edinburgh, in the year 1508, with the title *Heir begynnis the traitie of Orpheus kyng, and how he geid to hewyn ? to hel to feik his quene*. After detailing, with minute fidelity to his classical authorities, the genealogy and history of the King of Thrace, Henryson introduces, in a different kind of measure, the '*mone lamentable*' of Orpheus, beginning
+
+O dulfull harpe ! with mony dolly string  
+Tume all thi mirth and musik in murnyng  
+And cess of all the sub tell sangis sweit—
+
+After this pathetic lamentation, the poet having related his visit to the celestial spheres, conducts him to the infernal regions in search of Eurydice. From this part of Henryson's performance a few stanzas, by way of specimen, maybe given.
+
+He passit furth the space of xx. dayis,  
+Fer and full ferthcr than I can tell,  
+And ay he fand stretis and ledy wayis,  
+Tyll at the last, vnto the yett of hell  
+He com ; and thare he fand a portar fell  
+With thre hedis, was callit Cerberus ;  
+A hund of hell, a monster meruailus !
+
+He charms Cerberus and then the ' three sisters,' Alecto, Megera, and Thesiphoné, whose employment was turning round the wheel on which Ixion was spread. ' Syne,' — the poet says,—
+
+Syne come he till a wonder grisely flud,  
+Droubly and depe, that rathly doun can ryn,  
+Quhare Tantalus nakit full thristy stude.  
+And yit the water yede abone his chyn ;  
+Thouch he gapit thare wald na drop cum in,  
+Quhen he dulkit the water wald descend ;  
+Thus gat he noucht his thrist to slake or mend.
+
+Before his face ane apill hang also  
+Fast at his mouth apon a tolter threde,  
+Quhen he gapit it rokkit to and fro  
+And fled, as it reftisit hym to fede :  
+Than Orpheus had reuth of his grete nede  
+Tuke out his harp, and fast on it can clink,  
+The water stude, and Tantalus gat drink.
+
+The next object which presents itself in his progress, is Theseus preyed on by a ' grisely gripe' or vulture, which also excites the compassion of Orpheus. On entering ' hydouse hellis house' he exclaims,
+
+O dolly place and groundles depe dungeoun !  
+Furnes of fyre, with stynk intollerable.  
+Pit of dispair, wythout remissioun,  
+Thy mete venym, thy drynk is poysonable.  
+Thy grete panis to compt vnnowmerabil ;  
+Quhat creature cummys to duel in the  
+Is ay deyand, and newir more may dee '.
+
+We must pass over the different personages whom he here beholds, in order to make room for the description of his meeting with Eurydice.
+
+Syn nethir mare he went quhare Pluto was  
+And Proserpine, and thider ward he drewe,  
+Ay play and on his harp as he coud pas,  
+Till at the last Eurydice he knewe ;  
+Lene and dedelike pitouse and pale of hewe,  
+Rycht warsch and wan, and walowit as a wede,  
+Hir lily lyre was lyke vnto the lede.
+
+Quod he, my lady lele, and my delyte,  
+Full wa is me, to se yow changit thus!  
+Quhare is thy rude as rose with chekis quhite ?  
+Thy cristall eyne with blenkis amorouse ?  
+Thi lippis rede to kis deliciouse ? —  
+Quod scho, as now I dar noucht tell, perfay,  
+Bot ye sail wit the cause ane other day.
+
+The present tale has been justly admired no less for the harmony of its versification, than for the beautiful description which it contains of Fairy-land. Heurodis is carried away by the king of the Fairies, whose attendants are as numerous as his riches and magnifieence are dazzling ; and is recovered by Orfeo in the disguise of a Minstrel. The following lines, which occur in one of the ancient copies of thus poem, (but apparently omitted by the transcriber of the manuscript that is followed) may be quoted, as illustrative of Orfeo's skill, and love of Minstrelsy.
+
+" Orpheo most of ony thing,  
+Liovede the gle of harpyng ;  
+Syker was every gode harpourc  
+Of hym to have moche honour.  
+Hymself loved for to harpe,  
+And layde thereon his wittes scharpe ;  
+He lerned so, ther non was  
+A better harper in no plas.  
+In the world was never man born,  
+That onus Orfeo sat biforn.  
+And he myght of his harpyng her.  
+He shulde thinke that he wer  
+In one of the joys of paradys,  
+Suche joy and melody in his harpyng is."
+
+The reader will perceive that in this story the catastrophe is different; but if less pathetic, it certainly is more agreeable than that of the classical fiction.
+
+At some later period this romantic legend appears to have been considerably altered and abridged. In such a state it is preserved in a Manuscript in the Harleian collection `[MSS. Harl. no. 3810.]`, from which it was published by Ritson `[Ancient English Metrical Romances, vol. ii. p. 248-269, 1802, 8vo.]`. The present copy is taken from the more ancient volume in the Advocates' Library, called, from its donor, the Auchinleck Manuscript. The period of its composition may be referred to the beginning of the fourteenth century; as the volume which contains it was evidently written during the minority of Edward III. From this early, and precious record of Ancient Poetry the text is given literally, except that a few useless contractions are discarded, which might only have served to perplex the reader. As Ritson's collection, which contains the story in its more recent and somewhat compendious state is by no means of rare occurrence, it was thought unnecessary to point out any of the variations. The prologue that there accompanies it is not found in the Auchinleck manuscript: yet, as the leaf immediately before the first line
+
+' Orfeo was a king'
+
+has been torn out for the sake of the illumination, it is possible that it may not have begun so abruptly ; — even although the commencement of another poem in the volume is in substance the same with that of the ' Sir Orfeo' in the Harleian manuscript, which in all consists of 510 lines `[Lai le Fraine, printed in Weber's Collection.]`. It may be added that a correspondent in the British Bibliographer `[Vol. iv. p. 18 and 95.]`, states, that in a manuscript volume in the Ashmolean Collection at Oxford, is preserved a copy of the romance of ' King Orfeo' altogether different from the translation published by Ritson. Possibly it might be found on comparison to come nearer to that which is now given.
 
 ---
 
