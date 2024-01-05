@@ -1,6 +1,8 @@
 # Sir Orfeo
 
-A mediaeval retelling of the myh of *Orpheus and Eurydice*, which I've used a couple of timrs to frame the sinking of HMS Eurydice (see ??), recast as a tale of a proud (and not in a good way!) knight who is beset by misfortune and who sets out to recover his wife who is kidnapped into the land of Faerie.
+A mediaeval retelling of the myth of *Orpheus and Eurydice*, which I've used a couple of times to frame the sinking of HMS Eurydice (see ??), recast as a tale of a proud (and not in a good way!) knight who is beset by misfortune and who sets out to recover his wife who is kidnapped into the land of Faerie.
+
+I first came across this in the back of the paperback version of *Sir Gawain and the Green Knight, with Pearl and Sir Orfeo*, Harper Collins, 2021, translated by J.R.R. Tolkien, ed. C. Tolkien.
 
 ---
 
