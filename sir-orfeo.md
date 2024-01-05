@@ -17,109 +17,109 @@ pp165-184
 
 SIR ORFEO
 
-S IR ORFEO was a brave knight and a true, and he dwelt in the land of the Grecians. Of high kin he was, for his father came of the stock of King Pluto, who ruled over the nether world, and his mother was of the race of Juno, the queen of the heavens. Wisely and well Sir Orfeo gov¬ erned his people, sparing neither pains nor trouble to make them happy. One thing in this world, however, Sir Orfeo was more zealous in than in caring for the welfare of his people, and this one thing was the music the gleemen made in their harping. A welcome was ready for every good harper who found his way to Sir Orfeo’s castle, and there you were always sure of meeting with the best of them. Sir Orfeo himself took great joy in harping, and so earnestly did he busy himself in that art that no one of the great throng of min¬ strels who came to his castle could boast himself a better harper than its master.
+SIR ORFEO was a brave knight and a true, and he dwelt in the land of the Grecians. Of high kin he was, for his father came of the stock of King Pluto, who ruled over the nether world, and his mother was of the race of Juno, the queen of the heavens. Wisely and well Sir Orfeo governed his people, sparing neither pains nor trouble to make them happy. One thing in this world, however, Sir Orfeo was more zealous in than in caring for the welfare of his people, and this one thing was the music the gleemen made in their harping. A welcome was ready for every good harper who found his way to Sir Orfeo's castle, and there you were always sure of meeting with the best of them. Sir Orfeo himself took great joy in harping, and so earnestly did he busy himself in that art that no one of the great throng of minstrels who came to his castle could boast himself a better harper than its master.
 
-A fair lady named Herodys was the wife of Sir Orfeo, and among all the Grecians none was praised more highly for her gentleness and beauty. Now, it happened once upon a sunny morning in May that the Lady Herodys called her two maid¬ ens and went forth in the freshness of the day to walk in her garden. The bitter storms of winter were now past, and everywhere the flowers were springing in the green grass, and every spray and bough of the bushes was covered with bright blos¬ soms. The sun made the air so soft and pleas¬ ant, the birds sang so gaily, and the flowers spread abroad such sweetness, that the Lady Her¬ odys and her two maidens sat them down under a young tree to take their joy in the mild season. For a while they praised the beauties of this spring morning, and then talked of this and that, until a heaviness weighed down the eyelids of the Lady Herodys and she leaned on her elbow on the soft grass and fell into a deep slumber.
+A fair lady named Herodys was the wife of Sir Orfeo, and among all the Grecians none was praised more highly for her gentleness and beauty. Now, it happened once upon a sunny morning in May that the Lady Herodys called her two maidens and went forth in the freshness of the day to walk in her garden. The bitter storms of winter were now past, and everywhere the flowers were springing in the green grass, and every spray and bough of the bushes was covered with bright blossoms. The sun made the air so soft and pleasant, the birds sang so gaily, and the flowers spread abroad such sweetness, that the Lady Herodys and her two maidens sat them down under a young tree to take their joy in the mild season. For a while they praised the beauties of this spring morning, and then talked of this and that, until a heaviness weighed down the eyelids of the Lady Herodys and she leaned on her elbow on the soft grass and fell into a deep slumber.
 
-Silently the two maidens stole away to another part of the garden, and there they amused them¬ selves for some time in merry talk and laughter. When they thought their lady must have roused from her slumber, they came back to the young tree, but were surprised to find her lying there and still soundly sleeping. They knew not what to do, for they could not be so bold as to wake their mistress, yet they thought it strange her sleep should be so lasting. Quietly they sat them down beside their lady and patiently waited for her eyes to open. But the sun mounted higher and higher, and passed over their heads at the noontide, and already was sinking to the western sky in the dusk of the evening, before the Lady Herodys stirred and gave signs of return to the land of the living. Suddenly her eyes flew open, and she started up in fear and trembling. She wrung her hands in grief, and cried aloud in pain and sorrow. More like one who had lost her reason she bore herself than like the gentle Herodys. Hastening to her side, the two maid¬ ens sought to comfort their lady, but Herodys paid no heed to them and seemed not to hear the words they spake to her. In terror and dismay at what had happened, the two maidens ran quickly to the castle for help, and soon they came back with a throng of anxious knights and ladies. Tenderly they bore the weeping Herodys back to the castle and placed her on her couch, where she lay like one who has been dazed by some great sorrow.
+Silently the two maidens stole away to another part of the garden, and there they amused themselves for some time in merry talk and laughter. When they thought their lady must have roused from her slumber, they came back to the young tree, but were surprised to find her lying there and still soundly sleeping. They knew not what to do, for they could not be so bold as to wake their mistress, yet they thought it strange her sleep should be so lasting. Quietly they sat them down beside their lady and patiently waited for her eyes to open. But the sun mounted higher and higher, and passed over their heads at the noontide, and already was sinking to the western sky in the dusk of the evening, before the Lady Herodys stirred and gave signs of return to the land of the living. Suddenly her eyes flew open, and she started up in fear and trembling. She wrung her hands in grief, and cried aloud in pain and sorrow. More like one who had lost her reason she bore herself than like the gentle Herodys. Hastening to her side, the two maidens sought to comfort their lady, but Herodys paid no heed to them and seemed not to hear the words they spake to her. In terror and dismay at what had happened, the two maidens ran quickly to the castle for help, and soon they came back with a throng of anxious knights and ladies. Tenderly they bore the weeping Herodys back to the castle and placed her on her couch, where she lay like one who has been dazed by some great sorrow.
 
-When word of all this was carried to Sir Orfeo, he hastened with all speed to his lady’s bower, and great was his wonder and grief to see the sad change in her.
+When word of all this was carried to Sir Orfeo, he hastened with all speed to his lady's bower, and great was his wonder and grief to see the sad change in her.
 
-“Alas!” he said, “what hath gone amiss? Look up, dear wife, and tell me what this may mean. Art thou my gentle Herodys, and now dost lie so cold and still? Are these thine eyes that look upon me as though I were a stranger and thy foe? Take heart, dear wife, and tell me now the cause of all thy grief.”
+"Alas!" he said, "what hath gone amiss? Look up, dear wife, and tell me what this may mean. Art thou my gentle Herodys, and now dost lie so cold and still? Are these thine eyes that look upon me as though I were a stranger and thy foe? Take heart, dear wife, and tell me now the cause of all thy grief."
 
 At these and other kind words of Sir Orfeo, the Lady Herodys at length took courage, and soon she began to speak.
 
-“Sorrow has come upon us, Sir Orfeo,” said she. “This many a day hast thou cherished me, and as truly have I loved thee. But now no more may we think of that, for soon must we part in twain. This day the call has come to me.”
+"Sorrow has come upon us, Sir Orfeo," said she. "This many a day hast thou cherished me, and as truly have I loved thee. But now no more may we think of that, for soon must we part in twain. This day the call has come to me."
 
-“What words are these! ” exclaimed Sir Orfeo; “and why speakest thou so strangely? If thou must away from me, whither wilt thou go and to whom? But I know thou canst not mean it so, for wherever thou goest, far or near, there truly shall I go with thee.”
+"What words are these! " exclaimed Sir Orfeo; "and why speakest thou so strangely? If thou must away from me, whither wilt thou go and to whom? But I know thou canst not mean it so, for wherever thou goest, far or near, there truly shall I go with thee."
 
-“Nay,” answered Herodys, “that is even the heaviest of my sorrow, that now thou canst not go with me. Listen, and I will tell thee all how the summons has come to me. Even this day I have been called, and to-morrow in the morning I must away. For thus it was that this day as I lay and slept on the fresh green grass beneath one of my garden trees, behold two fair knights sud¬ denly appeared to me. Well arrayed they were in all good knightly gear, and courteous were their words when they spake to me and bade me come without delay to speak with their master the king. Then I answered these two knights boldly enough, and said that I neither could nor would come to speak with their stranger king. ,They paused not, but away they sped when I had thus spoken. Quickly they were back, and with them rode a band wonderful to see. Well-nigh a thousand of the fairest knights and ladies came trooping over the garden lawns, and among them came riding their king. On snow-white steeds all this band were seated, and white as the lily-flower were the shining garments that each one wore. A bright crown, gleamed on the head of the king, not made of silver or of gold, but all of precious stones that shone like the sun in the heavens when the sky is most clear.
+"Nay," answered Herodys, "that is even the heaviest of my sorrow, that now thou canst not go with me. Listen, and I will tell thee all how the summons has come to me. Even this day I have been called, and to-morrow in the morning I must away. For thus it was that this day as I lay and slept on the fresh green grass beneath one of my garden trees, behold two fair knights suddenly appeared to me. Well arrayed they were in all good knightly gear, and courteous were their words when they spake to me and bade me come without delay to speak with their master the king. Then I answered these two knights boldly enough, and said that I neither could nor would come to speak with their stranger king. They paused not, but away they sped when I had thus spoken. Quickly they were back, and with them rode a band wonderful to see. Well-nigh a thousand of the fairest knights and ladies came trooping over the garden lawns, and among them came riding their king. On snow-white steeds all this band were seated, and white as the lily-flower were the shining garments that each one wore. A bright crown, gleamed on the head of the king, not made of silver or of gold, but all of precious stones that shone like the sun in the heavens when the sky is most clear.
 
-“Light as thistle-down in the wind they rode, and when all this band of white-robed knights and ladies had reached the place where I lay beneath my garden tree, the king placed me beside him on his own milk-white steed. In the flashing of an eye we were off, the whole bright troop to¬ gether. The silver bells jingled in the wind and away we sped through forest and field, past river and brook, past mountain and mead, until at last we came to a strange land the like of which mortal eye hath never seen. In the center of the land there rose the wondrous palace of this king. With pinnacles and towers it shone, all built of the white marble stone, and about it spread green meadows and fields and fair gardens as far as eye could see. The flowers were springing and the birds were singing, and here, if anywhere, the days seemed happy and free.
+"Light as thistle-down in the wind they rode, and when all this band of white-robed knights and ladies had reached the place where I lay beneath my garden tree, the king placed me beside him on his own milk-white steed. In the flashing of an eye we were off, the whole bright troop together. The silver bells jingled in the wind and away we sped through forest and field, past river and brook, past mountain and mead, until at last we came to a strange land the like of which mortal eye hath never seen. In the center of the land there rose the wondrous palace of this king. With pinnacles and towers it shone, all built of the white marble stone, and about it spread green meadows and fields and fair gardens as far as eye could see. The flowers were springing and the birds were singing, and here, if anywhere, the days seemed happy and free.
 
-“Then this king showed me everything, his halls all spangled with crystal gems like the stars that shine in the night, and all his sweet meadows and gardens and fields, where countless number of his folk led their lives in pleasure and peace. Sud¬ denly he placed me again on his milk-white steed, and back from this land we sped, past vil¬ lage and town, past river and mountain, until he had brought me to my own garden here, and placed me again beneath my tree. ‘To-morrow I shall come for thee,’ were his last words to me, ‘and see that I find thee beneath thy tree. To the other-world thou must wend, and dwell forever in my land.’ With these words this king disap¬ peared, and all the white steeds and all the fair folk in their glistening garments who had ridden thither with him. Then I awoke, and grief was at my heart, for at last the call had come to me. To-morrow I must leave thee, and whither I go, thou canst not come.”
+"Then this king showed me everything, his halls all spangled with crystal gems like the stars that shine in the night, and all his sweet meadows and gardens and fields, where countless number of his folk led their lives in pleasure and peace. Suddenly he placed me again on his milk-white steed, and back from this land we sped, past village and town, past river and mountain, until he had brought me to my own garden here, and placed me again beneath my tree. 'To-morrow I shall come for thee,' were his last words to me, 'and see that I find thee beneath thy tree. To the other-world thou must wend, and dwell forever in my land.' With these words this king disappeared, and all the white steeds and all the fair folk in their glistening garments who had ridden thither with him. Then I awoke, and grief was at my heart, for at last the call had come to me. To-morrow I must leave thee, and whither I go, thou canst not come."
 
 When Sir Orfeo had heard all this strange story, he saw well that he had need of wise counsel.
 
-“Rather it had been my life,” said he, sorrow¬ fully, “than that the Lady Herodys should be borne away from me. Yet truly that shall not be done, if the might of my hand can aught avail.”
+"Rather it had been my life," said he, sorrowfully, "than that the Lady Herodys should be borne away from me. Yet truly that shall not be done, if the might of my hand can aught avail."
 
-Since he had not the wisdom of the other-world, Sir Orfeo was resolute to use all he had of this, and when the morrow was come, and the hour which the king had set for his tryst, then he took all his companions in arms—a hundred or more they were—and with swords in their hands and armor on their backs, they surrounded the Lady Herodys beneath her garden tree. Sadly the lady smiled, for well she knew that this was all in vain, and that by no such arts could the other-world king be prevented of his will. And then, while the knights stood waiting with swords in their hands for their enemy to appear, suddenly before their eyes, they knew not how, the lady was twitched away from them and was no more to be seen. The swords clashed on one another, or struck emptily at the thin air, but no foe was there for mortal hands to harm. Silently and wonderingly the knights gazed at each other. But the Lady Herodys was gone, and naught was there to do but lead the hapless Sir Orfeo back to his cas¬ tle halls, all desolate and empty now.
+Since he had not the wisdom of the other-world, Sir Orfeo was resolute to use all he had of this, and when the morrow was come, and the hour which the king had set for his tryst, then he took all his companions in arms—a hundred or more they were—and with swords in their hands and armor on their backs, they surrounded the Lady Herodys beneath her garden tree. Sadly the lady smiled, for well she knew that this was all in vain, and that by no such arts could the other-world king be prevented of his will. And then, while the knights stood waiting with swords in their hands for their enemy to appear, suddenly before their eyes, they knew not how, the lady was twitched away from them and was no more to be seen. The swords clashed on one another, or struck emptily at the thin air, but no foe was there for mortal hands to harm. Silently and wonderingly the knights gazed at each other. But the Lady Herodys was gone, and naught was there to do but lead the hapless Sir Orfeo back to his castle halls, all desolate and empty now.
 
-From this very hour when the Lady Herodys was borne away, a great change came over Sir Orfeo. All his days were now spent in revery and solitude. More and more he put his subjects and his lands and his cattle into the care of his faithful steward, and he himself withdrew apart from all men to the quiet rooms of his castle. All the cares and pastimes which of old had made his days so bright and stirring were now forgot¬ ten except one, and this one was the playing of the harp. To his harp alone Sir Orfeo told all the grief of his heart, and it was in his harp that he found his only relief from pain and sorrow.
+From this very hour when the Lady Herodys was borne away, a great change came over Sir Orfeo. All his days were now spent in revery and solitude. More and more he put his subjects and his lands and his cattle into the care of his faithful steward, and he himself withdrew apart from all men to the quiet rooms of his castle. All the cares and pastimes which of old had made his days so bright and stirring were now forgotten except one, and this one was the playing of the harp. To his harp alone Sir Orfeo told all the grief of his heart, and it was in his harp that he found his only relief from pain and sorrow.
 
 It happened at length that Sir Orfeo broke his silence, and calling all his people together, he told them what he was now minded to do.
 
-“Friends and companions,” said he to them, “I now appoint my steward here to rule in my stead. Obey him and serve him, if ye will show your love to me. And when, as time goes by, ye shall learn that Sir Orfeo no longer lives and moves upon this earth, then call ye a meeting of all my folk and choose from among yourselves one to be your ruler and prince. Now I must away. No longer shall I look upon the faces of my friends, but deep in the forest and far from the haunts of men I shall take up my dwelling-place. I have lost that which all this world cannot re¬ store, and from this day I renounce all that this world has yet to give.”
+"Friends and companions," said he to them, "I now appoint my steward here to rule in my stead. Obey him and serve him, if ye will show your love to me. And when, as time goes by, ye shall learn that Sir Orfeo no longer lives and moves upon this earth, then call ye a meeting of all my folk and choose from among yourselves one to be your ruler and prince. Now I must away. No longer shall I look upon the faces of my friends, but deep in the forest and far from the haunts of men I shall take up my dwelling-place. I have lost that which all this world cannot restore, and from this day I renounce all that this world has yet to give."
 
 With sorrow the people heard these words of their good prince, and all besought him to take comfort for his loss, and not to leave them for the hard and desolate life of the pathless forest. But Sir Orfeo was not to be turned from his will. He bade them all farewell, and with nothing but his harp in his hands and his cloak upon his shoulders, he set forth on his solitary way.
 
-A strange life was this that Sir Orfeo now led. He who had once been lord of a hundred knights, now wandered forth alone, as poor as the poorest hermit in the land. When the night came, he had naught to shelter him but the leaves and boughs of the forest. The rain and the sun of the heavens were free to beat upon him, and no shelter he knew from the winds, however boister¬ ous and blustering. No eager servers now set rich food before him in bright silver dishes, as in the old days in his castle, but with the labor of his hands he must search for roots and herbs and such other hard fare as the forest yields to answer the needs of the body.
+A strange life was this that Sir Orfeo now led. He who had once been lord of a hundred knights, now wandered forth alone, as poor as the poorest hermit in the land. When the night came, he had naught to shelter him but the leaves and boughs of the forest. The rain and the sun of the heavens were free to beat upon him, and no shelter he knew from the winds, however boisterous and blustering. No eager servers now set rich food before him in bright silver dishes, as in the old days in his castle, but with the labor of his hands he must search for roots and herbs and such other hard fare as the forest yields to answer the needs of the body.
 
-But all was not hardship for Sir Orfeo in the life of the forest. Now again his heart was quiet, and in the still afternoons, or when the night was clear and the stars were glittering in the black sky, then Sir Orfeo would take his harp and play on it. Not for the praise of men did he play, for men there were not in the forest to hear him. Sir Orfeo’s music was like the music of the breeze in the tall grass, and like the singing of many waters as they slip over the mossy rocks beneath the shadows of the trees. The very birds of the forest, unafraid, drew near to listen to his harp¬ ing, and the timorous creatures forgot their tremblings, and the wild beasts of ravin ceased to pursue their prey beneath the sway of the sweet harmony.
+But all was not hardship for Sir Orfeo in the life of the forest. Now again his heart was quiet, and in the still afternoons, or when the night was clear and the stars were glittering in the black sky, then Sir Orfeo would take his harp and play on it. Not for the praise of men did he play, for men there were not in the forest to hear him. Sir Orfeo's music was like the music of the breeze in the tall grass, and like the singing of many waters as they slip over the mossy rocks beneath the shadows of the trees. The very birds of the forest, unafraid, drew near to listen to his harping, and the timorous creatures forgot their tremblings, and the wild beasts of ravin ceased to pursue their prey beneath the sway of the sweet harmony.
 
-Thus many a long day Sir Orfeo dwelt, a lonely exile, in the depths of the silent and myste¬ rious forests. With his harp as his only compan¬ ion, he wandered here and wandered there, always thinking of his lost Herodys and hoping some day to find her. But very slowly were Sir Orfeo’s eyes opened, and for a long time never a trace did he meet with of her who had been taken from him. Only now and then, far down the dim aisles of the forest, he heard the faint sounds of elfin horns blowing, soft and echoing, and then he knew that the other-world king was hunting with his train in the forest. And once or twice it seemed to him that, through the tangled screen of thick leaves, he caught the shimmer of white steeds and of white-robed riders as they sped silently through the dusky forest, but so silently and swiftly that it was vain to seek to follow after them.
+Thus many a long day Sir Orfeo dwelt, a lonely exile, in the depths of the silent and mysterious forests. With his harp as his only companion, he wandered here and wandered there, always thinking of his lost Herodys and hoping some day to find her. But very slowly were Sir Orfeo's eyes opened, and for a long time never a trace did he meet with of her who had been taken from him. Only now and then, far down the dim aisles of the forest, he heard the faint sounds of elfin horns blowing, soft and echoing, and then he knew that the other-world king was hunting with his train in the forest. And once or twice it seemed to him that, through the tangled screen of thick leaves, he caught the shimmer of white steeds and of white-robed riders as they sped silently through the dusky forest, but so silently and swiftly that it was vain to seek to follow after them.
 
-But it chanced one twilight eve that fortune favored Sir Orfeo unexpectedly. For as he drew near the edge of the shadowy trees that circled a little round lawn in the center of the forest, be¬ hold, all at once he saw through the leaves the other-world king and all his band of followers. Hiding behind the trees, eagerly Sir Orfeo gazed at one after the other, seeking for the face of the one dearest to him. Then at last he beheld the Lady Herodys. With a cry he started forward, when all was suddenly changed. The spell was broken, and the king and his folk formed a circle about the Lady Herodys, so that Sir Orfeo no longer could see her. Like the little waves of the sea with the moonlight on them, the whole glistening band went dancing away down the dark lanes of the forest, with Sir Orfeo following after them.
+But it chanced one twilight eve that fortune favored Sir Orfeo unexpectedly. For as he drew near the edge of the shadowy trees that circled a little round lawn in the center of the forest, behold, all at once he saw through the leaves the other-world king and all his band of followers. Hiding behind the trees, eagerly Sir Orfeo gazed at one after the other, seeking for the face of the one dearest to him. Then at last he beheld the Lady Herodys. With a cry he started forward, when all was suddenly changed. The spell was broken, and the king and his folk formed a circle about the Lady Herodys, so that Sir Orfeo no longer could see her. Like the little waves of the sea with the moonlight on them, the whole glistening band went dancing away down the dark lanes of the forest, with Sir Orfeo following after them.
 
-“Not now shall ye escape me,” cried Sir Orfeo, “for with my life will I pay to know whither ye are wending!”
+"Not now shall ye escape me," cried Sir Orfeo, "for with my life will I pay to know whither ye are wending!"
 
-Over stock and stone they went, over hill and hollow, until at last, in the bright moonlight, Sir Orfeo saw the whole troop speed through a nar¬ row opening in a rock wall that rose up gray and forbidding. Well might a man pause before he risked his life in such a grim and gruesome region. But Sir Orfeo heeded not the rock cliffs, nor the dim caverns in the wall, such as fiery dragons seek out for their place of hiding, and boldly he hastened forward in quest of the bright throng which had passed in before him. Now when Sir Orfeo had almost lost strength and courage in the darkness of this rocky pass, at length the way became smoother and the light of the place less somber; and then, all at once, the grim walls broke off sheer and steep, and Sir Orfeo stepped forth on the soft turf of a level meadow. There no hill lifted its head, nor any dale was sunk in the level of the wide fields, but far as eye could reach, the smooth lawns spread abroad like a green ocean. Sun nor moon sent forth their light within that land, and yet it was always afternoon. There the winds of winter never blew harsh and keen, and the bitter sleet and hail never fell, nor was it ever too hot or too cold, but the summer skies were forever soft and serene.
+Over stock and stone they went, over hill and hollow, until at last, in the bright moonlight, Sir Orfeo saw the whole troop speed through a narrow opening in a rock wall that rose up gray and forbidding. Well might a man pause before he risked his life in such a grim and gruesome region. But Sir Orfeo heeded not the rock cliffs, nor the dim caverns in the wall, such as fiery dragons seek out for their place of hiding, and boldly he hastened forward in quest of the bright throng which had passed in before him. Now when Sir Orfeo had almost lost strength and courage in the darkness of this rocky pass, at length the way became smoother and the light of the place less somber; and then, all at once, the grim walls broke off sheer and steep, and Sir Orfeo stepped forth on the soft turf of a level meadow. There no hill lifted its head, nor any dale was sunk in the level of the wide fields, but far as eye could reach, the smooth lawns spread abroad like a green ocean. Sun nor moon sent forth their light within that land, and yet it was always afternoon. There the winds of winter never blew harsh and keen, and the bitter sleet and hail never fell, nor was it ever too hot or too cold, but the summer skies were forever soft and serene.
 
 A land of enchantment Sir Orfeo thought he had reached as he made his way over the smooth fields. Many a crystal brook he passed, with the silver fishes darting from pool to pool, and many a bird sang on branch and limb. The air was sweet with the scent of numberless blooms, and all manner of bright fruits hung heavily from the branches of the trees. On and on Sir Orfeo sped, and the farther he went, the greater his wonder grew. Here, he thought, one could never grow weary, and a year in this land seemed less than a minute of the day. Strangest of all he thought it that in this happy land naught but the birds and gentle creatures of the forest and field were to be seen.
 
-A country strangely abandoned by its people Sir Orfeo had almost concluded this to be, when all at once before him as he went he saw the walls of a fair castle rise. Bright and gleaming they were, for they were made of crystal of purest ray, all set in silver and gold, and the high towers and pinnacles, all quaintly carved, shone in the dear light like the vision of a dream. Within these castle walls Sir Orfeo heard the gay sound of revelry. There was music of the pipe and tabor, and from afar he heard the high strain of the minstrel’s song. Loudly Sir Orfeo knocked at the castle gate, and straightway all within became silent as death.
+A country strangely abandoned by its people Sir Orfeo had almost concluded this to be, when all at once before him as he went he saw the walls of a fair castle rise. Bright and gleaming they were, for they were made of crystal of purest ray, all set in silver and gold, and the high towers and pinnacles, all quaintly carved, shone in the dear light like the vision of a dream. Within these castle walls Sir Orfeo heard the gay sound of revelry. There was music of the pipe and tabor, and from afar he heard the high strain of the minstrel's song. Loudly Sir Orfeo knocked at the castle gate, and straightway all within became silent as death.
 
-“Who knocks so boldly at my gate?” the porter shouted from the other side.
+"Who knocks so boldly at my gate?" the porter shouted from the other side.
 
-“Here am I,” answered Sir Orfeo, “a poor minstrel come into thy land. Open thy gate and let me in, and^lmh my minstrel’s art I will pay thy courtesy.”
+"Here am I," answered Sir Orfeo, "a poor minstrel come into thy land. Open thy gate and let me in, and^lmh my minstrel's art I will pay thy courtesy."
 
-The bolts slid back, the door flew open, and Sir Orfeo gazed upon the scene within. Every¬ where he saw folk sitting, all still now and speech¬ less as the dead. They turned not nor stirred, but a deep spell held them in its sway. Here and there Sir Orfeo eagerly turned his gaze, and at last, with grief and joy, he beheld the end of all his quest. For there, beneath a young tree such as the unhappy one which had grown in his own castle garden, the Lady Herodys lay, fair as the day she was borne from his side. No bitter wind of winter had touched her bright face, nor had she known the wasting sorrow that had made Sir Orfeo so gaunt and gray. Time and change they knew not in this land, where all was as the king of the other-world willed.
+The bolts slid back, the door flew open, and Sir Orfeo gazed upon the scene within. Everywhere he saw folk sitting, all still now and speechless as the dead. They turned not nor stirred, but a deep spell held them in its sway. Here and there Sir Orfeo eagerly turned his gaze, and at last, with grief and joy, he beheld the end of all his quest. For there, beneath a young tree such as the unhappy one which had grown in his own castle garden, the Lady Herodys lay, fair as the day she was borne from his side. No bitter wind of winter had touched her bright face, nor had she known the wasting sorrow that had made Sir Orfeo so gaunt and gray. Time and change they knew not in this land, where all was as the king of the other-world willed.
 
-“Alas! ” said Sir Orfeo, “how shall I ever win my lady back? She speaks not, nor are her eyes turned to meet mine. Much I fear I have found her but to lose her again.”
+"Alas! " said Sir Orfeo, "how shall I ever win my lady back? She speaks not, nor are her eyes turned to meet mine. Much I fear I have found her but to lose her again."
 
-Little time had Sir Orfeo for such musings, for as he thought to turn toward the Lady Herodys, straightway many folk were at his side, and there among them stood the other-world king. Courte¬ ously Sir Orfeo bent his knee and begged the king to listen to his minstrelsy.
+Little time had Sir Orfeo for such musings, for as he thought to turn toward the Lady Herodys, straightway many folk were at his side, and there among them stood the other-world king. Courteously Sir Orfeo bent his knee and begged the king to listen to his minstrelsy.
 
-“What man art thou,” demanded the king, “that comest unbidden here? Never during the time I have ruled within this realm hath mortal man been so bold to come hither before I have sent for him.”
+"What man art thou," demanded the king, "that comest unbidden here? Never during the time I have ruled within this realm hath mortal man been so bold to come hither before I have sent for him."
 
-“Truly, Sir King,” in reply Sir Orfeo said, “it is the custom of such as I am to visit the dwellings of great men and kings, and there, with such art as we have, win a welcome for our coming.”
+"Truly, Sir King," in reply Sir Orfeo said, "it is the custom of such as I am to visit the dwellings of great men and kings, and there, with such art as we have, win a welcome for our coming."
 
-“If it be as thou sayest,” then said the king, “now sit thee down and see what welcome thou canst win here in this land of the blest.”
+"If it be as thou sayest," then said the king, "now sit thee down and see what welcome thou canst win here in this land of the blest."
 
 Without more words, Sir Orfeo sat him down and took his harp in his hands and began to play.
 
-He played all the songs he had learned in his lonely life in the wildwood, and he played the grief he had felt for the loss of the Lady Herodys —all that touches the heart of man he played be¬ fore the other-world king.
+He played all the songs he had learned in his lonely life in the wildwood, and he played the grief he had felt for the loss of the Lady Herodys —all that touches the heart of man he played before the other-world king.
 
-When Sir Orfeo had finished and had put down his harp, then the king stirred and spoke to him: “Welcome and thrice welcome art thou here, for human though thou art, thou hast magic in thy harp. Speak now, and ask whatever boon thou wilt have, for that will I give thee in pay for thy sweet harping.”
+When Sir Orfeo had finished and had put down his harp, then the king stirred and spoke to him: "Welcome and thrice welcome art thou here, for human though thou art, thou hast magic in thy harp. Speak now, and ask whatever boon thou wilt have, for that will I give thee in pay for thy sweet harping."
 
-“O! King,” cried Sir Orfeo, joyfully, “then give me that fair lady of mine that lieth so still be¬ neath yonder tree.”
+"O! King," cried Sir Orfeo, joyfully, "then give me that fair lady of mine that lieth so still beneath yonder tree."
 
-“Nay,” replied the king, “that truly were not a fair exchange. For look, her hue is soft and bright as a white swan’s wing, and thou art uncouthly rough, and hast a beard like a wild man of the wood. An ill deed it were to mate such loveliness with such an one as thou art.”
+"Nay," replied the king, "that truly were not a fair exchange. For look, her hue is soft and bright as a white swan's wing, and thou art uncouthly rough, and hast a beard like a wild man of the wood. An ill deed it were to mate such loveliness with such an one as thou art."
 
-“Truly hast thou said,” answered Sir Orfeo, “that I am rough of figure and of face, and all unworthy such a mate as I have asked of thee. But yet methinks it were an ill deed, too, for a king to make a promise, and afterward to fail in the keeping of it.”
+"Truly hast thou said," answered Sir Orfeo, "that I am rough of figure and of face, and all unworthy such a mate as I have asked of thee. But yet methinks it were an ill deed, too, for a king to make a promise, and afterward to fail in the keeping of it."
 
-“Now it is thou who hast spoken the truth! ” exclaimed the king. “Thou shalt have what thou desirest. Take back now thy chosen one to the land of men, for here I loose my power over her. Arise, fair Herodys, and live as this man lives.”
+"Now it is thou who hast spoken the truth! " exclaimed the king. "Thou shalt have what thou desirest. Take back now thy chosen one to the land of men, for here I loose my power over her. Arise, fair Herodys, and live as this man lives."
 
 With these words the king and his folk and the glistening palace all disappeared, but Sir Orfeo waited not to wonder what had become of them. He look the Lady Herodys by the hand, and quickly traced again the path he had followed into that land. He crossed the level fields so soft and green, and found at last the narrow way among the frowning cliffs. Down this they sped, hand in hand, and great was their joy when at its end they left the gruesome shadows at their backs and stepped forth into the light of the cheerful sun.
 
-Having won back the Lady Herodys, now again Sir Orfeo was ready to seek out his old friends, and with all speed they set out for the land of the Grecians. When they had reached the town in which his castle stood, Sir Orfeo took his dwell¬ ing in a humble man’s cot, and pretended to be what he seemed, a poor wandering minstrel just come into the land. From this humble cotter Sir Orfeo learned tidings of all that had befallen since the day the Lady Herodys had been borne away, and how in all things the steward had governed wisely and well the people and estates that had been intrusted to him.
+Having won back the Lady Herodys, now again Sir Orfeo was ready to seek out his old friends, and with all speed they set out for the land of the Grecians. When they had reached the town in which his castle stood, Sir Orfeo took his dwelling in a humble man's cot, and pretended to be what he seemed, a poor wandering minstrel just come into the land. From this humble cotter Sir Orfeo learned tidings of all that had befallen since the day the Lady Herodys had been borne away, and how in all things the steward had governed wisely and well the people and estates that had been intrusted to him.
 
-Now, the next day, Sir Orfeo thought he would test for himself the faithfulness of his good stew¬ ard. Dressed as a harper, he met the steward in the street and said:
+Now, the next day, Sir Orfeo thought he would test for himself the faithfulness of his good steward. Dressed as a harper, he met the steward in the street and said:
 
-“Have pity, I pray, on a minstrel old and poor; from a far country have I come, and great is my need.”
+"Have pity, I pray, on a minstrel old and poor; from a far country have I come, and great is my need."
 
-“Come thou home with me,” the steward straightway replied. “Never a minstrel shall ask in vain for help in this land. For the love of Sir Orfeo, the best of harpers this world has ever seen, a right good welcome shall all minstrels have of me.”
+"Come thou home with me," the steward straightway replied. "Never a minstrel shall ask in vain for help in this land. For the love of Sir Orfeo, the best of harpers this world has ever seen, a right good welcome shall all minstrels have of me."
 
 Then the steward took Sir Orfeo into his hall, and they sat down to meat, and there was mirth and comfort for all.
 
 After the dinner was over, Sir Orfeo took up his harp and began to play. No such playing had ever been heard in that hall before, and all were filled with wonder at the music. But then the steward looked more closely, and soon he saw that this was the very harp his master used to play.
 
-“Now tell me, minstrel,” he cried aloud, “how hast thou come by the harp thou usest so well?”
+"Now tell me, minstrel," he cried aloud, "how hast thou come by the harp thou usest so well?"
 
-“This harp I found in a forest dale,” the minstrel said; “I picked it up where it lay beside a perished man, and since that day methinks a full ten years has passed by.”
+"This harp I found in a forest dale," the minstrel said; "I picked it up where it lay beside a perished man, and since that day methinks a full ten years has passed by."
 
-“Alas, alas!” the steward cried. “That can have been none other than our good prince Sir Orfeo.”
+"Alas, alas!" the steward cried. "That can have been none other than our good prince Sir Orfeo."
 
-When Sir Orfeo saw the grief of the steward and understood how faithful he had been in all his trust, he started up and told him who he was, and how he had brought the Lady Herodys back with him, and that now never would he leave his people masterless again. The news of all this quickly spread abroad, and with great joy the people thronged about, and soon in stately pro¬ cession they set out for the humble cot and brought back the Lady Herodys within the castle walls. And here, again surrounded by their faithful fol¬ lowers and their long-tried and loyal friends, Sir Orfeo and the Lady Herodys took up the thread of their old life, and many happy years they lived together. Many, too, were the strange adventures they encountered in the course of their days, but of all the marvels that they met with, none was more wonderful than this—that once, by the power of his music, Sir Orfeo won his way to the kingdom of the other-world, and from that mysterious realm brought back the Lady Herodys to the land of the living.
+When Sir Orfeo saw the grief of the steward and understood how faithful he had been in all his trust, he started up and told him who he was, and how he had brought the Lady Herodys back with him, and that now never would he leave his people masterless again. The news of all this quickly spread abroad, and with great joy the people thronged about, and soon in stately procession they set out for the humble cot and brought back the Lady Herodys within the castle walls. And here, again surrounded by their faithful followers and their long-tried and loyal friends, Sir Orfeo and the Lady Herodys took up the thread of their old life, and many happy years they lived together. Many, too, were the strange adventures they encountered in the course of their days, but of all the marvels that they met with, none was more wonderful than this—that once, by the power of his music, Sir Orfeo won his way to the kingdom of the other-world, and from that mysterious realm brought back the Lady Herodys to the land of the living.
 
 
 
@@ -326,7 +326,6 @@ Then thou shalt go with us and be
 For aye with us in fairy land;  
 And if thou failest, woe to thee,  
 For thou shalt feel the fairies' hand ! '
-
 
 " ' Where'er thou art thy limbs shall fail,  
 No man shalt thou find piteous;  
@@ -827,49 +826,65 @@ p141-160, notes p.174-6
 
 SIR ORFEO1
 
-Orfeo was a king,
+Orfeo was a king,  
+In Inglond an heighe lording,  
+A stalworth man and hardi bo, `[both]`  
+Large and curteys, he was al so ;  
+His fader was comen of king Pluto,  
+And his moder of king Juno,  
+That sum time were as godes y hold,  
+For aventours that thai dede and told.  
+This king sojurned in Traciens,  
+That was a cite of noble defens,  
+For Winchester was cleped `[called]` tho  
+Traciens, with outen no.  
+The king hadde a quen of priis,  
+That was y cleped dame Herodis.  
+The fairest levedi `[lady]` for the nones `[time]`  
+That might gon on bodi and bones,  
+Ful of love and godenisse  
+Ac no man may telle hir fairnise.  
 
-In Inglond an heighe lording,
+Bifel so in the comessing of May,  
+When miri and hot is the day,  
+And oway beth winter schours,  
+And everi feld is ful of flours,  
+And blosme breme `[bright, vigorous]` on everi bough,  
+Over al wexeth miri anough,  
+This ich `[same]` quen dame Heurodis,  
+Tok to maidens of priis,  
+And went in an undren tide `[forenoon]`  
+To play bi an orchard side  
+To se the floures sprede and spring,  
+And to here the foules sing :  
+Thai sett hem doun al thre,  
+Under a fair ympe `[grafted]` tre,  
+And wel sone this fair quene,  
+Fel on slepe opon the grene.  
+The maidens durst hir nought awake,  
+Bot let hir ligge and rest take,  
+So sche slepe til after none,  
+That under tide was al y done ;  
+Ac as sone as sche gan awake,  
+Sche crid and lothli bere gan make ;  
+Sche froted `[rubbed, wrung]` hir honden and hir fet,  
+And crached her visage, it blede wete,  
+Hir riche robe hye al to rett, `[rent]`  
+And was reneyd `[removed]` out of hir witt.  
+The two maidens hir biside  
+No durst with hir no leng abide,  
+But ourn `[ran]` to the palays ful right,  
+And told bothe squier and knight,  
+That her quen awede `[away]` wold,
+And bad hem go and hir at hold.  
+Knightes urn, `[ran]` and levedis al so,  
+Damisels sexti and mo,  
+In the orchard to the quen hye come,  
+And her up in her armes nome, `[took]`
 
-A stalworth man and hardi bo,2
 
-Large and curteys, he was al so ;
 
-His fader was comen of king Pluto,
 
-And his moder of king Juno,
-
-That sum time were as godes y hold,
-
-For aventours that thai dede and told.
-
-This king sojurned in Traciens,
-
-That was a cite of noble defens,
-
-For Winchester was cleped 3 tho
-
-Traciens, with outen no.
-
-The king hadde a quen of priis,
-
-That was y cleped dame Herodis.
-
-The fairest levedi 4 for the nones 5
-
-That might gon on bodi and bones,
-
-Ful of love and godenisse
-
-Ac no man may telle hir fairnise.
-
-Bifel so in the comessing of May, When miri and hot is the day, And oway beth winter schours, And everi feld is ful of flours, And blosme breme 6 on everi bough, Over al wexeth miri anough, This ich 7 quen dame Heurodis,
-
-1 See Notes. 3 called. 6 time. " same.
-
-2 both. 4 lady. 8 bright, vigorous.
-
-....
 
 NOTES
 
