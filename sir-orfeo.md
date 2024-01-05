@@ -875,14 +875,71 @@ The two maidens hir biside
 No durst with hir no leng abide,  
 But ourn `[ran]` to the palays ful right,  
 And told bothe squier and knight,  
-That her quen awede `[away]` wold,
+That her quen awede `[away]` wold,  v
 And bad hem go and hir at hold.  
 Knightes urn, `[ran]` and levedis al so,  
 Damisels sexti and mo,  
 In the orchard to the quen hye come,  
 And her up in her armes nome, `[took]`
-
-
+And brought hir to bed attelast,  
+And held hir there fine fast ;  
+Ac ever sche held in o cri  
+And wold up and owy.  
+When Orfeo herd that tiding  
+Never him nas wers for no thing ;  
+He come with knightes tene  
+To chaumber right bifor the quene,  
+And biheld and seyd with grete pite :  
+O lef `[dear]` liif, what is te, `[thee]`  
+That ever yete hast ben so stille,  
+And now gredest `[criest]` wonder schille `[shrill]` ;  
+Thi bodi, that was so white y core, `[before]`  
+With thine nailes is al to tore,  
+Alias ! thi rode, `[complexion]` that was so red,  
+Is al wan as thou were ded ;  
+And also thine fingres smale,  
+Beth al blodi and al pale ;  
+Alias ! thi lovesum eyghen `[eyes]` to  
+Loketh so man doth on his fo ;  
+A dame, Ich biseche merci,  
+Let ben al this reweful cri,  
+And tel me what the is, and hou,  
+And what thing may the help now ?  
+Tho lay sche stille attelast,  
+And gan to wepe swithe `[very]` fast,  
+And seyd thus the king to :  
+Alias ! mi lord, sir Orfeo,  
+Seththen `[since]` we first to gider were,  
+Ones wroth never we nere,  
+Bot ever Ich have y loved the  
+As mi liif, and so thou me,  
+Ac now we mot `[must]` delen ato,  
+Do thi best, for y mot go.  
+Alias ! quath he, forlorn Ich am,  
+Whider wiltow go and to wham ?  
+Whider thou gost Ichil with the,  
+And whider Y go thou schalt with me.  
+Nay, nay, sir, that nought nis,  
+Ichil the telle al how it is :  
+As Ich lay this under tide,  
+And slepe under our orchard side,  
+Ther come to me to fair knightes  
+Wele y armed al to rightes,  
+And bad me comen an heighing, `[directly]`  
+And speke with her lord the king ;  
+And Ich answerd at wordes bold,  
+Y durst nought, no y nold.  
+Thai priked oghain `[again]` as thai might drive,  
+Tho com her king also blive,  
+With an hundred knightes and mo,  
+And damissels an hundred al so ;  
+Al on snowe white stedes,  
+As white as milke were her wedes,  
+Y no seighe never yete bifore  
+So fair creatours y core !  
+The king hadde a croun on hed,  
+It nas of silver, no of gold red,  
+Ac it was of a precious ston ;  
 
 
 
