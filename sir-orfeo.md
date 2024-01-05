@@ -1030,7 +1030,7 @@ Went so poverlich out of toun.
 Thurch wode, and over heth,  
 Into the wildernes he geth,  
 Nothing he fint that him is ays, `[ease]`  
-Bot ever he liveth in gret malais `[discomfort]` ;
+Bot ever he liveth in gret malais `[discomfort]` ;  
 He that hadde y werd the fowe `[fur (variegated)]` and griis, `[fur (gray)]`  
 And on bed the purper biis, `[linen]`  
 Now on hard hethe he lith,  
