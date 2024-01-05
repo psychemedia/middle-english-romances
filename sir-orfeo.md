@@ -824,7 +824,7 @@ Publication date [c1913]
 
 p141-160, notes p.174-6
 
-SIR ORFEO1
+SIR ORFEO
 
 Orfeo was a king,  
 In Inglond an heighe lording,  
