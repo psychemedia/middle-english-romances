@@ -958,7 +958,7 @@ Right here under this ympe tre ;
 And than thou schalt with ous go  
 And live with ous ever mo,  
 And yif thou makest ous y let,  
-Where thou be, thou worst y f et `[taken]`  
+Where thou be, thou worst y fet `[taken]`  
 And to tore thine limes al,  
 That nothing help the no schal,  
 And thei thou best so to torn  
