@@ -875,12 +875,12 @@ The two maidens hir biside
 No durst with hir no leng abide,  
 But ourn `[ran]` to the palays ful right,  
 And told bothe squier and knight,  
-That her quen awede `[away]` wold,  v
+That her quen awede `[away]` wold,  
 And bad hem go and hir at hold.  
 Knightes urn, `[ran]` and levedis al so,  
 Damisels sexti and mo,  
 In the orchard to the quen hye come,  
-And her up in her armes nome, `[took]`
+And her up in her armes nome, `[took]`  
 And brought hir to bed attelast,  
 And held hir there fine fast ;  
 Ac ever sche held in o cri  
@@ -940,6 +940,39 @@ So fair creatours y core !
 The king hadde a croun on hed,  
 It nas of silver, no of gold red,  
 Ac it was of a precious ston ;  
+As bright as the sonne it schon :  
+And as son as he to me cam,  
+Wold Ich, nold Ich, he me nam,  
+And made me with him ride,  
+Opon a palfray bi his side,  
+And brought me to his pallays,  
+Wele atird in ich ways ;  
+And schewed me castels and tours,  
+Rivers, forestes, frith `[forest]` with flours ;  
+And his riche stedes `[places]` ichon,  
+And seththen me brought oghain horn,  
+In to our owhen orchard,  
+And said to me after ward :  
+Loke dame, to morwe thatow be  
+Right here under this ympe tre ;  
+And than thou schalt with ous go  
+And live with ous ever mo,  
+And yif thou makest ous y let,  
+Where thou be, thou worst y f et `[taken]`  
+And to tore thine limes al,  
+That nothing help the no schal,  
+And thei thou best so to torn  
+Yete thou worst with ous y born.
+
+When king Orfeo herd this cas,  
+Owe! `[woe]` quath he, alias ! alias !  
+Lever me were to lete `[lose]` mi liif ,  
+Than thus to lese the quen mi wiif,  
+He asked conseyl at ich man,  
+Ac no man him help no can.  
+A morwe the under tide is come  
+
+
 
 
 
