@@ -1096,9 +1096,159 @@ Tabours and trimpes yede him bi,
 And al maner menstraci.
 
 
-And on a day he seighe him biside Sexti levdis on hors ride, Gentil and jolif, as brid on ris 1 ; Nought o man amonges hem ther nis ; And ich a faucoun on hond bere, And riden on haukin bi o rivere, Of game thai founde wel gode haunt, Maulardes, hayroun, and cormeraunt ; The foules of the water ariseth, The faucouns hem wele deviseth, Ich faucoun his pray slough : That seighe Orfeo, and lough. Par fay, quath he, ther is fair game ! Thider Ichil bi Godes name, Ich was y won 2 swiche werk to se. He aros, and thider gan te ; To a levedi he was y come, Biheld, and hath wele under nome, And seth, bi al thing, that it is His owhen quen dam Heurodis. Yern he biheld hir, and sche him eke, Ac noither to other a word no speke : For messais that sche on him seighe, That had ben so riche and so heighe, The teres fel out of her eighe ; The other levedis this y seighe, And maked hir oway to ride,
+And on a day he seighe him biside  
+Sexti levdis on hors ride,  
+Gentil and jolif, as brid on ris `[branch]` ;  
+Nought o man amonges hem ther nis ;  
+And ich a faucoun on hond bere,  
+And riden on haukin bi o rivere,  
+Of game thai founde wel gode haunt,  
+Maulardes, hayroun, and cormeraunt ;  
+The foules of the water ariseth,  
+The faucouns hem wele deviseth,  
+Ich faucoun his pray slough :  
+That seighe Orfeo, and lough.  
+Par fay, quath he, ther is fair game !  
+Thider Ichil bi Godes name,  
+Ich was y won `[accustomed]` swiche werk to se.  
+He aros, and thider gan te ;  
+To a levedi he was y come,  
+Biheld, and hath wele under nome,  
+And seth, bi al thing, that it is  
+His owhen quen dam Heurodis.  
+Yern he biheld hir, and sche him eke,  
+Ac noither to other a word no speke :  
+For messais that sche on him seighe,  
+That had ben so riche and so heighe,  
+The teres fel out of her eighe ;  
+The other levedis this y seighe,  
+And maked hir oway to ride,
+Sche most with him no lenger abide.
 
-1 branch. 2 accustomed.
+Alias ! quath he, now me is wo !  
+Whi nil deth now me slo,  
+Alias ! wroche, that Y no might  
+Dye now, after this sight !  
+Alias ! to long last mi liif  
+When Y no dar nought with mi wiif,  
+No hye to me, o word speke,  
+Alias ! whi nil min hert breke !  
+Parfay, quath he, tide what bitide,  
+Whider so this levedis ride,  
+The selve way Ichil streche,  
+Of liif, no deth, me no reche.  
+His sclavin he dede on, all so spac, `[speedily (?)]`  
+And henge his harp upon his bac,  
+And had wel gode will to gon ;  
+He no spard noither stub no ston.  
+In at a roche the levedis rideth,  
+And he after, and nought abideth ;  
+When he was in the roche y go,  
+Wele thre mile, other mo,  
+He com in to a fair cuntray,  
+As bright so sonne on somers day,  
+Smothe, and plain, and al grene ;  
+Hille, no dale nas ther non y sene ;  
+Amidde the lond a castel he sighe,  
+Riche, and real, `[royal]` and wonder heighe ;  
+Al the ut mast wal,  
+Was cler and schine as cristal ;  
+And hundred tours ther were about,  
+Degiselich `[grandly]` and bataild stout ;  
+The butras com out of the diche,  
+Of rede gold y arched riche,  
+The bonsour `[front]` was avowed `[adorned]` al,  
+Of ich maner divers animal ;  
+With in ther wer wide wones, `[dwellings]`  
+Al of precious stones,  
+The werst piler on to biholde,  
+Was al of burnist gold ;  
+Al that lond was ever light,  
+For when it schuld be therk `[dark(?)]` and night,  
+The riche stones `[sapphires are mentioned in one version]` light gonne,  
+As bright as doth at none the sonne,  
+No man may telle, no thenche in thought,  
+The riche werk that ther was wrought,  
+Bi al thing, him think that it is  
+The proude court of paradis.  
+In this castel the levedis alight,  
+He wold in after, yif he might.
+
+Orfeo knokketh atte gate,  
+The porter was redi ther ate,  
+And asked, what he wold have y do.  
+ Parfay, quath he,  
+ Icham a minstrel lo,  
+ To solas thi lord with my gle,  
+ Yif his swete wille be.  
+ The porter undede the gate anon,  
+ And lete him in to the castel gon.
+
+Than he gan bihold about al,  
+And seighe full liggeand `[lying]` with in the wal,
+Of folk that were thider y brought,
+And thought dede and nare nought :  
+Sum stode with outen hade `[head]` ;  
+And sum on armes nade ; `[had no arms]`  
+And sum thurch the bodi hadde wounde ;  
+And sum lay wode `[mad]` y bounde ;  
+And sum armed on hors sete ;  
+And sum astrangled as thai ete ;  
+And sum were in water adreynt `[drowned]` ;  
+And sum with fire al for schreynt `[withered]` ;  
+Wives ther lay on child bedde ;  
+Sum ded, and sum awedde `[mad(?)]` ;  
+And wonder fele ther lay bisides,  
+Right as thai slepe her under tides ;  
+Eche was thus in this warld y nome,  
+With fairi thider y come.  
+Ther he seighe his owhen wiif,  
+Dame Heurodis his liif liif  
+Slepe under an ympe tre ;  
+Bi her clothes he knewe that it was he.
+
+And when he hadde bihold this mervails alle,  
+He went in to the kinges halle ;  
+Then seighe he ther a semly sight,  
+A tabernacle blisseful and bright  
+Ther in her maister king sete,  
+And her quen fair and swete ;  
+Her crounes, her clothes, schine so bright,  
+That unnethe bihold he hem might.  
+When he hadde biholden al that thing,  
+He kneled adoun bifor the king ;
+O Lord, he seyd, yif it thi wille were,  
+Mi menstraci thou schust y here.  
+The king answerd, what man artow,  
+That art hider y comen now ?  
+Ich, no non that is with me,  
+No sent never after the.  
+Seththen that ich here regni gan,
+Y no fond never so fole hardi man  
+That hider to ous durst wende, 
+Bot that Ichim walde of sende.  
+Lord, quath he, trowe ful wel,
+Y nam bot a pover menstrel,  
+And, sir, it is the maner of us,  
+To seche mani a lordes hous,  
+Thei we nought welcom no be,  
+Yete we mot proferi forth our gle.
+
+Bifor the king he sat adoun  
+And tok his harp so miri of soun,  
+And tempreth his harp as he wel can,  
+And blisseful notes he ther gan,  
+That al that in the paleys were,  
+Com to him for to here,  
+And liggeth adoun to his fete,  
+Hem thenketh his melody so swete.  
+The king herkneth, and sitt ful stille,  
+To here his gle he hath gode wille.  
+Gode bourde `[sport]` he hadde of his gle,  
+The riche quen al so hadde he.  
+When he hadde stint `[ceased]` his harping, 
+Than seyd to him the king,
+
 
 
 NOTES
