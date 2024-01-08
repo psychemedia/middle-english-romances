@@ -1,6 +1,7 @@
 # middle-english-romances
 Some fantastic tales, orginally presented as metrical poems...
 
+
 Dictionary:
 https://archive.org/details/middleenglishdic00stra/
 A Middle English dictionary, containing words used by English writers from the twelfth to the fifteenth century
@@ -48,6 +49,10 @@ It may be too, that the recitation of these and similar productions, was accompa
 
 ---
 
+Also -  Bible tales / Biblical stories https://archive.org/details/legendsoldtesta01barigoog/ 
+Legends of Old Testament Characters: From the Talmud and Other Sources
+by Sabine Baring-Gould
+Publication date 1871
 
 
 ---
