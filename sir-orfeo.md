@@ -1185,8 +1185,8 @@ And asked, what he wold have y do.
  And lete him in to the castel gon.
 
 Than he gan bihold about al,  
-And seighe full liggeand `[lying]` with in the wal,
-Of folk that were thider y brought,
+And seighe full liggeand `[lying]` with in the wal,  
+Of folk that were thider y brought,  
 And thought dede and nare nought :  
 Sum stode with outen hade `[head]` ;  
 And sum on armes nade ; `[had no arms]`  
@@ -1216,18 +1216,18 @@ And her quen fair and swete ;
 Her crounes, her clothes, schine so bright,  
 That unnethe bihold he hem might.  
 When he hadde biholden al that thing,  
-He kneled adoun bifor the king ;
+He kneled adoun bifor the king ;  
 O Lord, he seyd, yif it thi wille were,  
 Mi menstraci thou schust y here.  
 The king answerd, what man artow,  
 That art hider y comen now ?  
 Ich, no non that is with me,  
 No sent never after the.  
-Seththen that ich here regni gan,
+Seththen that ich here regni gan,  
 Y no fond never so fole hardi man  
-That hider to ous durst wende, 
+That hider to ous durst wende,  
 Bot that Ichim walde of sende.  
-Lord, quath he, trowe ful wel,
+Lord, quath he, trowe ful wel,  
 Y nam bot a pover menstrel,  
 And, sir, it is the maner of us,  
 To seche mani a lordes hous,  
@@ -1246,7 +1246,7 @@ The king herkneth, and sitt ful stille,
 To here his gle he hath gode wille.  
 Gode bourde `[sport]` he hadde of his gle,  
 The riche quen al so hadde he.  
-When he hadde stint `[ceased]` his harping, 
+When he hadde stint `[ceased]` his harping,  
 Than seyd to him the king,
 
 
