@@ -1122,7 +1122,7 @@ For messais that sche on him seighe,
 That had ben so riche and so heighe,  
 The teres fel out of her eighe ;  
 The other levedis this y seighe,  
-And maked hir oway to ride,
+And maked hir oway to ride,  
 Sche most with him no lenger abide.
 
 Alias ! quath he, now me is wo !  
@@ -1247,7 +1247,7 @@ To here his gle he hath gode wille.
 Gode bourde `[sport]` he hadde of his gle,  
 The riche quen al so hadde he.  
 When he hadde stint `[ceased]` his harping,  
-Than seyd to him the king,
+Than seyd to him the king,  
 Menstrel, me liketh wele thi gle,  
 Now aske of me what it be, Largelich Ichil the pay,  
 Now speke, and tow might asay.  
@@ -1276,7 +1276,7 @@ His wiif he tok bi the hond
 And dede him swithe `[quickly]` out of that lond ;  
 And went him out of that thede, `[people, land]`  
 Right as he came the way he yede. `[went]`  
-So long he hath the way y nome,
+So long he hath the way y nome,  
 To Winchester he is y come,  
 That was his owhen cite,  
 Ac no man knewe that it was he,  
@@ -1307,7 +1307,7 @@ Erls, and barouns bold,
 Burjays, and levedis, him gun bi hold ;  
 Lo ! thai seyd, swiche a man,  
 Hou long the here hongeth him opan !  
-Lo ! hou his berd hongeth to his kne,
+Lo ! hou his berd hongeth to his kne,  
 He is y clongen `[withered]` al so a tre.  
 And as he yede in the strete,  
 With his steward he gan mete,  
@@ -1339,8 +1339,7 @@ Ypray that thou me telle now.
 
 Lord, quath he, in uncouthe thede,  
 Thurch a wildernes as Y yede ;  
-Ther Y founde in a dale,
-With lyouns a man to torn smale,
+Ther Y founde in a dale,  
 With lyouns a man to torn smale,  
 And wolves him frete `[ate]` with teth so scharp ;  
 Bi him Y found this ich harp,  
