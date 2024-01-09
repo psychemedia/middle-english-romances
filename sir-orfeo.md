@@ -1248,8 +1248,167 @@ Gode bourde `[sport]` he hadde of his gle,
 The riche quen al so hadde he.  
 When he hadde stint `[ceased]` his harping,  
 Than seyd to him the king,
+Menstrel, me liketh wele thi gle,  
+Now aske of me what it be, Largelich Ichil the pay,  
+Now speke, and tow might asay.  
+Sir, he seyd, Ich beseche the,  
+Thatow woldest give me,  
+That ich levedi bright on ble, `[hue]`  
+That slepeth under the ympe tre.  
+Nay, quath the king, that nought nere,  
+A sori couple of you it were,  
+For thou art lene, rowe, and blac,  
+And sche is lovesome with outen lac ;  
+A lothlich thing it were forthi, `[therefore]`  
+To sen hir in thi compayni.
 
+O sir, he seyd, gentil king,  
+Yete were it a wele fouler thing  
+To here a lesing `[lie]` of thy mouthe,  
+So, sir, as ye seyd nouthe, `[just now]`  
+What Ich wold aski have Y schold ;  
+And nedes thou most thi word hold.  
+The king seyd, seththen it is so,  
+Take hir bi the hand, and go ;  
+Of hir Ichil thatow be blithe.  
+He kneled adoun, and thonked him swithe. `[warmly]`  
+His wiif he tok bi the hond  
+And dede him swithe `[quickly]` out of that lond ;  
+And went him out of that thede, `[people, land]`  
+Right as he came the way he yede. `[went]`  
+So long he hath the way y nome,
+To Winchester he is y come,  
+That was his owhen cite,  
+Ac no man knewe that it was he,  
+No forther than the tounes ende,  
+For knoweleche no durst wende,  
+Bot with a begger y bilt ful narwe,  
+Ther he tok his herbarwe, `[harbor]`  
+To him, and to his owhen wiif,  
+As a minstrel of pover liif,  
+And asked tidings of that lond,  
+And who the kingdom held in hond.  
+The pover begger, in his cote, `[cottage]`  
+Told him everich a grot `[bit]`  
+How her quen was stole owy,  
+Ten yer gon with fairy,  
+And how her king en exile yede,  
+Bot no man niste in wiche thede,  
+And how the steward the lond gan hold,  
+And other mani thinges him told.
 
+A morwe ogain none tide  
+He maked his wiif ther abide,  
+The beggers clothes he borwed anon,  
+And heng his harp his rigg `[back]` opon,  
+And went him in to that cite,  
+That men might him bi hold and se.  
+Erls, and barouns bold,  
+Burjays, and levedis, him gun bi hold ;  
+Lo ! thai seyd, swiche a man,  
+Hou long the here hongeth him opan !  
+Lo ! hou his berd hongeth to his kne,
+He is y clongen `[withered]` al so a tre.  
+And as he yede in the strete,  
+With his steward he gan mete,  
+And loude he sett on him a crie,  
+Sir steward, he seyd, merci,  
+Icham an harpour of hethenisse,  
+Helpe me now in this distresse !  
+The steward seyd, com with me, come,  
+Of that Ichave thou schalt have some ;  
+Everich gode harpour is welcom me to,  
+For mi lordes love, sir Orfeo.
+
+In the castel the steward sat atte mete,  
+And mani lording was bi him sete ;  
+There were trompour and tabourers,  
+Harpours fele, and crouders, `[players on the crowd, a kind of violin]`  
+Miche melody thai maked alle,  
+And Orfeo sat stille in the halle,  
+And herkneth when thai ben al stille,  
+He toke his harp and tempred schille,  
+The blifulest notes he herped there,  
+That ever ani man y herd with ere,  
+Ich man liked wel his gle.  
+The steward biheld and gan y se,  
+And knewe the harp als blive ;  
+Menstrel, he seyd, so mot thou thrive,  
+Where hadestow this harp, and hou ?  
+Ypray that thou me telle now.
+
+Lord, quath he, in uncouthe thede,  
+Thurch a wildernes as Y yede ;  
+Ther Y founde in a dale,
+With lyouns a man to torn smale,
+With lyouns a man to torn smale,  
+And wolves him frete `[ate]` with teth so scharp ;  
+Bi him Y found this ich harp,  
+Wele ten yere it is y go.  
+O ! quath the steward, now me is wo !  
+That was mi lord, sir Orfeo !  
+Alias ! wreche what schall Y do,  
+That have swiche a lord y lore, `[lost]`  
+A way, that Ich was y bore,  
+That him was so hard grace y yarked, `[given]`  
+And so vile deth y marked !  
+Adoun he fel aswon to grounde,  
+His barouns him tok up in that stounde, `[hour]`  
+And telleth him hou it geth,  
+It is no bot `[remedy]` of mannes deth.  
+King Orfeo knewe wel bi than,  
+His steward was a trewe man,  
+And loved him as he aught to do,  
+And stont up, and seyt thus lo,  
+Steward, herkne now this thing,  
+Yif Ich were Orfeo the king,  
+And hadde y suffred ful yore,  
+In wildernisse miche sore ;  
+And hadde y won mi quen owy,  
+Out of the lond of fairy ;  
+And hadde y brought the levedi hende, `[gracious]`  
+Right here to the tounes ende,  
+And with a begger her in `[inn]` y nome,  
+And were mi self hider y come,  
+Poverlich to the thus stille, 
+For to asay thi gode wille ;  
+And Ich founde the thus trewe,  
+Thou no schust it never rewe,  
+Sikerlich for love, or ay, `[awe]`  
+Thou schust be king after mi day,  
+And yif thou of my deth hadest ben blithe,  
+Thou schust have voided al so swithe.  
+
+Tho al tho that ther in sete,  
+That it was king Orfeo under gete, `[understood]`  
+And the steward him wele knewe,  
+Over and over the bord `[table]` he threwe,  
+And fel adoun to his fet ;  
+So dede everich lord that ther sete,  
+And al thai sayd at o criing,  
+Ye beth our lord, sir, and our king.  
+Glad thai were of his live,  
+To chaumber thai ladde him als bilive, `[quickly]`  
+And bathed him and schaved his berd,  
+And tired him as a king apert `[indeed]` ;  
+And seththen with gret processioun,  
+Thai brought the quen in to the toun,  
+With al maner menstraci ;  
+Lord, ther was grete melody !  
+For joie thai wepe with her eighe ;  
+That hem so sounde y comen seighe.  
+Now king Orfeo newe coround is,  
+And his quen dame Heurodis ;  
+And lived long afterward ;  
+And seththen was king the steward.  
+Harpours in Bretaine after than  
+Herd hou this mervaile bigan,  
+And made her of a lay of gode likeing,  
+And nempned `[named]` it after the king.  
+That lay Orfeo is y hote `[called]` ;  
+Gode is the lay, swete is the note.  
+Thus com sir Orfeo out of his care ;  
+God graunt ous alle wele to fare ! Amen.
 
 NOTES
 
