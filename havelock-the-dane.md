@@ -1,11 +1,241 @@
 # Havelock the Dane
 
-A tale with a forked start, two independent, yet complementary, strands that come together at the end. In part an onomastic tale, we also hear how Grimsby came to be named.
+A tale with a forked start, two independent, yet complementary, strands that come together at the end. The story can start either in England, or in Denmark. There are also opportunities for diffferently slicing and interweaving the English and Danish parts at the start of the tale. The story is also, in part, an onomastic tale, telling of how Grimsby came to be named.
 
 https://archive.org/details/ancientenglishro00roxbrich/page/2/mode/2up
 The Ancient English romance of Havelock the Dane : accompanied by the French text
 by Roxburghe Club; Madden, Frederic, 1801-1873; Littledale, Edward
 Publication date 1828
+
+
+---
+https://archive.org/details/wonderbookofoldr00dartiala/page/400/mode/2up
+
+INCLUDES IMAGES
+
+A wonder book of old romance
+by Darton, F. J. Harvey (Frederick Joseph Harvey); Walker, A. G
+
+Publication date 1907, 1925 printing
+
+pp401-423
+
+Havelok the Dane
+
+HEARKEN to me, good men, wives, and maidens ; I will tell you a tale of Havelok, a wight full hardy, ready at need, the stoutest warrior that ever rode a horse.
+
+In former days there was a King of England called Athelwold ; the very flower of England was he, and he ruled justly and well. All things in his realm he ordered strictly, and maintained truth and right throughout the land. Under his rule robbers and traitors were put down ; men bought and sold freely, without fear, and wrongdoers were so hard pressed that they could but lurk and creep in secret corners. Athelwold set up justice in his kingdom. There was mercy for the fatherless in his day; his judgments could not be turned aside by bribes of silver and gold. If any man did evil, the King's arm reached him, to punish him, were he never so wary and strong.
+
+This Athelwold had no heir, save only one daughter, very fair to look upon, named Goldborough. But ere she grew up, when as yet she could neither walk on her feet nor speak, the King fell ill of a dire sickness. He knew well that his time was come, and that death was nigh him. " What shall I do now ? " he said in his heart. " I know full well my hour of judgment is upon me. How shall my daughter fare when I am dead ? My heart is troubled for her : I think nought of myself. She cannot yet speak or walk : if she were of age to ride, she could rule England, and I would care nought about dying."
+
+But it was idle to lament. The King was sure in his mind that he must die, and he sent messengers to all his vassals, to his earls, and his barons, rich and ^oor, from Roxburgh to Dover, bidding them come to him speedily where he lay sick.
+
+All those who heard his message were sad at the tidings, and prayed that he might be delivered from death. They came with all speed to the King at Winchester.
+
+" Welcome," said he, when they entered the hall of his dwelling. "Full glad am I that you are come, though gladness helps little now, when I am nigh the point of death. You see in what sorry case I lie. I have bidden you here that you may know that my daughter shall be your lady when I, your lord, am dead. But she is yet a child, and I am fain to make some true man her guardian till she be a woman grown : I will that Godrich, Earl of Cornwall, do guard her and bring her up. He is a true man, wise in counsel and wise in deed, and men have him in awe."
+
+They brought a holy book to the King. On it he made Earl Godrich swear a solemn oath to keep Goldborough well and truly, till she was of age to rule and to order the realm of England wisely.
+
+`[A key point is omitted here - that she should bemarried "to the highest, the best, fairest, and strongest man alive"]`
+
+Then the little maid was given to the Earl, her new guardian. Athelwold thanked the Earl, and bade him be true to his charge ; and in a little while death took the good King.
+
+When King Athelwold was dead, and the long lamentation for him ended, Godrich ruled England. In every castle he set some knight of his own, whom he could trust : all the English folk he caused to take an oath to be faithful to him ; and in a little while Athelwold's realm was altogether in his power.
+
+In the meantime Goldborough was kept at Winchester, and brought up as befitted a King's daughter. Every day she seemed to grow in wisdom and fairness, till when she was twenty years old there was none like her in the land. But Godrich, when he saw how good and how fair she was, grew jealous of her. " Shall she be Queen ovei me ? " he thought. " Must I give up my kingdom and my power to her ? She has waxed all too proud ; I have treated her with too great gentleness. She shall not be Queen. I will rule, and after me my son shall be King."
+
+As that treason crept into his mind, he forgot his oath to Athelwold, caring not a straw for it. Without more ado he sent for Goldborough from Winchester, and took her to Dover. There he set her in a strong castle, and clad her meanly, and guarded her so strictly that no man could see her or come at her without his leave.
+
+Now it chanced that about this time the same thing came to pass in Denmark as in England. Birkabeyn, King of Denmark, died, and at his death gave to one Earl Godard the charge of his kingdom and of his son Havelok and his two daughters, Swanborough and Elfled. Godard stood by his oath no better than Godrich, but cast all three children into prison, and well nigh starved them to death. But when they had lain in prison for a little time, and were nearly dead of hunger, he went to see them.
+
+"How do you fare?" he asked, for Havelok ran to him, and crept upon his knees when he sat down, and looked up joyfully into his face. " I hear that you moan and cry : why is this ? "
+
+"We hunger sore," answered Havelok. "We have nought to eat, and no man has brought us meat or drink. We are nigh dead of hunger."
+
+Godard heard his words, but felt no pity ; he cared not a straw for their misery. He took Swanborough and Elfled by the hand, and slew them then and there. Thereafter he turned to Havelok and would have slain him also. But the boy in terror cried for mercy. " Have pity," he said. " Spare me and I will give you all Denmark, and will vow never to take up arms against you. Let me live, and I will flee from Denmark this very day, and never more come back ; I will take oath that Birkabeyn was not my father."
+
+At that some touch of doubt came into Godard's mind. He put up his knife, and looked at Havelok.
+
+" If I let hi:n go alive," he thought, " he might work me much woe. He shall die, but not now. I will cast him in the sea and drown him."
+
+He went thence, and sent for a fisherman named Grim.
+
+" Grim," he said, " you are my thrall ; do my will and to-morrow I will give you your freedom. Take the boy Havelok, and at night lead him to the sea and cast him therein."
+
+Grim took the boy, and bound him with strong cords, and bore him on his back to his cottage, and showed him to his wife Leve. " You see this boy, wife," said he. "I am to drown him in the sea; when I have done it, I shall be made a free man, and much gold will be ours ; so has our Lord Godard promised."
+
+When Dame Leve heard that, she started up, and threw Havelok down so roughly that he hurt his head on a great stone that lay on the ground.
+
+" Alas that ever I was a King's son," he moaned in his pain ; and he lay there where he fell till night-time.
+
+When night fell Grim made ready for his task. " Rise up, wife, blow the fire," said he. " Light a candle. I must keep my word to my lord."
+
+Leve rose to tend the fire. Her eyes fell on Havelok, who still lay on the ground. Round him, she marvelled to see, shone a bright light, and out of his mouth pro- ceeded light as it were a sunbeam.
+
+" What is that light ? " quoth Dame Leve. " Rise up, Grim, look what it means ; what is this light ? "
+
+Grim went to Havelok, and unbound him. He rolled back the shirt from the boy's shoulder. There he saw, bright and clear, a King's birth-mark.
+
+"Heaven help us," said Grim, "this is the heir to Denmark, who should be King and lord of us all. He will work Godard great harm." Then he fell on his knees before Havelok. "Lord King," he said, "have mercy on me and on Leve here. We are both yours, lord, both your servants. We will keep you and nur- ture you till you can ride and bear the shield and spear ; Godard shall know nought of it. Some day I will take my freedom at your hands, not at his."
+
+Then was Havelok blithe and glad. He sat up and asked for bread. "I am well-nigh dead," he said, "with hunger and hardship."
+
+They fed him and cared for him, and lastly put him to bed ; and he slept soundly.
+
+On the morrow Grim went to the traitor Godard. " I have done your will on the boy, lord," he said. " He is drowned in the sea. Now I pray you give me gold for a reward, and grant me my freedom, as you vowed."
+
+Godard looked at him, fierce and cruel of mien. " Will you not rather be made an earl, proud knave ? " he asked. " Go home, fool ; go, and be evermore a thrall and churl, as you have ever been ; no other reward shall be yours. For very little I would lead you to the gallows for your wicked deed."
+
+Grim went away. "What shall I do?" he thought as he hurried home. " He will assuredly hang me on the gallows-tree. It were better to flee out of the land altogether."
+
+He came home, and told Leve aft ; and they took counsel together. Soon Grim sold all his wool, and his corn, and his cattle, his horses and swine, his geese and hens. Only his boat he kept ; and that he made ready for a voyage, with a good mast, strong cables, stout oars, and a new sail, till there was not so much as a nail wanting to make it better. Then he took on board his wife and his three sons, Robert the Red, William Wendat, and Hugh Raven, and his two fair daughters, Gunnild and Levive, and Havelok ; and they set sail.
+
+The wind blew fair behind them, and drove them out to sea. Long did they sail, and came at last to England, to Lindsey at the mouth of the Humber.
+
+They landed safely ; and before long Grim began to make a little house of clay and turf for them to dwell in. He named the place after himself, Grimsby; and so men call it now, and shall call it for ever, from now even to doomsday.
+
+Grim was a skilful fisherman, and caught many good fish. Great baskets did he make, and others his sons made ; and they carried the fish inland in these baskets, and sold them. All over the country did Grim go with his fish, and came home always with store of bread, or corn, or beans, against their need. Much he sold in the fair town of Lincoln, and counted many a coin after his sales there.
+
+Thus Grim fared for many winters; and Havelok worked with the rest, thinking it no shame to toil like any thrall, though he was a King's son born.
+
+There came at last a year of great dearth. Corn was so scarce that all men were in great poverty, and Grim did not know how to feed all his family. For Havelok he had great dread, for he was strong and lusty, and would eat more than he could earn. And soon the fish in the sea also began to fail them, so that they were in sore straits. But Grim cared more for Havelok than for all his own family ; all his thoughts ran on Havelok.
+
+"Dear son Havelok," he said at last, "I trow we shall die of hunger anon ; all our food is gone. It is better for you to go hence, and strive for yourself only, and not try to help us here. You are stout and strong ; go to Lincoln ; there is many a man of sub- stance there, who might take you in service. It were better for you to serve there than to see us starve here and to starve along with us. Would that I could clothe you fitly ! Alas, I am too poor. Yet for your sake I will cut up the sail of my boat, and make you a cloak of it to cover your rags."
+
+He took the sail from his boat, and cut it up rudely into a cloak for Havelok. Then Havelok bade him God-speed, and set out. Hose and shoon had he none ; on his bare feet he walked, and came in time to the city of Lincoln.
+
+He had no friend in Lincoln, and knew no man. For two days he went to and fro, fasting ; no man had work or food for him. But on the third day he heard a cry, "Porters, porters, hither quickly!" He sprang forward like a spark from coal, and thrust aside all who stood in his path ; sixteen stout lads did he knock down, and came to where fish was being laden into carts for Earl Godrich of Cornwall. There stood the Earl's cook, calling for men to lead the carts ; and Havelok fell to work with a will at his bidding. Many a great fish did he lift and carry — lampreys, eels, broad plaice, and all manner of kinds.
+
+When all was done, " Will you take service with me ? " said the cook to Havelok. "I will pay you good hire and feed you well."
+
+"Give me enough to eat, good sir," answered Havelok, "and I care not what you pay me. I will blow your fire, and fetch wood and water ; I can wash dishes, and cleave faggots, and clean eels, and do all that you need."
+
+"You shall be my man," answered the cook.
+
+So Havelok took service in Earl Godrich's house- hold, and drew water and cut wood, and did household tasks. Strong and large was he of body, and God had made him very fair to look on.
+
+Earl Godrich was lord of all England; it lay as it were in his hand. Many men were wont to come to him at Lincoln for advice and to talk of great things ; and they held a parliament there, and came thither with a great train of men-at-arms and followers, so that the town was always full of folk coming and going.
+
+It chanced one day that eight or ten young men began to play together near where Havelok was at work; they fell to putting a great stone, huge and heavy. He must needs be a stout man who could so much as lift it to his knee. But those who put it now were champions, and could cast it many a foot.
+
+Havelok looked on and longed to put against them , and his master, seeing his looks, bade him go and try what he could do. He took the stone and poised it well ; and at the first effort he put it twelve feet or more farther than any other man.
+
+"We have been here too long," said the rest. "This lad is mightier than any of us; it is time for us to go hence."
+
+They went away, and spread the news that there was at Lincoln a lad mightier than any man of that day ; and Havelok's fame grew and was known far and wide. It came at last to Earl Godrich's ears.
+
+"This is a stout knave," thought the Earl, when he- heard of Havelok's strength. " I would that he were wedded to Goldborough : he is the fairest and strongest man in England, and if I gave Goldborough to him, I should keep my word to Athelwold in some sort, for there is none like Havelok : no better man could she desire. And if she were wedded to him, she would be out of my way, and I should be secure in my rule, and my son should reign in England after me."
+
+Thus he thought and planned secretly. Anon he- sent for Goldborough, and brought her to Lincoln. At her coming he caused bells to be rung, and there was great rejoicing ; but he was nevertheless full of cralt.
+
+" You shall have the fairest man alive for hus- band/' he said to Goldborough : " therefore have 1 sent for you."
+
+44 1 will wed no man but a King or a King's son, be he never so fair," she answered boldly.
+
+" Would you gainsay me as if you were Queen and lady over me?" cried Godrich in great wrath. "You shall have a churl for husband, and no other. My cook's knave shall wed you ; he shall be your lord. To-morrow shall you be wedded to him."
+
+Goldborough wept and prayed his mercy, but it was of no avail. On the morrow the church-bell was rung, and Godrich sent for Havelok. " Master, are you minded to marry ? " he asked.
+
+"Nay, by my life," quoth Havelok. "What should I do with a wife ? I cannot feed her or clothe her ; I have no house and no possessions. The very clothes I \vear are the cook's, and I am his servant."
+
+" If you do not take to wife her whom I will give you," said Godrich, " I will hang you high aloft, or thrust out your eyes."
+
+At that Havelok was sore afraid, and granted all that Godrich bade. Then Godrich sent for Goldborough.
+
+"You will take this man for husband," he said, "or you go to the gallows, unless rather I burn you at the stake."
+
+She was adread at his threats, and durst not refuse, though she liked it ill. So they two were wedded perforce, and neither took joy in it.
+
+When they were married, Havelok knew not what to do. He had no home whereto he might take Goldborough. Godrich had such hatred for Athel- wold's daughter that he would do nought to aid them ; and Havelok was in sore straits till he be- thought him of Grimsby.
+
+Straightway he took Goldborough to Grimsby. But Grim himself was dead. Nevertheless his sons welcomed Havelok gladly, and took great joy in his return.
+
+"Welcome, dear lord, and welcome to your fair lady," they said. " We have here horses and nets and ships, gold and silver, and much else that Grim our father bequeathed. But he bade us give them to you ; take them, dear lord ; they are all yours. You shall be our lord, and we will be your servants in all things."
+
+So Havelok came back to Grimsby. But on the night of his coming Goldborough was sad and sorrow- ful as she lay beside him, and she could not sleep. Her wakeful eyes fell on Havelok, and she was aware suddenly of a wondrous sight. A bright light, clear and flaming, issued from his mouth, and lit up all the chamber.
+
+"What may this mean?" she said to herself in sore dread. " Does it show me that some high fortune shall come upon Havelok ? "
+
+She looked again, and saw a new wonder. On Havelok's shoulder a King's mark shone, a noble cross of red gold ; and as she looked, an angel's voice spoke to her: "Goldborough, let your sorrow be; Havelok, your husband, is a King's son and a King's heir. The golden cross signifies that he shall possess all Denmark and England, and shall be King, strong and stark, of both realms. This shall you see with your own eyes, and shall be his Queen and lady."
+
+When she heard the angel's voice Goldborough could not contain her joy, but turned and kissed Havelok as he slept. Havelok had not heard the angel, but he started out of his sleep at Goldborough's kiss.
+
+"Dear lady, are you awake?" he said. "A strange dream have I just dreamed. I thought I was in Den- mark, on the highest hill that ever I came to; it was so high that I could see, it seemed, all the world spread out. As I sat there, I began to possess Denmark, with all its towns and strong castles ; and my arms were so long that I surrounded in one grasp all Denmark, and drew it towards me till every man therein cleaved to me, and the strong castles began to fall on their knees, and the keys of them were at my feet. Another dream I dreamed also, that I flew over the salt sea to England, and with me went all the folk of Denmark. When 1 came to England, I took it all into my hand, and, Goldborough, I gave it to you. Dear wife, what may this be ? "
+
+" May these dreams turn to joy, Havelok, as I deem they will," answered Goldborough. " I say to you that there is no strong king or emperor who shall be your peer, for you shall wear the crown of England in time to come, and Denmark shall kneel at your feet. Within a year this shall come to pass. Let us two go to Den- mark speedily ; and do you pray Grim's sons that they go with you, all three."
+
+On the morrow Havelok went to church and be- sought aid of God. Then he betook himself to Grim's three sons, Robert, and William, and Hugh.
+
+"Listen now to me," he said, "and I will tell you a thing concerning myself. My father was King of the Danish land, and I should have been his heir ; but a wicked wight seized the kingdom when my father died, and slew my two sisters, and gave me to Grim to drown ; but Grim spared me, and brought me hither as you know. Now I am come to an age when I can wield weapons and deal stout blows ; and never will I take comfort till I see Denmark again. I pray you come thither with me ; I will reward you well, and will give each of you ten castles, with the land and towns and woods that belong thereto." `[A small part of the original poem is here missing. I have ventured to follow Prof. Skeat in supplying what is clearly, in substance, the sequence of events. The original begins again, roughly, at "Havelok gave Ubbe a gold ring."]`
+
+"We will follow you whithersoever you bid us, Havelok," they answered, "and we will, if it please God, win back your kingdom for you."
+
+Havelok gave them due thanks, and began straightway to prepare all things for his going to Denmark. Soon he had made ready, and they set sail. Their voyage prospered, and they landed safely in Denmark, in the dominions of one Ubbe, a rich earl, who had been a friend of King Birkabeyn, Havelok's father.
+
+When Havelok heard who was lord of that part of Denmark, he was glad, and set out to go to Ubbe's castle in good hope. He durst not say yet that he was Birkabeyn's son, for if Earl Godard heard of it, he would come against him and slay him before he could win any followers. But he went to Ubbe and spoke him fair and courteously, and gave him a gold ring, and asked leave to settle in that land to be a merchant ; and Ubbe seeing how strong and comely Havelok was, gladly gave him leave, and thereafter bade him to a great feast. Havelok went to the feast, and Goldborough with him, and Grim's sons also ; and Ubbe grew to love him so well that when the feast was ended, he sent him with ten knights and sixty men-at-arms to the magistrate of those parts, Bernard Brun, a man of might and substance, to whom Ubbe wrote a letter, saying that Havelok was to be treated courteously in all things.
+
+Bernard was a trusty man, and entertained Havelok and Goldborough and all their company in seemly wise. But as they sat at meat, there came tidings that a band of sixty thieves, well armed and fierce, was at the gate, demanding entrance.
+
+At that news Bernard started up and took a good axe in his hand, and went to the gate ; and Havelok followed him.
+
+"What do you hera. rascals?" cried Bernard. "If I open the door to you, some of you will rue it. Those whom I slay not shall be put in fetters and cast into prison ! "
+
+"What say you?" answered one of the thieves. " Think you that we are adread of you ? We shall enter by this gate for all that you can do."
+
+Thereupon he seized a great boulder, and cast it mightily against the gate, and broke it.
+
+Havelok saw what befell, and went to the gate. He drew therefrom the great cross-bar, and threw the gate wide open.
+
+"I abide here," he cried. "Flee, you dogs."
+
+"Nay," quoth one, "you shall pay for waiting;" and he came running at Havelok, and the two others close behind with him. But Havelok lifted up the door-beam, and at one blow slew all three. Then he turned upon others, and in a moment overthrew four more. But a host of them beset him with swords, and all his skill could not prevent them from wound- ing him : full twenty wounds had he, from crown to toe. But the smart of them drove him into a rage, and he began so to mow with the beam that the robbers soon felt how hard he could smite. There was none who could escape him, and whosoever he struck he slew ; and in a little while he had felled twenty of them.
+
+Then began a great din to arise, for the rest of the thieves set upon Havelok and Bernard with all their might. But Hugh and his brothers heard the noise, and came running with many other men ; and before long there was not one of the thieves left alive.
+
+On the morrow tidings came to Ubbe that Havelok had slain with a club more than a score of stout rogues. "What is this?" thought the earl. "I had best go myself and see the rights of the matter."
+
+He went down to Bernard and asked him what had come to pass ; and Bernard, sore wounded from the fight, showed him his wounds, and told him how sixty robbers had attacked his house, and how Havelok had slain great plenty of them ; but Havelok also, he said, was grievously wounded in many places.
+
+Others also of Bernard's men told the like true tale ; and Ubbe sent for Havelok, and when he had seen his wounds, called for a skilful leech, and took Havelok into his house and cared for him.
+
+The first night that Havelok lay in Ubbe's house, Ubbe slept nigh him in a great chamber, with places boarded off for each man. About midnight he awoke, and saw a great light in the place where Havelok lay, as bright as if it were day.
+
+" What may this be ? " he thought. " I will go myself and see. Perchance Havelok secretly holds revel with his friends, and has lit many lights. I vow he shall do no such sottishness in my castle."
+
+He stood up, and peeped in between the boards that shut Havelok from him. He saw him sleeping fast, as still as any stone ; and he was aware of a great light coming as it were from Havelok's mouth.
+
+He was aghast at that sight, and called secretly to his knights and sergeants and men-at-arms, more than five score of them, and bade them come and see the strange light; and the light continued to issue from Havelok's mouth, and to grow in strength, till it was like a sunbeam, and as bright as two hundred wax- candles.
+
+Havelok's right shoulder was towards Ubbe and his men. Suddenly, as they looked at the light, they were aware also of a King's mark on the shoulder, a bright cross, brighter than gold, sparkling like a good car- buncle stone.
+
+Then Ubbe knew that Havelok was a King's son, and he guessed that he must be Birkabeyn's son, the rightful King of all Denmark; "Never was any man so like his brother," he said, "as this Havelok is to Birkabeyn ; he is Birkabeyn's own heir."
+
+And when Havelok awoke, he fell at his feet and did obeisance, he and all his men. "Dear lord," he said, " I know you to be Birkabeyn's son. You shall be King of Denmark; right soon shall every lord and baron come and do you homage."
+
+Then was Havelok glad and blithe, and gave thanks to God for His goodness.
+
+Before long Ubbe dubbed Havelok knight ; and as soon as he was knighted all the barons and lords of those parts came to him and swore fealty ; and anon they crowned him King of Denmark, and set them- selves in array to attack the false Earl Godard. But Godard's knights, being weary of his rule, had all gone over to Havelok ; and Grim's son Robert suf- ficed to meet him in combat. Robert wounded him in the right arm, and they bound him and brought him before Havelok.
+
+Sorry now was Godard's lot ; all his greatness was gone from him, and he was abased ; even as the pro- verb says, "old sin makes new shame." He came before Havelok and his nobles, and they gave sen- tence upon him, that he should be flayed alive, and then hanged. And so he came to his end in great misery and torment.
+
+When Godrich in England heard that Havelok was King of all Denmark, and purposed (for Havelok had given out that this was his intent) to come to Eng- land and set Goldborough on her throne, he was full rueful and sorry.
+
+" If I let them land and overcome me," he thought, " I shall lose my power."
+
+Thereat he set to work to gather a great host to meet Havelok when he should come ; and he spread lying tales to make the English hate and fear Havelok, saying that he would burn and destroy, and oppress them ; and by these means he got together many men and led them to Grimsby.
+
+Anon came Havelok and his men, and landed at Grimsby; and they fought a great battle. Ubbe was the first to meet Godrich, and dealt him many a stout blow, but could not prevail over him; long they struggled; and at last Godrich wounded Ubbe sorely in the side, so that he fell, and his men bare him out of the fray. All that day Havelok's men fought with Godrich's men ; and on the morrow they fought again, and Godrich came face to face with Havelok himself.
+
+"Godrich," Havelok cried, "you have taken Athelwold's kingdom for yourself; I claim it for his daughter Goldborough. Yield it up, and I will forgive you, for you are a doughty knight."
+
+" Never will I yield," answered Godrich : " I will slay you here, and put out your eyes that now look on me, if you do not ilee right speedily."
+
+He gripped his sword, and smote at Havelok, and clove his shield in twain. But Havelok drew his own good sword, and with one blow felled him to the earth. Yet Godrich started up again, and dealt him such a stroke on the shoulder that his armour was broken, and the blade bit into the flesh. Then Have- lok heaved up his sword in turn, and struck fiercely, and shore off Godrich's hand, so that he could smite no more, but yielded as best he might.
+
+They seized Godrich and fettered him; and all the English took the oath of fealty to Goldborough, and swore to be her men. Then they passed judgment on Godrich, and sentenced him to be burnt to death. So Havelok and Goldborough came again into their kingdoms ; and Havelok rewarded Grim's sons and made them barons. Of Grim's daughters, Bernard married one, and was made Earl of Cornwall in place of Godrich ; and the other was wedded to the Earl of Chester. Havelok was crowned King of England as well as of Denmark ; and full sixty winters did he reign with Goldborough in great joy and prosperity. 
+
+----
+
 
 https://archive.org/details/in.ernet.dli.2015.45570/page/n125/mode/2up
 Hero-myths And Legends Of The British Race
