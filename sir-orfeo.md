@@ -8,6 +8,8 @@ I first came across this in the back of the paperback version of *Sir Gawain and
 
 Prose retelling:
 
+https://archive.org/details/TalesOfTrueKnightsKrapp/page/n195/mode/2up
+
 Tales of true knights
 by Krapp, George Philip, 1872-1934
 
