@@ -73,7 +73,7 @@ A country strangely abandoned by its people Sir Orfeo had almost concluded this 
 
 "Who knocks so boldly at my gate?" the porter shouted from the other side.
 
-"Here am I," answered Sir Orfeo, "a poor minstrel come into thy land. Open thy gate and let me in, and^lmh my minstrel's art I will pay thy courtesy."
+"Here am I," answered Sir Orfeo, "a poor minstrel come into thy land. Open thy gate and let me in, and with my minstrel's art I will pay thy courtesy."
 
 The bolts slid back, the door flew open, and Sir Orfeo gazed upon the scene within. Everywhere he saw folk sitting, all still now and speechless as the dead. They turned not nor stirred, but a deep spell held them in its sway. Here and there Sir Orfeo eagerly turned his gaze, and at last, with grief and joy, he beheld the end of all his quest. For there, beneath a young tree such as the unhappy one which had grown in his own castle garden, the Lady Herodys lay, fair as the day she was borne from his side. No bitter wind of winter had touched her bright face, nor had she known the wasting sorrow that had made Sir Orfeo so gaunt and gray. Time and change they knew not in this land, where all was as the king of the other-world willed.
 
