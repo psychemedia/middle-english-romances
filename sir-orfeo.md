@@ -4,6 +4,8 @@ A mediaeval retelling of the myth of *Orpheus and Eurydice*, which I've used a c
 
 I first came across this in the back of the paperback version of *Sir Gawain and the Green Knight, with Pearl and Sir Orfeo*, Harper Collins, 2021, translated by J.R.R. Tolkien, ed. C. Tolkien.
 
+Example telling: https://www.youtube.com/watch?v=A2LpzXKG_hk
+
 ---
 
 Prose retelling:
