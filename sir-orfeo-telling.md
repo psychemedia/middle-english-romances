@@ -4,9 +4,9 @@
 
 Back in the days when each province of England had its own King, there was a certain king of Winchester: the noble Sir Orfeo.
 
-In his younger days he had been a troubadour, a man of rank who entertained courts across the kingdoms, with his exquisite harp playing. He played people's emotions as he played his harp strings, from the happiest tunes to the most melancholy dirges.
+In his younger days he had been a troubadour, a man of rank who entertained all the courts across the land, with his exquisite harp playing. He played people's emotions as he played his harp, from the happiest tunes to the most melancholy dirges.
 
-And also in his younger days, he had met the girl of his dreams, the one who would become his wife, and one who was the love of his life, the fair Dame Heurodis; and never has there been a fairer queen ever before or since.
+And in his younger days, too, he had met the girl of his dreams, the one who would become his wife, the love of his life, the fair lady Heurodis; and never has there been a fairer queen, whether before or since.
 
 One Spring day, it was early May, Dame Heurodis walked down to the orchard, with two of her maids, to listen to the birds singing, and the bees buzzing, and the sounds of Spring coming in.
 
@@ -14,7 +14,7 @@ She sat beneath a spreading/grafted apple tree, and... relaxed.
 
 Before long, she had drifted into sleep; and her handmaids went a little way away, so that they might continue to chat.
 
-Midday came and went; the birds were still singing, and the bees were still buzzing, when suddenly? Suddenly, there was an almighty shriek and a scream; and when the maids rushed back to see their mistress, she scratching at her face, and pulling at at hair, and wailing such a sorrowful cry a banshee might.
+Midday came and went; the birds were still singing; the bees were still buzzing. But suddenly: a scream; an almighty shriek; and when the maids rushed back to see their mistress, she scratching at her face, and pulling at at hair, and wailing such a sorrowful cry a banshee might.
 
 The maids ran back to the castle to fetch help, and returned with a hundred ladies and knights to see what they could do for their Lady.
 
