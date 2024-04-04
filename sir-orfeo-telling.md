@@ -60,7 +60,7 @@ Over the coming days, that grew into weeks, he became ever more solitary, only t
 
 One day, he was seen, leaving his room, dressed in a ragged cloak from who knows where, a bag at his side containing his harp.
 
-"I will go into the wilderness. My steward will rule in my place. WHen you hear I am dead, summon a Parliament, and appoint a new king."
+"I will go into the wilderness. My steward will rule in my place. When you hear I am dead, summon a Parliament, and appoint a new king."
 
 And with that, he was gone.
 
@@ -92,7 +92,7 @@ He approached the gate; dressed in rags, hair matted, beard dreadlocked, grey an
 
 "I have come to play" he said, gesturing his harp. "I have come to play for your king." And he gestured his harp.
 
-As he went through the gates, he was met by the strangest sight. At first they looked like statues, but statues caught as if in the throes of death; warriors who had lost their limbs, or worse. Those who had perished by fire, or sunk and drawned. Those who had been hanged for their crimes, or withered by their ailments. Women who died even as they were giving birth. And there, underneath a tree, a spreading/grafted apple tree, his wife, the fair lady Heurodis.
+As he went through the gates, he was met by the strangest sight. At first they looked like statues, but statues caught as if in the throes of death; warriors who had lost their limbs, or worse. Those who had perished by fire, or sunk and drowned. Those who had been hanged for their crimes, or withered by their ailments. Women who died even as they were giving birth. And there, underneath a tree, a spreading/grafted apple tree, his wife, the fair lady Heurodis.
 
 He made his way across the courtyard, into the great hall, and demanded audience with the King.
 
