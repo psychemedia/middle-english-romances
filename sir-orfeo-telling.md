@@ -140,7 +140,7 @@ And so his steward ruled in his place, as fair as his master had been, until he 
 
 The next day, Sir Orfeo, still as a beggar, had picked up his harp and gone inside the city walls.
 
-The music he played, as well as the strange sight of him — long, matted hair; a dreadlocked beard; grey and gaint with blackened teeth — draw more than a few passing looks.
+The music he played, as well as the strange sight of him — long, matted hair; a dreadlocked beard; grey and gaint with blackened teeth — drew more than a few passing looks.
 
 And then the steward passed by. He had not heard that tune in a long time. He stopped and watched the harper.
 
