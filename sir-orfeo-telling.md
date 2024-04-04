@@ -172,7 +172,7 @@ And he was taken back to the chamber that had been his, and washed and shaved, a
 
 And his wife was sent for.
 
-And the celebration that started in Wincheter that night spread out across the county. And the tale of what had happened when with it.
+And the celebration that started in Winchester that night spread out across the county. And the tale of what had happened went with it.
 
 And many years later, after many happy years together with his wife, the fair Lady Heurodis, they made a final journey to another land.
 
