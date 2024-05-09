@@ -1539,8 +1539,45 @@ has been torn out for the sake of the illumination, it is possible that it may n
 A Middle English version can be found in [Sir Orfeo, Ein Englisches Feenmärchen `[An English Fairytale]`, Oscar Zielke, 1880](https://archive.org/details/sirorfeomiteinl00orphgoog/page/n100/mode/2up), pp. 86-116
 
 
+---
+
+https://archive.org/details/ancientengleishm02ritsiala/page/n5/mode/2up
+
+Ancient Engleish metrical romanceës
+by Ritson, Joseph, 1752-1803
+
+Publication date 1802
+
+Vol. II
+
+pp.248-269
 
 
+---
+
+[Ancient English metrical romances](https://archive.org/details/ancientenglishme03ritsuoft/page/n7/mode/2up)
+
+Selected and published by  Joseph TRitson and  revised by Edmund Goldsmid
+
+1885
+
+Vol. III
+
+pp. 3-17
+
+SIR ORPHEO.
+
+This lay, or tale, being rather too concise to be denominated a metrical romance, is a Gothick metamorphosis of the classical episode of Orpheus and Eurydice, so beautifully related by Ovid. It professes, like the tales of Mary of France, to be a lay of Britain, (whether Great Britain or Armorica, has been already discussed) ; and, if it have not so much merit as some others of these poetical compositions, the most fastidious reader can scarcely complain of its prolixity. There are two copies of this poem ; one, from which it was transcribed, among the Harleian manuscripts, number 3810; and another in the Auchinleck manuscript (W. 4. i. number lii), in the Advocates' Library, Edinburgh : each more or less imperfect. The latter, which omits the prologue, and commences abruptly,  
+" Orpheo was a ryche king,"  
+is much longer than the poem here printed, which seems abridged from it, by considerable omissions, many of the remaining lines being the same : but whether it be a translation from a French original (which, at least, is sufficiently probable) there is no means to ascertain. Another fragment in the same MS. (num. xxxv), though upon a different subject, begins precisely like the Harleian copy, but is entitled *Lay le freine* (the Tale of the Ash), and, apparently, a version of Mary's poem under the same title.
+
+Among the "pleysand storeis," enumerated in *The Complaynt of Scotland*, 1549, is "Opheus, kyng of Portingal :" but whether the name should have been Orpheus, and the story were the same, or a different one, cannot be ascertained. "A tedious fable," according to Pinkerton, "by [Robert] Henryson, with a spiritual moralization," of "Orpheus kyng, and how he ycid to hewyn and to hel to seik his quene," was printed at Edinburgh by Walter Chepman, in 1508. In an old poem of "the laying of a gaist," quoted, by Mr. Leyden, from the Bannatyne MS. the "gaist" is married to "the Spenzie Hie,
+
+And crownd him kyng of Kandelie ;  
+And thay gat them betwene  
+*Orpheus king*, and *Elpha quene*."
+
+[Poem follows]
 
 ---
 
