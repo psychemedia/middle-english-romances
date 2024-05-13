@@ -1232,7 +1232,7 @@ A rather more ornate version, apparently with minor corrections, based on Halliw
 It is also interesting to compare two different "modern" English narrative versions of the complete tale, each interspersed with different verses from the the original metrical verse:
 
 ```{admonition} In Ellis, *Specimens of early English metrical romances*, 1811
-:class:dropdown
+:class: dropdown
 
 George Ellis, *Specimens of early English metrical romances, chiefly written during the early part of the fourteenth century; to which is prefixed an historical introduction, intended to illustrate the rise and progress of romantic composition in France and England*, [Vol. III](https://archive.org/details/specimensofearly03elli/page/158/mode/2up), 1811, pp. 158-181
 
@@ -1450,6 +1450,7 @@ When that they dead were.
 Jesu Christ, heaven's king,  
 Give us, aye, his blessing,  
 And shield us from care !
+
 ```
 
 ```{admonition} In Ashton, *Romances of chivalry*, 1887

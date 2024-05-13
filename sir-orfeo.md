@@ -1578,7 +1578,3 @@ And thay gat them betwene
 *Orpheus king*, and *Elpha quene*."
 
 [Poem follows]
-
----
-
-
