@@ -1,0 +1,16 @@
+format: jb-book
+root: preface
+parts:
+- caption: Notes on Tales Told
+  chapters:
+  - file: sir-orfeo
+- caption: Telling notes
+  chapters:
+  - file: sir-orfeo-telling
+- caption: Tales Yet to Tell
+  chapters:
+  - file: sir-isumbras
+- caption: Tales Elsewhere
+  chapters:
+  - file: elsewhere-sir-cleges
+  - file: elsewhere-gawain-green-knight
