@@ -3,13 +3,1238 @@
 A roller-coaster of a tale, presented as a satire that can be reasily told for laughs as meifrotune piles upon misfortune for the poor Sir Isumbras.
 
 
-https://archive.org/details/specimensofearly03elli/page/158/mode/2up
+```{admonition} In Halliwwell-Phillipps, *The Thornton romances*, 1844
+:class: dropdown
 
-Specimens of early English metrical romances, chiefly written during the early part of the fourteenth century; to which is prefixed an historical introduction, intended to illustrate the rise and progress of romantic composition in France and England
-by Ellis, George, 1753-1815
-Vol. III
-Publication date 1811
-pp. 158-181
+James Orchard Halliwell-Phillipps, [*The Thornton romances : the early English metrical romances of Perceval, Isumbras, Eglamour, and Degrevant : selected from manuscripts at Lincoln and Cambridge*](https://archive.org/details/thorntonromances30halluoft/page/88/mode/2up), 1844, pp. 88-120
+
+THE ROMANCE OF SIR ISUMBRAS.
+
+[f. 109] Here begynnes the Romance off Syr Ysambrace.
+
+I.
+
+JHESU Crist, Lorde of hevene kynge,  
+Graunte us alle his dere blyssynge,  
+And hevene unto oure mede !  
+Now, hende in haule, and ȝe wolde here  
+Of eldirs that by-fore us were,  
+That lyffede in arethede,  
+I wille ȝow telle of a knyghte,  
+That bothe was stalworthe and wyghte,  
+[And worth]ily undir wede :  
+His name was hattene syr Ysambrace,  
+Swilke a knyghte als he was  
+Now lyffes nowrewhare in lede.
+
+II.
+
+He was mekille mane and lange,  
+With schuldirs brode and armes strange,  
+That semly were to see;  
+So was he bothe faire and heghe,  
+Alle hym loffede that hym seghe,  
+Se hende a mane was hee !  
+He luffede glewmene wele in haulle,  
+He gafe thame robis riche of palle,  
+Bothe golde and also fee ;  
+Of curtasye was he kynge,  
+Of mete and drynke no nythynge,  
+One lyfe was none so fre.  
+
+III.
+
+Als fayre a lady to wyefe had he  
+Als any erthly mane thurte see,  
+With tunge als I ȝow nevene;  
+Knave childire had thay thre,  
+Thay were the faireste that myghte be  
+Undir the kynge of hevene !  
+Bot in his hert a pride was broghte,  
+Of Goddis werkes gafe he noghte,  
+His mercys for to nevene ;  
+So longe he reyngned in his pride,  
+That God wolde no lenger habyde,  
+To hym he sent a stevene.  
+
+IV.
+
+It felle so appone a daye,  
+The knyghte went to the wode hym to playe,  
+His foreste for to see ;  
+And als he come by a derne sty,  
+A fowle herde he synge one hy  
+Fulle heghe upone a tree,  
+And said, " Welcome, syr Ysambrace,  
+Thou hafes forgetyne whate thou was,  
+For pride of golde and fee !  
+The kyng of hevene gretis the soo,  
+Werldes wele the bus for-goo,  
+In elde or ȝouthe thou salle dry woo,  
+Chese whethir es lever to thee !"
+
+V.
+
+With carefulle herte and sygheyngez sare,  
+The knyghte felle on his knes al bare,  
+And bothe his handis uphelde :—  
+" Werldes wele I wille for-sake,  
+And to Goddes mercy I me bytake,  
+To hym my saule I ȝelde !  
+In ȝouthe I maye bothe ryde and goo,  
+When I ame aide I may nott so,  
+My lymmes wille waxe unwelde ;  
+Now, Lorde, ȝif it thi wille bee,  
+In ȝowthede penance send thou mee,  
+And welthe appone myne elde !"
+
+VI.
+
+The foule thane toke ane heghe flyghte,  
+Alle-one he leved that drery knyghte,  
+And sone he went awaye ;  
+And whenne he of the fowle had no syghte,  
+His stede, that was bothe stronge and wyghte,  
+Sone dede downe undir hym laye.  
+His hawkes and his howndis bothe,  
+Wente to the wode, als thay were wrothe,  
+Ilkone a dyverse waye.  
+Whate wondir was thofe hym ware wo,  
+One fote now moste hym nedis goo,  
+To pyne turnes alle his playe !
+
+VII.
+
+And als he wente by a wod schawe,  
+Thare mett he with a lyttille knave  
+Come rynnande hym agayne ;  
+And wele wers tythynges he hym tolde,  
+Brynned were alle his byggynges bolde,  
+His bestes werene alle slayne !  
+" A ! Lorde, ther es no thyng lefte one lyfe  
+Bot thi thre childir and thi wyfe,  
+The sothe es noghte to layne !"  
+The knyghte thane ansuerde with herte so vey,  
+" With thi that I may one hir see,  
+My wyfe and my childire thre,  
+ȝitt was never mane so fayne."
+
+VIII.
+
+Bot als he wente by hym allone,  
+His hirde-mene mett he everylkone,  
+With a fulle drery swoghe,  
+And saide thaire fee was fro thame revede,  
+" Certis, syr, us es noghte levyde  
+A stotte unto ȝoure plowghe !"  
+Thay wepede sare and gaffe thame ille ;  
+The knyghte bad thay solde be stylle,  
+" I wytte ȝow noghte this woghe ;  
+God that sent me alle this woo,  
+Wele hase he sent me also.  
+And ȝitt may send y-noghe !"
+
+IX.
+
+A dolefulle syghte the knyghte gane see  
+Of his wyfe and his childir three,  
+That fro the fyre were flede ;  
+Alle als nakede als thay were borne  
+Stode togedir undir a thorne,  
+Braydede owte of thaire bedd.  
+Bot changede never the knyghttes blee,  
+To he sawe thame so nakede bee  
+He levyde so comly clede.  
+The lavedy bade hir childir be blythe,  
+" I see ȝoure fadir ȝondir one lyve,  
+For nothynge that ȝe drede !"
+
+X.
+
+They wepede alle and gafe thame ille,  
+The knyghte bad thay solde be stylle,  
+"And wepe ȝe noghte so sore ;  
+For alle the sorowe that we aryne inne,  
+It es like dele for oure syne,  
+We ware worthi wele more !  
+Bot we kane nonekyns werkes wyrke,  
+Owre frendis of us wille sone be irke,  
+Of lande I rede we fare ;  
+Of my-selvene hafe I no thoghte,  
+Bot I may helpe my childir noghte,  
+For thame es alle my kare !"
+
+XI.
+
+The knyghte offe his mantille of palle,  
+And over his weyfe he lete it falle  
+With a fulle drery mode ;  
+His riche surcote i-wysse schare he,  
+And gafe his pore childir thre,  
+That nakede byfore hym stode.  
+" Now salle ȝe alle," he said, " do my rede,  
+To seke thare God was qwike and dede,  
+That done was one the rode ;  
+For Jesus Criste so hende es he,  
+That who so sekes hym with herte fre,  
+He sendis thame lyves fode."
+
+XII.
+
+And with a knyfe son gerte he schare  
+A crose appone his schuldir bare,  
+In storye als I ȝowe saye ;  
+Alle those that there his frendis ware,  
+They wepid alle and syghede sare,  
+Thayre sange was waylawaye !  
+The knyghte and his lady hende  
+Toke lefe at thaire dere frendes,  
+And made thaire fondyrige daye ;  
+For thame weped bothe olde and ȝynge,  
+Thare was a carefulle departynge,  
+And sythene thay went thaire waye.
+
+XIII.
+
+With thame tuke thay fulle littille gude  
+That myghte helpe tham to thaire lyves fode,  
+Nowther golde ne fee ;  
+Bot in the lande to begge thaire mete,  
+Were so that thay myghte any gete  
+For saynte charite.  
+Fyve wokes thus them gunne thay over-passe,  
+Als it Jhesu Cristes wille was,  
+With thaire childir three ;  
+Tho that are was wonte to wele and wyne,  
+The myschevous poverte that thay were inne  
+Grete dole it was to see !
+
+XIV.
+
+ȝitt in a wode thay were gone wylle,  
+Towne ne myghte thay none wyne tille,  
+Als wery als thay were ;  
+Bot whenne thre dayes tille ende was gane,  
+Mete ne drynke ne hade thay nane,  
+Thay weped for hungre sore !  
+Nothynge sawe thay that come of corne,  
+Bot the floures of the thorne,  
+Up-one those holtes hore ;  
+Thay entirde thane to a water kene,  
+The bankes were fulle ferre bytwene,  
+And watirs breme als bare.
+
+XV.
+
+The knyghte his eldeste sone tase there,  
+And over the water he hym bare,  
+And sett hym one the bryme ;  
+And sayde, " Luke, my sone, that thou be stylle,  
+To whils I feche thi brother the tille,  
+And playe the with the blome."  
+The knyghte that was bothe hend and gude,  
+Agayne swythe over the water he wode,  
+His medille sone over to brynge ;  
+So come a lyonne with latys un-mylde,  
+And in hir pawes scho hent the childe,  
+And to the wode faste gane rynne.
+
+XVI.
+
+Thane with carefulle herte and syghynge sare,  
+His medilmaste sone ȝit lefte he thare,  
+[And went wepynge aweye.]  
+Thus with sorowfulle chere and drery mode,  
+Agayne over the water he wode,  
+To pyne tornes alle his playe !  
+A labarde ther come and tuk that othir,  
+To the wode he bare hym to his brother,  
+Wyghtly he wente awaye !  
+The lady grette and gafe hir ille,  
+Nere scho wolde hir-selvene spille  
+One lande righte whare scho laye.
+
+XVII.
+
+The knyghte mase dole and sorowe y-noghe,  
+Nerehand he hym-selvene sloghe  
+Are he come to the banke ;  
+And the lady grett and gafe hir ille,  
+Nowther of tham myghte other stille,  
+Thaire sorowe it was fulle ranke !  
+Thay sayd, alias that thay were borne,  
+" Felle werdes es layde us by-forne,  
+That are were wele and wanke !"  
+The knyghte bad scho sulde be stille,  
+And gladly suffir Goddes wille,  
+" Us awe hym alle to thanke !"
+
+XVIII.
+
+Littille wondir thofe thame wo were,  
+For bothe thaire childir leve thay there,  
+[Hys lovely sonnes two.  
+Hys wyfe thane toke he there,]  
+And over the water he thane bare  
+His ȝongeste sone also.  
+And thurgh a foreste ȝode thay three,  
+And entred in towardeȝ the Greckes see,  
+Thare thay sawe stormes bloo :  
+And appone the lond thus als thay stude,  
+Thay sawe come saylande over the flode  
+A thowsand schippes and moo.
+
+XIX.
+
+And als thay stode so appone the lande.  
+And lokede in-to the see strande,  
+Those schippes sawe thay ryde  
+With toppe-castelles sett one lofte,  
+Of riche golde thame seined wroghte,  
+Stremours fro thame ferre gane glyde.  
+The sowdanne hym-selfe was therinne,  
+That Cristendome was commene to wynne,  
+Thare wakkyns woo fulle wyde !  
+The knyghte thoghte that he wolde wende  
+In-to that havene at ferrere ende,  
+A littille ther bysyde.
+
+XX.
+
+Those schippes landed by that land syde,  
+The folke come up with mekille pryde,  
+ȝaa moo thene I kane nevene ;  
+The knyghte thane karpede to the lady free,  
+" What maye thiese ferly folkkes bee ?"  
+He spake with lowde stevene :  
+" In this foreste lange hafe we gane,  
+Mete ne drynke myghte we gete nane  
+More thane thiese dayes sevene ;  
+Aske we thiese folkes of thaire mete,  
+And luke ȝife we maye any gete  
+For Goddis lufe of hevene !"
+
+XXI.
+
+Untille a galaye thus gane thay wynne,  
+There the sowdane of those Sarazenes was inne,  
+That fulle richely was wroghte ;  
+Thay askede hym some lyves fode  
+For His lufe that dyede on the rode,  
+And made this worlde of noghte !  
+The Sarazens said he was a spye,  
+Whenne that thay herde hym swa gates crye,  
+That thaire schippes had soghte ;  
+The sowdane bade do hym awaye,  
+" For thay lefe nott on owre laye,  
+Loke that ȝe gyffe hym noghte !"
+
+XXII.
+
+A knyghte saide to the sowdane kynge,  
+" Now certis, syr, it es a wondir thynge  
+ȝone pore mane for to see ;  
+For he es bothe lange and heghe,  
+The faireste mane that ever I seghe,  
+A knyghte hym semes to bee.  
+His wyfe es whitte as walles bone,  
+Hir lyre es als the see fome,  
+And bryghte als any blee."  
+The sowdane than gret rewthe thoghte,  
+And command that thay solde be broghte,  
+He wolde hymselfe thame see.
+
+XXIII.
+
+Whenne he hir sawe, hym rewed sare,  
+So semly als thay bothe ware,  
+If thay were robed riche.  
+The sowdane byddes hym gold and fee,  
+" If thou wille duelle and be with me,  
+And helpe me to my fyghte ;  
+If thou be doghty mane of dede,  
+Thou salle be horssede on a stede,  
+My-selfe salle dube the knyghte !"
+
+XXIV.
+
+Fulle stille thane stode syr Ysambrace,  
+A Sarazene he sawe wele that he was,  
+And sone he sayde hym naye:  
+" Certis, that salle I never mare  
+Agayne Crystyndomme fyghte no fare,  
+And lefe appone thi laye.  
+Now in this foreste hafe we gane,  
+Mete ne drynke we myghte gete nane,  
+This es the sevent daye ;  
+I aske ȝow some lyves fode  
+For His lufe that dyed on rode,  
+And late us wende oure waye."
+
+XXV.
+
+The sowdane sawe that lady thare,  
+Hym thoghte als scho an angelle ware,  
+That ware commene owte of hevene.  
+He saide, " Wille thou selle thi wyffe to me ?  
+And I wille gyff the golde and fee,  
+ȝaa more than thou kane nevene :  
+I salle the gyffe tene thowsand pownde  
+Of florence that bene rede and rownde,  
+And gud robes sevene ;  
+And scho salle be lady of alle my lande,  
+And alle salle bowe hir to fote and hande,  
+And noghte withstande hir stevene."  
+
+XXVI.
+
+Sir Ysambrace sayd thane schortly, " Naye,  
+My wyfe wille I nott selle awaye,  
+Bot mene me for hir slaa ;  
+I wedded hir in Goddes laye,  
+To halde hir to myne endyng daye,  
+ȝaa bothe in wele and waa."  
+The gold thane on his mantille thay talde,  
+And tille hyme-selfene thay gane it falde,  
+His wyefe thay tuke hym fraa ;  
+And appone the lande thay hym kaste,  
+And bett hym tille his rybbis braste,  
+And made his flesche fulle blaa !  
+
+XXVII.
+
+The littille childe one lande was sett,  
+And sawe how mene his fadir bett,  
+He wepid and was fulle waa.  
+The lady grete and gafe hir ille,  
+Unnethes thay myght halde hir stille,  
+That ne scho hir-selve walde slaa.  
+Hir armes scho sprede and lowde gane crye,  
+And ofte scho cryed one cure lady,  
+" Salle we departe in two ?  
+Allas ! for salle I never blythe be,  
+My weddede lorde salle I never see,  
+Now wakyns alle my woo !"
+
+XXVIII.
+
+Whenne the wounded knyght myght up-stande,  
+He tok his childe by the hande,  
+Wepande awaye went hee.  
+A riche schippe was dighte righte ȝare,  
+The sowdane bad that lordes solde fare  
+With that lady so free ;  
+The sowdane with his ownne honde  
+Crownned hir qwene of alle his londe,  
+And sent hir to his conntre :  
+A chartir was mad fulle wele farande,  
+The sowdane selide it with his hande,  
+That thofe he never come in his lande,  
+That scho solde qwene bee.
+
+XXIX.
+
+When the lady in schippe was ȝare.  
+Ever scho weped fulle selly sare,  
+And knelis byfore the kynge.  
+" Sir kynge," scho sayde, " I pray the  
+A bowne that thou wille graunt to me,  
+Now at oure parttynge ;  
+Mete and drynke thou gare tham gyfe,  
+A sevenyghte that thay myght with lyfe,  
+That littille childe and he."  
+The sowdane grauntes, scho was fulle fayne ;  
+[Scho callyd hir lorde to hir agayne,]  
+A rynge was thaire takynnyng.
+
+XXX.
+
+The lady was curtayse and mylde,  
+Scho blyssede hir lorde and hir childe,  
+And felle downe one hir knee.  
+Thay drewe up sayle of ryche hewe,  
+The wynde thame sonne owte of havene blewe  
+With that lady so free.  
+The wonded knyghte hym downe sett,  
+And for his wyfe fulle sare he grett,  
+Whils he thaire schipe myghte see.  
+And whenne the knyght myghte upstande,  
+He toke his childe by the hande,  
+And awaye thane faste went hee.  
+
+XXXI.
+
+Sythene sett he hym downe undir a tree,  
+Unnethes myghte he with ehgne see,  
+So had he wepede sare !  
+Mete and drynke forthe he droghe,  
+He gafe his childe at ete y-noghe,  
+His hert thane was fulle sare ;  
+In his mantille of skarlet rede  
+Y-mange his golde he did his brede,  
+And with hyme he it bare.
+
+XXXII.
+
+The knyghte come to a banke fulle drye,  
+And thare byhoves hym al nyghte to lye,  
+For ferrere myghte noghte he ;  
+There come in the mournynge an egle flyande,  
+And sone the knyghtes mantille he fande,  
+And awaye therwith gane flye.  
+The knyghte folowed that egle to the see ;  
+And that same tyde come an unycorne,  
+His ȝongeste sone away hase he borne,  
+Swylke sorowe that knyghte gane dree !
+
+XXXIII.
+
+Ofte was that knyghte bothe wele and woo,  
+Bot never ȝitt als he was thoo ;  
+He sett hym one a stone.  
+With carefulle mode and drery stevene,  
+Unto the heghe kyng of hevene  
+Made he thane his mone.  
+" A ! Lorde," he saide, " fulle wo es me,  
+So faire childir als I hafede thre,  
+And nowe ame I lefte allone !  
+Now Gode, that beres the heghe crowne,  
+The waye he wysse me to some towne,  
+For fulle wille I ame of wone !"
+
+XXXIV.
+
+Bot als the knyghte went thorow a lawe,  
+Smethymene thore herde he blawe,  
+And fyres thore bryne and glewe ;  
+He askede tham mete for charyte,  
+And thay bade hym swynke, " And swa do we,  
+Hafe we none other ploghe."  
+" For mete," he sayde, " I wold wyrke fayne,"  
+The knyghte ansuerde fulle sone agayne,  
+" Bathe bere and drawe y-noghe."  
+Thane mete thay gafe hym fulle gud wone,  
+And thay garte hym here iryne and stone  
+Owte of a sory sloghe.
+
+XXXV.
+
+And thus bare the knyght iryne and stone  
+Unto the sevene wyntter were alle gone,  
+And wroghte hym-selvene fulle woo ;  
+And untille that he couthe make a fyre,  
+And than thay gafe hym ȝomans hyre,  
+Wele more he wroghte thane twoo !  
+A smethymane thus was he thore  
+Fully sevene ȝere or more.  
+And blewe thaire belyes bloo ;  
+And by that he hade hym-selfene dyghte  
+Alle the atyre that felle to a knyghte,  
+Bot that he was noghte horsed ryghte  
+To batelle whenne he solde goo.
+
+XXXVI.
+
+Alle those sevene ȝere, I undirstande,  
+The sowdane werreyede in Cristene lande,  
+And wakkenede woo fulle wyde ;  
+The Crystene kynges hase fledde so lange,  
+To thay hafe getyne tham powere strange,  
+Those Sarazenes for to byde.  
+A daye of batelle than was sett,  
+That Cristyne and haythene samene solde mete  
+A littylle ther besyde.  
+Sir Ysambrace hym umbithoghte  
+Appone a horse that coles broghte  
+That he wolde thedir ryde.
+
+XXXVII.
+
+Bemes thane herde he blowe fulle lowde,  
+[And sawe knyghtes and beryns prowde,]  
+And swerdes drawene one lofte.  
+He sett hym downe appone his kne,  
+To Jhesu Criste than prayes he,  
+And enterely hym bysoghte :  
+" Nowe, Lorde," he saide, " thou lene me grace in this felde,  
+ȝone heythene sowdanethatl may ȝelde  
+The woo he hase me wroghte !"
+
+XXXVIII.
+
+The knyghttes herte it was fulle gude,  
+And forthe he went with hardy mode,  
+And thryse he gonne hym sayne  
+For no wapene wolde he stynt ;  
+There lyffede none that hent his dynt,  
+Tille that his horse was slayne.  
+Than the knyghte to the grownde soughte,  
+A Crystyne erle hym helpede one lofte,  
+And owte of the batelle he hym broghte  
+Untille an heghe mountayne ;  
+And stoppede his wondis that gunne blede,  
+And sythene he horsede hym one a stede,  
+And thane he soghte agayne.
+
+XXXIX.
+
+Bot whenne he was horsede on a stede,  
+He sprange als any sparke one glede  
+With grymly growndyne gare ;  
+The beryns he hitt appone the node,  
+Thorowe the breste-bane it wode,  
+And ȝit es sene whare his horse stode,  
+And salle be evermare !  
+Thane rode he up at ane heghe mountayne,  
+And thare the sowdane hase he slayne,  
+And many that with hym were ;  
+Thre dayes and thre nyghttes  
+Agaynes the Sarazenes helde he fyghttes,  
+And the batelle ve[n]queste he thare.
+
+XL.  
+
+And whenne the Sarazenes were alle slayne,  
+The Crystene kynges were fulle fayne,  
+Thay made thame gamene and glee.  
+The kyng thane askede after that mekille knyght,  
+That hase done so doghetyly in this fyghte,  
+That I may never hym see :  
+Erles and baronns thay hafe hym soghte,  
+And byfore the kynge thay hafe hym broghte,  
+A fulle sare wondide mane was hee !  
+The kyng his name faste fraynes thane,  
+" Sir," he saide " I am a smethymane,  
+Whate es jour wille with me ?"
+
+XLI.
+
+The kyng ansuerde the knyghte thane,  
+" Wondir I hafe that any smethymane  
+In werre was ever so wyghte."  
+The kynge bad that he solde hafe mete and drynke,  
+And alle that he wolde after thynke,  
+Tille he hade coverde his myghte ;  
+And thane by his crowne the kyng sware,  
+That whenne he were coverde of his care,  
+That he wolde dubbe hym knyghte.  
+And at a nunrye the knyght was levede,  
+To hele the wondes in his hevede,  
+That he had in the fyghte.
+
+XLII.
+
+The nonnes of hym thay were fulle fayne,  
+For that he hade the Sarazenes slayne,  
+And those haythene houndes ;  
+And of his paynnes sare gunne thame rewe,  
+Ilke a daye thay made salves newe,  
+And laid thame tille his wondes.  
+Thay gafe hym metis and drynkis lythe,  
+And helid the knyghte wondir swythe;  
+And within a lyttille stownde,
+
+XLIII.
+
+The knyghte purvayed bothe slavyne and pyke,  
+And made hymselfe a palmere lyke,  
+And thoghte that he wolde wende.  
+His leve he tuke, withowttyne lesse,  
+And thankede mekille the pryores,  
+And alle hir nunnes hende.  
+The righte waye thane takes he  
+To a havene of the Grekkes see,  
+Als Jhesu Cryste hym sende.  
+A schippe he fonde alle redy ȝare,  
+With a marynere alle bowne to fare,  
+In Acris gunne thay lende.
+
+XLIV.
+
+Whenne thay in that havene lenede,  
+With wery bones the knyghte up-wenede  
+In to that hay thene stede ;  
+And sevene ȝere he was fully thore,  
+With hungre, and thriste, and bones sore,  
+In storye thus als we rede.  
+Fulle weryly thane ȝode he thore aye,  
+And wrechidly one nyghttis he laye  
+In his povre wede,  
+Goddes werkkes for to wyrke,  
+To serve Gode and haly kyrke,  
+And to mende hir are mysdede.
+
+XLV.
+
+So it by-felle hym sonne onone,  
+That alle a syde of a cunntré he hase thurgh gone,  
+Bot mete ne drynke couthe he gete none,  
+Ne house to herbere hyme inne ;  
+Withowttene the burghe of Bedeleme,  
+He layde hym downe by a welle streme,  
+Fulle sore wepande for pyne.  
+And als he laye, abowte mydnyghte  
+Thare come an angelle faire and bryghte,  
+And broghte hym brede and wyne.  
+" Palmere," he sayse, " welcome thou bee,  
+The kynge of hevene wele gretis the,  
+Forgyffene erre synnes thyne !
+
+XLVI.
+
+" And welecome," he sais, " Syr Ysambrace !  
+Forgeffene es the alle thi tryspase,  
+For sothe als I the sayne !  
+And wele the gretis now oure hevens kynge,  
+And grauntes the nowe his dere blyssynge,  
+And byddes the torne agayne."  
+The knyghte knelide thane appone his knee,  
+Jhesu Criste thane thankede hee,  
+He wepide so was he fayne :  
+Bot wyste he never whedirwarde to gonne,  
+For had he nowre no wonnynge wone,  
+Bot aye to walke in payne.
+
+XLVII.
+
+Sevene kynges landes hase he gone thurgh,  
+Untille he come tille a riche burgh,  
+Thare als a castelle inne stode ;  
+Thenne herde he telle ther wonned a qwene,  
+That was a lady fayre and schene,  
+And grete worde of hir ȝode,
+
+XLVIII.
+
+That everylke a daye scho gyffes at hir ȝate,  
+To povre mene that golde wille take,  
+Fulle many fand scho there ;  
+Ilkone hade a florence, noghte to layne ;  
+Sir Ysambrace was never so fayne,  
+Hym hungrede never so sare !  
+Of povre mene that myghte ille goo,  
+Thay tuke inne welle a sexty or moo,  
+Of thame that sekeste were ;  
+And in thay tuke syr Ysambrace,  
+At myschefe thay sawe wele that he was,  
+And of hym thame rewede sare.
+
+XLIX.
+
+The riche qwene in haulle was sett,  
+Knyghttes hir serves to handes and fete,  
+Were clede in robis of palle ;  
+In the floure a clothe was layde,  
+" This povre palmere," the stewarde sayde,  
+" Salle sytt abowene ȝow alle."  
+Mete and drynke was forthe broghte,  
+Sir Ysambrace sett and ete noghte,  
+Bot luked abowte in the haulle.  
+So mekille he sawe of gamene and glee,  
+And thoghte what he was wonnt to be,  
+And terys lete he falle.
+
+L.  
+
+So lange he salt and ete noghte,  
+That the lady grete wondir thoghte,  
+And tille a knyghte gane saye,  
+" Bryng a chayere and a qwyschene.  
+And sett ȝone povre palmere ther-in,  
+That he to me telle maye  
+What tydans that he hase herde and sene  
+In haythynenes, whare he hase bene  
+In many a wilfulle waye."  
+A riche chayere than was ther fett,  
+This povre palmere ther-in was sett,  
+He tolde hir of his laye.
+
+LI.
+
+And so nobilly he hase hir tolde,  
+That scho myghte frayne hym what scho wolde,  
+To whils that he there sett ;  
+" Now, palmere," scho said, " I salle the gyffe  
+Evermare whils I may lyfe,  
+Thou salle hafe clothe and mete,
+
+LII.
+
+" And a mane to serve the daye and nyghte,  
+And a chambir faire and bryghte  
+Withinne the castelle walle."  
+The palmere thankes that lady free,  
+And in hir courte thare thus duellys he,  
+And thankes God of alle.  
+He duellid there fulle many a ȝere,  
+Tille that he was bothe hale and fere,  
+And servede in that haulle ;  
+He was mane bothe fayre and heghe,  
+Alle had wondir that hym see,  
+So stylle he was with-alle.  
+And when knyghtes went to put the stane,  
+Twelve fote over thaym everylke ane,  
+He keste it als a balle ;  
+Therefore at hym thay hade envy ;  
+A tornament than did thay crye,  
+Thay thoghte to do hym quede,  
+And schames dede with-alle.  
+That daye the tournament solde be stede,  
+Thay horsede hym on ane olde crokede stede,  
+And ȝitt for-thoghte thame alle.
+
+LIII.
+
+Bot by syr Ysambrace hade redyne thurgh the felde,  
+There was none that undir schilde  
+Durste mete his crokede stede,  
+That he ne gafe hym swylke a clowte,  
+That bothe his eghne stode one strowte ;  
+Wele a sevene score garte he blede !  
+And some he keste into a slake,  
+That bothe braste neke and bakke,  
+And many flede for drede :  
+The qwene hirselfe at hym faste loghe,  
+And sayd, " My palmere es styffe enoghe,  
+He es wele worthi to fede !"
+
+LIV.
+
+And so it byfelle ones appone a daye,  
+The palmere wente to the wode to playe,  
+Als it was are his kynde;  
+The palmere sawe a neste one heghe,  
+A rede clothe therinne he seghe  
+Owte-wappande with the wynde ;  
+And to the neste thane gane he wynne,  
+His awene golde he sawe therinne,  
+His mantille thare gane he fynde.  
+With eghne whenne that he sawe the golde,  
+That his wyfe was fore solde,  
+His sorowe bygane to mene.
+
+LV.
+
+The golde unto his chambir he bare,  
+And hyd it fulle prevaly thare,  
+And wepande he went awaye ;  
+And aye whenne he gunne the golde see,  
+He grette fulle sare for his lady,  
+And to pyne tornes alle his playe !  
+So lange the palmere lede that lyffe,  
+That with knyghtes it wexe fulle ryffe,  
+And to the lady thay gane it saye.
+
+LVI.
+
+And so it felle appone a daye,  
+The palmere went to the wode to playe,  
+His myrthis for to mene ;  
+The knyghtes brake up his chambir dore,  
+And fande the golde right in the flore,  
+And bare it unto the qwene ;  
+And als sone als scho saw it with syghte,  
+In swonyng than felle that swete wyghte,  
+For scho had are it sene !  
+Scho kyssede it, and sayde, " Allas !  
+This golde aughte syr Ysambrace,  
+My lorde was wonte to bene !"
+
+LVII.
+
+Than scho to the knyghtes tolde,  
+How scho was for that golde solde,  
+And hir lorde was wondide sore ;  
+" Bot faste whenne ȝe the palmere see,  
+Dose hyme swythe to speke with me,  
+Aftir hym me langes fulle sore."  
+The knyghtes gane brynge hym to the haulle,  
+The lady gane hym to concelle calle,  
+And fraystes at hym there,  
+" Was thou ever gentylle mane ?  
+Whare and howe that thou this golde wanne ?"  
+His sorowe thane wexe the mare !
+
+LVIII.
+
+With dulefulle mode and herte fulle sare,  
+He gafe the lady ane ansuare,  
+And one his knee hym sett ;  
+And a fulle nobille tale ther tille hir he tolde,  
+" My wyfe was for this golde solde,  
+Myselfe was fulle sare bett !"  
+And downe than knelide the lady byfore his face,  
+And sayde, " Welecome, my lorde syr Ysambrace !"  
+Fulle grete joye scho hade in herte.
+
+LIX.
+
+Thane aythir of other were so fayne,  
+That thay myghte no lengere layne,  
+Bot to the knyghtes it tolde ;  
+Thane crownnede he was with riche gyfte,  
+And made hym kynge, that are was knyghte,  
+Over alle those knyghttes bolde.
+
+LX.
+
+And whenne he was kynge and bare the crowne,  
+He sent his sande fra towne to towne,  
+Tille ylke a ryche ceté,  
+And he gerte krye in borowes bolde,  
+Riche and povre, bothe ȝonge and olde,  
+That alle solde crystende bee ;  
+And thay that wolde noghte do swaa,  
+He wolde thame bathe brynne and slaa,  
+Solde nothynge for thaire lyfe gaa,  
+Silvere, golde, nor fee !
+
+LXI.
+
+A riche kynge was syr Ysambrace,  
+In mare welthe thane ever he was  
+Of haythene landes thare ;  
+Crystene lawes to kepe in that tyde,  
+Sandes he sente fulle ferly wyde  
+To thame that haythene ware.  
+Bot thay turnede alle tille ane assent,  
+That schortly there-to thayne wolde conscent,  
+Bot to a batelle fare.  
+Thay sayde, and thay myghte hym hent,  
+That he solde come to thaire perlement,  
+And there be bothe hangede and brynt,  
+And alle that with hym were.
+
+LXII.
+
+A daye of batelle thus was ther sett,  
+And alle the haythene ther was mett  
+Sir Ysambrace to slaa ;  
+Fele Sarazenes semblede that tyde,  
+Frafele ferre costes to that batelle thay ryde  
+With knyghtes many and maa.  
+Sir Ysambrace was fulle of care,  
+He hade no mene with hym to fare,  
+His mene awaye gane gaa :  
+The Sarazenes faylede hym at that nede,  
+Be he was horsede one his stede  
+Thay were alle flede hym fraa.
+
+LXIII.
+
+Sir Ysambrace was thane fulle waa,  
+He kyssede his lady and wolde furthe gaa  
+With sorow and hert fulle sare ;  
+A dolefulle worde thane gunne he saye,  
+" Nowe, certis, lady, hafe now gud daye,  
+For nowe and evermare !"  
+"A. ! lorde," scho sayd, "helpe that I were dyghte  
+In armours, als I were a knyghte,  
+And with the wille I fare ;  
+And God that made bothe see and lande,  
+My saule I wyte into thy hande,  
+For I kepe to lyffe no mare !"
+
+LXIV.
+
+Sone was the lady dyghte  
+In armours, als thofe scho were a knyghte,  
+And had bothe spere and schelde ;  
+Agaynes thrytty thowsandez and maa  
+Come there nane bot thay twaa,  
+Nyne hundrethe sone hafe thay slayne !  
+And righte als thay solde hafe takene bee,  
+There come rydande knyghttes three  
+Appone thre bestes wylde ;  
+One on a lebarde, another on a unycorne,  
+And one on a lyone he come by-forne,  
+That was thair eldeste childe !
+
+LXV.
+
+In angells wede were thay alle clede,  
+An angelle thame to the batelle lede,  
+That semely was to sene :  
+Thay slewe the haythene knyghttes swa,  
+And of the Sarazenes many alswa,  
+ȝa twentty thowsandez and thre.  
+Sir Ysambrace prayed the knyghtes swaa,  
+Hame with hym that thay walde gaa,  
+And be of his menȝé ;  
+Thay ansuerde, als the angelle tham kende,  
+" For the were we to the batelle sende,  
+Thyne awenne sonnes are wee ! "
+
+LXVI.
+
+Ofte was syr Ysambrace wele and woo,  
+Bot never ȝitt als he was tho,  
+One knees than he hym sett ;  
+He grett, and sayde wyth mylde stevene,  
+" Thankede be the heghe kyng of hevene,  
+My bale thane hase he bett !"  
+Sir Ysambrace and that lady free  
+Kyssed alle thaire childir three,  
+Ilkane for joye thay grett ;  
+Mare joye myghte never no mane see,  
+Thane men myghte one thame see,  
+In armes whenne thay were mett.
+
+LXVIL.
+
+A ryche ceté was there besyde,  
+And syr Ysambrace by fore gane ryde  
+His sonnes hame for to lede ;  
+Chambirs fande thay faire and bryghte,  
+Robys faire and redy dyghte,  
+And thare thay chaunged thaire wede;  
+Riche metis wantted thame nane,  
+Nowther of wylde nor of tame,  
+Nor no riche brede.  
+Fyve landis thus gunne thay wynne,  
+And stabylde Crystyndome thame inne,  
+In storyes thus als we rede.
+
+LXVIII.
+
+A fulle riche kynge thane was syr Ysambrace,  
+And coverde he hase alle his myscas,  
+He lyffes nowe fulle richely ;  
+Ilkane of his sonnes he gafe a lande,  
+Durste na mane agayne thame stande,  
+Whare so that thay solde fare.  
+Thay lyffede and dyed with gud entent,  
+And sythene alle tille hevene thay went,  
+Whenne that thay dede ware.  
+Praye we now to hevenes kynge,  
+He gyffe us alle his dere blyssynge  
+Nowe and evermare !
+
+*Amene. Amene.*  
+*Explicit Syr Ysambrace.*
+
+```
+
+Halliwell-Phillips include several variants of the opening stanzas:
+
+```{admonition} Halliwell-Phillipps, *Notes*
+:class: dropdown
+In Halliwwell-Phillipps, *The Thornton romances*, 1844
+:class: dropdown
+
+James Orchard Halliwell-Phillipps, [*The Thornton romances : the early English metrical romances of Perceval, Isumbras, Eglamour, and Degrevant : selected from manuscripts at Lincoln and Cambridge*](https://archive.org/details/thorntonromances30halluoft/page/88/mode/2up), 1844, pp. 267-273
+
+L. 1. There are several early copies of this romance, differing considerably from each other. It would take too much space to point out all the numerous variations, but the commencing lines of each are here given.
+
+Hynd in halle, yf ye wylle here  
+Of elders that befor hus were,  
+That gud were at nede;  
+Jhesu Cryst, Heven kyng,  
+Grant us alle thi blessyng,  
+And heven tylle owre mede.  
+I wylle yow telle of a knyȝt,  
+That was bothe harde and wyȝth,  
+And duȝty in every dede;  
+His name was callyd Ysumbras,  
+For seche a knyjth as he was  
+Non levys now in lede.
+
+*MS. Advocates' Library, Edinburgh*, 19. 3. 1.
+
+[H]ende in halle, and ȝe schalle here  
+Of elders that be-forne us were,  
+There lyves how thei dyde lede,  
+I schall ȝow telle a wonder case,  
+Frendes, herkyns how it was,  
+ȝe schalle have heven to mede.  
+I wylle ȝou telle of a knyght,  
+That was both herdy and wyght,  
+A dughty mone he was;  
+Syre Isombras was his name,  
+A nobulle knyght of ryalle fame,  
+And stronge in every cas.
+
+*MS. Ashmole* 61, f. 9.
+
+*Hic incipit de milite Ysumbras.*
+
+Hende in halle, and ȝe wole here  
+Off eldres that before us were,
+[There lyves how thei dyde lede.]  
+Jhesu Cryst, hevene kyng,  
+Geve hem alle hys blessyng,
+[And heven tille theire mede.]  
+I wole ȝow telle off a knyȝt,  
+That was bothe hardy and wyȝt,
+And doughty man of dede ;  
+Hys name was callyd sere Ysumbras,  
+So douȝty a knyȝt as he was,
+Ther levyd non in lede.
+
+*MS. Coll. Caii Cantab.* 175.
+
+*Here begynneth the hystorye of the valyaunte knyght syr Isenbras.*
+
+Lordynges, lysten and youe shall heare  
+Of elders that before us weare,  
+That lyved in lande and deede;  
+Jesu Chryste, heaven kynge,  
+Graunte them all hys dere blessinge,
+And heaven to theyr meede.
+Ye shall well heare of a knyght,  
+That was in warres full wight,
+And doughtye of hys deede;  
+Hys name was syr Isenbras,  
+Manne nobler than he was
+Lyved none with brede.
+
+*MS. Douce* 261, f. 1.
+
+God that made both erthe and hevene,  
+And alle this worlde in deyes sevene,  
+That is fulle of myȝthe;  
+Lende us alle his blessynge,  
+Lasse and more, olde and ȝynge,  
+And kepe us day and nyȝte !  
+I wylle 3ou telle of a knyȝte,  
+That dowȝty was in eche a fyȝte,  
+In towne and eke in felde ;  
+Ther durste no man his dynte abyde,  
+Ne no man a3eyn hym ryde
+With spere ne with schelde.
+
+*MS. Cotton. Calig.* A. n. f. 128.
+
+He that made both erthe and heven,  
+And al this worlde in daies sevyn,  
+That is ful of myghth;  
+Send us alle his blessyng,  
+Las and more, olde and yong,  
+And kepe us day and nyght !  
+Y wol you telle of a knyght,  
+That was douȝty in ilke fight,  
+In towne and eke in fielde,  
+Ther durst no man his dynt abide,  
+With spere ne with schilde.  
+Man he was riche y-nowe,  
+Ox to drawe in his plowe,  
+And stedis in his stalle;  
+Man he was curteyse and hynde,  
+Every man was his frende,  
+He was lord of alle.  
+Curteis and hynde he was,  
+His name was clepid sir Isombras.
+
+*MS. in the Royal Library at Naples.*
+
+The MS. last mentioned is described by Mr. Laing in the Reliq. Antiq. vol. ii. p. 67, and was apparently transcribed in the year 1457. To the same gentleman I am indebted for the account of the Edinburgh manuscript, and to the Rev. J. J. Smith for the extract from the copy in Caius College library. The copy in MS. Douce 261, was written as late as 1564, and probably copied from one of the early printed editions. Copland printed an edition of Isumbras, in 4to. no date, a copy of which is in Garrick's collection of old plays in the British Museum ; and one leaf of another early edition is preserved in Douce's library. Copland's edition has been reprinted by Mr. Utterson, in his " Select Pieces of Early Popular Poetry," 8vo. Lond. 1817, i. 77-112.
+
+L. 16. *So was he bothe faire and heghe.* — The Caius College MS. reads, —
+
+" He was long man and heye,  
+The fayreste that evere man seye,  
+A gret lord was he."
+
+The MS. last mentioned is described by Mr. Laing in the Reliq. Antiq. vol. ii. p. 67, and was apparently transcribed in the year 1457. To the same gentleman I am indebted for the account of the Edinburgh manuscript, and to the Rev. J. J. Smith for the extract from the copy in Cains College library. The copy in MS. Douce 261, was written as late as 1564, and probably copied from one of the early printed editions. Copland printed an edition of Isumbras, in 4to. no date, a copy of which is in Garrick's collection of old plays in the British Museum ; and one leaf of another early edition is preserved in Douce's library. Copland's edition has been reprinted by Mr. Utterson, in his " Select Pieces of Early Popular Poetry," 8vo. Lond. 1817, i. 77-112.
+
+L. 16. *So was he bothe faire and heghe.* — The Caius College MS. reads, —
+
+" He was long man and heye, The fayreste that evere man seye, A gret lord was he."
+
+L. 1 9. *He luffede glewmene.* — In the romance of Sir Degrevant are several curious notices of gifts to minstrels. See the present volume, pp. 180, 225, 254, and Sir Eglamour, p. 176. In " Manners and Household Expenses," p. 141, is printed a curious roll containing the names of the minstrels who played before Edward I. at Whitsuntide in 1306. They were divided into ranks, five of them being styled kings, each of whom had five marks. At p. 110 of that work mention is made of a valuable gold cup being given to a minstrel ; but robes and garments were the more usual presents. See Piers Ploughman, ed. Wright, pp. 259, 274. The title of king `[Percy, in the notes to his Essay, has collected much curious information relative to this title of the ancient minstrels.]` was merely a popular dignity, and does not necessarily imply a greater degree of " dignity" than Ritson allowed the old " glewmene." Like all professors of music and the light arts, the majority of them were always a wandering class of persons, whose manner of living must generally have excluded them from any rank in society. They were, however, of " great admittance " in the houses of the nobility. We have a curious instance of this in the romance of Orpheo, who, when he is questioned by the king of the fairies how he had the audacity to enter his palace, replies,
+
+" Syre," he seyd, " I trow wele  
+I ame hot a pore mynstrelle,  
+And ȝit it ys the maner off us,  
+For to seke to gret lordes hous;  
+And thoff we not welcome be,  
+ȝit we behovyth to profere our gle."
+
+*Sir Orfeo, MS. Ashmole* 61.
+
+The reader will find a curious passage concerning the courtesy of the minstrels in the present volume, p. 242. For further information on the subject, see the dissertations of Percy and Ritson, Warton's Hist. Engl. Poet. ed. 1840, ii. 309, &c. In the sixteenth century, the order had fallen altogether into disrepute. See Northbrooke's Treatise, ed. Collier, p. 114.
+
+L. 28. *Knave.*— " Gentylle," Edinburgh MS.
+
+L. 47. *Werldes wele.* — This line is omitted in the Cottonian MS.
+
+L. 71. *Whate wondir was thofe hym ware wo.* — This line occurs in other romances, as in Octavian, MS. Cantab. Ff. ii. 38, f. 84.
+
+L. 79. *His bestes werene alle slayne.* — The Cottonian MS. reads, " Thy menne be manye sleyne ;" and Copland's edition, " With venyme are they blowe," i. e. swelled. See Malone's Shakespeare, ed. 1821, xii. 425.
+
+L. 102.* Alle als nakede als thay were borne.* — That is, they jumped out of their beds to avoid the fire. See 1. 104. The custom of sleeping without night linen has been so frequently illustrated, that a passing remark is all that is necessary. From the Norman Conquest to the time of Elizabeth night-gowns were scarcely known, both sexes sleeping quite naked. The Saxons, however, appear to have worn close shirts at night. See Wright's notes to Piers Ploughman, p. 557 ; Sir F. Madden's notes to Havelok, p. 198 ; Strutt's Dress and Habits of the People of England, ed. Planché, ii. 224; Reynard the Foxe, ed. Thoms, p. 175.
+
+L. 107. *He levyde so.* — " That erste were," MS. Cott.
+
+L. 110. *That.* — MS. Cott. has " be," which seems a better reading.
+
+L. 123. *Offe.* — Perhaps we should read " tooke offe."
+
+L. 126. *His.*— " Hir," MS.
+
+L. 137. *I ȝowe.* — " Clerkes," Cott. MS.
+
+L. 143. *And made thaire, &c.* — The Cottonian MS. reads, " And forth they wente her waye."
+
+L. 152. *For saynte charité.* — That is, " for holy charity." Later writers made a kind of allegorical saint of Charity. Ophelia sings, " By Gis and by Saint Charity," in Hamlet, Act iv. Sc. 5 ; and Spenser writes, —
+
+" Ah ! dear Lord, and sweet Saint Charity !  
+That some good body once would pity me."
+
+L. 185. This line, which is wanting in the original, has been supplied from the Cottonian MS. For *went* read *wente*.
+
+L. 298. *Hir to.* — Perhaps we should read " to hir."
+
+L. 300. *Schortly naye.* — So, in an inedited tale, —
+
+When they come in hys presence, they seyde hym *schortly nay*,  
+For they knewe full wele hys lyfe, how he had levyd many a day.
+
+*MS. Cantab.* Ff. ii. 38, f. 52.
+
+L. 343. *Mete and drynke.* — This and the next triplet are transposed in the MS., but their present arrangement is necessary to the sense.
+
+L. 347. " The knyȝte was kalled aȝeyne," Cott. MS.
+
+L. 376. *The knyghte folowed, &c.*— The Cottonian MS. reads,—
+
+" The knyȝte was both hende and fre,  
+And folowed hym to the Grekes see,  
+Ther over the gryflyn he flyȝe."
+
+L. 380. *Ofte was that, &c.* — A kind of proverbial phrase occurring in other romances. It is repeated at p. 119.
+
+Ofte hade Horn be wo,  
+Ah never wors then him wes tho.
+
+*Kyng Horn*, 119-20.
+
+L. 398. *For mete, he sayde.* — Perhaps it would be better to transpose this and the next line.
+
+L. 498. *A palmere lyke.* — Compare the romance of Octavian, 1. 1357.
+
+Pyk and palm, schryppe and slaveyn,  
+He dyghte hym as palmer, queynt of gyn.
+
+*Weber's Met. Rom*. iii. 214.
+
+L. 520. *Hir.* — So in the MS., but probably an error for *his*.
+
+L. 548. *Inne stode.* — The MS. reads " stode inne," but the metre requires our arrangement.
+
+L. 606. *To put the stane.* — A game of considerable antiquity. Fitzstephen mentions casting of stones among the amusements of the young Londoners in the twelfth century. See Langtoft's Chronicle, p. 26 ; Octavian, 895 ; Strutt's Sports and Pastimes, ed. 1830, p. 75 ; Sir F. Madden's notes to Havelok, p. 192.
+
+L. 786. *He gafe a lande.*— In Copland's version, the distribution to the three sons is more particularly described. See Mr. Utterson's reprint, p. 112.
+```
+
+A rather more ornate version, apparently with minor corrections, based on Halliwell's version can also be found in F. S. Ellís, [Sir Ysambrace](https://archive.org/details/SyrYsambrace/page/n9/mode/2up), 1897.
+
+It is also interesting to compare two different "modern" English narrative versions of the complete tale, each interspersed with different verses from the the original metrical verse:
+
+```{admonition} In Ellis, *Specimens of early English metrical romances*, 1811
+:class:dropdown
+
+George Ellis, *Specimens of early English metrical romances, chiefly written during the early part of the fourteenth century; to which is prefixed an historical introduction, intended to illustrate the rise and progress of romantic composition in France and England*, [Vol. III](https://archive.org/details/specimensofearly03elli/page/158/mode/2up), 1811, pp. 158-181
 
 SIR ISUMBRAS.
 
@@ -225,14 +1450,12 @@ When that they dead were.
 Jesu Christ, heaven's king,  
 Give us, aye, his blessing,  
 And shield us from care !
+```
 
----
+```{admonition} In Ashton, *Romances of chivalry*, 1887
+:class: dropdown
 
-https://archive.org/details/romancesofchival00ashtrich/page/82/mode/2up
-Romances of chivalry told and illustrated in fac-simile
-by Ashton, John, b. 1834
-Publication date 1887
-pp83-100
+John Ashton, [*Romances of chivalry told and illustrated in facsimile*](https://archive.org/details/romancesofchival00ashtrich/page/82/mode/2up), 1887, pp83-100
 
 Sir Isumbras
 
@@ -555,62 +1778,4 @@ They all departed in heavens lyght,
 To the whiche brynge us the trinitie,  
 Amen, Amen, for charitie.
 
----
-
-TO DO - check out the contents - other stories may be interesting... https://archive.org/details/romancesofchival00ashtrich/page/viii/mode/2up
-
-https://archive.org/details/SyrYsambrace/page/n13/mode/2up
-Syr Ysambrace
-Publication date 1897
-
----
-
-https://archive.org/details/thorntonromances30halluoft/page/88/mode/2up?q=%22Sir+Isumbras%22
-
-The Thornton romances : the early English metrical romances of Perceval, Isumbras, Eglamour, and Degrevant : selected from manuscripts at Lincoln and Cambridge
-by Halliwell-Phillipps, J. O. (James Orchard), 1820-1889
-
-Publication date 1844
-
-pp. 88-120
-
-THE ROMANCE OF SIR ISUMBRAS.
-
-[f. 109] Here begynnes the Romance off Syr Ysambrace.
-
-I.
-
-JHESU Crist, Lorde of hevene kynge,  
-Graunte us alle his dere blyssynge,  
-And hevene unto oure mede !  
-Now, hende in haule, and 3e wolde here  
-Of eldirs that by-fore us were,  
-That lyffede in arethede,  
-I wille 3ow telle of a knyghte,  
-That bothe was stalworthe and wyghte,  
-[And worth]ily undir wede :  
-His name was hattene syr Ysambrace,  
-Swilke a knyghte als he was  
-Now lyffes nowrewhare in lede.
-
-TO DO
-
-
-LXVIII.
-
-A fulle riche kynge thane was syr Ysambrace,  
-And coverde he hase alle his myscas,  
-He lyffes nowe fulle richely ;  
-Ilkane of his sonnes he gafe a lande,  
-Durste na mane agayne thame stande,  
-Whare so that thay solde fare.  
-Thay lyffede and dyed with gud entent,  
-And sythene alle tille hevene thay went,  
-Whenne that thay dede ware.  
-Praye we now to hevenes kynge,  
-He gyffe us alle his dere blyssynge  
-Nowe and evermare !  
-*Amene. Amene.*  
-*Explicit Syr Ysambrace.*
-
-Notes pp. 267-273
+```
