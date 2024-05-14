@@ -2,7 +2,6 @@
 
 A roller-coaster of a tale, presented as a satire that can be reasily told for laughs as meifrotune piles upon misfortune for the poor Sir Isumbras.
 
-
 ```{admonition} In Halliwwell-Phillipps, *The Thornton romances*, 1844
 :class: dropdown
 
