@@ -2,7 +2,7 @@
 
 A roller-coaster of a tale, presented as a satire that can be reasily told for laughs as meifrotune piles upon misfortune for the poor Sir Isumbras.
 
-```{admonition} In Halliwwell-Phillipps, *The Thornton romances*, 1844
+```{admonition} In Halliwell-Phillipps, *The Thornton romances*, 1844
 :class: dropdown
 
 James Orchard Halliwell-Phillipps, [*The Thornton romances : the early English metrical romances of Perceval, Isumbras, Eglamour, and Degrevant : selected from manuscripts at Lincoln and Cambridge*](https://archive.org/details/thorntonromances30halluoft/page/88/mode/2up), 1844, pp. 88-120
@@ -1018,7 +1018,7 @@ Halliwell-Phillips include several variants of the opening stanzas:
 
 ```{admonition} Halliwell-Phillipps, *Notes*
 :class: dropdown
-In Halliwwell-Phillipps, *The Thornton romances*, 1844
+In Halliwell-Phillipps, *The Thornton romances*, 1844
 :class: dropdown
 
 James Orchard Halliwell-Phillipps, [*The Thornton romances : the early English metrical romances of Perceval, Isumbras, Eglamour, and Degrevant : selected from manuscripts at Lincoln and Cambridge*](https://archive.org/details/thorntonromances30halluoft/page/88/mode/2up), 1844, pp. 267-273
