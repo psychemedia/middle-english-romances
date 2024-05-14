@@ -1079,13 +1079,13 @@ Lordynges, lysten and youe shall heare
 Of elders that before us weare,  
 That lyved in lande and deede;  
 Jesu Chryste, heaven kynge,  
-Graunte them all hys dere blessinge,
-And heaven to theyr meede.
+Graunte them all hys dere blessinge,  
+And heaven to theyr meede.  
 Ye shall well heare of a knyght,  
-That was in warres full wight,
+That was in warres full wight,  
 And doughtye of hys deede;  
 Hys name was syr Isenbras,  
-Manne nobler than he was
+Manne nobler than he was  
 Lyved none with brede.
 
 *MS. Douce* 261, f. 1.
@@ -1100,7 +1100,7 @@ I wylle 3ou telle of a knyȝte,
 That dowȝty was in eche a fyȝte,  
 In towne and eke in felde ;  
 Ther durste no man his dynte abyde,  
-Ne no man a3eyn hym ryde
+Ne no man a3eyn hym ryde  
 With spere ne with schelde.
 
 *MS. Cotton. Calig.* A. n. f. 128.
@@ -1257,9 +1257,9 @@ There they sat, under a thorn,
 Bare and naked as they were born,  
 Brought out of their bed.  
 A wofui man then was he.  
-When lie saw them all naked be.
-The lady said, all so alive, "  
-For nothing, sir, be ye adrad."  
+When he saw them all naked be.  
+The lady said, all so alive,  
+"For nothing, sir, be ye adrad."  
 He did off his surcote of *pallade*, `[Palata, Lat. Paletot, O. Fr. sometimes signifying a parlicular stuff, and sometimes a particular dress. See Du Cange.]`  
 And with it clad his wife.  
 His scarlet mantle then shore he ;  
@@ -1274,13 +1274,13 @@ Through forest they went days three,
 Till they came to the Greekish sea ;  
 They grette, and were full wo !  
 As they stood upon the land,  
-They saw a fleet come sailand,
+They saw a fleet come sailand,  
 Three hundred ships and mo.  
 With top-castels set on-loft,  
 Richly then were they wrought,  
 With joy and mickle pride :  
 A heathen king was therein,  
-That Christendom came to win ;
+That Christendom came to win ;  
 His power was full wide.
 
 It was now seven days since the pilgrims had tasted bread or meat ; the soudan's galley, therefore, was no sooner moored to the beach than they hastened on board to beg for food. The soudan, under the apprehension that they were spies, ordered them to be driven back on shore : but his attendants observed to him that these could not be common beggars ; that the robust limbs and tall stature of the husband proved him to be a knight in disguise ; and that the delicate complexion of the wife, who was " bright as blossom on tree," formed a striking contrast to the ragged apparel by which she was very imperfectly covered. They were now brought into the royal presence ; and the soudan, addressing Sir Isumbras, immediately offered him as much treasure as he should require, on condition that he should renounce Christianity, and consent to fight under the Saracen banners. The answer was a respectful but peremptory refusal, concluded by an earnest petition for a little food ; but the soudan, having by this time turned his eyes from Sir Isumbras to the beautiful companion of his pilgrimage, paid no attention to this request ;
@@ -1467,7 +1467,7 @@ The frontispiece is evidently much older than the printing, as the wood-block of
 Of all the nobles of his time, Sir Isumbras seems tohave been the most favoured. Of specially comely person, great strength, and prowess in arms, wealthy, and yet liberal of his wealth, with a beautiful wife and three lovely children — a happier existence could hardly be imagined ; and so the old chronicler seems to have, thought when he wrote.
 
 Ye shall well heare of a knight  
-That was in warre full wyght, `[Active]`
+That was in warre full wyght, `[Active]`  
 And doughtye `[Brave.]` of his dede.  
 Hys name was syr Isenbras,  
 Man nobler than he was,  
@@ -1510,7 +1510,7 @@ Thou shalt lose thy children all,
 And all thy landes free.  
 Thy lady goodlyest of all,  
 For feare of fyre shall flye thy hall  
-This daye or thou her se.
+This daye or thou her se.  
 The knyghte fell doune upon his kne  
 Underneth an Olyve tre  
 And helde up both his handes.  
@@ -1670,7 +1670,7 @@ The golde into the chambre he bare,
 Under his heade he putte it there,  
 Then wepynge he went his waye.  
 Ever when he the golde gan se,  
-Hys songe was well a waye.
+Hys songe was well a waye.  
 Were he never of chere so good  
 Whan he in hys chamber yode `[Went.]`  
 After he wepte all the daye.
@@ -1761,7 +1761,7 @@ It is needless to say that these three champions who arrived so opportunely were
 
 Than was Kynge Syr Isenbras  
 Of more welth than ever he was,  
-And come out of his care.
+And come out of his care.  
 To every sonne he gave a lande,  
 And crouned hym kynge with his hande,  
 Whyle they together were.  
