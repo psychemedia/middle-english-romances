@@ -12,6 +12,6 @@ These notes will also include working note versions of my own tellings as and wh
 
 If you would like to book me to tell any of these tales, or suggest other tales for the telling — as well as a booking to give me soemthing to aim for! — please get in touch.
 
---Tony Hirst, Apse Heath, Isle of Wight, May, 2024.
+--Tony "Monty" Hirst, Apse Heath, Isle of Wight, May, 2024.
 
 monty@tistales.org.uk
