@@ -1,18 +1,18 @@
 # Sir Orfeo
 
-A mediaeval retelling of the myth of *Orpheus and Eurydice*, which I've used a couple of times to frame the sinking of HMS Eurydice (see [*On the Loss of the Eurydice*](https://psychemedia.github.io/eurydice-resources/_preface.html)), recast as a tale of a proud (and not in a good way!) knight who is beset by misfortune and who sets out to recover his wife who is kidnapped into the land of Faerie.
+A mediaeval retelling of the myth of *Orpheus and Eurydice*, which I've used previously  to frame the sinking of HMS Eurydice (see [*On the Loss of the Eurydice*](https://psychemedia.github.io/eurydice-resources/_preface.html)), recast as a tale of a proud (and not in a good way!) knight who is beset by misfortune and who sets out to recover his wife who is kidnapped into the land of Faerie.
 
-I first came across this in the back of the paperback version of *Sir Gawain and the Green Knight, with Pearl and Sir Orfeo*, Harper Collins, 2021, translated by J.R.R. Tolkien, ed. C. Tolkien.
+I first came across this in the back of the paperback version of *Sir Gawain and the Green Knight, with Pearl and Sir Orfeo*, Harper Collins, 2021, translated by J.R.R. Tolkien, ed. C. Tolkien, and have since told it as part of a *Stories'n'Harp* set, accompanied by harpist Theresa Ellis.
 
 ````{admonition} Example telling
 :class: dropdown seealso
-An example telling, with a harp, by someone not me!
+An example telling, with a harp, by someone not me, and a harpist not Theresa...
 
 ```{youtube} A2LpzXKG_hk
 ```
 ````
 
-To get a flavour of the tale, Krapp provides the following narrative version, published in 1921: 
+To get a flavour of the tale, Krapp provides the following narrative version, published in 1921:
 
 ```{admonition} In Krapp, *Tales of true knights*, 1921
 :class: dropdown
