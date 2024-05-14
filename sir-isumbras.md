@@ -1227,7 +1227,7 @@ L. 606. *To put the stane.* — A game of considerable antiquity. Fitzstephen me
 L. 786. *He gafe a lande.*— In Copland's version, the distribution to the three sons is more particularly described. See Mr. Utterson's reprint, p. 112.
 ```
 
-A rather more ornate version, apparently with minor corrections, based on Halliwell's version can also be found in F. S. Ellís, [Sir Ysambrace](https://archive.org/details/SyrYsambrace/page/n9/mode/2up), 1897.
+A rather more ornate version, at least in terms of typography, and apparently with minor corrections, based on Halliwell's version can also be found in F. S. Ellís, [Sir Ysambrace](https://archive.org/details/SyrYsambrace/page/n9/mode/2up), 1897.
 
 It is also interesting to compare two different "modern" English narrative versions of the complete tale, each interspersed with different verses from the the original metrical verse:
 
