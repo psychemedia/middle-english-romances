@@ -17,3 +17,4 @@ https://archive.org/details/fingerringlorehi00jone_0/page/121/mode/1up?q=%22sir+
 troubadours and courts of love
 https://archive.org/details/troubadourscourt00rowb/page/n26/mode/1up?q=%22sir+perceval+of+galles%22
 
+Sir Isumbras in: Romances of chivalry told and illustrated in facsimile, John Ashton, 1887 https://archive.org/details/romancesofchival00ashtrich/page/92
