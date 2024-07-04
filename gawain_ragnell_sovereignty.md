@@ -958,7 +958,7 @@ After five or six days more the time came for the answer. The king had hardly ri
 
 Dame Ragnell was also waiting for Arthur, and would hear of nothing but immediate fulfilment of her bargain. She followed the king to his court, and required him to produce Gawain instantly, who came and plighted his troth. The queen begged her to be married privately, and early in the morning. Dame Ragnell would consent to no such arrangement. She would not go to church till high-mass time, and she would dine in the open hall. At her wedding she was dressed more splendidly than the queen, and she sat at the head of the table at the dinner afterwards. There her appetite was all but as horrible as her person: she ate three capons, three curlews, and great bake meats all that was set before her, less and more.
 
-A leaf is wanting now, but what followed is easily imagined. She chided Gawain for his offishness, and begged him to kiss her, at least. "I will do more," said Gawain, and, turning, beheld the fairest creature he ever saw. But the transformed lady told him that her beauty would not hold: he must choose whether she should be fair by night and foul by day, or fair by day and foul by night. `[]` Gawain said the choice was hard, and left all to her. "Gramercy," said the lady, "thou shalt have me fair both day and night." Then she told him that her step-dame had turned her into that monstrous shape by necromancy, net to recover her own till the best knight in England had wedded her and given her sovereignty in all points.
+A leaf is wanting now, but what followed is easily imagined. She chided Gawain for his offishness, and begged him to kiss her, at least. "I will do more," said Gawain, and, turning, beheld the fairest creature he ever saw. But the transformed lady told him that her beauty would not hold: he must choose whether she should be fair by night and foul by day, or fair by day and foul by night. `[]` Gawain said the choice was hard, and left all to her. "Gramercy," said the lady, "thou shalt have me fair both day and night." Then she told him that her step-dame had turned her into that monstrous shape by necromancy, not to recover her own till the best knight in England had wedded her and given her sovereignty in all points.
 
 A charming little scene follows, in which Arthur visits Gawain in the morning, fearing lest the fiend may have slain him.
 
@@ -993,9 +993,9 @@ I ame full lothe to ryse.'
 [740] Sir Gawene rose, ande in his hande he toke
 His fayr lady, ande to the dore he shoke,
 Ande opynyde the dore fulle fayre;
-Sbe stode in her smoke alle by that syre,
+She stode in her smoke alle by that syre,
 Her her `[ hed, MS.]` was to her knees as rede as golde wyre,
-745 'Lo!this is my repayre.
+745 'Lo! this is my repayre.
 Lo!' sayde Gawene Arthoure vntille,
 'Syr, this is my wife, dame Ragnelle,
 That sauyde onys yor lyfe.'
@@ -1091,7 +1091,7 @@ Hee see a lady where shee sate
 Betwixt an oke and a greene hollen;  
 She was cladd in red Scarlett. `[This was a common phrase in our old writers: so Chaucer, in his Prologue to the Canterbury Tales, says of the Wife of Bath: "Her hosen were of fyne scarlet red." — Percy.]`
 
-`[with one eye instead of her mouth, and a crooked pose. She asks, 'Who are you?Fear not me. Perhaps I may succour you.' 'Succour me, and Gawain shall marry you.']`
+`[with one eye instead of her mouth, and a crooked pose. She asks, 'Who are you? Fear not me. Perhaps I may succour you.' 'Succour me, and Gawain shall marry you.']`
 
 [16] Then there as shold haue stood her mouth,  
 Then there was sett her eye;  
@@ -1236,9 +1236,9 @@ When I with thee shold play
 Yet I had rather, if I might,  
 Haue thee fowle in the day.'
 
-[43] 'What!when lords goe with ther feires,' shee said  
+[43] 'What! when lords goe with ther feires,' shee said  
 'Both to the ale and wine,  
-Alas!then I must hyde my selfe,  
+Alas! then I must hyde my selfe,  
 I must not goe withinne.'
 
 [44] And then bespake him gentle Gawaine,  
@@ -1494,7 +1494,7 @@ All clad in red scarlette.
 Her nose was crookt and turnd outwarde,  
 Her chin stoode all awrye;  
 And where as sholde have been her mouthe,  
-Lo!there was set her eye;
+Lo! there was set her eye;
 
 Her haires, like serpents, clung aboute  
 Her cheekes of deadlye hewe:  
