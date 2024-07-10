@@ -10,7 +10,7 @@ The core of the tale is follows:
 
 In [*The Legend of Sir Gawain; studies upon its original scope and significance*](https://archive.org/details/cu31924072606613/page/n65/mode/2up), 1897, p48, Jessie L. Weston summarises an 1839 version of the original metrical romance by Frederic Madden in the following terms:
 
-> ... In the fragmentary poem of the *The Marriage of Sir Gawayne* `[Sir Gawayne, Madden, p. 288.]` we find the hero, in order to rescue King Arthur from the snares of a powerful enchanter, chivalrously wedding the magician's sister, a lady of unexampled hideousness. On the marriage night she reveals herself as beautiful as she was previously repulsive, and gives her husband the choice whether he will have her beautiful by night, and hideous by day, or vice versA. Gawain, with that courtesy for which he was famous, leaves the decision to the lady; whereupon she tells him she has been laid under a spell to preserve this repulsive form till she finds a knight courteous enough 'to give her her will.' The spell is now broken, and she will be beautiful alike by night and by day.
+> ... In the fragmentary poem of the *The Marriage of Sir Gawayne* `[Sir Gawayne, Madden, p. 288.]` we find the hero, in order to rescue King Arthur from the snares of a powerful enchanter, chivalrously wedding the magician's sister, a lady of unexampled hideousness. On the marriage night she reveals herself as beautiful as she was previously repulsive, and gives her husband the choice whether he will have her beautiful by night, and hideous by day, or vice versa. Gawain, with that courtesy for which he was famous, leaves the decision to the lady; whereupon she tells him she has been laid under a spell to preserve this repulsive form till she finds a knight courteous enough 'to give her her will.' The spell is now broken, and she will be beautiful alike by night and by day.
 
 Structurally, the tale  poses a riddle — Sir Gromer Somer Joure's challenge to Arthur — and then introduces several dilemmas (Arthur's unwillingness to speak for Sir Gawain in committing him to marriage, Dame Ragnell's question to Gawain), Dame Ragnell's answer to the riddle — letting the other person decide — is also the answer that resolves the dilemmas.
 
@@ -1744,4 +1744,4 @@ To Sir Gawaine and his lady gay.
 
 ````
 
-*This set of notes is still very much a work in progress, with several more ntoes to follow...*
+*This set of notes is still very much a work in progress, with several more notes to follow...*
