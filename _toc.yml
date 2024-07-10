@@ -4,6 +4,7 @@ parts:
 - caption: Notes on Tales Told
   chapters:
   - file: sir-orfeo
+  - file: gawain_ragnell_sovereignty
 - caption: Telling notes
   chapters:
   - file: sir-orfeo-telling
