@@ -41,7 +41,7 @@ After five or six days more the time came for the answer. The king had hardly ri
 
 Dame Ragnell was waiting for Arthur, too, and would hear of nothing but immediate fulfillment of her bargain. She followed the king to his court, and required him to produce Gawain instantly, who came and plighted his troth. The queen begged her to be married privately, and early in the morning. Dame Ragnell would consent to no such arrangement. She would not go to church till highmass time, and she would dine in the open hall. At her wedding she was dressed more splendidly than the queen, and she sat at the head of the table at the dinner afterwards. There her appetite was all but as horrible as her person: she ate three capons, three curlews, and great bake meats, all that was set before her, less and more. `[See 'King Henry,' the next ballad.]`
 
-A leaf is wanting now, but what followed is easily imagined. She chided Gawain for his offishness, and begged him to kiss her, at least. "I will do more," said Gawain, and, turning, beheld the fairest creature he ever saw. But the transformed lady told him that her beauty would not hold: he must choose whether she should be fair by night and foul by day, or fair by day and foul by night. `[The Gaelic tale of 'The Hoodie' offers a similar choice. The hoodie, a species of crow, having married the youngest of a farmer's three daughters, says to her, "Whether wouldst thou rather that I should be a hoodie by day and a man at night, or be a hoodie at night and a man by day?" The woman maintains her proper sovereignty, and does not leave the decision to him: "'I would rather that thou wert a man by day and a hoodie at night,' says she. After this he was a splendid fellow by day, and a hoodie at night." Campbell, Popular Tales of the West Highlands, I, 63. The having one shape by day and another by night is a common feature in popular tales: as, to be a bear by day and a man by night, Hrolfr Kraki's Saga, c. 26, Asbjørnsen og Moe, Norske Folkeeventyr, No 41; a lion by day and a man by night, Grimms, K. u. H. m.. No 88; a crab by day and a man by night, B. Schmidt, Griechische Marchen, u. s. w., No 10; a snake by day and a man by night, Karadshitch, Volksmärchen der Serben, Nos 9, 10; a pumpkin by day and a man by night, A. & A. Schott, Walachische Maerchen, No 23; a ring by day, a man by night, Müllenhoff, No 27, p. 466, Karadshitch, No 6, Afanasief, VI, 189. Throe princes in ' Kung Lindorm,' Nicolovius, Folklifwet, p. 48 ff, are cranes by day and men by night, the king himself being man by day and worm by night. The double shape is sometimes implied though not mentioned.]` Gawain said the choice was hard, and left all to her. "Gramercy," said the lady, "thou shalt have me fair both day and night." Then she told him that her step-dame had turned her into that monstrous shape by necromancy, not to recover her own till the best knight in England had wedded her and given her sovereignty in all points. `[The brother, Gromer Somer Joure, was a victim of the same necromancy; so the Carl of Carlile, Percy MS., Hales & Furnivall, III, 291.]` A charming little scene follows, vv 715-99, in which Arthur visits Gawain in the morning, fearing lest the fiend may have slain him. Something of this may very likely have been in that half page of the ballad which is lost after stanza 48.
+A leaf is wanting now, but what followed is easily imagined. She chided Gawain for his offishness, and begged him to kiss her, at least. "I will do more," said Gawain, and, turning, beheld the fairest creature he ever saw. But the transformed lady told him that her beauty would not hold: he must choose whether she should be fair by night and foul by day, or fair by day and foul by night. `[The Gaelic tale of 'The Hoodie' offers a similar choice. The hoodie, a species of crow, having married the youngest of a farmer's three daughters, says to her, "Whether wouldst thou rather that I should be a hoodie by day and a man at night, or be a hoodie at night and a man by day?" The woman maintains her proper sovereignty, and does not leave the decision to him: "'I would rather that thou wert a man by day and a hoodie at night,' says she. After this he was a splendid fellow by day, and a hoodie at night." Campbell, Popular Tales of the West Highlands, I, 63. The having one shape by day and another by night is a common feature in popular tales: as, to be a bear by day and a man by night, Hrolfr Kraki's Saga, c. 26, Asbjørnsen og Moe, Norske Folkeeventyr, No 41; a lion by day and a man by night, Grimms, K. u. H. m.. No 88; a crab by day and a man by night, B. Schmidt, Griechische Marchen, u. s. w., No 10; a snake by day and a man by night, Karadshitch, Volksmärchen der Serben, Nos 9, 10; a pumpkin by day and a man by night, A. & A. Schott, Walachische Maerchen, No 23; a ring by day, a man by night, Müllenhoff, No 27, p. 466, Karadshitch, No 6, Afanasief, VI, 189. Throe princes in 'Kung Lindorm,' Nicolovius, Folklifwet, p. 48 ff, are cranes by day and men by night, the king himself being man by day and worm by night. The double shape is sometimes implied though not mentioned.]` Gawain said the choice was hard, and left all to her. "Gramercy," said the lady, "thou shalt have me fair both day and night." Then she told him that her step-dame had turned her into that monstrous shape by necromancy, not to recover her own till the best knight in England had wedded her and given her sovereignty in all points. `[The brother, Gromer Somer Joure, was a victim of the same necromancy; so the Carl of Carlile, Percy MS., Hales & Furnivall, III, 291.]` A charming little scene follows, vv 715-99, in which Arthur visits Gawain in the morning, fearing lest the fiend may have slain him. Something of this may very likely have been in that half page of the ballad which is lost after stanza 48.
 
 Gower and Chancer both have this tale, though with a different setting, and with the variation, beyond doubt original in the story, that the man whose life is saved by rightly answering the question has himself to marry the monstrous woman in return for her prompting him.
 
@@ -110,27 +110,27 @@ As he did make his mone.
 TO DO
 
 
-8 ' 0 peace, O peace, thou gentle Gawaine,
+8 'O peace, O peace, thou gentle Gawaine,
 
 That faire may thee befEall! For if thou knew my sighing soe deepe, Thou wold not meruaUe att all.
 
-9 ' Ffor when I came to Tearne Wadling,
+9 'Ffor when I came to Tearne Wadling,
 
 A bold barron there I fand. With a great club vpon his backe. Standing stifEe and strong.
 
-10 ' And he asked me wether I wold fight
+10 'And he asked me wether I wold fight
 
 Or from him I shold begone, 0[r] else I must him a ransome pay. And soe depart him from.
 
-11 ' To fight wtth him I saw noe cause;
+11 'To fight wtth him I saw noe cause;
 
 Methought it was not meet; For he was stiffe and strong with-all. His strokes were nothing sweete.
 
-12 ' Therefor this is my ransome, Gawaine,
+12 'Therefor this is my ransome, Gawaine,
 
 I ought to him to pay; I must come againe, as I am sworne, Vpon the New Yeers day;
 
-13 ' And I must bring him word what thing it la
+13 'And I must bring him word what thing it la
 
 14 Then king Arthur drest him for to ryde. In one soe rich array, Toward the fore-said Tearne Wadling, That he might keepe his day.
 
@@ -155,19 +155,19 @@ Her mouth stood f oule a-wry; A worse formed lady than shee was, Neuer man saw �
 
 This lady was full faine, But King Arthur had forgott his lesson. What he shold say againe.
 
-19 ' What knight art thou,' the lady sayd,
+19 'What knight art thou,' the lady sayd,
 
-' That will not speak to me? Of me be thou notliing dismayd, Tho I be vgly to see.
+'That will not speak to me? Of me be thou notliing dismayd, Tho I be vgly to see.
 
-20 ' For I haue halched you curteouslye,
+20 'For I haue halched you curteouslye,
 
-And you will not me againe; Yett I may happen Sir Knight,' shee said, ' To ease thee of thy paine.'
+And you will not me againe; Yett I may happen Sir Knight,' shee said, 'To ease thee of thy paine.'
 
-21 ' Giue thou ease me, lady,' he said,
+21 'Giue thou ease me, lady,' he said,
 
-' Or helpe me any thing. Thou shalt have gentle Gawaine, my cozen, And marry him with a ring.'
+'Or helpe me any thing. Thou shalt have gentle Gawaine, my cozen, And marry him with a ring.'
 
-22 ' Why, if I help thee not, thou noble King Ar-
+22 'Why, if I help thee not, thou noble King Ar-
 
 thur, Of thy owne hearts desiringe, Of gentle Gawaine
 
@@ -185,7 +185,7 @@ thur, To doe as it pleaseth me, For this is not thy ransoms sure, Therfore yeeld
 
 26 And then bespoke him noble Arthur,
 
-And bad him hold his hand: ' And giue me leaue to speake my mind In defence of all my land.'
+And bad him hold his hand: 'And giue me leaue to speake my mind In defence of all my land.'
 
 27 He said, As I came over a more,
 
@@ -195,7 +195,7 @@ I see a lady where shee sate Betweene an oke and a green hoUen; Shee was clad in
 
 And this is all her cheef desire: Doe me right, as thou art a baron of sckUI, This is thy ransome and all thy hyer.
 
-29 He sayes, An early vengeance light on her !
+29 He sayes, An early vengeance light on her!
 
 She walkes on yonder more; It was my sister that told thee this, • And she is a misshappen here.
 
@@ -217,19 +217,19 @@ Vnderneath a greene hoUy tree. Their sate that lady in red scarlet That vnseemly
 
 34 Sir Kay beheld this ladys face.
 
-And looked vppon her swire; ' Whosoeuer kisses this lady,' he sayes, ' Of his kisse he stands in feare.'
+And looked vppon her swire; 'Whosoeuer kisses this lady,' he sayes, 'Of his kisse he stands in feare.'
 
 35 Sir Kay beheld the lady againe,
 
-And looked vpon her snout; ' Whosoeuer kisses this lady,' he saies, ' Of his kisse he stands in doubt.'
+And looked vpon her snout; 'Whosoeuer kisses this lady,' he saies, 'Of his kisse he stands in doubt.'
 
-36 ' Peace, cozere Kay,' then said Sir Gawaine,
+36 'Peace, cozere Kay,' then said Sir Gawaine,
 
-' Amend thee of thy life; For there is a knight amongst vs all That must marry her to his wife.'
+'Amend thee of thy life; For there is a knight amongst vs all That must marry her to his wife.'
 
-37 ' What! wedd her to wiffe! ' then said Sir Kay,
+37 'What! wedd her to wiffe!' then said Sir Kay,
 
-' In the diuells name anon! Gett me a wiffe where-ere I may. For I had rather be slaine! '
+'In the diuells name anon! Gett me a wiffe where-ere I may. For I had rather be slaine!'
 
 38 Then some tooke vp their hawkes in hast,
 
@@ -237,7 +237,7 @@ And some tooke vp their hounds, And some sware they wold not marry her For citty
 
 39 And then be-spake him noble 'King Arthur,
 
-And sware there by this day, ' For a litle foule sight and misliking
+And sware there by this day, 'For a litle foule sight and misliking
 
 40 Then shee said, Choose thee, gentle Gawaine,
 
@@ -245,15 +245,15 @@ Truth as I doe say, Wether thou wilt haue me in this liknesse In the night or el
 
 41 And tlien bespake hina gentle Gawaine,
 
-Was one soe mild of moode, Sayes, Well I know what I wold say, God grant it may be good !
+Was one soe mild of moode, Sayes, Well I know what I wold say, God grant it may be good!
 
 42 To haue thee fowle in the night
 
 When I with thee shold play — Yet I had rather, if I might, Haue thee fowle in the day.
 
-43 ' What! when lords goe with ther feires,' shee
+43 'What! when lords goe with ther feires,' shee
 
-said, ' Both to the ale and wine, Alas! then I must hyde my selfe, I must not goe withinne.'
+said, 'Both to the ale and wine, Alas! then I must hyde my selfe, I must not goe withinne.'
 
 44 And then bespake him gentle Gawaine,
 
@@ -275,11 +275,11 @@ To the greene forrest to dwell, And there I must walke in womans liknesse, Most 
 
 49
 
-' That looked soe fouls, and that was wont On the wild more to goe.'
+'That looked soe fouls, and that was wont On the wild more to goe.'
 
-50 ' Come kisse her, brother Kay,' then said Sir
+50 'Come kisse her, brother Kay,' then said Sir
 
-Gawaine, ' And amend thd of thy liffe; I sweare this is the same lady That I marryed to my wifEe.'
+Gawaine, 'And amend thd of thy liffe; I sweare this is the same lady That I marryed to my wifEe.'
 
 51 Sir Kay kissed that lady bright,
 
@@ -287,9 +287,9 @@ Standing vpon his fEeete;
 
 He swore, as he was trew knight. The spice was neuer soe sweete.
 
-52 ' Well, cozen Gawaine,' sayes Sir Kay, ' Thy chance is fallen arright, For thou hast gotten one of the fairest maids 1 euer saw with my sight.'
+52 'Well, cozen Gawaine,' sayes Sir Kay, 'Thy chance is fallen arright, For thou hast gotten one of the fairest maids 1 euer saw with my sight.'
 
-63 ' It is my fortune,' said Sir Gawaine; ' For my vnckle Arthurs sake I am glad as grasse wold be of raine, Great ioy that I may take.'
+63 'It is my fortune,' said Sir Gawaine; 'For my vnckle Arthurs sake I am glad as grasse wold be of raine, Great ioy that I may take.'
 
 54 Sir Gawaine tooke the lady by the one
 
@@ -723,7 +723,7 @@ She finds ſome honeſt Gander for her Mate.
 'How merrily ſoever others fare?
 'Tho? all the Day I give and take Delight,  
 'Doubt not, ſufficient will be left at Night,  
-' 'Tis but a juſt and rational Deſire,  
+''Tis but a juſt and rational Deſire,  
 'To light a Taper at a Neighbour's Fire.
 
 'There's Danger too, you think, in rich Array,  
@@ -775,7 +775,7 @@ But when my Point was gain'd, then thus I ſpoke:
 'Thou ſhould'ſt be always thus, refign'd and meek!  
 'Of *Job*'s great Patience ſince fo oft' you preach,  
 'Well ſhould you practiſe, who ſo well can teach.  
-' 'Tis difficult to do, I muſt allow;  
+''Tis difficult to do, I muſt allow;  
 'But I, my Deareſt, will inſtruct you how,  
 'Great is the Bleſſing of a prudent Wite,  
 'Who puts a Period to domeſtic Strife.  
@@ -1582,7 +1582,7 @@ A goodly Royal Pair of Aſſes Ears.
 
 © Now I have eas'd my Boſom of the Pain,  
 
-Till the next longing Fit returns again '  
+Till the next longing Fit returns again'  
 
 Thus thro'a Woman was the Secret known;  
 
