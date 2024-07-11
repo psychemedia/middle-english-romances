@@ -30,7 +30,7 @@ The knave did as his master commanded, but so foul a stench was in the chapel th
 
 " Sir, I have been at yonder chapel, and have seen a marvel that makes my heart as heavy as lead! There stands a bier with candles, and a lone woman sits by it in heavy sorrow. But so evil is the stench, that not for the palfrey on which I ride would I stay there longer! I trow I have caught my death! "
 
-Then Sir Amadas commanded his squire to go and bring him tidings of that woman. And as he looked in through the window, he found it all as the knave had said, and had great pity; but the evil stench drove him too away, and he returned, saying: " Good my lord, now by your leave, take it not ill; but ye may not have tidings by me. There stands the bier with the candles and nothing more; and the woman sighs piteously and wrings her hands, crying on Heaven's King how long must she be there, and saying: ' Dear God, how may this be, that I should have such sorrow as to watch him rotting on his bier! ' Yet she swears that she will not leave him alone, so dear was he to her, until she drops dead on the stones."
+Then Sir Amadas commanded his squire to go and bring him tidings of that woman. And as he looked in through the window, he found it all as the knave had said, and had great pity; but the evil stench drove him too away, and he returned, saying: " Good my lord, now by your leave, take it not ill; but ye may not have tidings by me. There stands the bier with the candles and nothing more; and the woman sighs piteously and wrings her hands, crying on Heaven's King how long must she be there, and saying: ' Dear God, how may this be, that I should have such sorrow as to watch him rotting on his bier!' Yet she swears that she will not leave him alone, so dear was he to her, until she drops dead on the stones."
 
 Then Sir Amadas put spurs to his palfrey and rode up to the chapel door and there alighted; and although the smell was even as they had said, he would not leave for that, but went in, saying: " Dame, God be with you! "
 
@@ -128,7 +128,7 @@ Then the porter went into the hall and accosted his lord, whom he met there: "Lo
 
 " Is he here, mine own true friend? He is most heartily welcome, as indeed he ought to be! I bid you all, my men, to serve him hand and foot, right as ye would do me."
 
-Then Sir Amadas went to meet him, and so also his fair lady, who knew well her duty, and ever honoured those whom her lord loved. May all such women be blessed !
+Then Sir Amadas went to meet him, and so also his fair lady, who knew well her duty, and ever honoured those whom her lord loved. May all such women be blessed!
 
 Who should stable his steed? For knight, squire, yeoman, or knave he had none. Sir Amadas himself would have taken the horse, and led the guest into the hall; but nay, he would not.
 
@@ -367,7 +367,7 @@ He was my weddyt feyr.*
 Ye ar lyle in poynte to apyll j .  
 
 He lygges or long on here.  
-Dame, what maner mon was he ?"  
+Dame, what maner mon was he?"  
 " A marchande, sir, of this cuntre,  
 
 And had greyt rentes be yere.  
@@ -466,7 +466,7 @@ With candyls dey and nyght.
 So schall Y do euer and oo,  
 Tyll deyd com and take me to,  
 
-So helpe me God Almyght !"  
+So helpe me God Almyght!"  
 
 Sift AMADAS.  
 
@@ -746,7 +746,7 @@ Fowre so gud tboffe hit were,
 
 J woch hit save bi Sen Jon!  
 God mey make yo full gud men!  
-Cryst of hevon Y yo beken !" —  
+Cryst of hevon Y yo beken!" —  
 
 Thei weped and partyd ylke on:  
 
@@ -815,7 +815,7 @@ Bot Y myght helpe my men!
 Or els, Jesu, Y aske thd reyd  
 Artery that Y wer deyd:  
 
-Therto God helpe me then !"  
+Therto God helpe me then!"  
   
 260 SIE AMADAS*  
 
@@ -1259,7 +1259,7 @@ Wheder ye wyll mcr save or spyll,
 
 For hym that dyed on the rode!  
 Take all the gud that Y have  
-So that thou wylt my lad£ save !"  
+So that thou wylt my lad£ save!"  
 
 Th^ knyght wele vnderstode:  
 " Sir, he seyd, be sent Albon,  
@@ -1318,7 +1318,7 @@ Tliat was of my body borne,
 
 And ley my hart full nere/*  
 The knyght §eyd to his feloo tho:  
-" Wheder lovyst thou better of the too ?"  
+" Wheder lovyst thou better of the too?"  
 
 He seyd " My,wyfe so dere."  
 M Sython thou lovyst her the more,  
@@ -1442,7 +1442,7 @@ pp. xxiv-xxvi
 
 Sir Amadace was published by Weber in the third volume of his Metrical Romances (1810) from a manu¬ script, supposed unique, in the Advocates’ Library at Edinburgh, — which he says was probablywrittenbya monk at the end of the fifteenth century. It is an odd coinci¬ dence, that, while the manuscripts differ in almost every line, they should be alike deficient in the commencement, Weber’s having the advantage in one line. It begins
 
-“ Thoffe Y owe syche too !
+“ Thoffe Y owe syche too!
 
 Downe sate Sir Amadas and hee And kast how that best myghte bee Both far and nere
 
