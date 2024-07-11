@@ -91,7 +91,7 @@ And a more contemporary translation,. pp.256-74 https://archive.org/details/syrg
 
 https://archive.org/details/bishoppercysfoli03percuoft/page/n323/mode/2up?q=%22carle+of+carlisle%22
 
-Bishop Percy's folio manuscript : ballads and romances
+Bishop Percy's folio manuscript: ballads and romances
 by Percy, Thomas, 1729-1811; Hales, John W. (John Wesley), 1836-1914; Furnivall, Frederick James, 1825-1910
 
 Publication date 1867-68
@@ -100,56 +100,56 @@ pp. 275-294
 
 TH: the notes along the side of the poem summarise the tale:
 
-> I'll tell you about Sir Gawaine. Arthur stayed a while in Wales, and one day said he'd hear Mass, and then go hunting. Murrock was glad. Kay too, and Lancelot, Percival, Ewaine, Lott, the Green Knight, Gawaine, Mordred, Lybius Disconyus, and Iron side, who was better than any of Arthur's knights, and got his name because he went always armed, to fight giants. Beagles ran, greyhounds pulled down the deer, and by noon 100 harts were killed. But Gawaine, Kay, and Bishop Bodwin, lose their way in following a red deer. Gawaine proposes to dismount, and stay all night in the forest. Kay says he'll lodge in some body's house. No one dare stop him. The Bishop says, "The Carle of Carlisle will: he never lets any man lodge with him. " " If he refuses me, I'll beat him till he stinks," says Kay. Gawaine tells Kay not to brag ; they'll try fair speech first; if that's no good, Kay may scold. They ride to the Earl's gate. Gawaine knocks, and tells the Porter that they are tired out with hunting, and ask his lord for a night's lodging. Kay threatens the Porter, but he answers boldly. Gawaine asks him courteously, and the Porter gives his message to the Carle. The Carle regrets that they have been kept so long waiting. Gawaine &c. ride in, go to the hall, and see the Carle, a loathly man, with fingers like stakes and hands like leaves. Gawaine salutes him courteously, and the Carle welcomes them for Arthur's sake, though Arthur and he have long been foes. They go to the tables, and see 4 whelps, a bear, a boar, a bull, and a lion. A fair lady seats herself on the Carle's knee and Gawaine says her bedfellow will be a happy man. The Carie reproves him. Kay goes to the stable, finds the  palfrey next to his, turns it out, and gives it a clout. The Carle knocks Kay down. Kay threatens him, and he tells Kay that if he says any more he'll get more knocks. Then the Bishop goes to look at his palfrey. He finds the Carle's there, and turns it out with a cut, to go to the devil. The Carle knocks the Bishop over, he cares nothing for mitre or ring. Then Gawaine goes to see his palfrey. He finds the Carle's foal by it, wet with rain. Gawaine covers the foal with his mantle and tells it to eat away. The Carle thanks Gawaine, takes him in, calls for a bowl of wine, and drinks 15 gallons at one draught. Then they all have supper. After it, the Carle tells Gawaine to take a spear and to mark him in his face. Gawaine takes the spear, charges at the Carle (who dodges his head,) runs the spear into the wall, and breaks it off. Then the Carle takes Gawaine to his wife's bed, and bids him get in and kiss her, but do nothing more. Gawaine does so and thinks to do more, but the Carle stops him, and takes him to his daughter's bed, and tells him to get into it. Gawaine does so, and the Carle goes away, locking the door. Next morning, he calls Gawaine, and shows him bloody shirts and 1500 dead men's bones, slain by him, the Carle. Gawaine wants to take leave, but the Carle makes him stop to dinner. After it he shows Gawaine a sword, and begs him to cut his (the Carle's) head off. Gawaine refuses, whereupon the Carle says he'll cut his head off if he don't do it. So Gawaine cuts the Carle's head off, and he stands up a proper man, and thanks Gawaine for delivering him from the witchcraft that 40 years ago transformed him, so to be till a Knight of the Round Table should cut his head off. " Christ reward you! Henceforth I'll kill no one; but every body shall be welcome to me." The Bishop marries Gawaine and the Carle's daughter. The Carle gives Kay a blood-red steed, and Gawaine's lady a white palfrey. Then he bids Gawaine go to Arthur and ask him to dine with him next day. Gawaine goes singing with his lady, and tells Arthur his adventures. Kay gives Arthur the Carle's invitation. Arthur and his company ride off, are received at the Carle's with sound of trumpet, harp, gittern, and psaltery ; tables are laid, and the feast begins, minstrels playing the while. Arthur likes his dinner, knights the Carle, gives him Carlisle, makes him an Earl, and a Knight of the Round Table, and christens him Carlisle. After dinner the guests go home. May God bring our souls to heaven! Amen!
+> I'll tell you about Sir Gawaine. Arthur stayed a while in Wales, and one day said he'd hear Mass, and then go hunting. Murrock was glad. Kay too, and Lancelot, Percival, Ewaine, Lott, the Green Knight, Gawaine, Mordred, Lybius Disconyus, and Iron side, who was better than any of Arthur's knights, and got his name because he went always armed, to fight giants. Beagles ran, greyhounds pulled down the deer, and by noon 100 harts were killed. But Gawaine, Kay, and Bishop Bodwin, lose their way in following a red deer. Gawaine proposes to dismount, and stay all night in the forest. Kay says he'll lodge in some body's house. No one dare stop him. The Bishop says, "The Carle of Carlisle will: he never lets any man lodge with him. " " If he refuses me, I'll beat him till he stinks," says Kay. Gawaine tells Kay not to brag; they'll try fair speech first; if that's no good, Kay may scold. They ride to the Earl's gate. Gawaine knocks, and tells the Porter that they are tired out with hunting, and ask his lord for a night's lodging. Kay threatens the Porter, but he answers boldly. Gawaine asks him courteously, and the Porter gives his message to the Carle. The Carle regrets that they have been kept so long waiting. Gawaine &c. ride in, go to the hall, and see the Carle, a loathly man, with fingers like stakes and hands like leaves. Gawaine salutes him courteously, and the Carle welcomes them for Arthur's sake, though Arthur and he have long been foes. They go to the tables, and see 4 whelps, a bear, a boar, a bull, and a lion. A fair lady seats herself on the Carle's knee and Gawaine says her bedfellow will be a happy man. The Carie reproves him. Kay goes to the stable, finds the  palfrey next to his, turns it out, and gives it a clout. The Carle knocks Kay down. Kay threatens him, and he tells Kay that if he says any more he'll get more knocks. Then the Bishop goes to look at his palfrey. He finds the Carle's there, and turns it out with a cut, to go to the devil. The Carle knocks the Bishop over, he cares nothing for mitre or ring. Then Gawaine goes to see his palfrey. He finds the Carle's foal by it, wet with rain. Gawaine covers the foal with his mantle and tells it to eat away. The Carle thanks Gawaine, takes him in, calls for a bowl of wine, and drinks 15 gallons at one draught. Then they all have supper. After it, the Carle tells Gawaine to take a spear and to mark him in his face. Gawaine takes the spear, charges at the Carle (who dodges his head,) runs the spear into the wall, and breaks it off. Then the Carle takes Gawaine to his wife's bed, and bids him get in and kiss her, but do nothing more. Gawaine does so and thinks to do more, but the Carle stops him, and takes him to his daughter's bed, and tells him to get into it. Gawaine does so, and the Carle goes away, locking the door. Next morning, he calls Gawaine, and shows him bloody shirts and 1500 dead men's bones, slain by him, the Carle. Gawaine wants to take leave, but the Carle makes him stop to dinner. After it he shows Gawaine a sword, and begs him to cut his (the Carle's) head off. Gawaine refuses, whereupon the Carle says he'll cut his head off if he don't do it. So Gawaine cuts the Carle's head off, and he stands up a proper man, and thanks Gawaine for delivering him from the witchcraft that 40 years ago transformed him, so to be till a Knight of the Round Table should cut his head off. " Christ reward you! Henceforth I'll kill no one; but every body shall be welcome to me." The Bishop marries Gawaine and the Carle's daughter. The Carle gives Kay a blood-red steed, and Gawaine's lady a white palfrey. Then he bids Gawaine go to Arthur and ask him to dine with him next day. Gawaine goes singing with his lady, and tells Arthur his adventures. Kay gives Arthur the Carle's invitation. Arthur and his company ride off, are received at the Carle's with sound of trumpet, harp, gittern, and psaltery; tables are laid, and the feast begins, minstrels playing the while. Arthur likes his dinner, knights the Carle, gives him Carlisle, makes him an Earl, and a Knight of the Round Table, and christens him Carlisle. After dinner the guests go home. May God bring our souls to heaven! Amen!
 
 __Carle off Carlyle__ `[A curious Song of the Marriage of Sir Gawane, one of King Arthur's Knights.— P.]`:
 
 THIS poem was printed from the Folio by Sir F. Madden in the Appendix to his *Syr Gawayne* for the Bannatyne Club, pp. 256-74. Some of his readings of the MS. differ from mine; and though, if I can trust my eyes, the MS. does not make all the mistakes that Sir F. Madden attributes to it, I have thought it only due to his well-established reputation and great experience in reading MSS., as well as to our readers, who will probably trust him rather than me, to put his readings in the notes. The poem is, as he says, a modernised copy of the *Syre Gawene and the Carle of Carelyle* in the Porkington MS. No. 10, " written in the reign of Edward IV.," printed by him (Sir F. Madden) in the Appendix to his *Syr Gawayne*, pp. 187-206. Though Mrs. Ormsby Gore has kindly lent me this Porkington MS., I have not collated the Folio with it, as its *Syre Gawene* will be printed by Mr. Richard Morris for the Early English Text Society next year, and will there be easily accessible to all readers. The alterations are great in words, small in incidents, and the earlier poem is the better one. Sir F. Madden looks on the occurrence of the present poem and *The Grene Knight* (vol. ii. p. 58) in our Folio as settling the " question of the genuineness and antiquity of the romance-poems (as distinguished from the longer and bettor-known romances) in this celebrated MS." — that is, that the Folio poems are not abstracts made of the old romances in the seventeenth century, but retellings or adaptations of abstracts made in the fourteenth and fifteenth centuries. " The original of this story must be sought for in the literature of the Continent, and we find it in the beautiful *fabliau of Le Chevalier à l'Epée*, printed in Meon's *Recueil*, tome i. p. 127, 8vo, 1823, and pre viously analysed by Le Grand. "
 
-Like the other Gawaine stories in the Folio, this one takes us into weirdland, the region where necromancers have been at work, where Kelts loved specially to range. And, as in *The Turks and Gawin* and *The Marriage of Sir Gawaine*, the counter charm which undoes the fiendly work is Gawaine's courtesy. Though he was not held worthy of the highest honours in Arthur-story, though he kept not the state of the virgin three who alone achieved the Quest of the Holy Graal `[" Gauwains, Gauwain ! mult a lone tans que tu fus chiualers, et onques puis ne seruis ton creatour, se peu non : tu ies mais si vieus arbres qu'il n'a en toi ne fuelle ne fruit, car tu penses que nostre sires en eust la moule et l'escorche, puis que li anemis en a eu la flour et le fruit." Nasciens to Gawain, *Queste*, p. 144. Again: " et quant il vous vit, si s'en ala, car nous auies le lieu ordi de uotre pechie, et quant il s'en ala il vous dist, ' chiualer plain de poure foi et de poure creanche, ches iij. choses vous faillent : carite, abstinenche, et uerites, et pour che n'en poes auenir as auentures del saint graal.'" Queste, p. 133, ed. F. J. F. for Koxb. Club, 1864. — F.]` — Galahad, Percival, Bors, —yet the sweetness of his spirit, his never-failing gentleness to poor as well as rich, to frightful dames as well as beauties, made him the favourite of most `[Others consistently run him down.]` of the Arthur-writers, and they sang his praises and his prowess, blessed him with the loveliest wives — the second appears here — and, with Israelitish unction, added many concubines. In contrast with him, here, is not only crabbed Kay, but also the Christian Bishop who has sunk the humility of his religion in the pride of his office, has forgotten that
+Like the other Gawaine stories in the Folio, this one takes us into weirdland, the region where necromancers have been at work, where Kelts loved specially to range. And, as in *The Turks and Gawin* and *The Marriage of Sir Gawaine*, the counter charm which undoes the fiendly work is Gawaine's courtesy. Though he was not held worthy of the highest honours in Arthur-story, though he kept not the state of the virgin three who alone achieved the Quest of the Holy Graal `[" Gauwains, Gauwain! mult a lone tans que tu fus chiualers, et onques puis ne seruis ton creatour, se peu non: tu ies mais si vieus arbres qu'il n'a en toi ne fuelle ne fruit, car tu penses que nostre sires en eust la moule et l'escorche, puis que li anemis en a eu la flour et le fruit." Nasciens to Gawain, *Queste*, p. 144. Again: " et quant il vous vit, si s'en ala, car nous auies le lieu ordi de uotre pechie, et quant il s'en ala il vous dist, ' chiualer plain de poure foi et de poure creanche, ches iij. choses vous faillent: carite, abstinenche, et uerites, et pour che n'en poes auenir as auentures del saint graal.'" Queste, p. 133, ed. F. J. F. for Koxb. Club, 1864. — F.]` — Galahad, Percival, Bors, —yet the sweetness of his spirit, his never-failing gentleness to poor as well as rich, to frightful dames as well as beauties, made him the favourite of most `[Others consistently run him down.]` of the Arthur-writers, and they sang his praises and his prowess, blessed him with the loveliest wives — the second appears here — and, with Israelitish unction, added many concubines. In contrast with him, here, is not only crabbed Kay, but also the Christian Bishop who has sunk the humility of his religion in the pride of his office, has forgotten that
 
 It ffitteth a clarke to be curteous and ffree,
 
-and gets accordingly a rap on his crown that sends him down. But Gawaine does not fail : what courtesy requires, that he does, all that his host asks ; and so, escapes himself, and rescues his friends, from the fate that had befallen 1500 men before who " coude not their curtasye," — death at the hand and mouths of the Carle and his Four Whelps. As of the Turke (vol. i. p. 101, 1. 288) so of the Carle, Gawaine strikes off the head; the bale that Necromancy had wrought is turned to bliss, the loathsome giant becomes again a man, and Gawaine weds the lady gay. What is not possible to those sweet souls who sun their world, at whose presence words of wrath and thoughts of evil cease, the remembrance even of whose smile wins us from bitterness and gloom ? — F.
+and gets accordingly a rap on his crown that sends him down. But Gawaine does not fail: what courtesy requires, that he does, all that his host asks; and so, escapes himself, and rescues his friends, from the fate that had befallen 1500 men before who " coude not their curtasye," — death at the hand and mouths of the Carle and his Four Whelps. As of the Turke (vol. i. p. 101, 1. 288) so of the Carle, Gawaine strikes off the head; the bale that Necromancy had wrought is turned to bliss, the loathsome giant becomes again a man, and Gawaine weds the lady gay. What is not possible to those sweet souls who sun their world, at whose presence words of wrath and thoughts of evil cease, the remembrance even of whose smile wins us from bitterness and gloom? — F.
 
 `[I'll tell you about Sir Gawaine. Arthur stayed a while in Wales, and one day said he'd hear Mass, and then go hunting. Murrock was glad. Kay too,]`
 
-LlSTEN : to me a litle stond,  
-yee shall heare of one *that* was sober & sound :  
+LlSTEN: to me a litle stond,  
+yee shall heare of one *that* was sober & sound:  
 hee was meeke as maid in bower,  
-stiffe & strong in euery stoure ;  
+stiffe & strong in euery stoure;  
 certes withouten ffable  
-he was one of the round table ;  
+he was one of the round table;  
 the *Knights* name was Sir Gawaine,  
 *that* much worshipp wan in Brittaine.  
 the Ile of Brittaine called is  
-both England & Scottland I-wis ;  
+both England & Scottland I-wis;  
 wales is an angle to (that) Ile,  
-where *King* Arthur soiorned a while `[At Cardyfe soiorned þe kyuge a whylle. Porkington MS. — F.]` ;  
+where *King* Arthur soiorned a while `[At Cardyfe soiorned þe kyuge a whylle. Porkington MS. — F.]`;  
 with him 24 *Knights* told,  
 besids Barrens & dukes bold.  
 the *King* to his Bishopp gan say,  
-" wee will have a Masse to-day,  
-Bishopp Bodwim `[that Bishop Sir Bodwine. Turke $ Gowin, I 154, vol. i. p. 96. On this Bodwin or Bawdewyn in The Grene Knyȝt, Sir F. Madden says that he "occurs nowhere in the early French metrical and prose romances; and his name seems to have been substituted by the English or Scottish poets in the 14th century, for that of Bishop Brice or Dubricius. There was an Archbishop of Canterbury named Baldwin, who held the See from 1184 to 1191. from whom the name may have been taken. Syr Gawayne, p. 312. — F.]` shall itt done :  
+"wee will have a Masse to-day,  
+Bishopp Bodwim `[that Bishop Sir Bodwine. Turke $ Gowin, I 154, vol. i. p. 96. On this Bodwin or Bawdewyn in The Grene Knyȝt, Sir F. Madden says that he "occurs nowhere in the early French metrical and prose romances; and his name seems to have been substituted by the English or Scottish poets in the 14th century, for that of Bishop Brice or Dubricius. There was an Archbishop of Canterbury named Baldwin, who held the See from 1184 to 1191. from whom the name may have been taken. Syr Gawayne, p. 312. — F.]` shall itt done:  
 after, to the ffairest `[forrest.— Pork.]` wee will gone,  
 ffor now itts grass time of the yeere,  
 Barrens bold shall breake the deere.  
-ffaine theroff was Sir Marrocke, `[Mewreke. — Pork. Marrake in The Awntyrs of Arthure, 1. 641. He " appears to be the same as ' Sir Marrok, the good knyghte, that was bitrayed with his wyf, for she made him seuen yere a werwolf,' in Malory's Morte d 'Arthur, vol. ii. p. 385 ; and on a similar story is founded the Lai de Bisclaveret of Marie, ed. Roquefort, tome i. p. 179." — Madden's Syr Gawyane, p. 335. Marrocke is also the name of the giant in Eglamorc, vol. ii. p. 349, 1. 239, and of the false steward in Sir Triamore, vol. ii. p. 82, L 51. — F.]`  
-soe was Sir Kay, the *Knight* stout ;  
+ffaine theroff was Sir Marrocke, `[Mewreke. — Pork. Marrake in The Awntyrs of Arthure, 1. 641. He " appears to be the same as ' Sir Marrok, the good knyghte, that was bitrayed with his wyf, for she made him seuen yere a werwolf,' in Malory's Morte d 'Arthur, vol. ii. p. 385; and on a similar story is founded the Lai de Bisclaveret of Marie, ed. Roquefort, tome i. p. 179." — Madden's Syr Gawyane, p. 335. Marrocke is also the name of the giant in Eglamorc, vol. ii. p. 349, 1. 239, and of the false steward in Sir Triamore, vol. ii. p. 82, L 51. — F.]`  
+soe was Sir Kay, the *Knight* stout;  
 
 `[and Lancelot, Percival, Ewaine, Lott, the Green Knight, Gawaine, Mordred, Lybius Disconyus, and Iron side,]`
 
 ffaine was Sir Lancelott Dulake,  
-soe was Sir Perciuall,`[The nephew of king Pescheor, [or king Pelles, the Rich Fisher,] guardian of the Sangreal, whose adventures occupy a quarto volume, printed in 1530. Madden's Syr Gawayne, p. 345. See Mr. Halliwell's edition of the verse abstract of the French romance in The Thornton Romances. — F.]` I vndertake ;  
+soe was Sir Perciuall,`[The nephew of king Pescheor, [or king Pelles, the Rich Fisher,] guardian of the Sangreal, whose adventures occupy a quarto volume, printed in 1530. Madden's Syr Gawayne, p. 345. See Mr. Halliwell's edition of the verse abstract of the French romance in The Thornton Romances. — F.]` I vndertake;  
 ffaine was Sir Ewaine `[See Caxton's Maleore, vol. i. p. 231. — F.]`  
-& Sir Lott of Lothaine, `[See Caxton's Maleore, vol. i. p. 55, &c. — F. He was the father of Gawayne, and king of Lothian and Orkney. Geoffr. Monm., lib. ix. cap. 9. Madden, p. 346. He is the celebrated Twain or Owain sometimes surnamed Le Grand, son of Urien, king of Moray, according to Geoffrey, or of Rheged, according to the Welsh authorities. His exploits were celebrated in French verse by Chrestien de Troyes, and thence trans lated into the German, Icelandic, Welsh, and English languages ; for which consult Benecke's edition of Iwein der Riter mit dem Lewen, 8vo, Berlin, 1827 ; Von der Hagen's Grundriss zur Geschichte der Deutschen Poesie, 8vo, Berlin, 1812, p. 118; Eitson's Metrical Romances, vol. i., and Notes, vol. iii., 8vo. 1802 ; and Lady C. Guest's Mabinogion, part i., 8vo, 1838. He must not be confounded (as Eitson has done him) with Ywain l'Avoultre, a base son of Urien by his seneschal's wife, who was killed by Gawayne without knowing him, Roman de Lancelot, iii. f. cxvii. There are also others of the same name mentioned in the Roman de Merlin, i., f. ccviii b, and in the Roman d'Erec et d'Enide. Cf. Arthour and Merlin, p. 306, 4to, 1838. Madden, p. 312-13.— F.]`  
+& Sir Lott of Lothaine, `[See Caxton's Maleore, vol. i. p. 55, &c. — F. He was the father of Gawayne, and king of Lothian and Orkney. Geoffr. Monm., lib. ix. cap. 9. Madden, p. 346. He is the celebrated Twain or Owain sometimes surnamed Le Grand, son of Urien, king of Moray, according to Geoffrey, or of Rheged, according to the Welsh authorities. His exploits were celebrated in French verse by Chrestien de Troyes, and thence trans lated into the German, Icelandic, Welsh, and English languages; for which consult Benecke's edition of Iwein der Riter mit dem Lewen, 8vo, Berlin, 1827; Von der Hagen's Grundriss zur Geschichte der Deutschen Poesie, 8vo, Berlin, 1812, p. 118; Eitson's Metrical Romances, vol. i., and Notes, vol. iii., 8vo. 1802; and Lady C. Guest's Mabinogion, part i., 8vo, 1838. He must not be confounded (as Eitson has done him) with Ywain l'Avoultre, a base son of Urien by his seneschal's wife, who was killed by Gawayne without knowing him, Roman de Lancelot, iii. f. cxvii. There are also others of the same name mentioned in the Roman de Merlin, i., f. ccviii b, and in the Roman d'Erec et d'Enide. Cf. Arthour and Merlin, p. 306, 4to, 1838. Madden, p. 312-13.— F.]`  
 soe was the Knight of armes greene, `[Ironside's son, see 1. 37-40. I know nothing [of him] as one of Arthur's knights. Madden, p. 346. — F.]`  
 & alsoe Sir Gawaine the sheene.  
 SIR Gawaine was steward in Arthurs hall,  
 hee was the curteous Knight amongst them all. `[most courteous Knight of all. — P.]`  
 King Arthur & his Cozen Mordred, `[Arthur's son by his sister, King Lot's wife.— F.]`  
 & other Knights withouten Lett,  
-Sir Lybius Disconyus `[Gawaine's bastard. See vol. ii. p. 416, 1. 8 ; p. 418, 1. 80.— F.]` was there  
+Sir Lybius Disconyus `[Gawaine's bastard. See vol. ii. p. 416, 1. 8; p. 418, 1. 80.— F.]` was there  
 with proud archers lesse & more,  
 Blanch ffaire `[Blancheles. Porkn. MS. " But as no knight of that name occurs, in all probability we should read Brandelys," says Sir F. Madden, who gives an abstract of the French Romance about him at p. 349 of Syr Gawayne. See Caxton's Maleore, vol i. p. 230, ' syre Braundyles.' — F.]` & Sir Ironside, `[Syre Ironsyde that was called the noble knyȝte of the reed laundes, that Syre Gareth [brother of Gawayne] wonne for the loue of dame Lyones. Maleore, vol. ii. p. 384. The narrative of the combat may be read in vol. i. p. 211. Madden's Syr Gawayne, p. 347. — F.]`  
 & many Knights that day can ryde.  
@@ -160,13 +160,13 @@ of a ffaire Lady of blaunch Land. `[The Seigneur de la Blaunche londe is noticed
 hee cold more of honor in warr  
 then all the Knights that with Arthur weare  
 burning dragons he slew in Land,  
-& wilde beasts, as I vnderstand ;  
-wilde beares he slew that stond ;  
-a hardyer Knight was neuer ffound ;  
+& wilde beasts, as I vnderstand;  
+wilde beares he slew that stond;  
+a hardyer Knight was neuer ffound;  
 he was called in his dayes  
 one of King Arthurs ffellowes.  
-why was hee called Ironsyde ?  
-ffor, euer armed wold he ryde ;  
+why was hee called Ironsyde?  
+ffor, euer armed wold he ryde;  
 hee wold allwais arms beare,  
 ffor Gyants & hee were euer att warr.  
 dapple coulour `[Dapple colour'd.— P. The steed's name was Fabele-honde. Madden's Syr Gawayne, p. 189, 1. 79.— F.]` was his steede,  
@@ -195,46 +195,46 @@ then Sir Gawaine & Sir Kay,
 after a redd deere `[rayne-dere, and reyne-dere, 1. 79. — Pork.]` thé rode  
 into a fforrest wyde & brode.  
 a thicke mist ffell them among,  
-that caused `[Only half the u in the MS.— F. caised. — Madden.]` them all to goe wronge :  
+that caused `[Only half the u in the MS.— F. caised. — Madden.]` them all to goe wronge:  
 great moane made then Sir Kay  
-that they shold loose the hart that day ;  
+that they shold loose the hart that day;  
 that red hart wold not dwell.  
-hearken what aduentures them beffell :  
+hearken what aduentures them beffell:  
 ffull sore thé were adread  
-ere the any Lodginge had ;  
+ere the any Lodginge had;  
 then spake Sir Gawaine,  
-" this Labour wee haue had in vaine ;  
+" this Labour wee haue had in vaine;  
 this red hart is out of sight,  
 wee meete with him no more this night.  
 I reede wee of our horsses do light,  
-& lodge wee heere all this night ;  
+& lodge wee heere all this night;  
 Truly itt is best, as thinketh mee,  
 to Lodge low vnder this tree."  
 " nay," said Kay, " goe wee hence anon,  
-ffor I will lodge whersoere `[wherforre, Madden's text : whersoever ?, his note. — F.]` I come ;  
+ffor I will lodge whersoere `[wherforre, Madden's text: whersoever ?, his note. — F.]` I come;  
 for there dare no man warne me, `[wern hit me. — Pork]`  
 of whatt estate soeuer hee bee."  
-" yes," said the Bishopp, " that wott I well ;  
+" yes," said the Bishopp, " that wott I well;  
 here dwelleth a Carle in a Castele,  
 the Carle of Carlile is his name,
 I know itt well by St. Iame ;
 
 `[and by noon 100 harts were killed. But Gawaine, Kay, and Bishop Bodwin, lose their way in following a red deer. Gawaine proposes to dismount, and stay all night in the forest. Kay says he'll lodge in some body's house. No one dare stop him. The Bishop says, "The Carle of Carlisle will:]`
 
-`[he never lets any man lodge with him. " If he refuses me, I'll beat him till he stinks," says Kay. Gawaine tells Kay not to brag ; they'll try fair speech first; if that's no good, Kay may scold.]`
+`[he never lets any man lodge with him. " If he refuses me, I'll beat him till he stinks," says Kay. Gawaine tells Kay not to brag; they'll try fair speech first; if that's no good, Kay may scold.]`
 
 was there neuer man yett soe bold  
-that durst lodge within his hold ;  
+that durst lodge within his hold;  
 but, & if hee scape `[staye. — Madden.]` with his liffe away,  
 hee ruleth him well, I you say." `[It schall be bette, as I harde say, And ȝefe he go wtt lyfe away. —Porkington MS.]`
 then said Kay, " all in ffere, `[i.e. together. Perhaps all on fire. —P]`  
-to goe thither is my desire ;  
+to goe thither is my desire;  
 ffor & the Carle be neuer soe bolde,  
 I thinke to lodge within his hold.  
 ffor if he iangle & make itt `[him.— P.]` stout,  
 I shall beate the Carle all about,  
 & I shall make his bigging bare,  
-& doe to him mickle Care ;  
+& doe to him mickle Care;  
 & I shall beate [him,] as I thinke,  
 till he both sweate and stinke."  
 then said the Bishopp, " so mote I ffare,  
@@ -243,43 +243,43 @@ Gawaine said " lett be thy bostlye ffare, `[Compare vol. i. p. 91, 1. 25-30. Kay
 ffor thou dost euer waken care.  
 if thou scape `[Madden reads the MS. stape, and corrects it to scape. — F.]` with thy liffe away,  
 thou ruleth thee well, I dare say."  
-then said Kay, " that pleaseth mee ;  
+then said Kay, " that pleaseth mee;  
 thither Let vs ryde all three.  
-such as hee bakes, such shall hee brew ;  
-such as hee shapes, such shall hee sew ;  
+such as hee bakes, such shall hee brew;  
+such as hee shapes, such shall hee sew;  
 such as he breweth, such shall he `[him ?. — Madden.]` drinke."  
-" that is contrary," said Gawaine, " as I thinke ;  
+" that is contrary," said Gawaine, " as I thinke;  
 but if any ffaire speeche will he gaine,  
-wee shall make him Lord within his owne `[aine (in pencil). — P. Pork, has the talk 1. 104-30 somewhat differently.-F.]` ;  
+wee shall make him Lord within his owne `[aine (in pencil). — P. Pork, has the talk 1. 104-30 somewhat differently.-F.]`;  
 if noe ffaire speech will auayle,  
 then to karp on Kay wee will not ffaile."  
 
 `[They ride to the Earl's gate. Gawaine knocks, and tells the Porter that they are tired out with hunting, and ask his lord for a night's lodging. Kay threatens the Porter, but he answers boldly. Gawaine asks him courteously, and the Porter gives his]`
 
-then said the Bishopp, " thai senteth `[Madden reads tenteth.—F.]` mee ;  
+then said the Bishopp, " thai senteth `[Madden reads tenteth.—F.]` mee;  
 thither lett vs ryde all three."  
 when they came to the carles gate,  
-a hammer they ffound hanging theratt :  
+a hammer they ffound hanging theratt:  
 Gawaine hent the hammer in his hand,  
 & curteouslye on the gates dange.  
 fforth came the Porter with still ffare,  
-saying, " who is soe bold to knocke there ? "  
+saying, " who is soe bold to knocke there? "  
 Gawaine answered him curteouslye  
 "man," hee said, " that is I. `[" It am I " is the earlier phrase. — F.]`  
 wee be 2 "Knights of Arthurs inn,  
 & a Bishopp, no moe to min `[min, ming, i.e. mention, vide v. 162.—P.]` ;
 wee haue rydden all day in the fforrest still  
-till horsse & man beene like to spill ;  
+till horsse & man beene like to spill;  
 ffor Arthurs sake, thai is our Kinge,  
 wee desire my Lord of a nights Lodginge,  
 & harbarrow `[Madden reads harborrow. — F.]` till the day att Morne,  
 that wee may scape `[Madden again reads stape, and corrects to scape. — F.]` away without scorne." `[Pork, puts in the Porter's answer, warning them that his lord "can no cortessye," and that they will not escape without a "wellony." — F.]`  
-Then spake the crabbed Knight Sir Kay :  
+Then spake the crabbed Knight Sir Kay:  
 " Porter, our errand I reede the say,`[thou say or thee (to) say. — P.]`  
 or else the Castle gate wee shall breake,  
 & the Keyes thereof to Arthur take."  
 the Porter sayd with words throe, `[tho, i. e. then.— P. A.S. þrà, bold.— F.]`  
-" theres no man aliue that dares doe soe !  
+" theres no man aliue that dares doe soe!  
 of `[If.— P.]` a 100d such as thou his death had sworne,  
 yett he wold ryde on hunting to morne. `[to-morrow.— P.]`  
 " then answered GAWAIN thai was curteous aye,  
@@ -287,11 +287,11 @@ yett he wold ryde on hunting to morne. `[to-morrow.— P.]`
 "yes," said the Porter, " withouten ffayle  
 I shall say your errand ffull well."
 as soone as the Porter the Carle see,  
-hee kneeled downe vpon his knee :  
+hee kneeled downe vpon his knee:  
 "Yonder beene 2 Knights of Arthurs in, `[inne.— P.]`  
-& a Bishopp, no more to myn ;  
+& a Bishopp, no more to myn;  
 they haue roden all day in the fforrest still,  
-that horsse [&] man `[horse & man. — P.]` is like to spill ;  
+that horsse [&] man `[horse & man. — P.]` is like to spill;  
 they desire you ffor Arthirs sake, their Kmg,  
 to grant them one nights Lodginge,  
 & herberrow till the day att Morne  
@@ -301,34 +301,34 @@ that they may scape `[Madden again reads stape, and corrects to scape. — F.]` 
 with that they `[the.— P.]` Porter opened the gates wyde,  
 & the Knights rode in that tyde.  
 their steeds into the stable are tane,  
-the Knights into the hall are gone `[gane.— P.]` :  
+the Knights into the hall are gone `[gane.— P.]`:  
 heere the Carle sate in his chaire on hye,  
-with his legg cast ouer the other knee ;  
+with his legg cast ouer the other knee;  
 his mouth was wyde, & his beard was gray,  
-his lockes on his shoulders lay ;  
+his lockes on his shoulders lay;  
 betweene his browes, certaine  
 itt was large there a spann,  
 with 2 great eyen brening as ffyer.  
-Lord ! hee was a Lodlye syer `[a lodlye sire, i. e. filthy, p. 387. — P.]` !  
+Lord! hee was a Lodlye syer `[a lodlye sire, i. e. filthy, p. 387. — P.]`!  
 ouer his sholders he bare `[bore. — Madden.]` a bread  
-3 taylors yards, as clarkes doe reade ;  
+3 taylors yards, as clarkes doe reade;  
 his ffingars were like to teddar stakes, `[The stakes by which, the hair lines are fasten'd to the ground that are tied to the horses' feet when they graze in open fields.— P. Madden reads tedder. — F.]`  
-& his hands like breads that wiues may bake ;  
+& his hands like breads that wiues may bake;  
 
 `[message to the Carle. The Carle regrets that they have been kept so long waiting. Gawaine &c. ride in, go to the hall, and see the Carle, a loathly man, with fingers like stakes and hands like leaves.]`
 
 `[Gawaine salutes him courteously, and the Carle welcomes them for Arthur's sake, though Arthur and he have long been foes. They go to the tables, and see 4 whelps, a bear, a boar, a bull, and a lion.]`
 
-50 Cubitts `[ix. taylloris ȝerdis. — Pork.]` he was in height ;  
-Lord, he was a Lothesome wight !  
+50 Cubitts `[ix. taylloris ȝerdis. — Pork.]` he was in height;  
+Lord, he was a Lothesome wight!  
 when Sir Gawaine that carle see,  
 he halched `[i.e. saluted. — P. Madden reads the MS. haltled, and corrects it to halsed. Halche is O. N. heilsa, Dan. hilsa, to salute, to cry hail to. Wedgwood. — P.]` him ffull curteouslye,  
 & saith, " carle of Carlile, `[" Callile, MS.," says Madden.— P.]` god sane thee
-as thou sitteth in thy prosperitye ! "  
-the carle said, " as christ `[Madden reads cheif, and puts " Crist ? " in his note. — P.]` me saue, `[perhaps take. — P.]`  
+as thou sitteth in thy prosperitye! "  
+the carle said, " as christ `[Madden reads cheif, and puts " Crist? " in his note. — P.]` me saue, `[perhaps take. — P.]`  
 yee shall be welcome ffor Arthurs sake.  
 `[yt et in MS.— P.]` yet is itt not my part to doe soe,  
-ffor Arthur hath beene euer my ffoe ;  
+ffor Arthur hath beene euer my ffoe;  
 he hath beaten my "Knights, & done them bale,  
 `[sent.— P.]` & send them wounded to my owne hall,  
 yett the truth to tell I will not Leane, `[vid. p. 367, St. 45 [of MS.].— P. See Dr. Robson's note in Sir John Butler above. Madden says "leave, MS." — P.]`  
@@ -338,73 +338,73 @@ soe to reuile a Noble King."
 Gawaine heard, & made an s were,  
 " Kay, thou sayst more then meete weere."  
 with that they went ffurther into the hall,  
-where bords were spredd, & couered with pall ;  
+where bords were spredd, & couered with pall;  
 & 4 welpes of great Ire  
 they ffound Lying by the ffire.  
 there was a beare that did rome, `[Cp. the bere to ramy. Pork.— P.]`  
 & a bore that did whett his tushes `[tusks. — Madden. — P.]` ffome,
 alsoe a bull that did rore,  
-& a Lyon that did both gape & rore ;  
+& a Lyon that did both gape & rore;  
 the Lyon did both gape and gren.  
-" O peace, whelpes ! " said the carle then :  
+" O peace, whelpes! " said the carle then:  
 ffor that word that they carle `[the Carle.— P.]` did speake,  
 the 4 whelpes vnder they bord `[the bord. — P.]` did creepe.  
 downe came a Lady ffaire & ffree,
-& sett her on the carles knee ;  
+& sett her on the carles knee;  
 one whiles shee harped, another whiles song,  
 both of Paramours & louinge amonge.  
 " well were that man," said Gawaine, " that ere were borne,  
 that might Lye with that Lady till day att morne. "  
 " that were great shame," said the carle ffree,  
-" that thon sholdest doe me such villanye." `[Pork, substitutes a scene of the knights drinking, for this one of the lady ; but describes the Carle's wife at supper-time, p. 197 of Madden's Syr P. Gawayne. -F.]`  
+" that thon sholdest doe me such villanye." `[Pork, substitutes a scene of the knights drinking, for this one of the lady; but describes the Carle's wife at supper-time, p. 197 of Madden's Syr P. Gawayne. -F.]`  
 " Sir," said Gawaine, " I sayd nought." 
-" no, man," said the carle ; " more thou thought."  
+" no, man," said the carle; " more thou thought."  
 Then start Kay to the fflore,  
 & said hee wold see how his palfrey ffore. `[i. e. fared, praet, inusitat. — P.]`  
 both corne & hay he ffound Lyand,  
 & the carles palfrey by his steed did stand.  
 Kay tooke the carles palfrey by the necke,
-& soone hee thrust him out att the hecke `[i. e. Cratch, verb. Scot. Dr. Graingr. — P.]` :  
+& soone hee thrust him out att the hecke `[i. e. Cratch, verb. Scot. Dr. Graingr. — P.]`:  
 thus Kay put the carles ffole out,  
 & on his backe he sett a clout.  
 then the carle himselfe hee stood there by,  
 and sayd, "this buffett, man, thou shalt abuy.`[abye. — P. Madden reads aby. -F.]` "
 The carle raught Kay such a rapp  
-that backward he ffell fflatt ;  
+that backward he ffell fflatt;  
 had itt not beene ffor a ffeald `[i. e. a truss of straw, Dr. Graingr. —P.]` of straw.  
 Kayes backe had gone in 2. `[twa. — P.]`  
 then said Kay, " & thow were without thy hold,  
-Man ! this buffett shold be deere sold."  
+Man! this buffett shold be deere sold."  
 " what," sayd the carle, " dost thou menace me ?
 
 `[A fair lady seats herself on the Carle's knee and Gawaine says her bedfellow will be a happy man. The Carie reproves him. Kay goes to the stable, finds the  palfrey next to his, turns it out, and gives it a clout. The Carle knocks Kay down. Kay threatens him, and he tells Kay]`
 
 `[that if he says any more he'll get more knocks. Then the Bishop goes to look at his palfrey. He finds the Carle's there, and turns it out with a cut, to go to the devil. The Carle knocks the Bishop over, he cares nothing for mitre or ring. Then Gawaine]`
 
-I swere by all soules sicerlye `[Madden reads sikerlye. -F.]` !  
-Man ! I swere ffurther thore, `[tho.— P.]`  
+I swere by all soules sicerlye `[Madden reads sikerlye. -F.]`!  
+Man! I swere ffurther thore, `[tho.— P.]`  
 if I heere any malice more, `[moe. — P.]`
 ffor this one word thai thou hast spoken  
 itt is but ernest thou hast gotten."  
 then went Kay into the hall,  
 & the Bishopp to him can call,  
-saith : Brother Kay, where you haue beene ? "  
+saith: Brother Kay, where you haue beene? "  
 " to Looke my palffrey, as I weene. `[als I ween, i.e. I also thinke, intend, Sed vid. infra 276. — P. As is thus, like. — F.]` "  
 then said the Bishopp, " itt ffalleth me  
 that my palfrey I must see."  
 both corne & hay he ffound Lyand,  
 & the carles palffrey, as I vnderstand.  
 the Bishopp tooke the carles horsse by the necke,  
-& soone hee thrust him out att the hecke ;  
+& soone hee thrust him out att the hecke;  
 thus he turned the carles ffole out,  
-& on his backe he sett a clout ;  
-sais, " wend forth, ffole, in the devills way !  
-who made thee soe bold wv'th my palfrey ? "  
-the carle himselfe he stood there by :  
-" man ! this buffett thou shalt abuy. `[abay, MS. says Madden. — F.]` "
+& on his backe he sett a clout;  
+sais, " wend forth, ffole, in the devills way!  
+who made thee soe bold wv'th my palfrey? "  
+the carle himselfe he stood there by:  
+" man! this buffett thou shalt abuy. `[abay, MS. says Madden. — F.]` "
 he hitt the Bishopp vpon the crowne,  
 that his miter & he ffell downe.  
-" Mercy ! " said the Bishopp, " I am a clarke !  
+" Mercy! " said the Bishopp, " I am a clarke!  
 somewhatt I can of chr[i]sts werke."  
 he saith, " by the Clergye I sett nothing,  
 nor yett by thy Miter nor by thy ringe.  
@@ -412,32 +412,32 @@ It ffitteth a clarke to be curteous & ffree,
 by the conning `[MS. coming. — F. cunning or conning. — P.]` of his clergy."  
 with that the Bishopp went into the hall,  
 & Sir Grawaine to him can call,  
-saith, " brother Bishopp where haue you beene ? "  
+saith, " brother Bishopp where haue you beene? "  
 "to looke my palfrey, as I weene."  
 then sayd Sir Gawaine, " itt ffalleth mee  
 thai my palfreye I must needs see."  
 corne & hay he ffound enoughe Lyand,  
 & the carles ffole by his did stand.  
-the carles ffole had beene fforth in the raine ;  
-therof Sir Gawaine was not ffaine ;  
+the carles ffole had beene fforth in the raine;  
+therof Sir Gawaine was not ffaine;  
 hee tooke his mantle thai was of greene,  
-& couered the ffole, as I weene ;  
-sayth, " stand vp, ffole, & eate thy meate ;  
+& couered the ffole, as I weene;  
+sayth, " stand vp, ffole, & eate thy meate;  
 thy M.aster payeth ffor all that wee heere gett."  
 they carle `[The Carle.— P.]` himselfe stood thereby,
-& thanked him of his curtesye ;  
+& thanked him of his curtesye;  
 they carle `[The Carle.— P.]` tooke Gawaine by the hand,
 & both together in they hall they wend.  
 the carles called ffor a bowle of wine,  
-& soone they settled them to dine ;  
+& soone they settled them to dine;  
 70 bowles `[gallons?— Madden. Ordinary bowls. — F.]` in that bowle were, —  
 he was not weake that did itt beare, —  
 then they `[the.— P.]` carle sett itt to his Chin,  
-& said, " to you I will begin ! "  
+& said, " to you I will begin! "  
 15 gallons he dranke that tyde,
 & raught to his men on euery side.  
 then they `[the.— P.]` carle said to them anon,  
-" Sirrs, to supper gett you gone ! "  
+" Sirrs, to supper gett you gone! "  
 Gawaine answered the carle then,  
 " Sir, att your bidding we will be ben. `[baine.— P.]` "  
 " if you be bayne att my bidding,  
@@ -453,20 +453,20 @@ the carle said to Gawaine anon,
 "a long speare see thou take in thy hand, `[hond.— P.]`  
 att the buttrye dore take thou thy race,  
 & marke me well in middest the face.  
-" a ! " thought `[Ah! thought.— P.]` Sir Kay, " that that were I !  
+" a! " thought `[Ah! thought.— P.]` Sir Kay, " that that were I!  
 then his buffett he shold deere abuy. `[MS. aluy. Madden reads a buy. — F. abuy or abye. — P.]` "  
 " well," quoth the carle, " when thou wilt, thou may, `[then thou (yee) may. — P.]`  
 when thou wilt thy strength assay." —  
 "well Sir," said Kay, " I said nought."  
 "Noe," said the carle, "but more thou thought."  
 then Gawaine was ffull glad of that,  
-& a long spere in his hand he gatt ;  
+& a long spere in his hand he gatt;  
 att the buttery dore `[Madden reads the MS. doe. — F.]` he tooke his race,  
 & marked the carle in the middst the fface.  
 the carle saw Sir Gawaine come in ire,  
 & cast his head vnder his speare,  
 Gawaine raught the wall such a rapp,  
-the flyer fllew out, & the speare brake ;  
+the flyer fllew out, & the speare brake;  
 he stroke a ffoote into the wall of stone,  
 a bolder Barren was there neuer none.  
 " soft," said the carle, "thow was tó radd. `[furious, O. Fr. roide. — Skeat. Roide, rough, fierce, violent. — Cotgrave. A.S. hraed, swift, quick, rush. — F.]` "  
@@ -474,40 +474,40 @@ a bolder Barren was there neuer none.
 " if thou had hitt me as thou had ment,  
 thou had raught me a ffell dint. `[Pork. MS. puts Gawaine's supper after this, and brings the Carle's daughter in to harp and sing to them. She is prettily described, has the gold-wire hair so much admired in early times, and "Owyre alle þe halle ganne sche leme, As hit were a sonwe-beme." Madden's Syr Gawayne, p. 199. — F.]` "  
 they carle tooke Gawaine by the hand,  
-& both into a Chamber they wend ;  
+& both into a Chamber they wend;  
 a ffull ffaire bed there was spred,  
-the carles wiffe therin was laid :  
+the carles wiffe therin was laid:  
 
 `[and bids him get in and kiss her, but do nothing more. Gawaine does so and thinks to do more, but the Carle stops him, and takes him to his daughter's bed, and tells him to get into it. Gawaine does so, and the Carle goes away, locking the door. Next morning, he calls Gawaine,]`
 
 the carles said, "Gawaine, of curtesye  
 gett into this bedd w^'th this ffaire Ladye.  
-kisse thou her 3se before mine eye ;  
+kisse thou her 3se before mine eye;  
 looke thou. doe no other villanye."  
-the carle opened the sheetes wyde ;  
-Gawaine gott in by the Laydes syde ;  
-Gawaine oner her `[he. — Madden. ]` put his arme ;  
-with that his flesh began to warme :  
+the carle opened the sheetes wyde;  
+Gawaine gott in by the Laydes syde;  
+Gawaine oner her `[he. — Madden. ]` put his arme;  
+with that his flesh began to warme:  
 Gawaine had thought to haue made in ffare, `[free. q. — Pencil note. ]`  
-" hold," q^oth the carle, " man, stopp there `[MS. thee.— F.]` !  
+" hold," q^oth the carle, " man, stopp there `[MS. thee.— F.]`!  
 itt were great shame," quoth they carle, " for me  
-that thou sholdest doe me such villanye ;  
+that thou sholdest doe me such villanye;  
 but arise vp, Gawaine, & goe with me,  
 I shall bring thee to a ffairer Lady then euer was shee."  
-they `[the.— P.]` carle tooke Gawaine by the hand ; `[Pork. MS. makes the Carle send his daughter to Gawaine, ib. p. 201 — F.]`  
-both into another Chamber they wend ;  
+they `[the.— P.]` carle tooke Gawaine by the hand; `[Pork. MS. makes the Carle send his daughter to Gawaine, ib. p. 201 — F.]`  
+both into another Chamber they wend;  
 a ffaire bedd there found they spred,  
-and the Carles daughter therin Laid :  
+and the Carles daughter therin Laid:  
 saith, " Gawaine, now for thy curtesye  
 gett thee to bedd to this ffaire Lady."  
 the carle opened the sheetes wyde,  
 Sir Gawaine gott in by the Ladyes side.  
-Gawaine put his arme ouer that sweet thing ;  
+Gawaine put his arme ouer that sweet thing;  
 " sleepe, daughter," sais the carle, " on my blessing."  
 they carle turned his backe & went his way,  
 & lockt the dore with a siluer Kaye.  
 on the other morning `[In the next m.—P.]` when the carles rose,  
-vnto his daughters chamber he goes :  
+vnto his daughters chamber he goes:  
 " rise vp, Sir Gawaine, & goe with mee,  
 a maruelous sight I shall lett thee see."  
 they carle tooke him by the hand,  
@@ -516,10 +516,10 @@ they carle tooke him by the hand,
 `[and shows him bloody shirts and 1500 dead men's bones, slain by him, the Carle. Gawaine wants to take leave, but the Carle makes him stop to dinner. After it he shows Gawaine a sword, and begs him to cut his (the Carle's) head off. Gawaine refuses, whereupon the Carle says he'll cut his head off if he don't do it. So Gawaine cuts the Carle's head off, and he]`
 
 & there they found many `[One stroke too few in the MS. — F.]` a bloody serke  
-which were wrought with curyous werke :  
+which were wrought with curyous werke:  
 1500 dead mens bones `[a bones, MS.— Madden. I think the a is meant to be blotched out. — F.]`  
 they found vpon a rooke `[i. e. a ruck, a heap. — P.]` att once,  
-"alacke! " quoth Sir Gawaine, "what haue been here ? "
+"alacke! " quoth Sir Gawaine, "what haue been here? "
 saith, " I & my welpes haue slaine all there."  
 then Sir Gawaine curteous and kind, `[hend, q. — Pencil note.]`  
 he tooke his leaue away to wend,  
@@ -529,45 +529,45 @@ right as they worthy were.
 & then thou shalt goe with blessing mine. `[Only half the m in the MS. Madden reads mine too. — F.]` "  
 after dinner, the sooth to say,  
 the carle tooke Gawaine to a Chamber gay  
-where were hanginge swords towe `[rowe. — Madden.]` ;  
+where were hanginge swords towe `[rowe. — Madden.]`;  
 the Carle soone tooke one of tho,  
 & sayd to the Knight then,  
 " Gawaine, as thou art a man,  
 take this sword & stryke of my head."  
-" Nay," said Gawaine, " I had rather be dead ;  
+" Nay," said Gawaine, " I had rather be dead;  
 ffor I had rather suffer pine & woe  
 or euer I wold that deede doe."  
 the carle sayd to Sir Gawaine,  
 " looke thou doe as I thee saine,  
-& therof be not adread ;  
+& therof be not adread;  
 but shortly smite of my head,  
 ffor if thou wilt not doe itt tyte,  
 ffor-ssooth thy head I will of smyte."  
 To the carle said Sir Gawaine,  
-" Sir, your bidding shall be done : "  
+" Sir, your bidding shall be done: "  
 he stroke the head the body ffroe,  
 & he stood vp a man thoe
 of the height of Sir Gawaine,  
 the certaine soothe withouten Laine.  
 the carle sayd, " Gawaine, god blese thee,  
-ffor thou hast deliuered mee !  
+ffor thou hast deliuered mee!  
 ffrom all ffalse witchcrafft `[? witchcraffts cast. Cast is the regular word for a magical contrivance, and the line is too short as it stands. Skeat.]`  
-I am deliuerd `[Madden omits the d. — F.]` att the Last ;  
+I am deliuerd `[Madden omits the d. — F.]` att the Last;  
 by Nigromance thus was I shapen  
-till a Knight of the round table `[I would read : by Nigromance thus was I bound, till a Knight of the table round.— Skeat.]`  
+till a Knight of the round table `[I would read: by Nigromance thus was I bound, till a Knight of the table round.— Skeat.]`  
 had with a sword smitten `[MS. snitten.— F.]` of my head,  
 if he had grace to doe that deede.  
 itt is 40 winters agoe  
-since I was transformed soe ;  
-since then, none Lodged within this wooun, `[Madden reads woom, and notes woone ? — F.]`  
-but I & my whelpes driuen them downe ;  
+since I was transformed soe;  
+since then, none Lodged within this wooun, `[Madden reads woom, and notes woone? — F.]`  
+but I & my whelpes driuen them downe;  
 & but if hee did my bidding soone,  
 I killed him & drew him downe,  
 euery one but only thee.  
-Christ grant thee of his mercye !  
-he that the world made, reward thee this !  
+Christ grant thee of his mercye!  
+he that the world made, reward thee this!  
 ffor all my bale thou hast turned to blisse.  
-now will I leaue that Lawe ;  
+now will I leaue that Lawe;  
 there shall no man ffor me `[i. e. thro' me. — P.]` be slawe,  
 & I purpose ffor their sake  
 a chantrey in this place to make,  
@@ -576,7 +576,7 @@ vntill itt be doomes day.
 & Gawaine, for the loue of thee  
 euery one shall bee welcome to me."  
 Sir Gawaine & the young Lady clere,  
-the Bishopp weded `[wedded. — Madden.]` them in ffere ;  
+the Bishopp weded `[wedded. — Madden.]` them in ffere;  
 
 `[stands up a proper man, and thanks Gawaine for delivering him from the witchcraft that 40 years ago transformed him, so to be till a Knight of the Round Table should cut his head off. " Christ reward you! Henceforth I'll kill no one; but every body shall be welcome to me." The Bishop marries Gawaine and ]`
 
@@ -588,8 +588,8 @@ he gaue Sir Kay, that angry Knight,
 a blood red steede, & a wight.  
 he gaue his daughter, the sooth to say,  
 an ambling white palfrey,  
-the ffairest hee was on the mold ;  
-her palfrey was charged with gold ;  
+the ffairest hee was on the mold;  
+her palfrey was charged with gold;  
 shee was soe gorgeous & soe gay,  
 no man cold tell her array.  
 the carle commanded Sir Gawaine to wend `[wend rimes also with bringe, 1. 498. — Skeat.]`  
@@ -601,7 +601,7 @@ that hee wold dine with him to morne."
 Sir Gawaine sayd the carle vnto,  
 " fforssooth I shall your message doe."  
 then they rode singing by the way  
-with the Ladye that was gay ;  
+with the Ladye that was gay;  
 they were as glad of that Lady bright  
 as euer was ffowle of the day-Lyght.  
 they told King Arthur where they had beene,  
@@ -612,29 +612,29 @@ that thou didst on liue `[i.e. alive. — P. part— depart. — Skeat.]` part a
 " of my liffe `[lifte, MS., says Madden.— F.]` I may be ffaine.  
 ffor his loue that was in Bethlem borne,  
 you must dine with the carle to-morne."  
-in the dawning of the day the rode `[rade. qu. — P.]` ;  
+in the dawning of the day the rode `[rade. qu. — P.]`;  
 a merryer meeting was neuer made.  
 
-`[are received at the Carle's with sound of trumpet, harp, gittern, and psaltery ; tables are laid, and the feast begins, minstrels playing the while.]`
+`[are received at the Carle's with sound of trumpet, harp, gittern, and psaltery; tables are laid, and the feast begins, minstrels playing the while.]`
 
 when they together were mett,  
-itt was a good thing, I you hett ;  
+itt was a good thing, I you hett;  
 the trumpetts plaid att the gate,  
-with trumpette `[trunnpetts MS. — F]` of siluer theratt `[therott, MS., says Madden.— F.]` ;  
+with trumpette `[trunnpetts MS. — F]` of siluer theratt `[therott, MS., says Madden.— F.]`;  
 there [was] all manner of Minstrelsye,  
 harpe, Gyttorne, `[gyttome, MS., says Madden. — F.]`and sowtrye.  
 into the hall the King was ffett, `[has fell, MS., says Madden. — F.]`  
 & royallye in seat was sett.  
 by then the dinner was readye dight,  
-tables were couered `[covered. — P. Pork, has a better description of the room and dinner, 1. 603-24.— F.]` all on height ;  
+tables were couered `[covered. — P. Pork, has a better description of the room and dinner, 1. 603-24.— F.]` all on height;  
 then to wash they wold not blinn,  
 & the ffeast they can beginn.  
 there they were mached arright,  
-euery Lady against a Knight ;  
+euery Lady against a Knight;  
 And Minstrells sate in windowes ffaire,  
-& playd on their instruments cleere ;  
+& playd on their instruments cleere;  
 " Minstrells ffor worshipp att euery messe  
-ffull Lowd they cry Largnesse `[Largesse.— P.]` ! "  
+ffull Lowd they cry Largnesse `[Largesse.— P.]`! "  
 the carle bade the King " doe gladlye,  
 ffor heere yee gett great curtesye."  
 the Kinq said " by Saint Michaell  
@@ -657,8 +657,8 @@ both the sea and the Land,
 grant vs all ffor his sake  
 this ffalse world to fforsake,  
 & out of this world when wee shall wend,  
-to heauens blisse our soules bringe !  
-god grant vs grace itt may soe bee !  
+to heauens blisse our soules bringe!  
+god grant vs grace itt may soe bee!  
 AMEN, say all, ffor Charitye !
 
 ffinis.
