@@ -659,7 +659,7 @@ this ffalse world to fforsake,
 & out of this world when wee shall wend,  
 to heauens blisse our soules bringe!  
 god grant vs grace itt may soe bee!  
-AMEN, say all, ffor Charitye !
+AMEN, say all, ffor Charitye!
 
 ffinis.
 
