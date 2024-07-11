@@ -1898,9 +1898,9 @@ That? a woman most desire.
 This shal be thy ransome Arthur, he sayes,  
 For He have noe other hier.
 
-`And bring me worde what thing it is,`
+`And bring me worde what thing it is,`  
 `"All" women moste desyre;`  
-`This "is" thy ransome, Arthur, he sayes,`
+`This "is" thy ransome, Arthur, he sayes,`  
 `He have noe other hyre.`
 
 King Arthur then held up his hand  
@@ -1963,7 +1963,7 @@ And I must bring him word what thing it is
 
 Then king Arthur drest him for to ryde,  
 In one so rich array.  
-Toward the foresaid Tearne Wadling,
+Toward the foresaid Tearne Wadling,  
 That he might keepe his day.
 
 *In letters all king Arthur wrote.*  
@@ -1976,9 +1976,9 @@ Hee see a lady where shee sate,
 Betwixt an oke and a greene hollen,  
 She was cladd in red Scarlett.
 
-`"As ruthfulle" he rode over a more,`
+`"As ruthfulle" he rode over a more,`  
 `He "saw" a ladye "sette,"`  
-`"Betweene an oke, and a greene "holléye,"`
+`"Betweene an oke, and a greene "holléye,"`  
 `"All " clad in red scarlette.`
 
 Then there as shold have stood her mouth,  
@@ -2048,7 +2048,7 @@ Of gentle Gawaine ....
 
 *King Arthur promised on his faye,*  
 *And sware upon the roode;*  
-*The secrette then the ladye told,*
+*The secrette then the ladye told,*  
 *As lightlye well she cou'de.*
 
 *Now this shall be my paye, sir king.*  
@@ -2103,7 +2103,7 @@ She was clad in red scarlette.
 
 `"This morne," as I came over a more,`  
 `I "saw" a ladye "sette"`  
-`Between an oke, and a greene hollèye,`
+`Between an oke, and a greene hollèye,`  
 `"All" clad in red scarlette.`
 
 And she says a woman will have her will,  
@@ -2121,9 +2121,9 @@ She walkes on yonder more.
 It was my sister that told thee this,  
 She is a mishappen hore.
 
-`An earlye vengeaunce light on her!`
+`An earlye vengeaunce light on her!`  
 `"The carlish baron swore;"`  
-`"Shee" was my sister tolde the this,`
+`"Shee" was my sister tolde the this,`  
 `And "shee's" a mishapen whore.`
 
 But heer Ile make mine avow to god,  
@@ -2132,7 +2132,7 @@ For an ever I may thate fowle theefe ge[t].
 In a fyer I will her burne.  
 [About nine stanzas wanting.]
 
-`But here I will make mine avowe.`
+`But here I will make mine avowe.`  
 `To do her "as ill a" turne,`  
 `For an ever I may that foule theefe gette.`  
 `In a fyre I will her burne.`
@@ -2146,7 +2146,7 @@ PART THE SECOND.
 
 *What newes! what newes! thou noble king,*  
 *Howe, Arthur, hast thou sped?*  
-*Where hast thou hung the carlish knighte?*
+*Where hast thou hung the carlish knighte?*  
 *And where bestow'd his head?*
 
 *The carlish knight is safe for mee.*  
@@ -2220,7 +2220,7 @@ There sate a lady in red scarlett
 That unseemly was to see.
 
 `And when "they" came to the greene forrest`  
-`Beneathe a "faire" holley tree,`
+`Beneathe a "faire" holley tree,`  
 `There sate that ladye in red scarlette,`  
 `That unseemelye was to see.`
 
@@ -2239,9 +2239,9 @@ And looked upon her snout.
 Whosoever kisses this lady, he saies,  
 Of his kisse he stands in doubt.
 
-`Sir Kay beheld "that" ladye againe,`
+`Sir Kay beheld "that" ladye againe,`  
 `And looked upon her snout;`  
-`Whoever kisses "that" ladye, he sayes,`
+`Whoever kisses "that" ladye, he sayes,`  
 `Of his kisse he stands in doubt.`
 
 Peace, cozen Kay, then said Sir Gawaine  
@@ -2259,7 +2259,7 @@ In the divells name anon;
 Get me a wiffe where-ere I may,  
 For I had rather be slaine.
 
-`What "marry this foule queene, quoth" Kay`
+`What "marry this foule queene, quoth" Kay`  
 `In "the devil's" name anone;`  
 `Get mee a wife wherever I maye,`  
 `In sooth she shall be none."`
@@ -2334,9 +2334,9 @@ Truth as I doe say,
 Wether thou wilt have (me) in this likenesse,  
 In the night or else in the day.
 
-`"Nowe, gentle Gawaine, chuse, quoth shee,"`
+`"Nowe, gentle Gawaine, chuse, quoth shee,"`  
 `"And make thy choice with care";`  
-`Whether "by night, or else by daye,"`
+`Whether "by night, or else by daye,"`  
 `"Shall I be foule or faire?"`
 
 And then bespake him gentle Gawaine,  
@@ -2351,7 +2351,7 @@ Have thee fowle in the day.
 
 `To have thee foule (still) in the night,`  
 `When I with thee should playe,`  
-`"I had rather — farre, my lady deare,"`
+`"I had rather — farre, my lady deare,"`  
 `(To) have the foule 'by' daye.`
 
 What when lords goe with ther feires, shee said,  
@@ -2381,7 +2381,7 @@ From henceforth I wil bee.
 
 `"Now" bless'd be thou, "sweete" Gawaine,`  
 `(And) " the " day that I thee see;`  
-`For as thou seest me at this time,`
+`For as thou seest me at this time,`  
 `"Soe shall I ever bee."`
 
 My father was an old knight,  
@@ -2400,18 +2400,18 @@ And there I must walke in womans liknesse.
 Most like a feeind of hell.
 
 `Shee witched me, being a faire yonge "maide,"`  
-`"In" the greene forfest to dwelle;`
+`"In" the greene forfest to dwelle;`  
 `And there "to abide" in lothlye shape,`  
 `Most like a fiend of helle.`
 
 *Midst mores and moses; woods and wilds,*  
 *To leade a lonesome life;*  
-*Till some yong faire and courtlye knight*
+*Till some yong faire and courtlye knight*  
 *Wolde marreye me to his wife.*
 
-*Nor fully to gains mine owne trewe shape,*
+*Nor fully to gains mine owne trewe shape,*  
 *Such was her devilish skille,*  
-*Until he wolde yielde to be rul'd by mee,*
+*Until he wolde yielde to be rul'd by mee,*  
 *And let mee have all my wille.*
 
 She witched my brother to a carlish b ....  
