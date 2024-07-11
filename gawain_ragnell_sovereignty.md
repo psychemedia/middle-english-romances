@@ -12,6 +12,29 @@ In [*The Legend of Sir Gawain; studies upon its original scope and significance*
 
 > ... In the fragmentary poem of the *The Marriage of Sir Gawayne* `[Sir Gawayne, Madden, p. 288.]` we find the hero, in order to rescue King Arthur from the snares of a powerful enchanter, chivalrously wedding the magician's sister, a lady of unexampled hideousness. On the marriage night she reveals herself as beautiful as she was previously repulsive, and gives her husband the choice whether he will have her beautiful by night, and hideous by day, or vice versa. Gawain, with that courtesy for which he was famous, leaves the decision to the lady; whereupon she tells him she has been laid under a spell to preserve this repulsive form till she finds a knight courteous enough 'to give her her will.' The spell is now broken, and she will be beautiful alike by night and by day.
 
+A note in Percy's 1794 edition of *Reliques* describes the state of fragmentation in the original manuscript.
+
+```{admonition} Note in Percy, Reliques, 1794
+:class: dropdown
+
+https://archive.org/details/bim_eighteenth-century_reliques-of-ancient-engl_1794_3/page/350/mode/2up
+
+Reliques of ancient English poetry. Consisting of old heroic ballads, songs, and other pieces of our earlier poets, together with some few of later date.  1794: Vol 3
+Publication date 1794
+
+p350
+
+with the poem p350-8
+
+XIX.
+
+THE ANCIENT FRAGMENT OF THE MARRIAGE OF SIR GAWAINE.
+
+The Second Poem in this Volume, intitled The MArriage of Sir Gawayne, having been offered to the Reader with large conjectural Supplements and Corrections, the old Fragment itself is here literally and exactiy printed from the Editor's folio MS. with all its defects, inaccuracies, and errata; that ſuch auſtere Antiquaries, as complain that the ancient copies have not been always rigidly adhered to, may ſee how unfit for publication many of the pieces would have been if all the blunders, corruptions, and nonſenſe of illiterate Reciters and Tranſcribers had been ſuperſtitiouſly retained, without ſome attempt to correct and emend them.
+
+This Ballad had moſt unfortunately ſuffered by having half of every leaf in this Part of the MS. torn away; and, as about Nine Stanzas' generally occur in the half page now remaining, it is concluded, that the other half contained nearly the ſame number of Stanzas.
+```
+
 Structurally, the tale  poses a riddle — Sir Gromer Somer Joure's challenge to Arthur — and then introduces several dilemmas (Arthur's unwillingness to speak for Sir Gawain in committing him to marriage, Dame Ragnell's question to Gawain), Dame Ragnell's answer to the riddle — letting the other person decide — is also the answer that resolves the dilemmas.
 
 Madden's version is as follows:
@@ -979,7 +1002,7 @@ And cups went freely round;
 Before them came a faire damselle,  
 And knelt upon the ground.
 
-—" A boone, a boone, O kinge Arthure,  
+—"A boone, a boone, O kinge Arthure,  
 "I beg a boone of thee;  
 "Avenge me of a carlish knighte,  
 "Who hath shent my love and mee.
@@ -1253,7 +1276,7 @@ For cities, nor for townes.
 
 Then bespake him King Arthure,  
 And sware there by this daye;  
-—" For a little foule sighte and mislikinge,  
+—"For a little foule sighte and mislikinge,  
 "Yee shall not say her naye." —
 
 — "Peace, Lordings, peace;" Sir Gawaine sayd;  
@@ -1743,5 +1766,716 @@ For the good chance that happened was
 To Sir Gawaine and his lady gay.
 
 ````
+
+In his *Dissertation on romance and minstrelsy*, Joseph Ritson reviews Percy's publication of the Dame Ragnell poem and compares versions that appear in the 1775 and 1795 editions of *Reliques of Ancient English Poetry*.
+
+```{admonition} In "Dissertation on romance and minstrelsy", Ritson, 1891
+:class: dropdown
+
+https://archive.org/details/cu31924013358050/page/n59/mode/2up?q=gaWayne
+A dissertation on romance and minstrelsy
+by Ritson, Joseph, 1752-1803; Chrétien, de Troyes, 12th cent
+
+Publication date 1891
+
+p57-70
+
+Several metrical romances, according to Bishop Percy's account, are extant in his lordship's celebrated folio manuscript, many of which are not to be now found in print; amongst these are the following:— *Sir Cauline*, *John the Reve*, *Guy and Colbronde*, *Libeaux Disconius* (a different copy from the one here printed), *King Arthur and the King of Cornwall*, *Sir Lionel*, *The Greene Knight*, *The Earl of Carlisle*, *Sir Lambwell*, *Merline*, *King Arthur's Death*, *The Legend of King Arthur*, *The Legend of Sir Guy*, *Eger and Grime*, and many songs and ballads. The MS. (compiled by Thomas Blount, author of *The Law-Dictionary*, etc., about the middle of the seventeenth century), as we are told by the right reverend prelate, `[The "advertisement" is signed "Thomas Percy, fellow of St. John's College, Oxford," his lordship's nephew, whom the late Mister Steevens assured the present editor to have never seen a word of it.]` is a long narrow volume, containing igi sonnets, ballads, historical songs, and metrical romances, either in the whole or in part, for many of them are extremely mutilated and imperfect.
+
+"The first and last leaves," he says, "are wanting; and of 54 pages near the beginning half of every leaf hath been torn away, and several others are injured towards the end; besides that through a great part of the volume the top or bottom line, and sometimes both, have been cut off in the binding." ... The transcripts moreover "are sometimes extremely incorrect and faulty, being in such instances probably made from defective copies, or the imperfect recitation of illiterate fingers, so that a considerable portion of the song or narrative is sometimes omitted, and miserable trash or nonsense not unfrequently introduced into pieces of considerable merit:" the copyist, it seems, often growing "so weary of his labour as to write on without the least attention to the sense or meaning: so that the word which should form rhyme is found misplaced in the middle of the line; and we have such blunders as these, *want and will* for *wanton will*; even *pan and wale* for *wan and pale*, etc., etc." Certainly this is a most extraordinary, as well as unfortunate, book, and the labour of the right reverend editor in correcting, refining, improving, completing, and enlarging the orthography, grammar, text, style, and supplying the chasms and hiatuses, *valdè deflenda!* must have equalled that of Hercules in cleansing the Augean stable: so that a parcel of old rags and tatters were thus ingeniously and haply converted into an elegant new suit.
+
+The existence and authenticity of this famous MS. in its present mutilated and miserable condition is no longer to be denied or disputed; at the same time, it is a certain and positive fact, that, in the elegant and refined work it gave occasion to, there is scarcely one single poem, song, or ballad, fairly or honestly printed, either from the above fragment or other alleged authorities, from the beginning to the end; many pieces, also, being inserted, as ancient and authentic, which there is every reason to believe never existed before its publication. To correct the obvious errors of an illiterate transcriber, to supply irremediable defects, and to make sense of nonsense, are certainly essential duties of an editor of ancient poetry, provided he act with integrity and publicity; but secretly to suppress the original text, and insert his own fabrications for the sake of providing more refined entertainment for readers of taste and genius, is no proof of either judgment, candour, or integrity.
+
+In what manner this ingenious editor conducted himself in this patched-up publication will be evident from the following parallel, which may be useful to future manufacturers in this line:—
+
+The Marriage of Sir Gawaine. `[The lines or words marked with elevated commas are substitutions in place of the old readings. The whole in italics is his own.]`
+
+The original (printed in large type) from *Reliques*, edition 1795, iii., 350. The improvement (printed in small type `[TH: Courier font]`) from *Reliques*, edition 1775, iii., 11.
+
+"King Arthur lives in merry Carleile,  
+And seemely is to see;  
+And there he hath with him queen Genever,  
+That bride so bright of blee.
+
+`King Arthur lives in merry Carleile,`  
+`And seemely is to see;`  
+`And there " with him queene Guenever,`  
+`That bride so bright of blee.`
+
+And there he hath with him queen Genever,  
+That bride so bright in bower,  
+And all his barons about him stoode.  
+That were both stiffe and stowre.
+
+`And there "with him queene Guenever,`  
+`That bride so bright in bowre;`  
+`And all his barons about him stoode`  
+`That were both stiffe and stowre.`
+
+The king kept a royall Christmasse  
+Of mirth and great honor,  
+... when ...
+
+[About nine stanzas wanting].
+
+`The king "a royale Christmasse kept,"`  
+`"With" mirth and "princelye cheare,"`  
+*To him repaired many a knighte,*  
+*That came bothfarre and neare.*
+
+*And when they were to dinner sette,*  
+*And cups went freely round;*  
+*Before them came a f aire damselle.*  
+*And knelt upon the ground.*
+
+*A boone, a boone, O kinge Arthure,*  
+*I beg a boone of thee;*  
+*Avenge me of a carlish knighte,*  
+*Who hath shent my love and mee.*
+
+*At Tearne-Wadling his castle stands,*  
+*Near to that lake so fair,*  
+*And proudlye rise the battlements.*  
+*And streamers deck the air.*
+
+*Noe gentle knighte, nor ladye gay,*  
+*May passe that castle-walle;*  
+*But from thatfoule discourteous knighte*  
+*Mishappe will them befalle.*
+
+*Hee's twyce the size of common men,*  
+*Wi' thewes, and sinewes strange.*  
+*And on his backe he bears a clubbe*  
+*That is both thicke and longe.*
+
+*This grimme barbne 'twas our hard happe,*  
+*But yester morne to see;*  
+*Went to his bowre he bare my love,*  
+*And sore misused mee.*
+
+*And when I told him, king Arthùre,*  
+*As lyttle shold him spare;*  
+*Goe tell, sayd hee, that cuckold kinge,*  
+*To meete mee if he dare.*
+
+*Upp then steyted king Arthùre*  
+*And swave by hille and dale.*  
+*He ne'er wolde quitt that grimme baròne,*  
+*Till he had made him quail.*
+
+*Go fetch my sword Excalibar;*  
+*Goe saddle mee my steede;*  
+*Now, by my faye, that grimme baròne*  
+*Shall rue this ruthfulle deede.*
+
+*And when he came to Tearne Wadlinge,*  
+*Benethe the castle walk:*  
+*Come forth! come forth! thou provide baròne*  
+*Or yielde thyself my thralle.*
+
+*On magicke grounde that castle stoode,*  
+*And fenced with many a spelle:*  
+*Noe valiant knighte could tread theron,*  
+*But straite his courage felle.*
+
+*Forth then rush'd that carlish knight,*  
+*King Arthur felte the charme,*  
+*His sturdy sinewes lost their strengthe,*  
+*Downe sunke his feeble arme.*
+
+*Nowe yield thee, yield thee, king Arthùre,*
+*Now yield thee, unto mee.*  
+*Or fighte with mee, or lose thy lande,*  
+*No better termes maye bee.*
+
+*Unlesse thou sweare upon the rood,*  
+*And promise on thy faye,*  
+*Here to returne to Tearne Wadling,*  
+*Upon the new-yeare's daye;*
+
+And bring me word what thing it is  
+That? a woman most desire.  
+This shal be thy ransome Arthur, he sayes,  
+For He have noe other hier.
+
+`And bring me worde what thing it is,`
+`"All" women moste desyre;`  
+`This "is" thy ransome, Arthur, he sayes,`
+`He have noe other hyre.`
+
+King Arthur then held up his hand  
+According thene as was the law.  
+He tooke his leave of the baron there  
+And homword can he draw.
+
+`King Arthur then held up his hande,`  
+`"And sware upon his faye,"`  
+`"Then" tooke his leave of the "grimme barone,"`  
+`And "faste hee rode awaye."`
+
+And when he came to merry Carlile,  
+To his chamber he is gone,  
+And ther cam to him his cozen, Sir Gawaine,  
+As he did make his mone.
+
+And there came to him his cozen, Sir Gawaine,  
+That was a curteous knight,  
+Why sigh you soe sore unckle Arthur, he said,  
+Or who hath done thee unright?
+
+O peace, O peace, thou gentle Gawaine,  
+That faire may thee befall;  
+For if thou knew my sighing soe deepe.  
+Thou wold not mervaille att all.
+
+For when I came to Tearne Wadling,  
+A bold barren there I fand,  
+With a great club upon his backe  
+Standing stiffe and strong.
+
+And he asked me wether I wold fight,  
+Or from him I shold be gone,  
+O[r] else I must him a ransome pay,  
+And soe depart him from.
+
+To fight with him I saw noe cause,  
+Me thought it was not meet.  
+For he was stiffe and strong with all,  
+His strokes were nothing sweete.
+
+Therfor this is my ransome Gawaine,  
+I ought to him to pay,  
+I must come againe as I am sworne,  
+Upon the new yeers day.
+
+*And he rode east, and he rode west,*  
+*And did of all inquyre.*  
+*What thing it is all women crave.*  
+*And what they most desyre.*
+
+And I must bring him word what thing it is  
+[About nine stanzas wanting].  
+
+*Some told him riches, pompe, or state.*  
+*Some rayment fine and brighte;*  
+*Some told him mirthe, some flatterye;*  
+*And some a jollye knight.*
+
+Then king Arthur drest him for to ryde,  
+In one so rich array.  
+Toward the foresaid Tearne Wadling,
+That he might keepe his day.
+
+*In letters all king Arthur wrote.*  
+*And sealed them with his ringe;*  
+*But still his mind was helde in doubt,*  
+*Each told a different thinge.*
+
+And as he rode over a more,  
+Hee see a lady where shee sate,  
+Betwixt an oke and a greene hollen,  
+She was cladd in red Scarlett.
+
+`"As ruthfulle" he rode over a more,`
+`He "saw" a ladye "sette,"`  
+`"Betweene an oke, and a greene "holléye,"`
+`"All " clad in red scarlette.`
+
+Then there as shold have stood her mouth,  
+Then there was sett her eye;  
+The other was in her forehead fast,  
+The way that she might see.
+
+`Her nose was crookt and turnd outward;`  
+`Her "chin" stood "all" awrye;`  
+`"And where" as sholde have "been" her mouthe,`  
+`"Lo"! there was set her eye.`
+
+Her nose was crooked and turned outward  
+Her mouth stood foule awry,  
+A worse formed lady then shee was,  
+Never man saw with his eye.
+
+*`Her haires, like serpents, clung aboute,`*  
+*`Her cheekes' of deadlye hewe:`*  
+A worse-formed lady than she was,  
+No man "mote ever viewe."
+
+To halch upon him, king Arthur,  
+The lady was full faine;  
+But king Arthur had forgott his lesson,  
+What he should say againe.
+
+`To "haile the king in seemelye sorte,"`  
+`"This" ladye was fulle faine;`  
+`But king Arthure "at fore amaz'd,"`  
+`"No aunswere made" againe.`
+
+What knight art thou, the lady sayd,  
+That wilt not speake to me?  
+Of me thou nothing [be] dismayed  
+Tho I be ugly to see.
+
+`What "wight" art thou, the ladye sayd.`  
+`That wilt not speake to mee;`  
+`"Sir, I may chance to ease thy paine,"`  
+`Though I be "foule" to see.`
+
+For I have halched you courteouslye.  
+And you will not me againe,  
+Yett I may happen, sir knight, shee said,  
+To ease thee of thy paine.
+
+Give thou ease me, lady, he said,  
+Or helpe me anything.  
+Thou shalt have gentle Gawaine, my cozen,  
+And many him with a ring.
+
+`"If" thou (wilt) ease "my paine," he sayd,`  
+`"And" helpe me "in my neede";`  
+*`"Ask what " thou wilt, thou grimme ladye,`*  
+*`And it shall be thy meede.`*
+
+Why if I helpe thee not, thou noble king Arthur,  
+Of thy owne hearts desiringe,  
+Of gentle Gawaine ....  
+[About nine stanzas wanting].
+
+*O sweare mee this upon the roode,*  
+*And promise on thy faye;*  
+*And here the secrette I will telle,*  
+*That shall thy ransome paye.*
+
+*King Arthur promised on his faye,*  
+*And sware upon the roode;*  
+*The secrette then the ladye told,*
+*As lightlye well she cou'de.*
+
+*Now this shall be my paye, sir king.*  
+*And this my guerdon bee,*  
+*That some yong, fair, and courtlye knighte,*  
+*Thou bringe to marrye mee.*
+
+*Fast then pricked king Arthùre,*  
+*Ore hille, and dale, and downe;*  
+*And soone he founde the barone's bowre;*  
+*And soone the grimme baròune.*
+
+And when he came to Teame Wadling  
+The baron there cold he frinde (finde),  
+With a great weapon on his backe,  
+Standing stiffe and stronge.
+
+*"He bare his clubbe" upon his backe,*  
+*"He stood bothe" stiffe and stronge;*  
+*"And when he had the letters reade*  
+*"Awaye" the lettres flunge."*
+
+And then he tooke king Arthurs letters in his hands,  
+And away he cold them fling;  
+And then he puld out a good browne sword,  
+And cryd himself a King.
+
+And he sayd, I have thee and thy land, Arthur,  
+To doe as it pleaseth mee;  
+For this is not thy ransome sure  
+Therfore yeeld thee to mee.
+
+*"Nowe yielde" thee, Arthur, and thy "lands,"*  
+*"All forfeit upto mee";*  
+*For this is not thy "paye, sir king.*  
+*Nor many thy ransome bee."*
+
+And then bespoke him, noble Arthur,  
+And bad him hold his hands;  
+And give me leave to speak my mind  
+In defence of all my land.
+
+`"Yet hold thy hand, thou proude barbne,"`  
+`"I pray thee" hold "thy" hand;`  
+`And give me leave to speak "once moe"`  
+`In "reskewe" of my land.`
+
+'He' said as I came over a more,  
+I see a lady where she Sate,  
+Betweene an oke and a green hollen,  
+She was clad in red scarlette.
+
+`"This morne," as I came over a more,`  
+`I "saw" a ladye "sette"`  
+`Between an oke, and a greene hollèye,`
+`"All" clad in red scarlette.`
+
+And she says a woman will have her will,  
+And this is all her chief desire,  
+Doe me right as thou art a baron of sckill,  
+This is thy ransome and all thy hyer.
+
+`She sayes "all women" will have "their" wille,`  
+`This is "their" chief desyre;`  
+`"Now yield," as thou art a barone "true,"`  
+`"That I have payd mine hyre."`
+
+He sayes, an early vengence light on her,  
+She walkes on yonder more.  
+It was my sister that told thee this,  
+She is a mishappen hore.
+
+`An earlye vengeaunce light on her!`
+`"The carlish baron swore;"`  
+`"Shee" was my sister tolde the this,`
+`And "shee's" a mishapen whore.`
+
+But heer Ile make mine avow to god,  
+To do her an evill turne;  
+For an ever I may thate fowle theefe ge[t].  
+In a fyer I will her burne.  
+[About nine stanzas wanting.]
+
+`But here I will make mine avowe.`
+`To do her "as ill a" turne,`  
+`For an ever I may that foule theefe gette.`  
+`In a fyre I will her burne.`
+
+PART THE SECOND.
+
+*Homewarde pricked king Arthure,*  
+*And a wearye man was he;*  
+*And soon he met queene Guenever,*  
+*That bride so bright of blee.*
+
+*What newes! what newes! thou noble king,*  
+*Howe, Arthur, hast thou sped?*  
+*Where hast thou hung the carlish knighte?*
+*And where bestow'd his head?*
+
+*The carlish knight is safe for mee.*  
+*And free fro mortal harme;*  
+*On magicke grounde his castle stands,*  
+*And fenc'd with many a charme.*
+
+*To bowe to him I was fulle faine,*  
+*And yielde mee to his hand;*  
+*And but for a lothly ladye, there,*  
+*I sholde have lost my land.*
+
+*And nowe this fills my hearte with woe,*  
+*And sorrowe of my life;*  
+*I swore a yonge and courtlye knight*  
+*Sholde marry her to his wife.*
+
+*Then bespake him sir Gawaine,*  
+*That was ever a gentle knighte;*  
+*That lothly ladye I will wed;*  
+*Therefore be merrye and lighte.*
+
+*Nowe naye, nowe naye, good sir Gawaine;*  
+*My sisters sonne yee bee;*  
+*This lothlye ladye's all to grimme,*  
+*And all too foule for yee.*
+
+*Her nose is crookt and tum'd outwàrde;*  
+*Her chin stands all awrye;*  
+*A worse formed ladye than she is.*  
+*Was never seen with eye.*
+
+*What though her chin stand all awrye,*  
+*And shee be foule to see,*  
+*I'll marry her, unkle, for thy sake,*  
+*And I'll thy ransome bee.*
+
+*Nowe thankes, nowe thankes, good sir Gawaine,*  
+*And a blessing thee betyde,*  
+*Tomorrow wee'll have knights and squires,*  
+*And wee'll go fetch thy bride.*
+
+*And wee'll have hawkes and wee'll have houndes.*  
+*To cover our intent;*  
+*And wee'll away to the greene forest.*  
+*As wee a hunting went.*
+
+Sir Lancelot and Sir Steven bold,  
+They rode with them that day,  
+And the formost of the company  
+There rode the steward Kay.
+
+`Sir Lancelot, Sir Stephen bolde.`  
+`They rode with them that daye;`  
+`And foremost of the companye.`  
+`There rode the stewarde Kaye.`
+
+Soe did Sir Banier and Sir Bore,  
+Sir Garrett with them soe gay,  
+Soe did Sir Tristeram that gentle knight,  
+To the forrest fresh and gay.
+
+`Soe did sir Banier and sir Bore`  
+`"And eke sir Garratte keene";`  
+`Sir Tristram "too" that gentle knight,`  
+`To the forest freshe and "greene."`
+
+And when he came to the green forest,  
+Underneath a green holly tree,  
+There sate a lady in red scarlett  
+That unseemly was to see.
+
+`And when "they" came to the greene forrest`  
+`Beneathe a "faire" holley tree,`
+`There sate that ladye in red scarlette,`  
+`That unseemelye was to see.`
+
+Sir Kay beheld this ladyes face.  
+And looked upon her suire;  
+Whosoever kisses this lady, he sayes,  
+Of his kisse he stands in feare.
+
+`Sir Kay beheld "that" lady's face,`  
+`And looked upon her sweere;`  
+`Whoever kisses "that" ladye, he sayes.`  
+`Of his kisse he stands in feere.`
+
+Sir Kay beheld the lady againe,  
+And looked upon her snout.  
+Whosoever kisses this lady, he saies,  
+Of his kisse he stands in doubt.
+
+`Sir Kay beheld "that" ladye againe,`
+`And looked upon her snout;`  
+`Whoever kisses "that" ladye, he sayes,`
+`Of his kisse he stands in doubt.`
+
+Peace, cozen Kay, then said Sir Gawaine  
+Amend thee of thy life;  
+For there is a knight amongst us all  
+That must marry her to his wife.
+
+`Peace, "brother" Kay, sayde Sir Gawaine,`  
+`And amend thee of thy life;`  
+`For there is a knight amongst us all,`  
+`Must marry her to his wife.`
+
+What wedd her to wiffe! then said Sir Kay,  
+In the divells name anon;  
+Get me a wiffe where-ere I may,  
+For I had rather be slaine.
+
+`What "marry this foule queene, quoth" Kay`
+`In "the devil's" name anone;`  
+`Get mee a wife wherever I maye,`  
+`In sooth she shall be none."`
+
+Then some tooke up their hawkes in haste,  
+And some tooke up their hounds,  
+And some sware they wold not marry her,  
+For citty nor for towne.
+
+`Then some took up their hawkes in haste,`  
+`And some took up their houndes;`  
+`And "sayd" they wolde not marry her,`  
+`For cities, nor for townes.`
+
+And then bespake him noble king Arthur,  
+And sware there by this day,  
+For a litle foule fight and misliking  
+(about nine stanzas wanting).
+
+`Then bespake him king Arthure,`  
+`And sware there by this daye;`  
+`For a little foule fight and mislikinge,`  
+*`Yee shall not say her naye.`*
+
+*Peace, Lordings, peace, Sir Gawaine sayd;*  
+*Nor make debate and strife;*  
+*This lothlye ladye I will take,*  
+*And marry her to my wife.*
+
+*Nowe thankes, nowe thankes, good sir Gawaine,*  
+*And a blessinge be thy meede!*  
+*For as I am thine owne ladyè,*  
+*Thou never shall rue this deede.*
+
+*Then up they took that lothly dame,*  
+*And home anone they bringe;*  
+*And there Sir Gawaine he her wed,*  
+*And married her with a ringe.*
+
+*And when they were in wed-bed laid,*  
+*And all were done awaye;*  
+*"Come turn to mee mine owne wed-lord,*  
+*Come turn to mee I praye."*
+
+*Sir Gawaine scant could lift his head,*  
+*For sorrowe and for care;*  
+*When, lo! instead of fliat lothelye dame,*  
+*Hee same a young ladye faire.*
+
+*Sweet blushes stayned her rud-red cheeke.*  
+*Her eyen were blacke as sloe;*  
+*The ripening cherrye swellde her lippe,*  
+*And all her necke was snowe.*
+
+*Sir Gawaine kissed that lady faire,*  
+*Lying upon the sheete;*  
+*And swore, as he was a true knighte,*  
+*The spice was never soe sweete.*
+
+*Sir Gawaine kissed that lady bright,*  
+*Lying there by his side;*  
+*"The fairest flower is not soe faire;*  
+*Thou never canst bee my bride."*
+
+*I am thy bride, mine owne dear lorde,*  
+*The same which thou didst know,*  
+*That was so lothlye, and was wont*  
+*Upon the wild more to goe.
+
+Then shee said, choose thee, gentle Gawaine,  
+Truth as I doe say,  
+Wether thou wilt have (me) in this likenesse,  
+In the night or else in the day.
+
+`"Nowe, gentle Gawaine, chuse, quoth shee,"`
+`"And make thy choice with care";`  
+`Whether "by night, or else by daye,"`
+`"Shall I be foule or faire?"`
+
+And then bespake him gentle Gawaine,  
+With one soe mild of moode,  
+Sayes, well I know what I wold say,  
+God grant it may be goode,
+
+To have thee fowle [still] in the night,  
+When I with thee should playe,  
+Yet I had rather, if I might,  
+Have thee fowle in the day.
+
+`To have thee foule (still) in the night,`  
+`When I with thee should playe,`  
+`"I had rather — farre, my lady deare,"`
+`(To) have the foule 'by' daye.`
+
+What when lords goe with ther feires, shee said,  
+Both to the ale and wine,  
+Alas! then I must hyde myself,  
+I must not go withinne.
+
+`What when "gaye ladyes" goe with their "lordes,"`  
+`To (drinke) the ale and wine;`  
+`Alas! then I must hide myself,`  
+`I must not go with "mine?"`
+
+And then bespake him gentle Gawaine,  
+Said, Lady thats but a skill,  
+And because thou are my owne lady,  
+Thou shalt have all thy will.
+
+`"My fair ladyè sir Gawaine sayd,"`  
+`"I yield me to thy" skille,`  
+`Because thou art mine owne ladyè,`  
+`Thou shalt have all thy wille.`
+
+Then she said, blessed be thou, gentle Gawaine,  
+This day that I thee see,  
+For as thou see me att this time,  
+From henceforth I wil bee.
+
+`"Now" bless'd be thou, "sweete" Gawaine,`  
+`(And) " the " day that I thee see;`  
+`For as thou seest me at this time,`
+`"Soe shall I ever bee."`
+
+My father was an old knight,  
+And yett it chanced soe,  
+That he marryed a younge lady,  
+That brought me to this woe.
+
+`My father was an "aged" knight,`  
+`And yet it chanced soe,`  
+`He "tooke to wife" a "false" ladyè,`  
+`"Whiche" broughte me to this woe.`
+
+Shee witched me, being a faire young lady,  
+To the greene forrest to dwell,  
+And there I must walke in womans liknesse.
+Most like a feeind of hell.
+
+`Shee witched me, being a faire yonge "maide,"`  
+`"In" the greene forfest to dwelle;`
+`And there "to abide" in lothlye shape,`  
+`Most like a fiend of helle.`
+
+*Midst mores and moses; woods and wilds,*  
+*To leade a lonesome life;*  
+*Till some yong faire and courtlye knight*
+*Wolde marreye me to his wife.*
+
+*Nor fully to gains mine owne trewe shape,*
+*Such was her devilish skille,*  
+*Until he wolde yielde to be rul'd by mee,*
+*And let mee have all my wille.*
+
+She witched my brother to a carlish b ....  
+[About nine stanzas wanting.]
+
+`She witched my brother to a "carlish"` *`boore`*`,`  
+*`And made him stiffe and strange;`*  
+*`And built him a bowre on magicke grounde,`*  
+*`To live by rapine and wronge.`*
+
+*`But now the spelle is broken throughe,`*  
+*`And wronge is turnde to righte;`*  
+*`Henceforth I shall bee a faire ladye,`*  
+*`And he be a gentle knighte.`*
+
+* * * * *
+
+That looked soe foule and that was wont  
+On the wild more to goe.
+
+Come kisse her, brother Kay, then said sir Gawaine,  
+And amend thee of thy life,  
+I sware this is the same lady  
+That I marryed to my wiffe.
+
+Sir Kay kissed that lady bright,  
+Standing upon his feete:  
+He swore, as he was trew knight,  
+The spice was never soe sweete.
+
+Well, cozen Gawaine, saies sir Kay,  
+Thy chance is fallen arright,  
+For thou hast gotten one of the fairest maids,  
+I ever saw with my sight.
+
+It is my fortune, said sir Gawaine,  
+For my unckle Arthurs sake:  
+I am as glad as grasse wold be of raine,  
+Great joy that I may take.
+
+Sir Gawaine tooke the lady by the one arme,  
+Sir Kay tooke her by the tother;  
+They led her straight to King Arthur,  
+As they were brother and brother.
+
+King Arthur welcomed them there all,  
+And soe did lady Genever his queene,  
+With all the knights of the rounde table,  
+Most seemly to be seene.
+
+King Arthur beheld that lady faire,  
+That was soe faire and bright,  
+He thanked Christ in trinity  
+For Sir Gawaine that gentle knight.
+
+Soe did the knights, both more or lesse,  
+Rejoyced all that day,  
+For the good chance that hapened was  
+To sir Gawaine and his lady gay.
+
+This mode of publishing ancient poetry displays, it must be confessed, considerable talent and genius, but savours strongly, at the same time, of unfairness and dishonesty. Here are numerous stanzas inserted which are not in the original, and others omitted which are there. The purchasers and perusers of such a collection are deceived and imposed upon; the pleasure they receive is derived from the idea of antiquity, which, in fact, is perfect illusion.
+
+If the ingenious editor had published all his imperfect poems by correcting the blunders of puerility or inattention, and supplying the defects of barbarian ignorance, with proper distinction of type (as, in one instance, he actually has done), it would not only have gratified the austerest antiquary, but also provided refined entertainment "for every reader of taste and genius." He would have acted fairly and honorably, and given every sort of reader complete satisfaction. Authenticity would have been united with improvement, and all would have gone well; whereas, in the present editions, it is firmly believed, not one article has been ingeniously or faithfully printed from the beginning to the end; nor did the late eminent Thomas Tyrwhitt, so ardent a researcher into ancient poetry, and an intimate friend of the possessor, ever see this curious, though tattered, fragment, nor would the late excellent George Stevens, on the bishop's personal application, consent to sanction the authenticity of the printed copy with his signature. `[The Bishop of Dromore (as he now is), on a former occasion, having himself, as he well knows, already falsified and corrupted a modern Scottish song, "This line," he says, "being quoted from memory and given as old Scottish poetry, is (by no one, in such a case, except himself) now usually printed " (Reliques, 1775 I., xxxviii. [Scottish poetry, of the fifteenth or sixteenth century, has been so printed, but not that of the eighteenth, unless by impostors.]) "Come ye frae the border?" to give it a certain appearance of rust and antiquity. This identical song being afterward, faithfully and correctly printed in a certain collection of such things, from the earliest copy known, which, like all the rest, was accurately referred to "Live you upo' the border?" (Scottish Songs printed for J. Johnson, 1794, i., 266), the worthy prelate thought proper, in the last edition of his already recited compilation, to assert that his own corruption "would have been readily corrected by that copy, had not all confidence been destroyed by its being altered in the Historical Essay, prefixed to that pubUcation to "'Ye Live upo' the border;' the better," he adds, with his usual candour, "to favour a position, that many of the pipers might live upon the borders, for the conveniency of attending fairs, etc., in both kingdoms." This, however, is an infamous lye; it being much more likely that he himself, who has practised every kind of forgery and imposture, had some such end to alter this identical line, with much more violence, and, as he owns himself, actual "corruption," to give the quotation an air of antiquity, which it was not entitled to. The present editor's text is perfectly accurate, to a single comma, but, "this line," as he pretends to apologise for his own, "being quoted (in the Essay) from memory," having frequently heard it so sung, in his younger days, by a north country blacksmith without thinking it necessary, at the moment, to turn to the genuine text, which lay at his elbow, and which his lordship dare not impeach. "Thou hypocrite, first cast out the beam out of thine own eye, and then shalt thou see (more) clearly to cast out the mote out of thy brother's eye" (Gospel according to St. Matthew, chap, vii., verse 5).]`
+
+```
 
 *This set of notes is still very much a work in progress, with several more notes to follow...*

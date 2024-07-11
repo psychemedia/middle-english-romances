@@ -3,985 +3,6 @@
 PARTIAL NOTES COPIED OVER
   
 
-Reliques of ancient English poetry. Consisting of old heroic ballads, songs, and other pieces of our earlier poets, together with some few of later date.  1794: Vol 3
-Publication date 1794
-
-p350
-
-with the poem p350-8
-
-e Second Poem in this Volume, intitled Tux Max-
-
-MARRIAGE OF SIR GAWAINE, having been offered to the Reader with large confectural Supplements and Correfions, the old Fragment 77 05. is here literally and exactiy printed from the Editor's folio MS. with all its defects, inaccuracies, and errata; that ſuch auſtere Antiquaries, as complain that the ancient copies have not been always rigidly adhered to, may ſee how unfit for publication many of the pieces would
-
-22. if all the blunders, corruptions, Res nonſenſe of illiterate Reciters and Tranſcribers had been ſuper ſtitiouſly retained, without ſome attempt to correct and emend them.
-
-This Ballad had moſt unfortunately ſuffered by having half of every leaf in this Part of the MS. torn away; and, as about Nine Stanzas' generally occur in the half page now remaining, it is concluded, that the other half contained nearly the ſame number of Stanzas,
-
-
-
-
-----
-
-Ritson gave parallel versions of the form given by Madden ??
-
-https://archive.org/details/cu31924013358050/page/n59/mode/2up?q=gaWayne
-A dissertation on romance and minstrelsy
-by Ritson, Joseph, 1752-1803; Chrétien, de Troyes, 12th cent
-
-Publication date 1891
-
-p57-70
-
-TO DO
-
-Several metrical romances, according to Bishop Percy's account, are extant in his lordship's celebrated folio manuscript, many of which are not to be now found in print; amongst these are the following: — Sir Cauline, John the Revc, Guy and Colbronde, Libeaux Disconius (a different copy from the one here printed), King Arthur and the King of Cornwall, Sir Lionel, The Greene Knight, The Earl of Carlisle, Sir Lambwell, Merline, King Arthur's Death, The Legend of King Arthur, The Legend of Sir Guy, Eger and Grime, and many songs and ballads. The MS. (compiled by Thomas Blount, author of The Law-Dictionary, etc., about the middle of the seventeenth century), as we are told by the right reverend prelate, f is a long narrow volume, containing igi sonnets, ballads, historical songs, and metrical romances, either in the whole or in part, for many of them are extremely mutilated and imperfect.
-
-"The first and last leaves," he says, "are wanting; and of 54 pages near the beginning half of every leaf hath been torn away, and several others are injured towards the end; besides that through a great part of the volume the top or bottom line, and sometimes both, have been cut off in the binding." . . . The transcripts moreover
-
-"are sometimes extremely incorrect and faulty, being in such instances probably made from defective copies, or the imperfect recitation of illiterate fingers, so that a considerable portion of the song or narrative is sometimes omitted, and miserable trash or nonsense not unfrequently introduced into pieces of considerable merit:" the copyist, it seems, often growing " so weary of his labour as to write on without the least attention to the sense or meaning: so that the word which should form rhyme is found misplaced in the middle of the line; and we have such blunders as these, want and willioi wanton ■will; even ^an and wale iot wan and ;pale, etc., etc." Certainly this is a most extraordinary, as well as unfortunate, book, and the labour of the right reverend editor in correcting, refining, improving, completing, and enlarging the orthography, grammar, text, style, and supplying the chasms and hiatuses, valde deflenda! must have equalled that of Hercules in cleansing the Augean stable: so that a parcel of old rags and tatters were thus ingeniously and haply converted into an elegant new suit.
-
-The existence and authenticity of this famous MS. in its present mutilated and miserable condition is no longer to be denied or disputed; at the same time, it is a certain and positive fact, that, in the elegant and refined work it gave occasion to, there is scarcely one single poem, song, or ballad, fairly or honestly printed, either from the above fragment or other alleged authorities, from the beginning to the end; many pieces, also, being inserted, as ancient and authentic, which there is every reason to believe never existed before its publication. To correct the obvious errors of an illiterate transcriber, to supply irremediable defects, and to make sense of nonsense, are certainly essential duties of an editor of ancient poetry, provided he act with integrity and publicity; but secretly to suppress the original text, and insert his own fabrications for the sake of providing more refined entertainment for readers of taste and genius, is no proof of either judgment, candour, or integrity.
-
-In what manner this ingenious editor conducted himself in this patched-up publication will be evident from the following parallel, which may be useful to future manufacturers in this line:—
-
-The Marriage of Sir Gawaine.*
-
-The original (printed in large type) from Reliques, edition 1795, iii., 350. The improvement (printed in small type) from Reliques, edition 1775, iii., 11.
-
-"King Arthur lives in merry Carleile, And seemely is to see;
-
-* The lines or words marked with elevated commas are substitutions in place of the old readings. The whole in italics is his own.
-
-And there he hath with him queen Genever,  
-That bride so bright of blee.
-
-King Arthur lives in merry Carleile,
-
-And seemely is to see;  
-And there " with him queene Guenever,
-
-That bride so bright of blee.
-
-And there he hath with him queen Genever,
-
-That bride so bright in bower,  
-And all his barons about him stoode.
-
-That were both stiffe and stowre.
-
-And there "with him queene Guenever,  
-Thdt bride so bright in bowre;
-
-And all his barons about him stoode  
-That were both stiffe and stowre.
-
-The king kept a royall Christmasse  
-Of mirth and great honor,
-
-when
-
-[About nine stanzas wanting] .
-
-The king "a royale Christmasse kept,"  
-"With" mirth and "princelye cheare,"
-
-To him repaired many a knighte,  
-That came bothfarre and neare.
-
-And when they were to dinner sette,
-
-And cups went freely round;  
-Before them came a f aire damselle.
-
-And knelt upon the ground.
-
-A boone, a boone, O kinge Arthure,
-
-I beg a boone of thee;  
-Avenge me of a carlish knighte,
-
-Who hath shent my love and mee.
-
-At Tearne-Wadling his castle stands,
-
-Near to that lake so fair,  
-And proudlye rise the battlements.
-
-And streamers deck the air.
-
-Noe gentle knighte, nor ladye gay,
-
-May passe that castle-walle;  
-But from thatfoule discourteous knighte
-
-Mishappe will them befalle.
-
-Hee's twyce the size of common men,  
-IVi' thewes, and sinewes strange.
-
-And on his b acke he bears a clubbe  
-That is both thicke and longe.
-
-This grimme barbne 'twas our hard happe,
-
-Butyester morne to see;  
-Went to his bowre he bare my love,
-
-And sore misused mee.
-
-And when I told him, king Arthiire,
-
-As lyttle shold him spare;  
-Goe tell, sayd hee, that cuckold kinge,
-
-To meete mee if he dare.
-
-Upp then steyted king Arthiire
-
-And swave by hilte and dale.  
-He ne'er wolde quilt that grimme barhne,
-
-Till he had made liiin quail.
-
-Go fetch my sword Excalibar;  
-Goe saddle mee my steede; Nozu, by my fay e, that grimme barhne Shall rue this ruthfulle deede.
-
-And when he came to Tearne IVadlinge,
-
-Benethe the castle walk:  
-Come forth I come forth! thou provide baronCf
-
-Or yielde thyself my thralle.
-
-On magicke grounde that castle stoode,
-
-And fenced with many a spelle:  
-Noe valiant knighte could tread theron,
-
-But straite his courage felle.
-
-Forth then rush'd that carlish knight,
-
-King Arthur felte the charme,  
-His sturdy sinewes lost their strengthe,
-
-Downe sunke his feeble arme.
-
-N owe yield thee, yield thee, king Arthiire,
-
-Now yield thee, unto mee.  
-Or fighte with mee, or lose thy lande,
-
-No better termes maye bee.
-
-Unlesse thou sweare upon the rood.
-
-And promise on thy fay e,  
-Here to returne to Tearne JVadling,
-
-Upon the new-yeare's daye;
-
-And bring me word what thing it is
-
-That? a woman most desire.  
-This shal be thy ransome Arthur, he sayes,
-
-For He have noe other hier.
-
-And bring me worde what thing it is,
-
-"All " women moste desyre;  
-This "is" thy ransome, Arthur, he sayes,
-
-He have noe other hyre.
-
-King Arthur then held up his hand
-
-According thene as was the law.  
-He tooke his leave of the baron there
-
-And homword can he draw.
-
-King Arthur then held up his hande,
-
-"And sware upon his faye,"  
-" Then " tooke his leave of the " grimme barone,'
-
-And " faste hee rode awaye."
-
-And when he came to merry Carlile,
-
-To his chamber he is gone,  
-And ther cam to him his cozen, Sir Gawaine,
-
-As he did make his mone.
-
-And there came to him his cozen, Sir Gawaine,
-
-That was a curteous knight,  
-Why sigh you soe sore unckle Arthur, he said,
-
-Or who hath done thee unright?
-
-peace, O peace, thou gentle Gawaine,  
-That faire may thee befall;
-
-For if thou knew my sighing soe deepe.  
-Thou wold not mervaille att all.
-
-For when I came to Tearne Wadling,
-
-A bold barren there I fand,  
-With a great club upon his backe
-
-Standing stiffe and strong.
-
-And he asked me wether I wold fight,
-
-Or from him 1 shold be gone,  
-O[r] else I must him a ransome pay,
-
-And soe depart him from.
-
-To fight with him I saw noe cause,
-
-Me thought it was not meet.  
-For he was stiffe and strong with all,
-
-His strokes were nothing sweete.
-
-Therfor this is my ransome Gawaine,  
-I ought to him to pay,
-
-1 must come againe as I am sworne,
-
-Upon the new yeers day.
-
-And he rode east, and he rode west,
-
-And did of all inquyre.  
-What thing it is all women crave.
-
-And what they most desyre.
-
-And I rriust bring him word what thing it is  
-[About nine stanzas wanting].
-
-Some told him riches, pompe, or state.  
-Some rayment fine and brighte;
-
-Some told him mirthe, some flattery e;  
-And some ajollye knight.
-
-Then king Arthur drest him for to ryde,
-
-In one so rich array.  
-Toward the foresaid Tearne Wadling,
-
-That he might keepe his day.
-
-In letters all king Arthur wrote.  
-And sealed them with his ringe;
-
-But still his mind was helde in doubt,  
-Each told a different thinge.
-
-And as he rode over a more,
-
-Hee see a lady where shee sate,  
-Betwixt an oke and a greene hollen,
-
-She was cladd in red Scarlett.
-
-"As ruthfulle " he rode over a more,
-
-He " saw " a ladye " sette,"  
-"Betweene an oke, and a greene "holleye,"
-
-"All " clad in red scarlette.
-
-Then there as shold have stood her mouth,
-
-Then there was sett her eye;  
-The other was in her forehead fast,
-
-The way that she might see.
-
-Her nose was crookt and turnd outward;
-
-Her " chin " stood " all " awrye; "  
-And where " as sholde have " been " her mouthe,
-
-"Lo "! there was set her eye.
-
-Her nose was crooked and turned outward
-
-Her mouth stood foule awry,  
-A worse formed lady then shee was,
-
-Never man saw with his eye.
-
-Her haires, like serpents, clung aboute,
-
-Her cheekes' of deadlye hewe:  
-A worse-formed lady than she was,
-
-No man "mote ever viewe."
-
-To halch upon him, king Arthur,
-
-The lady was full faine;  
-But king Arthur had forgott his lesson,
-
-\Vhat he should say againe.
-
-To "haile the king in seemelye sorte,"
-
-"This " ladye was fuUe faine;  
-But king Arthure " at fore amaz'd,"
-
-"No aunswere made " againe.
-
-What knight art thou, the lady sayd,
-
-That wilt not speake to me?  
-Of me thou nothing [be] dismayed
-
-Tho I be ugly to see.
-
-What " wight " art thou, the ladye sayd.
-
-That wilt not speake to mee;  
-" Sir, I may chance to ease thy paine,"
-
-Though I be " foule " to see.
-
-For I have halched you courteouslye.
-
-And you will not me againe,  
-Yett I may happen, sir knight, shee said,
-
-To ease thee of thy paine.
-
-Give thou ease me, lady, he said,  
-Or helpe me anything.
-
-Thou shalt have gentle Gawaine, my cozen,  
-And many him with a ring.
-
-"If" thou (wilt) ease "my paine," he sayd,
-
-"And " helpe me " in my neede ";  
-"Ask what " thou wilt, ihott grimme ladyc,
-
-And it shall be thy meede.
-
-^Vhy if I helpe thee not, thou noble king Arthur,
-
-Of thy owne hearts desiringe,  
-Of gentle Gawaine ....
-
-[About nine stanzas wanting].
-
-O sweare mee this upon the roode,
-
-And promise on thy f aye;  
-And here the secrette I will telle,
-
-That shall thy ransome paye.
-
-King Arthur promised on his fay e,
-
-And sware upon the roode;  
-The secrette then the ladye told,
-
-As lightlye well she cou'de.
-
-Now this shall be my paye, -sir king.
-
-And this my guerdon bee,  
-That some yong, fair, and courtlyc knighte,
-
-Thou bringe to marrye mee.
-
-Fast then pricked king Arthiire,
-
-Ore hille, and dale, and downe;  
-And soone hefounde the barone's bowre;
-
-And soone the grimme barbune.
-
-And when he came to Teame Wadling  
-The baron there cold he frinde (finde),
-
-With a great weapon on his backe,  
-Standing stiffe and stronge.
-
-"He bare his clubbe" upon his backe,  
-"He stood bothe " stiffe and stronge;
-
-"Afid when he had the letters reade  
-"Awaye" the lettres flunge."
-
-And then he tooke king Arthurs letters in his hands,
-
-And away he cold them fling;  
-And then he puld out a good browne sword,
-
-And cryd himself a King.
-
-And he sayd, 1 have thee and thy land, Arthur,
-
-To doe as it pleaseth mee;  
-For this is not thy ransome sure
-
-Therfore yeeld thee to mee.
-
-"Nowe yielde" thee, Arthur, and thy "lands,"
-
-"All forfeit upto mee";  
-For this is not thy " paye, sir king.
-
-Nor many thy ransome bee."
-
-And then bespoke him, noble Arthur,
-
-And bad him hold his hands;  
-And give me leave to speak my mind
-
-In defence of all my land.
-
-"Yet hold thy hand, thou proude barbne,"  
-"I pray thee " hold " thy " hand;
-
-And give me leave to speak "once moe "  
-In " reskewe " of ray land.
-
-' He ' said as I came over a more,
-
-I see a lady where she Sate,  
-Betweene an oke and a green hollen,
-
-She was clad in red scarlette.
-
-"This morne," as I came over a more,
-
-I "saw " a ladye " sette,"  
-Between an oke, and a greene hoUeye,
-
-"All " clad in red scarlette.
-
-And she says a woman will have her will,
-
-And this is all her chief desire,  
-Doe me right as thou art a baron of sckill,
-
-This is thy ransome and all thy hyer.
-
-She sayes " all women " will have " their " wille,
-
-This is " their" chief desyre; "  
-Now yield," as thou art a barone " true,"
-
-"That I have payd mine hyre."
-
-He sayes, an early vengence light on her,
-
-' She walkes on yonder more.  
-It was my sister that told thee this,  
-She is a mishappen hore.
-
-An earlye vengeaunce light on her !
-
-"The carlish baron swore; " "  
-Shee " was my sister tolde the this,
-
-And " shee 's " a mishapen whore.
-
-But beer He make mine avow to god,
-
-To do her an evill turne;  
-For an ever I may thate fowle theefe ge[t].
-
-In a fyer I will her burne.
-
-[About nine stanzas wanting.]
-
-But here I will make mine avowe.
-
-To do her " as ill a " turne,  
-For an ever I may that foule theefe gette.
-
-In a fyre I will her burne.
-
-PART THE SECOND.
-
-Homewarde pricked king Arthuve,
-
-And a wearye man was he;  
-And soon he met queene Guenever,
-
-That bride so bright of blee.
-
-What newes I what newes t thou noble king,
-
-Howe, Arthur, hast thou sped?  
-Where hast thou hung the carlish knighte?
-
-And where bestow' d his head?
-
-The carlish knight is safe for mee.
-
-And free fro mortal hamte;  
-On magicke grounde his castle stands,
-
-And fenc'd with many a ckarme.
-
-To bowe to him I was fulle faine,
-
-Andyielde mee to his hand;  
-And but for a lothly ladye, there,
-
-I sholde have lost my land.
-
-And nowe this fills my hearte with woe.
-
-And sorrowe of my life;  
-I swore ayonge and court lye knight
-
-Sholde marry her to his wife.
-
-Then bespake him sir Gawaine,
-
-That was ever a gentle knighte;  
-That lothly ladye I will wed;
-
-Therefore be merrye and lighte.
-
-Nowe naye, nowe naye, good sir Gawaine;
-
-My sisters sonne yee bee;  
-This lothlye ladye 's all to grimme,
-
-And all too foule for yee.
-
-Her nose is crookt and tum'd outwarde;
-
-Her chin stands all awrye;  
-A worse formed ladye than she is.
-
-Was never seen with eye.
-
-What though her chin stand all awrye,
-
-And shee be foule to see,  
-I'll marry her, unkle, for thy sake,  
-And I'll thy ransome bee.
-
-Nowe thankes, nowe thankes, good sir Gawaine,
-
-And a blessing thee betyde,  
-Tomorrow wee'll have knights and squires,
-
-And wee'll go fetch thy bride.
-
-And wee'll have hawkes and wee'll have houndes.
-
-To cover our intent;  
-And wee'll away to the greene forest.
-
-As wee a hunting went.
-
-Sir Lancelot and Sir Steven bold,
-
-They rode with them that day,  
-And the formost of the company
-
-There rode the steward Kay.
-
-Sir Lancelot, Sir Stephen bolde.  
-They rode with them that daye;
-
-And foremost of the companye.  
-There rode the stewarde Kaye.
-
-Soe did Sir Banier and Sir Bore,
-
-Sir Garrett with them soe gay,  
-Soe did Sir Tristeram that gentle knight.
-
-To the forrest fresh and gay.
-
-Soe did sir Banier and sir Bore  
-"And eke sir Garratte keene ";
-
-Sir Tristram " too " that gentle Itnight,  
-To the forest freshe and " greene."
-
-And when he came to the green forest,
-
-Underneath a green holly tree,  
-There sate a lady in red scarlett
-
-That unseemly was to see.
-
-And when " they " came to the greene forrest  
-Beneathe a " faire " holley tree,
-
-There sate that ladye in red scarlette,  
-That unseemelye was to see.
-
-Sir Kay beheld this ladyes face.
-
-And looked upon her suire;  
-Whosoever kisses this lady, he sayes,
-
-Of hiskisse he stands in feare.
-
-Sir Kay beheld " that " lady's face,
-
-And looked upon her sweere;  
-Whoever kisses " that " ladye, he sayes.
-
-Of his kisse he stands in feere.
-
-Sir Kay beheld the lady againe,
-
-And looked upon her snout.  
-Whosoever kisses this lady, he saies,
-
-Of his kisse he stands in doubt.
-
-Sir Kay beheld " that " ladye againe.
-
-And looked upon her snout;  
-Whoever kisses " that " ladye, he sayes,
-
-Of his kisse he stands in doubt.
-
-Peace, cozen Kay, then said Sir Gawaine
-
-Amend thee of thy life;  
-For there is a knight amongst us all
-
-That must marry her to his wife.
-
-Peace, "brother" Kay, sayde Sir Gawaine,
-
-And amend thee of thy life;  
-For there is a knight amongst us all.
-
-Must marjy her to his wife.
-
-What wedd her to wiffe! then said Sir Kay,
-
-In the divells name anon;  
-Get me a wiffe where-ere I may,
-
-For I had rather be slaine.
-
-What " marry this foule queene, quoth " Kay
-
-I "the devil's" name anone;  
-Get mee a wife wherever I maye,
-
-' In sooth she shall be none."
-
-Then some tooke up their hawkes in haste,  
-And some tooke up their hound s,
-
-And some sware they wold not marry her,  
-For citty nor for towne.
-
-Then some took up their hawkes in haste,  
-And some took up their houndes;
-
-And " sayd " they wolde not marry her,  
-For cities, nor for townes.
-
-And then bespake him noble king Arthur,
-
-And sware there by this day.  
-For a litle foule fight and misliking
-
-(about nine stanzas wanting).
-
-Then bespake him king Arthure,  
-And sware there by this daye;
-
-For a little foule fight and mislikinge,  
-Yee shall not say her naye.
-
-Peace, Lordtngs, peace, Sir Gawaine sayd;
-
-Nor make debate and strife;  
-This lothlye ladye I will take.
-
-And marry her to my wife.
-
-Nowe thankes, nowe thankes, good sir Gawaine,
-
-And a blessinge be thy meede /  
-For as I am thine owne ladye,
-
-Thou never shall rue this deede.
-
-Then up they took that lothly dame,
-
-And home anone they bringe;  
-And there Sir Gawaine he her wed.
-
-And married her with a ringe.
-
-And when they were in wed-bed laid.
-
-And all were done awaye; "  
-Come turn to mee mine owne wed-lord,
-
-Come turn to mee I praye."
-
-Sir Gawaine scant could lift his head.
-
-For sorrowe and for care;  
-When, lo! instead of fliat lothelye dame,
-
-Hee same a young ladye f aire.
-
-Sweet blushes stayned her rud-red cheeke.
-
-Her eyen were blacke as sloe;  
-The ripening cherrye swellde her lippe,
-
-And all her necke was snowe.
-
-Sir Gawaine kissed that lady faire,
-
-Lying upon the sheete;  
-And swore, as he was a true knighte.
-
-The spice was never soe sweete.
-
-Sir Gawaine kissed that lady brtghi,
-
-Lying there by his side; "  
-The fairest flower is not soe faire;
-
-Thou never canst bee my bride.''
-
-I am thy bride, mine owne dear lorde,
-
-The same which thou didst know,  
-That was so lothlye, and was wont  
-Upon the wild more to goe.
-Then shee said, choose thee, gentle Gawaine,
-
-Truth as I doe say,  
-Wether thou wilt have (me) in this likenesse,
-
-In the night or else in the day.
-
-"Nowe, gentle Gawaine, chuse, quoth shee,"
-
-"And make thy choice with care ";  
-Whether " by night, or else by daye,"
-
-"Shall I be foule or faire?"
-
-And then bespake him gentle Gawaine,
-
-With one soe mild of moode,  
-Sayes, well I know what I wold say,
-
-God grant it may be goode,  
-To have thee fowle [still] in the night.
-
-When I with thee should playe,  
-Yet I had rather, if I might,
-
-Have thee fowle in the day.
-
-To have thee foule (still) in the night.
-
-When I with thee should playe,  
-"I had rather — farre, my lady deare,"
-
-(To) have the foule ' by ' daye.
-
-What when lords goe with ther feires, shee said,
-
-Both to the ale and wine,  
-Alas! then I must hyde myself,
-
-I must not go withinne.
-
-What when "gaye ladyes" goe with their "lordes,"
-
-To (drinke) the ale and wine;  
-Alas! then I must hide myself,
-
-I must not go with "mine?"
-
-And then bespake him gentle Gawaine,
-
-Said, Lady thats but a skill,  
-And because thou are my owne lady,
-
-Thou shalt have all thy will.
-
-"My fair ladye sir Gawaine sayd,"
-
-"I yield me to thy " skille,  
-Because thou art mine owne ladye,
-
-Thou shalt have all thy wille.
-
-Then she said, blessed be thou, gentle Gawaine,
-
-This day that I thee see,
-
-For as thou see me att this time,
-
-From henceforth I wil bee.
-
-"Now" bless'd be thou, "sweete" Gawaine,
-
-(And) " the " day that I thee see;  
-For as thou seest me at this time,
-
-"Soe shall I ever bee."
-
-My father was an old knight.
-
-And yett it chanced soe,  
-That he marryed a younge lady,
-
-That brought me to this woe.
-
-My father was an "aged" knight,
-
-And yet it chanced soe,  
-He "tooke to wife" a "false" ladyfe,
-
-"Whiche " broughte me to this woe.
-
-Shee witched me, being a faire young lady,
-
-To the g^eene forrest to dwell,  
-And there I must walke in womans liknesse.
-
-Most like a feeind of hell.
-
-Shee witched me, being a faire yonge " maide,"  
-" In " the greene forfest to dwelle;
-
-And there " to abide " in lothlye shape,  
-Most like a fiend of helle.
-
-Midst mores and moses; woods and wilds,
-
-To leade a lonesome life;  
-Till some yong faire and courtlye knight
-
-Wolde marreye me to his wife.
-
-Nor fully to gains mine owne trewe shape,
-
-Such was her devilish skille,  
-Until he wolde yielde to be rul'd by mee,
-
-And let mee have all my wille.
-
-She witched my brother to a carlish b . . . . 
-
-[About nine stanzas wanting.]
-
-She witched ray brother to a "carlish" boore,  
-And made him stiffe and strange;
-
-And built him a bowre on magicke grounde,  
-To live by rapine and wronge.
-
-But now the spelle is broken throughe.
-
-And wronge is turnde to righte;  
-Henceforth I shall bee a faire ladye,
-
-And he be a gentle knighte.
-
-That looked soe foule and that was wont  
-On the wild more to goe.
-
-Come kisse her, brother Kay, then said sir Gawaine,
-
-And amend thee of thy life,  
-I sware this is the same lady
-
-That I marryed to my wifife.
-
-Sir Kay kissed that lady bright.
-
-Standing upon his feete:  
-He swore, as he was trew knight.
-
-The spice was never soe sweete.
-
-Well, cozen Gawaine, sales sir Kay,
-
-Thy chance is fallen arright.  
-For thou hast gotten one of the fairest maids,
-
-I ever saw with my sight.
-
-It is my fortune, said sir Gawaine,  
-For my unckle Arthurs sake:  
-I am as glad as grasse wold be of raine,  
-Great joy that I may take.
-
-Sir Gawaine tooke the lady by the one arme,  
-Sir Kay tooke her by the tother;  
-They led her straight to King Arthur,  
-As they were brother and brother.
-
-King Arthur welcomed them there all,  
-And soe did lady Genever his queene,  
-With all the knights of the rounde table,  
-Most seemly to be seene.
-
-King Arthur beheld that lady faire,  
-That was soe faire and bright,  
-He thanked Christ in trinity  
-For Sir Gawaine that gentle knight.
-
-Soe did the knights, both more or lesse,  
-Rejoyced all that day,  
-For the good chance that hapened was  
-To sir Gawaine and his lady gay.
-
-This mode of publishing ancient poetry displays, it must be confessed, considerable talent and genius, but savours strongly, at the same time, of unfairness and dishonesty. Here are numerous stanzas inserted which are not in the original, and others omitted which are there. The purchasers and perusers of such a collection are deceived and imposed upon; the pleasure they receive is derived from the idea of antiquity, which, in fact, is perfect illusion.
-
-If the ingenious editor had published all his imperfect poems by correcting the blunders of puerility or inattention, and supplying the defects of barbarian ignorance, with proper distinction of type (as, in one instance, he actually has done), it would not only have gratified the austerest antiquary, but also provided refined entertainment "for every reader of taste and genius." He would have acted fairly and honorably, and given every sort of reader complete satisfaction. Authenticity would have been united with improvement, and all would have gone well; whereas, in the present editions, it is firmly believed, not one article has been ingeniously or faithfully printed from the beginning to the end; nor did the late eminent Thomas Tyrwhitt, so ardent a researcher into ancient poetry, and an intimate friend of the possessor, ever see this curious, though tattered, fragment, nor would the late excellent George Stevens, on the bishop's personal application, consent to sanction the authenticity of the printed copy with his signature.*
-
-* The Bishop of Dromore (as he now is), on a former occasion, having himself, as he well knows, already falsified and corrupted a modern Scottish song, " This
-
-line," he says, " being quoted from memory and given as old Scottish poetry, is (by no one, in such a case, excepf himself) now usually printed " {Reliques, 1775 I., xxxviii.*)
-
-"Come ye frae the border?"
-
-to give it a certain appearance of rust and antiquity. This identical song being afterward, faithfully and correctly printed in a certain collection of such things, from the earliest copy known, which, like all the rest, was accurately referred to
-
-"Live you upo' the border?"
-
-(Scottish Songs printed for J. Johnson, 1794, i., 266), the worthy prelate thought proper, in the last edition of his already recited compilation, to assert that his own corruption " would have been readily corrected by that copy, had not all confidence been destroyed by its being altered in the Historical Essay, prefixed to that pubUcation to
-
-"' Ye Live upo' the border; '
-
-the better," he adds, with his usual candour, " to favour a position, that many of the pipers might live upon the borders, for the conveniency of attending fairs, etc., in both kingdoms." This, however, is an infamous lye; it being much more likely that he himself, who has practised every kind of forgery and imposture, had some such end to alter this identical line, with much more violence, and, as he owns himself, actual " corkuption," to give the quotation an air of antiquity, which it was not entitled to.
-
-The present editor's text is perfectly accurate, to a single comma, but, " this line," as he pretends to apologise for his own, " being quoted (in the Essay) from memory," having frequently heard it so sung, in his younger days, by a north country blacksmith without thinking it necessary, at the moment, to turn to the genuine text, which lay at his elbow, and which his lordship dare not impeach. "Thou hypocrite, first cast out the beam out of thine own eye, and then shalt thou see (more) clearly to cast out the mote out of thy brother's eye " (Gospel according to St. Matthew, chap, vii., verse 5).
-
-
-Scottish poetry, of the fifteenth or sixteenth century, has been so printed, but not that of the eighteenth, unless by impostors.
 
 ---
 
@@ -1004,68 +25,31 @@ THE MARRIAGE OF SIR GAWAIN
 
 Percy MS., p. 46. Hales & Furnivall, 1, 105; Madden's Syr Gawayne, p. 288; Percy's Reliques, ed. 1794, III, 350.
 
-We have bere again half a ballad, in seven fragments, but the essentials of the story, which is well known from other versions, happen to be preserved, or may be inferred
+We have here again half a ballad, in seven fragments, but the essentials of the story, which is well known from other versions, happen to be preserved, or may be inferred.
 
-Arthur, apparently some day after Christmas, had been encountered at Tarn Wadling, `[Still so called: near Aiketgate, Hesket. Lysons, Cumberland, p. 112.]` in the forest of Inglewood, by a bold baron armed with a club, who offered him the choice of fighting, or ransoming himself by coming back on New Year's day and bringing word what women most desire. Arthur puts this question in all quarters, and having collected many answers, in which, possibly, he had little confidence, he rides to keep his day. On the way he meets a frightfully ugly woman; she intimates that she could help him. Arthur promises her Gawain in marriage, if she will,
+Arthur, apparently some day after Christmas, had been encountered at Tarn Wadling, `[Still so called: near Aiketgate, Hesket. Lysons, Cumberland, p. 112.]` in the forest of Inglewood, by a bold baron armed with a club, who offered him the choice of fighting, or ransoming himself by coming back on New Year's day and bringing word what women most desire. Arthur puts this question in all quarters, and having collected many answers, in which, possibly, he had little confidence, he rides to keep his day. On the way he meets a frightfully ugly woman; she intimates that she could help him. Arthur promises her Gawain in marriage, if she will, and she imparts to him the right answer. Arthur finds the baron waiting for him at the tarn, and presents first the answers which he had collected and written down. These are contemptuously rejected. Arthur then says that he had met a lady on a moor, who had told him that a woman would have her will. The baron says that the misshapen lady on the moor was his sister, and he will burn her if he can get hold of her. Upon Arthur's return he tells his knights that he has a wife for one of them, and they ride with the king to see her, or perhaps for her to make her choice. When they see the bride, they decline the match in vehement terms, all but Gawain, who is somehow led to waive "a little foul sight and misliking" She is bedded in all her repulsiveness, and turns to a beautiful young woman. To try Gawain's compliance further, she asks him whether he will have her in this likeness by night only or only by day. Putting aside his own preference, Gawain leaves the choice to her, and this is all that is needed to keep her perpetually beautiful. For a stepmother had witched her to go on the wild moor in that fiendly shape until she should meet some knight who would let her have all her will. Her brother, under a like spell, was to challenge men either to fight with him at odds or to answer his hard question.
 
-TO DO
+These incidents, with the variation that Arthur (who does not show all his customary chivalry in this ballad) waits for Gawain's consent before he promises him in marriage, are found in a romance, probably of the fifteenth century, printed in Madden's Syr Gawayne, and somewhat hastily pronounced by the editor to be "unquestionably the original of the mutilated poem in the Percy folio." `['The Weddynge of Sr Gawen and Dame Ragnell,' Rawlinson MS., C 86, Bodleian Library, the portion containing the poem being paper, and indicating the close of Henry VII's reign. The poem is in six-line stanzas, and, with a leaf that is wanting, would amount to about 925 lines. Madden's Sir Gawayne, lxiv, lxvii, 26, 298a-298y.]`
 
-and she imparts to him the right answer. Arthur finds the baron waiting for him at the tarn, and presents first the answers which he had collected and written down. These are contemptuously rejected. Arthur then says that he had met a lady on a moor, who had told him that a woman would have her will. The baron says that the misshapen lady on the moor was his sister, and he will burn her if he can get hold of her. Upon Arthur's return he tells his knights that he has a wife for one of them, and they ride with the king to see her, or perhaps for her to make her choice. When they see the bride, they decline the match in vehement terms, all but Gawain, who is somehow led to waive " a little foul sight and misliking." She is bedded in all her repulsiveness, and turns to a beautiful young woman. To try Gawain's compliance further, she asks him whether he will have her in this likeness by night only or only by day. Putting aside his own preference, Gawain leaves the choice to her, and this is all that is needed to keep her perpetually beautiful. For a stepmother had witched her to go on the wild moor in that fiendly shape until she should meet some knight who would let her have all her will. Her brother, under a like spell, was to challenge men either to fight with him at odds or to answer his hard question.
+Arthur, while hunting in Ingleswood, stalked and finally shot a great hart, which fell in a fern-brake. While the king, alone and far from his men, was engaged in making the assay, there appeared a groom, bearing the quaint name of Gromer Somer Joure, `[Sir Gromer occurs in "The Turke and Gowin," Percy MS., Hales and Furnivall, I, 102; Sir Grummore Grummorsum, "a good knight of Scotland," in Morte d' Arthur; ed. Wright, I, 286 and elsewhere (Madden).]` who grimly told him that he meant now to requite him for having taken away his lands. Arthur represented that it would be a shame to knighthood for an armed man to kill a man in green, and offered him any satisfaction. The only terms Gromer would grant were that Arthur should come back alone to that place that day twelvemonth, and then tell him what women love best; not bringing the right answer, he was to lose his head. The king gave his oath, and they parted. The knights, summoned by the king's bugle, found him in heavy cheer, and the reason he would at first tell no man, but after a while took Gawain into confidence. Gawain advised that they two should ride into strange country in different directions, put the question to every man and woman they met, and write the answers in a book. This they did, and each made a large collection. Gawain thought they could not fail, but the king was anxious, and considered that it would be prudent to spend the only month that was left in prosecuting the inquiry in the region of Ingleswood. Gawain agreed that it was good to be speering, and bade the king doubt not that some of his saws should help at need.
 
-These incidents, with the variation that Arthur (who does not show all his customary chivalry in this ballad) waits for Gawain's consent before he promises him in marriage, are found in a romance, probably of the fifteenth century, printed in Madden's Syr Gawayne, and somewhat hastily pronounced by the editor to be " unquestionably the original of the mutilated poem in the Percy folio." *
-
-Arthur, while hunting in Ingleswood, stalked and finally shot a great hart, which fell in a fern-brake. While the king, alone and far from his men, was engaged in making the
-
-* ' The Weddynge of S' Gawen and Dame Eagnell,' Rawlinson MS., C 86, Bodleian Library, the portion containing the poem being paper, and indicating the close of Henry VII's reign. The poetn is in six-line stanzas, and, with a leaf that is wanting, would amount to about 925 lines. Madden's Sir Gawayne, lxiv, lxvii, 26, 298a-298y.
-
-assay, there appeared a groom, bearing the quaint name of Gromer Somer Joure,f who grimly told him that he meant now to requite him for having taken away his lands. Arthur represented that it would be a shame to knighthood for an armed man to kill a man in green, ^nd offered him any satisfaction. The only terms Gromer would grant were that Arthur should come back alone to that place that day twelvemonth, and then tell him what women love best; not bringing the right answer, he was to lose his head. The king gave his oath, and they parted. The knights, summoned by the king's bugle, found him in heavy cheer, and the reason he would at first tell no man, but after a while took Gawain into confidence. Gawain advised that they two should ride into strange country in different directions, put the question to every man and woman they met, and write the answers in a book. This they did, and each made a large collection. Gawain thought they could not fail, but the king was anxious, and considered that it would be prudent to spend the only month that was left in prosecuting the inquiry in the region of Ingleswood. Gawain agreed that it was good to be speering, and bade the king doubt not that some of his saws should help at need.
-
-Arthur rode to Ingleswood, and met a lady, riding on a richly-caparisoned palfrey, but herself of a hideousness which beggars words; nevertheless the items are not spared. She came up to Arthur and told him that she knew his counsel; none of his answers would help. If he would grant her one thing, she would warrant his life; otherwise, he must lose his head. This one thing was that she should be Gawain's wife. The king said this lay with Gawain; he would do what he could, but it were a pity to make Gawain wed so foul a lady. "No matter," she rejoined, "though I be foul: choice for a mate hath an owl. When thou
-
-
-Sir Gromer occurs in "The Turke and Gowin," Percy MS., Hales and Fumivall, I, 102; Sir Grummore Grummorsum, "a good knight of Scotland," in Morte d' Arthur; ed. Wright, I, 286 and elsewhere (Madden).
-
-
-comest.to thine answer, I shall meet thee; else art thou lost."
+Arthur rode to Ingleswood, and met a lady, riding on a richly-caparisoned palfrey, but herself of a hideousness which beggars words; nevertheless the items are not spared. She came up to Arthur and told him that she knew his counsel; none of his answers would help. If he would grant her one thing, she would warrant his life; otherwise, he must lose his head. This one thing was that she should be Gawain's wife. The king said this lay with Gawain; he would do what he could, but it were a pity to make Gawain wed so foul a lady. "No matter," she rejoined, "though I be foul: choice for a mate hath an owl. When thou comest to thine answer, I shall meet thee; else art thou lost."
 
 The king returned to Carlisle with a heart no lighter, and the first man he saw was Gawain, who asked how he had sped. Never so ill: he had met a lady who had offered to save his life, but she was the foulest he had ever seen, and the condition was that Gawain should be her husband. "Is that all?" said Gawain. "I will wed her once and again, though she were the devil; else were I no friend." Well might the king exclaim, "Of all knights thou bearest the flower!"
 
-After five or six days more the time came for the answer. The king had hardly ridden a mile into the forest when he met the lady, by name Dame Ragnell. He told lier Gawain should wed her, and demanded her answer. "Some say this and some say that, but above all things women desire to have the sovereignty; tell this to the knight; he will curse her that told thee, for his labor is lost." Arthur, thus equipped, rode on as fast as he could go, through mire and fen. Gromer was waiting, and sternly demanded the answer. Arthur offered his two books, for Dame Ragnell had told him to save himself by any of those answers if he could. "Nay, nay, king," said Gromer, "thou art but a dead man." "Abide, Sir Gromer, I have an answer shall make all sure. Women desire sovereignty." "She that told thee that was my sister, Dame Ragnell; I pray I may see her burn on a fire." And so they parted.
+After five or six days more the time came for the answer. The king had hardly ridden a mile into the forest when he met the lady, by name Dame Ragnell. He told her Gawain should wed her, and demanded her answer. "Some say this and some say that, but above all things women desire to have the sovereignty; tell this to the knight; he will curse her that told thee, for his labor is lost." Arthur, thus equipped, rode on as fast as he could go, through mire and fen. Gromer was waiting, and sternly demanded the answer. Arthur offered his two books, for Dame Ragnell had told him to save himself by any of those answers if he could. "Nay, nay, king," said Gromer, "thou art but a dead man." "Abide, Sir Gromer, I have an answer shall make all sure. Women desire sovereignty." "She that told thee that was my sister, Dame Ragnell; I pray I may see her burn on a fire." And so they parted.
 
-Dame Ragnell was waiting for Arthur, too, and would hear of nothing but immediate ful-
+Dame Ragnell was waiting for Arthur, too, and would hear of nothing but immediate fulfillment of her bargain. She followed the king to his court, and required him to produce Gawain instantly, who came and plighted his troth. The queen begged her to be married privately, and early in the morning. Dame Ragnell would consent to no such arrangement. She would not go to church till highmass time, and she would dine in the open hall. At her wedding she was dressed more splendidly than the queen, and she sat at the head of the table at the dinner afterwards. There her appetite was all but as horrible as her person: she ate three capons, three curlews, and great bake meats, all that was set before her, less and more. `[See 'King Henry,' the next ballad.]`
 
-fillment of her bargain. She followed the king to his court, and required him to produce Gawain instantly, who came and plighted his troth. The queen begged her to be married privately, and early in the morning. Dame Ragnell would consent to no such arrangement. She would not go to church till highmass time, and she would dine in the open hall. At her wedding she was dressed more splendidly than the queen, and she sat at the head of the table at the dinner afterwards. There her appetite was all but as horrible as her person: she ate three capons, three curlews, and gi-eat bake meats, all that was set before her, less and more.*
+A leaf is wanting now, but what followed is easily imagined. She chided Gawain for his offishness, and begged him to kiss her, at least. "I will do more," said Gawain, and, turning, beheld the fairest creature he ever saw. But the transformed lady told him that her beauty would not hold: he must choose whether she should be fair by night and foul by day, or fair by day and foul by night. `[The Gaelic tale of 'The Hoodie' offers a similar choice. The hoodie, a species of crow, having married the youngest of a farmer's three daughters, says to her, "Whether wouldst thou rather that I should be a hoodie by day and a man at night, or be a hoodie at night and a man by day?" The woman maintains her proper sovereignty, and does not leave the decision to him: "'I would rather that thou wert a man by day and a hoodie at night,' says she. After this he was a splendid fellow by day, and a hoodie at night." Campbell, Popular Tales of the West Highlands, I, 63. The having one shape by day and another by night is a common feature in popular tales: as, to be a bear by day and a man by night, Hrolfr Kraki's Saga, c. 26, Asbjørnsen og Moe, Norske Folkeeventyr, No 41; a lion by day and a man by night, Grimms, K. u. H. m.. No 88; a crab by day and a man by night, B. Schmidt, Griechische Marchen, u. s. w., No 10; a snake by day and a man by night, Karadshitch, Volksmärchen der Serben, Nos 9, 10; a pumpkin by day and a man by night, A. & A. Schott, Walachische Maerchen, No 23; a ring by day, a man by night, Müllenhoff, No 27, p. 466, Karadshitch, No 6, Afanasief, VI, 189. Throe princes in ' Kung Lindorm,' Nicolovius, Folklifwet, p. 48 ff, are cranes by day and men by night, the king himself being man by day and worm by night. The double shape is sometimes implied though not mentioned.]` Gawain said the choice was hard, and left all to her. "Gramercy," said the lady, "thou shalt have me fair both day and night." Then she told him that her step-dame had turned her into that monstrous shape by necromancy, not to recover her own till the best knight in England had wedded her and given her sovereignty in all points. `[The brother, Gromer Somer Joure, was a victim of the same necromancy; so the Carl of Carlile, Percy MS., Hales & Furnivall, III, 291.]` A charming little scene follows, vv 715-99, in which Arthur visits Gawain in the morning, fearing lest the fiend may have slain him. Something of this may very likely have been in that half page of the ballad which is lost after stanza 48.
 
-A leaf is wanting now, but what followed is easily imagined. She chided Gawain for his ofSshness, and begged him to kiss her, at least. "I will do more," said Gawain, and, turning, beheld the fairest creature he ever saw. But the transformed lady told him that her beauty would not hold: he must choose whether she should be fair by night and foul by day, or fair by day and foul by night. f Gawain said the choice was hard, and left all to her. "Gramercy," said the lady, "thou shalt have me fair both day and night." Then she told him that her step-dame had turned her into that monstrous shape by necromancy, not to recover her own till the best knight in England had wedded her and given her sovereignty in all points. J A charming little scene follows, vv 715-99, in which Arthur visits Gawain in the morning, fearing lest the fiend may have slain him. Sometliing of this may very likely have been in that
+Gower and Chancer both have this tale, though with a different setting, and with the variation, beyond doubt original in the story, that the man whose life is saved by rightly answering the question has himself to marry the monstrous woman in return for her prompting him.
 
+Gower relates, Confessio Amantis, Book First, I, 89-104, ed. Pauli, that Florent, nephew of the emperor, as Gawain is of Arthur, slew Branchus, a man of high rank. Branchus's kin refrained from vengeance, out of fear of the emperor; but a shrewd lady, grandmother to Branchus, undertook to compass Florent's death in a way that should bring blame upon nobody. She sent for Florent, and told him that she would engage that he should not be molested by the family of Branchus if he could answer a question she would ask. He was to have a proper allowance of time to find the answer, but he was also to agree that his life should be forfeited unless his answer were right. Florent made oath to this agreement, and sought the opinions of the wisest people upon the subject, but their opinions were in no accord. Considering, therefore, that he must default, he took leave of the emperor, adjuring him to allow no revenge to be taken if he lost his life, and went to meet his fate. But on his way through a forest he saw an ugly old woman, who called to him to stop. This woman told him that he was going to certain death, and asked what he would give her to save him. He said, anything she should ask, and she required of him a promise of marriage. That he would not give. "Ride on to your death, then," said she. Florent began to reflect that the woman was very old, and might be hidden away somewhere till she died, and that there was no other chance of deliverance, and at last pledged his word that he would marry her if it should turn out that his life could be saved only through the answer that she should teach him. She was perfectly willing that he should try all other shifts first, but if they failed, then let him say that women cared most to be sovereign in love. Florent kept back this answer as long as he could. None of his own replies availed, and the lady who presided in judgment at last told him that he could be allowed but one more. Then he gave the old woman's answer, and was discharged, with a curse on her that told. `[And whan that this matrone herde, The maner how this knight answerde, She saide, Ha, treson, wo the be! That hast thus told the privete, Which alle women most desire: I wolde that thou were a-fire! So Sir Gawen and Dame Ragnell, vv 474 f, and our ballad, stanzas 29, 30.]`
 
-See ' King Henry,' the next ballad.
+The old woman was waiting for Florent, and he now had full leisure to inspect all her points; but he was a knight, and would hold his troth. He set her on his horse before him, rode by night and lay close by day, till he came to his castle. There the ladies made an attempt to attire her for the wedding, and she was the fouler for their pains. They were married that night. He turned away from the bride; she prayed him not to be so discourteous. He turned toward her, with a great moral effort, and saw (for the chamber was full of light) a lady of eighteen, of unequalled beauty. As he would have drawn her to him she forbade, and said he must make his choice, to have her such by day or by night. "Choose for us both," was his reply. "Thanks," quoth she, "for since you have made me sovereign, I shall be both night and day as I am now." She explained that, having been daughter of the king of Sicily, her stepmother had forshapen her, the spell to hold till she had won the love and the sovereignty of what knight passed all others in good name.
 
-t The Gaelic tale of ' The Hoodie ' offers a similar choice. The hoodie, a species of crow, having married the youngest of a farmer's three daughters, says to her, "Whether wouldst thou rather that I should be a hoodie by day and a man at night, or bo a hoodie at night and a man by day?" The woman maintains her proper sovereignty, and does not leave the decision to him: " ' I would rather that thou wert a man by day and a hoodie at night,' says she. After this he was a splendid fellow by day, and a hoodie at night." Campbell, Po|)ular Tales of the West Highlands, I, 63.
-
-The having one shape by day and another by night is a common feature in popular tales: as, to be a bear by day and a man by night, Hrolfr Kraki's Saga, c. 26, Asbjarnsen og Moe, Norske Folkeeventyr, No 41; a lion by day and a man
-
-by night, Grimms, K. u. II. m.. No 88; a crab by day and a man by night, B. Schmidt, Griechische Marchen, u. s. w., No 10; a snake by day and a man by night, Karadshitch, Volksmilrchen der Serben, Nos 9, 10; a pumpkin by day and a man by night, A. & A. Schott, Walachische Mffirchen, No 23; a ring by day, a man by night, Miillenhoff, No 27, p. 466, Karadshitch, No 6, Afanasief, VI, 189. Throe princes in ' Kung Lindorm,' Nicolovius, Folklifwet, p. 48 ff, are cranes by day and men by night, the king himself being man by day and worm by night. The double shape is sometimes implied though not mentioned.
-
-X The brother, Gromer Somer Joure, was a victim of the same necromancy; so the Carl of Carlile, Percy MS., Hales & Furnivall, III, 291.
-
-half page of the ballad which is lost after stanza 48.
-
-Gower and Chancer both have this tale, though with a different setting, and with the variation, beyond donbt original in the story, that the man whose life is saved by rightly answering the question has himself to marry the monstrous woman in return for her prompting him.
-
-Gower relates, Confessio Amantis, Book First, I, 89-104, ed. Pauli, that Florent, nephew of the emperor, as Gawain is of Arthur, slew Branchus, a man of high rank. Branchus's kin refrained from vengeance, out of fear of the emperor; but a shrewd lady, grandmother to Branchus, undertook to compass Florent's death in a way that should bring blame upon nobody. She sent for Florent, and told him that she would engage that he should not be molested by the family of Branchus if he could answer a question she would ask. He was to have a proper allowance of time to find the answer, but he was also to agree that his life should be forfeited unless his answer were right. Florent made oath to this agreement, and sought the opinions of the wisest people upon the subject, but their opinions were in no accord. Considering, therefore, that he must default, he took leave of the emperor, adjuring him to allow no revenge to be taken if he lost his life, and went to meet his fate. But on his way through a forest he saw an ugly old woman, who called to him to stop. This woman told him that he was going to certain death, and asked what he would give her to save him. He said, anything she should ask, and she required of him a promise of marriage. That he would not give. "Ride on to your death, then," said she. Florent began to reflect that the woman was very old, and might be hidden away somewhere till she died, and that there was no other chance of deliverance, and at last pledged his word that he would marry her if it should turn out that his life could be saved only through
-
-the answer that she should teach him. She was perfectly willing that he should try all other shifts first, but if they failed, then let him say that women cared most to be sovereign in love. Florent kept back this answer as long as he could. None of his own replies availed, and the lady who presided in judgment at last told him that he could be allowed but one more. Then he gave the old woman's answer, and was discharged, with a curse on her that told.*
-
-The old woman was waiting for Florent, and he now had full leisure to inspect all her points; but he was a knight, and would hold his ti"oth. He set her on his horse before him, rode by night and lay close by day, till he came to his castle. There the ladies made an attempt to attire her for the wedding, and she was the fouler for their pains. They were married that night. He turned away from the bride; she prayed him not to be so discourteous. He turned toward her, with a great moral effort, and saw (for the chamber was full of light) a lady of eighteen, of unequalled beauty. As he would have drawn her to him she forbade, and said he must make his choice, to have her such by day or by night. "Choose for us both," was his reply. "Thanks," quoth she, "for since you have made me sovereign, I shall be both night and day as I am now." She explained that, having been daughter of the king of Sicily, her stepmother had forshapen her, the spell to hold till she had won the love and the sovei-eignty of what knight passed all others in good name.
-
-The scene of Chaucer's tale, The Wife of Bath, returns to Arthur's court. One of the bachelors of the household, when returning from hawking, commits a i-ape, for which he is condemned to death. But the queen and other ladies intercede for him, and the king leaves his life at the disposal of the queen. The queen, like the shrewd lady in Gower, but with no intent to trapan the young man, says that his lite shall depend upon his being able
-
-• And whan that this matrone herde The maner how this knight answerde, She saide, Ha, treson, wo the be! That hast thus told the privete
-
-Which alle women most desire: I wolde that thou were a-fire! So Sir Gawen and Dame Ragnell, w 474 f, and our ballad, stanzas 29, 30.
-
-o tell her what women most desire, and gives him a year and a day to seek an answer. He makes extensive inquiries, but there is no region in which two creatures can be found to be of the same mind, and he turns homeward very downcast.
+The scene of Chaucer's tale, The Wife of Bath, returns to Arthur's court. One of the bachelors of the household, when returning from hawking, commits a rape, for which he is condemned to death. But the queen and other ladies intercede for him, and the king leaves his life at the disposal of the queen. The queen, like the shrewd lady in Gower, but with no intent to trapan the young man, says that his lite shall depend upon his being able to tell her what women most desire, and gives him a year and a day to seek an answer. He makes extensive inquiries, but there is no region in which two creatures can be found to be of the same mind, and he turns homeward very downcast.
 
 On his way through a wood he saw a company of ladies dancing, and moved towards them, in the hope that he might learn something. But ere he came the dancers had vanished, and all he found was the ugliest woman conceivable sitting on the green. She asked the knight what he wanted, and he told her it was to know what women most desire. "Plight me thy troth to do the next thing I ask of thee, and I will tell thee." He gave his word, and she whispered the secret in his ear.
 
@@ -1075,49 +59,56 @@ Fair and young she was, and they lived to their lives' end in perfect joy.
 
 Chaucer has left out the step-mother and her bewitchment, and saves, humbles, and rewards the young knight by the agency of a good fairy; for the ugly old woman is evidently such by her own will and for her own purposes. She is "smiling ever mo," and has the power, as she says, to set "all right whenever she pleases. Her fate is not dependent on the knight's compliance, though his is.
 
-The Wife of Bath's Tale is made into a ballad, or what is called a sonnet, ' Of a Knight and a Fair Virgin,' in The Crown Garland of Golden Roses, compiled by Richard Johnson, not far from 1600: see the Percy Society reprint, edited bj' W. Chappell, vol. vi of the series, p. 68. Upon Chaucer's story is founded Voltaire's tale, admirable in its way, of Ce qui plait aux Dames, 1762; of which the author writes, 1765, November 4, that it had had great success at Fontainebleau in the form of a comic opera, entitled La F6e Urgele.* The amusing ballad of The Knight and Shepherd's Daughter has much in common with the Wife of Bath's Tale, and might, if we could trace its pedigree, go back to a common original.!
+The Wife of Bath's Tale is made into a ballad, or what is called a sonnet, 'Of a Knight and a Fair Virgin,' in The Crown Garland of Golden Roses, compiled by Richard Johnson, not far from 1600: see the Percy Society reprint, edited by W. Chappell, vol. vi of the series, p. 68. Upon Chaucer's story is founded Voltaire's tale, admirable in its way, of Ce qui plait aux Dames, 1762; of which the author writes, 1765, November 4, that it had had great success at Fontainebleau in the form of a comic opera, entitled La Fée Urgèle. `[This was a melodrama by Favart, in four acts: reduced in 1821 to one act, at the Gymnase.]` The amusing ballad of The Knight and Shepherd's Daughter has much in common with the Wife of Bath's Tale, and might, if we could trace its pedigree, go back to a common original. `[Chaucer's tale is commonly said to be derived from Gower's, but without sufficient reason. Vv 6507-14, ed. Tyrwhitt, are close to Dame Ragnell, 409-420. Gower may have got his from some Example-book. I have not seen it remarked, and therefore will note, that Example books may have been known in England as early as 1000, for Aelfric seems to speak slightingly of them in his treatise on the Old Testament. The Proverbs, he says, is a "bigspellbóe, *ná swilce ge secgao*, ac wísdómes bigspell and warnung wio dysig," etc.]`
 
 Tales resembling the Marriage of Gawain must have been widely spread during the Middle Ages. The ballad of 'King Henry' has much in common with the one now under consideration, and Norse and Gaelic connections, and is probably much earlier. At present I can add only one parallel out of English, and that from an Icelandic saga.
 
-Grfmr was on the verge of marriage with Lopthffina, but a week before the appointed day the bride was gone, and nobody knew what had become of her. Her father had given her a step-mother five years before, and the step-mother had been far from kind; but what then? Grimr was restless and unhappy,
+Grímr was on the verge of marriage with Lopthaena, but a week before the appointed day the bride was gone, and nobody knew what had become of her. Her father had given her a step-mother five years before, and the step-mother had been far from kind; but what then? Grímr was restless and unhappy, and got no tidings. A year of scarcity coming, he left home with two of his people. After an adventure with four trolls, he had a fight with twelve men, in which, though they were all slain, he lost his comrades and was very badly wounded. As he lay on the ground, looking only for death, a woman passed, if so she might be called; for she was not taller than a child of seven years, so stout that Grímr's arms would not go round her, misshapen, bald, black, ugly, and disgusting in every particular. She came up to Grimr, and asked him if he would accept his life from her. "Hardly," said he, "you are so loathsome." But life was precious, and he presently consented. She took him up and ran with him, as if he were a babe, till she came to a large cave; there she set him down, and it seemed to Grfmr that she was uglier than before. "Now pay me for saving your life," she said, "and kiss me." "I cannot," said Grimr, "you look so diabolical." "Expect no help, then, from me," said she, "and I see that it will soon be all over with you." "Since it must be, loath as I am," said Grímr, and went and kissed her; she seemed not so bad to kiss as to look at. When night came she made up a bed, and asked Grímr whether he would lie alone or with her. "Alone," he answered. "Then," said she, "I shall take no pains about healing your wounds." Grímr said he would rather lie with her, if he had no other chance, and she bound up his wounds, so that he seemed to feel no more of them. No sooner was Grímr abed than he fell asleep, and when he woke, he saw lying by him almost the fairest woman he had ever laid eyes on, and marvellously like his true-love, Lopthaena. At the bedside he saw lying the troll-casing which she had worn; he jumped up and burned this. The woman was very faint; he sprinkled her with water, and she came to, and said. It is well for both of us; I saved thy life first, and thou hast freed me from bondage. It was indeed Lopthaena, whom the step-mother had transformed into a horrible shape, odious to men and trolls, which she should never come out of till a man should consent to three things, — which no man ever would, — to accept his life at her hands, to kiss her, and to share her bed. Gríms saga looinkinna, Rafn, Fornaldar Sögur, II, 143-52.
 
-* This was a melodrama by Favart, in four acts: reduced in 1821 to one act, at the Gymnase.
+Sir Fredei'ic Madden, in his annotations upon this ballad, 'Syr Gawayne,' p. 359, remarks that Sir Steven, stanza 31, does not occur in the Round Table romances; that Sir Banier, 32, is probably a mistake for Beduer, the king's constable; and that Sir Bore and Sir Garrett, in the same stanza, are Sir Bors de Gauves, brother of Lionel, and Gareth, or Gaheriet, the younger brother of Gawain.
 
-t Chaucer's tale is commonly said to be derived from Gower's, but without sufficient reason. Vv 6507-14, ed. Tyrwhitt, are close to Dame Ragnell, 409-420. Gower may have got his from some Example-book. I have not
+'The Marriage of Sir Gawaine,' as filled out by Percy from the fragments in his manuscript, Reliques, 1765, III, 11, is translated by Bodmer, I, 110; by Bothe, p. 75; by Knortz, Lieder u. Romanzen Alt-Englands, p. 135.
 
-seen it remarked, and therefore will note, that Examplebooks may have been known in England as early as 1000, for Aelfric seems to speak slightingly of them in his treatise on the Old Testament. The Proverbs, he says, is a "bigspellbdc, nd swilce g^ secgatS, ac wisddmes bigspell and warnung wits dysig," etc.
+[1] KINGE ARTHUR liues in merry Carleile,  
+And seemely is to see,  
+And there he hath with him Queene Genever,  
+*That* bride soe bright of blee.
 
-and got no tidings. A year of scarcity coming, he left home with two of his people. After an adventure with four trolls, he had a fight with twelve men, in which, though they were all slain, he lost his comrades and was very badly wounded. As he lay on the ground, looking only for death, a woman passed, if so she might be called; for she was not taller than a child of seven years, so stout that Grfmr's arms would not go I'ound her, misshapen, bald, black, ugly, and disgusting in every particular. She came up to Grimr, and asked him if he would accept his life from her. "Hardly," said he, "you are so loathsome." But life was precious, and he presently consented. She took him up and ran with him, as if he were a babe, till she came to a large cave; there she set him down, and it seemed to Grfmr that she was uglier than before. "Now pay me for saving your life," she said, "and kiss me." "I cannot," said Grimr, "you look so diabolical." "Expect no help, then, from me," said she, "and I see that it will soon be all over with you." "Since it must be, loath as I am," said Grfmr, and went and kissed her; she seemed not so bad to kiss as to look at. When night came she made up a bed, and asked Grfmr whether he would lie alone or with her. "Alone," he answered. "Then," said she, "I shall take no pains about healing your wounds." Grfmr said he would rather lie with her, if he had no other chance, and she bound up his wounds, so that he seemed to feel no more of them. No
+[2] And there he hath with [him] Queene Genever,  
+*That* bride soe bright in bower,  
+And all his barons about him stoode,  
+*That* were both stiffe and stowre.
 
-sooner was Grfmr abed than he fell asleep, and when he woke, he saw lying by him almost the fairest woman he had ever laid eyes on, and marvellously like his true-love, Lopthaena. At the bedside he saw lying the troll-casing which she had worn; he jumped up and burned this. The woman was very faint; he sprinkled her with water, and she came to, and said. It is well for both of us; I saved thy life first, and thou hast freed me from bondage. It was indeed Lopthtena, whom the step-mother had transformed into a horrible shape, odious to men and trolls, which she should never come out of till a man should consent to three things, — which no man ever would, — to accept his life at her hands, to kiss her, and to share her bed. Grfms saga loSinkinna, Rafn, Fornaldar Sogur, II, 14352.
+[3] The *king* kept a royall Christmasse,  
+Of mirth and great honor,  
+And when ...  
+...  
 
-Sir Fredei'ic Madden, in his annotations upon this ballad, ' Syr Gawayne,' p. 359, remarks that Sir Steven, stanza 31, does not occur in the Round Table romances; that Sir Banier, 32, is probably a mistake for Beduer, the king's constable; and that Sir Bore and Sir Garrett, in the same stanza, are Sir Bors de Gauves, brother of Lionel, and Gareth, or Gaheriet, the younger brother of Gawain.
+* * * * *
 
-' The Marriage of Sir Gawaine,' as filled out by Percy from the fragments in his manuscript, Reliques, 1765, III, 11, is translated by Bodmer, I, 110; by Bothe, p. 75; by Knortz, Lieder u. Romanzen Alt-Englands, p. 135.
+[4] 'And bring me word what thing it is  
+That a woman [will] most desire;  
+This shalbe thy ransome, Arthur,' he sayes,  
+'For Ile haue noe other hier.'
 
-1 KmGE Aethtjr Hues in merry CarleUe, And seemely is to see, And there he hath with him Queene Genever, That bride soe bright of blee.
+[5] *King* Arthur then held vp his hand,  
+According thene as was the law;  
+He tooke his leaue of the baron there,  
+And homward can he draw.
 
-3 The kiwg kept a royall Christmasse, Of mirth and great honor, And when
+[6] And when he came to merry Carlile,  
+To his chamber he is gone,  
+And ther came to him his cozen Sir Gawaine,  
+As he did make his mone.
 
-2 And there he hath with [him] Queene Genever, Thai bride soe bright in bower, And all his barons about him stoode, TAot were both stiffe and stowre.
+[7] And there came to him his cozen Sir Gawaine,  
+*That* was a curteous knight;  
+'Why sigh you soe sore, vnckle Arthur,' he said,  
+'Or who hath done thee vnright?'
 
-4 ' And bring me word what thing it is TAat a woman [will] most desire; This shalbe thy ransome, Arthur,' he sayes, ' For He haue noe other hier.'
 
-5 King Arthur then held vp his hand, According thene as was the law; He tooke his leaue of the baron there, And homward can he draw.
+TO DO
 
-15 And as he rode over a more,
-
-Hee see a lady where shee sate Betwixt an oke and a greene hollen; She was cladd in red Scarlett.
-
-6 And when he came to merry Carlile,
-
-To his chamber he is gone, And ther came to him his cozen Sir Gawaine, As he did make his mone.
-
-7 And there came to him his cozen Sir Ga-
-
-waine, That was a curteous knight; ' Why sigh you soe sore, vnckle Arthur,' he
-
-said, ' Or who hath done thee vnright? '
 
 8 ' 0 peace, O peace, thou gentle Gawaine,
 
@@ -1142,6 +133,11 @@ I ought to him to pay; I must come againe, as I am sworne, Vpon the New Yeers da
 13 ' And I must bring him word what thing it la
 
 14 Then king Arthur drest him for to ryde. In one soe rich array, Toward the fore-said Tearne Wadling, That he might keepe his day.
+
+15 And as he rode over a more,
+
+Hee see a lady where shee sate Betwixt an oke and a greene hollen; She was cladd in red Scarlett.
+
 
 16 Then there as shold haue stood her mouth,
 
@@ -1476,8 +472,6 @@ From: Thomas Hahn, ed. Sir Gawain: Eleven Romances and Tales. Kalamazoo, Michiga
 Manuscript: London, British Library, MS Additional 27879 (Percy Folio)
 
 ```
-
-
 
 --
 
@@ -1874,11 +868,11 @@ While yet the Smart was ſhooting i in the Bone. .
 How quaint an Appetite in Women reigns! _  
 Free Gifts we ſcorn, and love what coſts us Pains:  
 Let Men avoid us, and on them we leap;  
-A glutted Market makes Proviſion cheap. _  
+A glutted Market makes Proviſion cheap.
 
 In pure good Will I took this jovial Spark;  
 Of Oxford he, a moſt egregious Clerk.  
-He boarded with'a Widow in the Town, |  
+He boarded with'a Widow in the Town,  
 A truſty Goſſip, one Dame Alien.  
 Full well the Secrets of my Soul ſhe knew,  
 Better than e' er our Pariſh-Prieſt could do.  
@@ -2274,13 +1268,13 @@ Gambol'd on Heaths, and dane'd along the Gran:
 And where the jolly Troop had led the Round,  
 The Graſs untrodden roſe, and mark'd the Ground:  
 Nor darkling did they glance, the Silver Light  
-Of Phæbe ſerv'd to guide their Steps aright, |{  
+Of Phæbe ſerv'd to guide their Steps aright,  
 And, with their Tripping pleas'd, prolong the Night.  
 Her Beams they follow'd, where at full they play d,  
 Nor longer than ſhe ſhed her Horns they ftay'd: a  
 From thence with airy Flight to Foreign Lands convey'd  
 Above the reſt, our Britain held they dear,  
-More ſolemnly they kept their Sabbaths here, [  
+More ſolemnly they kept their Sabbaths here,  
 And made more ſpacious Rings, and revel'd half the Year.  
 
 I ſpeak of ancient Times; for now the Swain  
@@ -2292,8 +1286,8 @@ And never hope to ſee the nightly Train;
 
 
 WIr E of BATH TALE. ” nat  
-In vain the Dairy now with Mints is dreſt, |  
-The Dairy-Maid expects no Fairy-Gueſt |  
+In vain the Dairy now with Mints is dreſt,  
+The Dairy-Maid expects no Fairy-Gueſt  
 To skim the Bowls, and after pay the Feat.  
 
 
@@ -2351,7 +1345,7 @@ He "lights in haſte, and, full of youthful Fire,
 
 By Force accompliſh'd his obſcene Defire:  
 
-This done, away he rode, not uneſpy'd ;\ |  
+This done, away he rode, not uneſpy'dx;\ |  
 
 For ſwarming at his Back the Country cry'd;  
 
@@ -2471,8 +1465,6 @@ One thought the Sexes prime Felicity
 
 Was from the Bonds of Wedlock to be free:  
 
-
-;  
 
 
 Their  
@@ -3062,7 +2054,7 @@ Want is a bitter and a hateful Good,
 
 © Have been by Need to full Perfection brought:  
 
-© The Daring of the Sou] proceeds from thence,  
+© The Daring of the Soul proceeds from thence,  
 
 © Sharpneſs of Wit, and active Diligence:  
 
@@ -3088,8 +2080,7 @@ No lewd Adult'ret will my Love purſue.
 
 
 
-
-Wirz of. BATH TALE. T57  
+ 
 Nor Jeslouſy, the Bane of Marry'd Life,  
 
 
@@ -3186,7 +2177,7 @@ Thus, long in mutual Bliſs they lay embrac'd,
 And their firſt Love continued to the laſt:  
 
 
-One Sunſhine was their Life, no Cloud between; ;  
+One Sunſhine was their Life, no Cloud between;;  
 Nor ever was a kinder Couple ſeen.  
 
 And ſo may all our Lives like theirs be led;  
