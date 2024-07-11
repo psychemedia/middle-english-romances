@@ -114,7 +114,7 @@ That he ne sprong forth so sparke of glede,
 ^° ' ■'  Hw he couthe with wepne spede;  
 And other he refte him hors or wede,  
 Or made him sone handes sprede,  
-And " Louerd, merci !" loude grede.  
+And " Louerd, merci!" loude grede.  
 He was large, and no wicth guede;  
 Hauede he non so god brede,
 3 Ke, Ms. * Ke, Ms.
@@ -159,7 +159,7 @@ And Engelond sho couthe welde;
 And don hem of thar hire were queme,  
 An hire bodi couthe yeme;  
 Ne wolde me neuere iuele hke,  
-Me thou ich were in heuene riche !"  
+Me thou ich were in heuene riche!"  
 uanne he hauede this pleinte maked,  
 Ther after stronghke [he] quaked.  
 HeTende writes sone onon 
@@ -194,7 +194,7 @@ Bifor the king into the halle,
 At Winchestre ther he lay :
 " Welcome," he seyde, " be ye ay!  
 Ful michel thank kan [Y] yow  
-That ye aren comen to me now !"  
+That ye aren comen to me now!"  
 uanne he weren alle set,  
 And the king aueden i-gret,  
 He^reten, and gouleden, and gouen hem ille,  
@@ -208,7 +208,7 @@ Yure leuedi after me.
 Wo may yemen hire so longe,  
 Bothen hire and Engelonde,  
 Til that she winan of helde,  
-And tha she mowe yemen and welde ?"  
+And tha she mowe yemen and welde?"  
 He ansuereden, and seyden anon,  
 Bi Crist and hi seint Ion,  
 That therl Godrigh of Cornwayle  
@@ -366,7 +366,7 @@ Hope makethfol man ofte blenlces.
 Ich haue a son, a ful fayr knaue,  
 He shal Engelond al haue.  
 He shal [ben] king, he shal ben sire,  
-So brouke I euere mi blake swire !"  
+So brouke I euere mi blake swire!"  
 wan this trayson was al thouth,  
 Of his oth ne was him nouth.  
 He let his oth al ouer ga,  
@@ -536,7 +536,7 @@ The knaue that was sumdel bold,
 Kam him ageyn, on knes him sette,  
 [f. 206. b.  And Godard ful fey re he ther grette;  
 ®°^* ^-^  And Godard seyde, " Wat is thw?  
-Hwi grete ye and goulen nou ?"
+Hwi grete ye and goulen nou?"
 " For us hungreth swithe sore :" —  
 Seyden he wolden more,
 " We ne haue to hete, ne we ne haue  
@@ -671,11 +671,11 @@ Vp she stirte, and nouth ne sat,
 And caste the knaue adoun so harde.  
 That hise croune he ther crakede  
 Ageyn a gret ston, ther it lay:  
-Tho Hauelok micte sei, " Weilawei !
+Tho Hauelok micte sei, " Weilawei!
 
 24,
   
-That euere was I kinges bern !"  
+That euere was I kinges bern!"  
 That him ne hauede grip or ern,  
 Leoun or wlf, wluine or here,  
 Or other best, that wolde him dere.  
@@ -699,10 +699,10 @@ Of hise mouth it stod a stem,
 Als it were a sunne bem;  
 Also lith was it ther inne,  
 So ther brenden cerges *inne:
-" Ihesu Crist !" wat dame Leue 595
+" Ihesu Crist!" wat dame Leue 595
 " Hwat is that lith in vre cleue! 
 ^ Sir up Grim, and loke wat it menes,  
-Hwat is the lith as thou wenes ?"
+Hwat is the lith as thou wenes?"
 
 3 ther, Ms. * <?m. tenne. Cf, v. 2125. * Qm. stir, or stirt.
 
@@ -715,7 +715,7 @@ And sone anon him funden;
 Als he tirneden of his serk,  
 On his rith shuldre a kyne merk;  
 A swithe brith, a swithe fair: 605
-" Goddot !" quoth Grim, " this ure eir  
+" Goddot!" quoth Grim, " this ure eir  
 That shal [ben] louerd of Denemark,  
 He shal ben king strong and stark;  
 He shal hauen in his hand  
@@ -755,7 +755,7 @@ That in mi mouth was thrist faste.
 Y was the with so harde prangled.  
 That I was the with ney sti'angled."  
 " Wei is me that thu mayth hete:  
-Goddoth !" quath Leue, " Y shal the fete  
+Goddoth!" quath Leue, " Y shal the fete  
 Bred an chese, butere and milk,  
 Pastees and flaunes, al with suilk;  
 Shole we sone the wel fede,  
@@ -930,7 +930,7 @@ Thouthe [he] " Ich am now no grom;
 Ich am wel waxen, and wel may eten  
 More than cure Grim may geten.  
 Ich ete more, bi God on line,  
-Than Grim an hise children fine !
+Than Grim an hise children fine!
 » Qu. ful.
 
 32
@@ -1018,7 +1018,7 @@ Ne hauede he no frend to gangen til;
 Two dayes ther fastinde he yede,  
 That non for his werk wolde him fede;  
 The thridde day herde he calle :
-" Bermen, bermen, hider forth alle !"  
+" Bermen, bermen, hider forth alle!"  
 Sprongen forth so sparke on glede,
 [Of no man ne hauede he drede.] *  
 Hauelok shof dun nyne or ten,  
@@ -1040,7 +1040,7 @@ Til that he say him on the ^bigge,
 And bi him mani fishes hgge.  
 The herles mete hauede he bouth,  
 Of Cornwahe, and kalde oft :
-" Bermen, bermen, hider swithe !"  
+" Bermen, bermen, hider swithe!"  
 Hauelok it herde, and was ful bUthe,  
 That he herd " bermen" calle;  
 AUe made he hem dun falle.  
@@ -1068,7 +1068,7 @@ And seyde, " Wiltu ben wit me?
 [fol. 209.  Gladlike wile ich feden the;  
 col. 1.]  ^g| jg gg|. ^j^g mete thu etes.  
 And the hire that thu getes."
-7"^^ oddot !" quoth he, " leue sire,
+7"^^ oddot!" quoth he, " leue sire,
 \jr Bidde ich thou non other hire;  
 But yeueth me inow to ete.  
 Fir and water Y wile yow fete,  
@@ -1085,7 +1085,7 @@ Go thu yunder, and sit thore.
 And Y shal yeue the ful fair bred,  
 And make the ^broys in the led.  
 Sit now doun and et ful yerne:  
-Datheit hwo the mete werne !"  
+Datheit hwo the mete werne!"  
 auelok sette him dun anon,  
 Also stille als a ston.  
 Til he hauede ful wel eten;  
@@ -1524,7 +1524,7 @@ But bondemen, and here wiues.
 And that ich kom til Engelond,  
 [col. 2,]  Al closede it intil min bond,  
 And Goldeborw Y gaf the: —  
-Deus lemman, hwat may this be ?"  
+Deus lemman, hwat may this be?"  
 Sho answerede, and seyde sone:  
 " Ihesu Crist, that made mone,  
 Thine dremes turne to ioye!  
@@ -1614,7 +1614,7 @@ H
 And bringge me wel to the lond,  
 That Godard haldes in his hond;  
 That is mi rith, eueri del:  
-Eiesu Crist, thou wost it wel !"  
+Eiesu Crist, thou wost it wel!"  
 hanne he hauede his bede seyd,  
 His ofFrende on the auter leyd,  
 His leue at Ihesu Crist he tok,  
@@ -1717,7 +1717,7 @@ Hw he was wel of bones maked,
 Brod in the sholdres, ful wel schaped,  
 Thicke in the brest, of bodi long;  
 He semede wel to ben wel strong.  
-" Deus !" hwat Ubbe, " qui ne were he knith?  
+" Deus!" hwat Ubbe, " qui ne were he knith?  
 I woth, that he is swithe with!  
 Betere semede him to here  
 Helm on heued, sheld and spere,  
@@ -1766,7 +1766,7 @@ Or hand with iuele onne leyd.
 Willam Wendut was that other  
 That hire ledde, Roberdes brother,  
 That was with at alle nedes:  
-Wei is him that god man fedes !
+Wei is him that god man fedes!
 ' yde, Ms.  
 I
   
@@ -1801,7 +1801,7 @@ col. 1.]  And til hire seyde, al on gamen :
 And Goldeboru shal ete wit me.  
 That is so fayr so flour on tre;  
 In al Denemark ^nis wimman  
-So fayr so sche, bi seint lohan !"
+So fayr so sche, bi seint lohan!"
 ^ is, Ms.
 
 59
@@ -1860,7 +1860,7 @@ With swerdes drawen, and kniues longe,
 Ilkan in hande a ful god gleiue,  
 And seyde, " Undo, Bernard the greyue!  
 Vndo swithe, and lat us in.  
-Or thu art ded, bi seint Austin !"  
+Or thu art ded, bi seint Austin!"  
 Bernard stirt up, that was ful big,  
 And caste a brinie up on his rig,  
 And grop an ar, that was ful god,  
@@ -1892,7 +1892,7 @@ That was unride, and gret ynow,
 And caste the dore open wide,  
 And seide, " Her shal Y now abide:  
 Gomes swithe vnto me! ^  
-Datheyt hwo you henne fle !"
+Datheyt hwo you henne fle!"
 " No," quodh on, " that shaltou coupe,"  
 And bigan til him to loupe.  
 In his bond his swerd ut drawe,  
@@ -1983,7 +1983,7 @@ And saw how the laddes wode
 Hauelok his louerd umbistode,  
 And beten on him so doth the smith  
 With the hamer on the stith.  
-Alias !" hwat Hwe, " that Y was boren!  
+Alias!" hwat Hwe, " that Y was boren!  
 That euere et ich bred of koren!  
 That ich here this sorwe se!  
 Roberd! Willam! hware ar ye?  
@@ -1992,12 +1992,12 @@ And late we nouth thise doges fle.
 Til ure louerd wreke [we]  
 Cometh swithe, and folwes me!  
 Ich haue in honde a ful god ore:  
-Datheit wo ne smite sore !"
+Datheit wo ne smite sore!"
 1 dorof, Ms.
 
 65
 
-" Ya! leue, ya !"" quod Roberd sone,  
+" Ya! leue, ya!"" quod Roberd sone,  
 " We hauen ful god lith of the mone."  
 Roberd grop a staf, strong and gret,  
 That mouthe ful wel here a net,  
@@ -2046,7 +2046,7 @@ Sket cam tiding intil Ubbe,
 That Hauelok hauede with a clubbe  
 Of hise ^slawen sixti and on  
 Sergaunz, the beste that mithen gon.  
-" Deus !" quoth Ubbe, " hwat may this be!  
+" Deus!" quoth Ubbe, " hwat may this be!  
 Betere his I nime miself and se.  
 That this baret on hwat is wold,  
 Thanne I sende yunge or old.  
@@ -2073,7 +2073,7 @@ Ner al so naked, so he was born.
 And al to-brised, bac and the:  
 Quoth Ubbe, " Bernard, hwat is the?  
 Hwo haues the thus ille maked.  
-Thus to-riuen, and al mad naked ?"
+Thus to-riuen, and al mad naked?"
 " ^ T"  ouerd, merci," quot he sone,  
 X_^ To nicht al so ros the mone  
 Comen her mo than sixti theues,  
@@ -2091,7 +2091,7 @@ So dogges ut of milne-hus.
 Hauelok grop the dore-tre.  
 And [at] a dint he slow hem thre.  
 He is the beste man at nede,  1  
-That euere mar shal ride stede !
+That euere mar shal ride stede!
 ' louerd, Ms.
 
 68
@@ -2136,7 +2136,7 @@ Thus wolde the theues me haue reft,
 But god thank he hauenet sure keft.  
 But it is of him mikel scathe:  
 I woth that he bes ded ful rathe."  
-Quoth Ubbe, " Bernard, seyst thou soth ?"  
+Quoth Ubbe, " Bernard, seyst thou soth?"  
 " Ya, sire, that I ne lepe oth.  
 Yif Y, louerd, a word leye,  
 To morvven do me hengen heye."  
@@ -2229,7 +2229,7 @@ That none of mine, clerk ne knith,
 72
   
 Ne sholen thi wif no shame bede,  
-No more than min, so God me rede !"  
+No more than min, so God me rede!"  
 He dide unto the borw bringe  
 Sone anon, al with ioynge,  
 His wif, and his serganz thre,  
@@ -2240,7 +2240,7 @@ Aboute the middel of the nith
 Wok Ubbe, and saw a mikel Hth  
 In the hour that Hauelok lay,  
 Also brith so it were day.  
-" T"^ eus !" quoth Ubbe, " hwat may this be ?
+" T"^ eus!" quoth Ubbe, " hwat may this be ?
 \_^ Betere is I go miself, and se:  
 Hwether he sitten nou, and wesseylen,  
 Or of ani shotshipe to-deyle.  
@@ -2249,7 +2249,7 @@ Than birthe men casten hem in poles,
 Or in a grip, or in the fen:  
 Nou ne sitten none but wicke men,  
 Glotuns, reures, or wicke theues,  
-Bi Crist, that alle folk onne leues !"  
+Bi Crist, that alle folk onne leues!"  
 He stod, and totede in at a bord.  
 Her he spak anilepi word.  
 And saw hem slepen faste ilkon,  
@@ -2261,7 +2261,7 @@ Fro Hauelok cam, that was so brith.
   
 Of his mouth it com il del.  
 That was he war ful swithe wel.
-" Deus !" quoth he, " hwat may this mene !"  
+" Deus!" quoth he, " hwat may this mene!"  
 He calde bothe arwe men, and kene  
 Knithes, and serganz swithe sleie,  
 Mo than an hundred, withuten leye,  
@@ -2587,7 +2587,7 @@ Mayster, he was girt wit a swerd,
 And sat upon a ful god stede.  
 That vnder him rith wolde wede;  
 He was the firste that with Godard  
-[col. 2.]  Spak, and seyde, ^ " Hede cauenard !
+[col. 2.]  Spak, and seyde, ^ " Hede cauenard!
 * birnde, Ms. * Qu. helde, i. e. old.
   
 T
@@ -2607,7 +2607,7 @@ Cum nu swithe unto him,
 That king is of this kuneriche. J3400  
 Thu fule man! thu wicke swike!  
 And he shal yelde the thi mede,  
-Bi Crist, that wolde on rode blede !"  
+Bi Crist, that wolde on rode blede!"  
 Hwan Godard herde that ther thrette,  
 With the neue he Robert sette  
 Biforn the teth a dint ful strong.  
@@ -2717,7 +2717,7 @@ So it were grim, or gore,
 That men mithe thethen a mile  
 Here him rore, that fule file.  
 The ladde ne let no with for thi  
-They he criede merci! merci !
+They he criede merci! merci!
   
 H
 
@@ -2838,9 +2838,9 @@ And folwes alle faste me,
 For ich am he, of al the ferd.  
 That first shal slo with drawen swerd.  
 Datheyt hwo ne stonde faste  
-Bi me, hwil hise armes laste !" 2605
+Bi me, hwil hise armes laste!" 2605
 " The lef the," couth the erl Gunter
-" Ya !" quoth the erl of Cestre, Reyner.  
+" Ya!" quoth the erl of Cestre, Reyner.  
 And so dide alle that ther stode,  
 And stirte forth so he were wode.  
 Tho mouthe men se the brinies brihte  
@@ -3070,7 +3070,7 @@ That we ne wot, that Athelwold
 Was king of this kunerike,  
 And ye his eyr, and that the swike  
 Haues it halden with mikel wronge:  
-God leue him sone to honge !"  
+God leue him sone to honge!"  
 uot Hauelok, " Hwan that ye it wite.  
 Nu wile ich that ye doun site,
 « Guot, Ms. Cf. V. 1954.  
@@ -3589,7 +3589,7 @@ Godard left Havelok kneeling in terror, and, striding from the tower, leaving th
 
 " Grim, thou knowest thou art my thrall." " Yea, fair lord," quoth Grim, trembling at Godard's stern voice. " And I can slay thee if thou dost disobey me." " Yea, lord; but how have I offended you? " " Thou hast not yet; but I have a task for thee, and if thou dost it not, dire punishment shall fall upon thee."  " Lord, what is the work that I must do? " asked the poor fisherman. " Tarry: I will show thee." Then Godard went into the inner room of the tower, whence he returned leading a feir boy, who wept bitterly. "Take this boy secretly to thy house, and keep him there till dead of night; then launch thy boat, row out to sea, and fling him therein with an anchor round his neck, so that I shall see him never again."
 
-Grim lodked curiously at the weeping boy, and said: "What reward shall I have if I work this sin for you ?"
+Grim lodked curiously at the weeping boy, and said: "What reward shall I have if I work this sin for you?"
 
 Godard replied: " The sin will be on my head, as I am thy lord and bid thee do it; but I will make thee a freeman, noble and rich, and my friend, if thou wilt do his secretly and discreetly."
 
