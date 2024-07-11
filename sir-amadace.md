@@ -1432,7 +1432,7 @@ The ancient minstrels, as a body, were editors and publishers, rather than origi
 
 But the minstrels were also representatives of publishers, ...
 
-The three poems now printed very probably formed part of the stock of some individual of this by-gone pro¬ fession. They have been apparently written from recita¬ tion, and are remarkable for the complete contrast of matter, style and diction. The first two or three pages have evidently been taken down by one who was not in¬ timate with the form of the stanza; some lines are di¬ vided, and some run into each other, just as we might suppose would be the case till the writer had made him¬ self acquainted with the intricacies of the versification. A professed minstrel, or even a person who had read the poem through, would have avoided such irregularities.
+The three poems now printed very probably formed part of the stock of some individual of this by-gone pro¬ fession. They have been apparently written from recita¬ tion, and are remarkable for the complete contrast of matter, style and diction. The first two or three pages have evidently been taken down by one who was not intimate with the form of the stanza; some lines are di¬ vided, and some run into each other, just as we might suppose would be the case till the writer had made him¬ self acquainted with the intricacies of the versification. A professed minstrel, or even a person who had read the poem through, would have avoided such irregularities.
 
 It may be too, that the recitation of these and similar productions, was accompanied by something of dramatic action, as the " he— sayd," and "ho sayd," are very frequently additions which the metre itself will not allow.
 
