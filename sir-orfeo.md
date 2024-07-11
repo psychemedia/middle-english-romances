@@ -275,13 +275,13 @@ Hath marred our life; no smallest sign;
 But we have loved as love we ought;  
 Thou art my life, and I am thine.  
 Now do thy best and do not pine,  
-For we must part, and I to doom ! "  
-" Alas ! " he cried, and " woe is mine !  
+For we must part, and I to doom! "  
+" Alas! " he cried, and " woe is mine!  
 Where dost thou go, Love, and to whom?
 
 "Whither thou goest I will go,  
-And where I go thou too shalt fare ! "  
-" Nay, nay, my lord ; thou dost not know :  
+And where I go thou too shalt fare! "  
+" Nay, nay, my lord; thou dost not know:  
 My doom no mortal man may share.  
 This morn, as I was lying there  
 Asleep beneath an orchard-tree,  
@@ -322,14 +322,14 @@ Thou art beneath this self-same tree;
 Then thou shalt go with us and be  
 For aye with us in fairy land;  
 And if thou failest, woe to thee,  
-For thou shalt feel the fairies' hand ! '
+For thou shalt feel the fairies' hand!'
 
 " ' Where'er thou art thy limbs shall fail,  
 No man shalt thou find piteous;  
 Thou shalt be torn with tooth and nail,  
 And would thou hadst returned with us!'"  
 When Orfeo had heard, he was  
-Distraught, and moaned, " Alas ! my life,  
+Distraught, and moaned, " Alas! my life,  
 Dearer than life, and must I thus  
 Lose thee, my queen, my love, my wife?"
 
@@ -361,7 +361,7 @@ Then woefully he rose, and sent
 For all his barons, earls, and lords.
 
 When they had come in solemn train,  
-" My lords," he said, " all ye have seen ;  
+" My lords," he said, " all ye have seen;  
 Hear now: my steward I ordain  
 To rule throughout my broad demesne.  
 He shall be lord as I have been,  
@@ -504,14 +504,14 @@ But quick the others caught her rein,
 And closed about, and made her fly,  
 And would not let her there remain.
 
-" Alas ! alas ! " he gan to cry,  
+" Alas! alas! " he gan to cry,  
 "Why will not death dispel my pain?  
 Alas! alas! would I could die  
 Now I have seen my love again.  
 Alas, that I must live, who fain  
 Would perish! for I dared not speak  
 To her, nor she to me. Ah, vain  
-Is life ; alas ! my heart will break ! "
+Is life; alas! my heart will break! "
 
 "But nay," he cried at last, "not so:  
 I too shall wend, tide what betide,  
@@ -639,9 +639,9 @@ The king exclaimed, " for, harper mine,
 I love thy tender minstrelsy:  
 Ask what thou wilt, and it is thine;
 
-" Largess I proffer for thy task ;  
+" Largess I proffer for thy task;  
 Speak now, what shall I give to thee? "  
-" Sir," answered he, " one thing I ask ;  
+" Sir," answered he, " one thing I ask;  
 This — that thou wilt bestow on me  
 The lady 'neath the orchard-tree  
 A-slumbering in grasses deep."  
@@ -659,9 +659,9 @@ So, sir, my boon, as thou art king!
 
 " I have but asked of thee my due,  
 And thou must needs requite me so."  
-The king replied, " Aye, it is true ;  
+The king replied, " Aye, it is true;  
 Then take her by the hand and go.  
-Joy have of her and never woe ! "  
+Joy have of her and never woe! "  
 He thanked him sweet, and by the hand  
 He led his wife; thus Orfeo  
 And Heurodis left fairy land.
@@ -699,19 +699,19 @@ Into the town, where all might look
 Upon his body soiled and bent.  
 Men laughed aloud in merriment;  
 The ladies, earls, and barons said,  
-" Lo, see the man ! his hair is sprent  
+" Lo, see the man! his hair is sprent  
 Like moss about his shaggy head;
 
 " His beard is fallen to his feet  
-Like weathered ivy tumbling down ! "  
+Like weathered ivy tumbling down! "  
 There as he went, he chanced to meet  
 His steward coming through the town.  
 Then loud he cried, and plucked his gown,  
-" Sir steward, hearken, pity me !  
+" Sir steward, hearken, pity me!  
 I am a harper of renown;  
-Ah, help me in my misery ! "
+Ah, help me in my misery! "
 
-The steward straightway answered, " Come !  
+The steward straightway answered, " Come!  
 Thou shalt share aught I can bestow.  
 Every good harper is welcome  
 For my lord's sake Sir Orfeo."  
@@ -732,7 +732,7 @@ The steward heard and marked it well.
 He knew the harp, and said, " Say now,  
 Minstrel, as thou hast fear of Hell,  
 Where gottest thou thy harp, and how?  
-I pray thee haste and quickly tell ! "  
+I pray thee haste and quickly tell! "  
 " Lord," quoth he, " in a desert fell  
 As I was wandering one morn,  
 I found within a dismal dell  
@@ -745,7 +745,7 @@ His harp was lying in the snow.
 That was my lord, Sir Orfeo!  
 Alas! now am I all forlorn.  
 My lord is lost! ah, me is woe!  
-Ah, would that I had ne'er been born ! "
+Ah, would that I had ne'er been born! "
 
 He fell a-swooning to the ground;  
 His barons caught him up again,  
@@ -756,7 +756,7 @@ And when Sir Orfeo well knew
 His steward's love had not a stain,  
 He rose, and spake, and nearer drew.
 
-" Sir steward, hearken now and hear :  
+" Sir steward, hearken now and hear:  
 If I were Orfeo the king,  
 And had sore suffered many a year,  
 Enduring every cruel thing,  
@@ -781,7 +781,7 @@ Down at his feet in dumb delight,
 And all his lordings at the sight  
 Crowded about his feet, to cling  
 And shout for joy with all their might,  
-" Thou art our lord, sir, and our king ! "
+" Thou art our lord, sir, and our king! "
 
 Sure all were glad when they had heard;  
 Quickly they led him in with glee,  
@@ -847,7 +847,7 @@ From this very hour when the Lady Herodys was borne away, a great change came ov
 
 It happened at length that Sir Orfeo broke his silence, and calling all his people together, he told them what he was now minded to do. "Friends and companions," said he to them, "I now appoint my steward here to rule in my stead. Obey him and serve him, if ye will show your love to me. And when, as time goes by, ye shall learn that Sir Orfeo no longer lives and moves upon this earth, then call ye a meeting of all my folk and choose from among yourselves one to be your ruler and prince. Now I must away. No longer shall I look upon the faces of my friends, but deep in the forests and far from the haunts of men I shall take up my dwelling-place. I have lost that which all this world cannot restore, and from this day I renounce all that this world has yet to give."
 
-With sorrow the people heard these words of their good prince, and all besought him to take ; comfort for his loss, and not to leave them for the hard and desolate life of the pathless forest. But Sir Orfeo was not to be turned from his will. He bade them all farewell, and with nothing but his harp in his hands and his cloak upon his shoulders, he set forth on his solitary way.
+With sorrow the people heard these words of their good prince, and all besought him to take; comfort for his loss, and not to leave them for the hard and desolate life of the pathless forest. But Sir Orfeo was not to be turned from his will. He bade them all farewell, and with nothing but his harp in his hands and his cloak upon his shoulders, he set forth on his solitary way.
 
 A strange life was this that Sir Orfeo now led. He who had once been lord of a hundred knights, now wandered forth alone, as poor as the poorest hermit in the land. When the night came, he had naught to shelter him but the leaves and boughs of the forest. The rain and the sun of the heavens were free to beat upon him, and no shelter he knew from the winds, however boisterous and blustering. No eager servers now set rich food before him in bright silver dishes, as in the old days in his castle, but with the labor of his hands he must search for roots and herbs and such other hard fare as the forest yields to answer the needs of the body. But all was not hardship for Sir Orfeo in the life of the forest. Now again his heart was quiet, and in the still afternoons, or when the night was clear and the stars were glittering in the black sky, then Sir Orfeo would take his harp and play on it. Not for the praise of men did he play, for men there were not in the forest to hear him. Sir Orfeo's music was like the nuisic of the breeze in the tall grass, and like the singing of many waters as they slip over the mossy rocks beneath the shadows of the trees. The very birds of the forest, unafraid, drew near to listen to his harping, and the timorous creatures forgot their tremblings, and the wild beasts of ravin ceased to pursue their prey beneath the sway of the sweet harmony.
  
@@ -924,7 +924,7 @@ SIR ORFEO
 Orfeo was a king,  
 In Inglond an heighe lording,  
 A stalworth man and hardi bo, `[both]`  
-Large and curteys, he was al so ;  
+Large and curteys, he was al so;  
 His fader was comen of king Pluto,  
 And his moder of king Juno,  
 That sum time were as godes y hold,  
@@ -951,7 +951,7 @@ Tok to maidens of priis,
 And went in an undren tide `[forenoon]`  
 To play bi an orchard side  
 To se the floures sprede and spring,  
-And to here the foules sing :  
+And to here the foules sing:  
 Thai sett hem doun al thre,  
 Under a fair ympe `[grafted]` tre,  
 And wel sone this fair quene,  
@@ -959,9 +959,9 @@ Fel on slepe opon the grene.
 The maidens durst hir nought awake,  
 Bot let hir ligge and rest take,  
 So sche slepe til after none,  
-That under tide was al y done ;  
+That under tide was al y done;  
 Ac as sone as sche gan awake,  
-Sche crid and lothli bere gan make ;  
+Sche crid and lothli bere gan make;  
 Sche froted `[rubbed, wrung]` hir honden and hir fet,  
 And crached her visage, it blede wete,  
 Hir riche robe hye al to rett, `[rent]`  
@@ -977,79 +977,79 @@ Damisels sexti and mo,
 In the orchard to the quen hye come,  
 And her up in her armes nome, `[took]`  
 And brought hir to bed attelast,  
-And held hir there fine fast ;  
+And held hir there fine fast;  
 Ac ever sche held in o cri  
 And wold up and owy.  
 When Orfeo herd that tiding  
-Never him nas wers for no thing ;  
+Never him nas wers for no thing;  
 He come with knightes tene  
 To chaumber right bifor the quene,  
-And biheld and seyd with grete pite :  
+And biheld and seyd with grete pite:  
 O lef `[dear]` liif, what is te, `[thee]`  
 That ever yete hast ben so stille,  
-And now gredest `[criest]` wonder schille `[shrill]` ;  
+And now gredest `[criest]` wonder schille `[shrill]`;  
 Thi bodi, that was so white y core, `[before]`  
 With thine nailes is al to tore,  
-Alias ! thi rode, `[complexion]` that was so red,  
-Is al wan as thou were ded ;  
+Alias! thi rode, `[complexion]` that was so red,  
+Is al wan as thou were ded;  
 And also thine fingres smale,  
-Beth al blodi and al pale ;  
-Alias ! thi lovesum eyghen `[eyes]` to  
-Loketh so man doth on his fo ;  
+Beth al blodi and al pale;  
+Alias! thi lovesum eyghen `[eyes]` to  
+Loketh so man doth on his fo;  
 A dame, Ich biseche merci,  
 Let ben al this reweful cri,  
 And tel me what the is, and hou,  
-And what thing may the help now ?  
+And what thing may the help now?  
 Tho lay sche stille attelast,  
 And gan to wepe swithe `[very]` fast,  
-And seyd thus the king to :  
-Alias ! mi lord, sir Orfeo,  
+And seyd thus the king to:  
+Alias! mi lord, sir Orfeo,  
 Seththen `[since]` we first to gider were,  
 Ones wroth never we nere,  
 Bot ever Ich have y loved the  
 As mi liif, and so thou me,  
 Ac now we mot `[must]` delen ato,  
 Do thi best, for y mot go.  
-Alias ! quath he, forlorn Ich am,  
-Whider wiltow go and to wham ?  
+Alias! quath he, forlorn Ich am,  
+Whider wiltow go and to wham?  
 Whider thou gost Ichil with the,  
 And whider Y go thou schalt with me.  
 Nay, nay, sir, that nought nis,  
-Ichil the telle al how it is :  
+Ichil the telle al how it is:  
 As Ich lay this under tide,  
 And slepe under our orchard side,  
 Ther come to me to fair knightes  
 Wele y armed al to rightes,  
 And bad me comen an heighing, `[directly]`  
-And speke with her lord the king ;  
+And speke with her lord the king;  
 And Ich answerd at wordes bold,  
 Y durst nought, no y nold.  
 Thai priked oghain `[again]` as thai might drive,  
 Tho com her king also blive,  
 With an hundred knightes and mo,  
-And damissels an hundred al so ;  
+And damissels an hundred al so;  
 Al on snowe white stedes,  
 As white as milke were her wedes,  
 Y no seighe never yete bifore  
-So fair creatours y core !  
+So fair creatours y core!  
 The king hadde a croun on hed,  
 It nas of silver, no of gold red,  
-Ac it was of a precious ston ;  
-As bright as the sonne it schon :  
+Ac it was of a precious ston;  
+As bright as the sonne it schon:  
 And as son as he to me cam,  
 Wold Ich, nold Ich, he me nam,  
 And made me with him ride,  
 Opon a palfray bi his side,  
 And brought me to his pallays,  
-Wele atird in ich ways ;  
+Wele atird in ich ways;  
 And schewed me castels and tours,  
-Rivers, forestes, frith `[forest]` with flours ;  
+Rivers, forestes, frith `[forest]` with flours;  
 And his riche stedes `[places]` ichon,  
 And seththen me brought oghain horn,  
 In to our owhen orchard,  
-And said to me after ward :  
+And said to me after ward:  
 Loke dame, to morwe thatow be  
-Right here under this ympe tre ;  
+Right here under this ympe tre;  
 And than thou schalt with ous go  
 And live with ous ever mo,  
 And yif thou makest ous y let,  
@@ -1060,7 +1060,7 @@ And thei thou best so to torn
 Yete thou worst with ous y born.
 
 When king Orfeo herd this cas,  
-Owe! `[woe]` quath he, alias ! alias !  
+Owe! `[woe]` quath he, alias! alias!  
 Lever me were to lete `[lose]` mi liif ,  
 Than thus to lese the quen mi wiif,  
 He asked conseyl at ich man,  
@@ -1068,13 +1068,13 @@ Ac no man him help no can.
 A morwe the under tide is come  
 And Orfeo hath his armes y nome,  
 And wele ten hundred knightes with him,  
-Ich y armed stout and grim ;  
+Ich y armed stout and grim;  
 And with the quen wenten he,  
 Right unto that ympe tre.  
 Thai made scheltrom `[defence]` in ich aside,  
 And sayd thai wold ther abide,  
 And dye ther everichon,  
-Er the quen schuld fram hem gon :  
+Er the quen schuld fram hem gon:  
 Ac yete amiddes hem ful right,  
 The quen was oway y twight, `[taken]`  
 With fairi forth y nome,  
@@ -1083,85 +1083,85 @@ Tho was ther criing, wepe and wo,
 The king into his chamber is go,  
 And oft swoned opon the ston  
 And made swiche diol `[dole]` and swiche mon,  
-That neighe his liif was y spent ;  
+That neighe his liif was y spent;  
 Ther was non amendement.  
 He cleped to gider his barouns,  
 Erls, lordes of renouns,  
-And when thai al y comen were :  
+And when thai al y comen were:  
 Lordinges, he said, bifor you here  
 Ich ordainy min heigh steward  
 To wite `[order]` mi kingdom after ward,  
 In mi stede ben he schal,  
 To kepe mi londes over al,  
 For now Ichave mi quen y lore, `[lost]`  
-The fairest levedi that ever was bore ;  
+The fairest levedi that ever was bore;  
 Never eft y nil no woman se,
 Into wildernes Ichil te, `[roam]`  
 And live ther ever more,  
-With wilde bestes in holtes `[woods]` hore ;  
+With wilde bestes in holtes `[woods]` hore;  
 And when ye under stond that y be spent,  
 Make you than a parlement,  
-And chese you a newe king :  
+And chese you a newe king:  
 Now doth your best with al mi thing.
 
 Tho was ther wepeing in the halle,  
-And grete cri among hem alle ;  
+And grete cri among hem alle;  
 Unnethe `[scarcely]` might old or yong  
 For wepeing speke a word with tong.  
 Thai kneled adoun al y fere, `[together]`  
 And praid him yif his wille were,  
 That he no schuld nought from hem go.  
-Do way ! quath he, it schal be so :  
+Do way! quath he, it schal be so:  
 All his kingdom he forsoke,  
-But a sclavin `[pilgrim's robe]` on him he toke ;  
+But a sclavin `[pilgrim's robe]` on him he toke;  
 He no hadde kirtel, no hode,  
 Schert, no nother gode,  
 Bot his harp he toke algate, `[however]`  
-And dede him barfot out atte gate :  
+And dede him barfot out atte gate:  
 No man most with him go.  
-O way ! what ther was wepe and wo,  
+O way! what ther was wepe and wo,  
 When he that hadde ben king with croun,  
 Went so poverlich out of toun.  
 Thurch wode, and over heth,  
 Into the wildernes he geth,  
 Nothing he fint that him is ays, `[ease]`  
-Bot ever he liveth in gret malais `[discomfort]` ;  
+Bot ever he liveth in gret malais `[discomfort]`;  
 He that hadde y werd the fowe `[fur (variegated)]` and griis, `[fur (gray)]`  
 And on bed the purper biis, `[linen]`  
 Now on hard hethe he lith,  
-With leves and gresse he him writh `[wraps]` :  
+With leves and gresse he him writh `[wraps]`:  
 He that hadde castels, and tours,  
-River, forest, frith with flours ;  
+River, forest, frith with flours;  
 Now, thei it commenci to snewe and frese,  
-This king mot make his bed in mese `[moss (?)]` :  
+This king mot make his bed in mese `[moss (?)]`:  
 He that had y had knightes of priis.  
 Bifor him kneland, and levedis,  
 Now seth he no thing that him liketh,  
-Bot wild wormes by him striketh :  
+Bot wild wormes by him striketh:  
 He that had y had plente  
 Of mete and drink, of ich deynte,  
 Now may he al day digge and wrote, `[grub]`  
-Er he finde his fille of rote ;  
+Er he finde his fille of rote;  
 In somer he liveth bi wild frut,  
-And berren, bot gode lite ;  
+And berren, bot gode lite;  
 In winter may he no thing finde,  
-Bot rote, grases, and the rinde ;  
+Bot rote, grases, and the rinde;  
 Al his bodi was oway dwine  
 For missays, and al to chine, `[shrunken]`  
-Lord ! who may telle the sore  
-This king sufferd ten yere and more :  
+Lord! who may telle the sore  
+This king sufferd ten yere and more:  
 His here of his berd, blac and rowe, `[rough]`  
-To his girdel stede was growe ;  
+To his girdel stede was growe;  
 His harp, where on was al his gle,  
-He hidde in an holwe tre ;  
+He hidde in an holwe tre;  
 And, when the weder was clere and bright,  
 He toke his harp to him wel right,  
 And harped at his owhen wille,  
 Into alle the wode the soun gan schille,  
 That alle the wilde bestes that ther beth,  
-For joie abouten him thai teth `[gather]` ;  
+For joie abouten him thai teth `[gather]`;  
 And all the foules that ther were,  
-Come and sete on ich a brere ;  
+Come and sete on ich a brere;  
 To here his harping a fine, `[at last]`  
 So miche melody was ther in.  
 And when he his harping lete wold,  
@@ -1170,94 +1170,94 @@ No best bi him abide nold.
 He might se besides  
 Oft in hot under tides,  
 The king o fairy, with his rout,  
-Com to hunt him al about :  
+Com to hunt him al about:  
 With dim cri and bloweing,  
-And houndes also with him berking ;  
+And houndes also with him berking;  
 Ac no best thai no nome,  
 No never he nist whider thai bi come.  
 And other while he might him se  
 As a gret ost bi him te,  
 Wele atourned `[about]` ten hundred knightes,  
-Ich y armed to his rightes ;  
+Ich y armed to his rightes;  
 Of cuntenaunce stout and fers,  
-With mani displaid baners ;  
-And ich his swerd y drawe hold :  
+With mani displaid baners;  
+And ich his swerd y drawe hold:  
 Ac never he nist whider thai wold.  
-And other while he seighe other thing :  
+And other while he seighe other thing:  
 Knightes and levedis com daunceing,  
 In queynt atire gisely,  
-Queyitt pas, and softly :  
+Queyitt pas, and softly:  
 Tabours and trimpes yede him bi,  
 And al maner menstraci.
 
 
 And on a day he seighe him biside  
 Sexti levdis on hors ride,  
-Gentil and jolif, as brid on ris `[branch]` ;  
-Nought o man amonges hem ther nis ;  
+Gentil and jolif, as brid on ris `[branch]`;  
+Nought o man amonges hem ther nis;  
 And ich a faucoun on hond bere,  
 And riden on haukin bi o rivere,  
 Of game thai founde wel gode haunt,  
-Maulardes, hayroun, and cormeraunt ;  
+Maulardes, hayroun, and cormeraunt;  
 The foules of the water ariseth,  
 The faucouns hem wele deviseth,  
-Ich faucoun his pray slough :  
+Ich faucoun his pray slough:  
 That seighe Orfeo, and lough.  
-Par fay, quath he, ther is fair game !  
+Par fay, quath he, ther is fair game!  
 Thider Ichil bi Godes name,  
 Ich was y won `[accustomed]` swiche werk to se.  
-He aros, and thider gan te ;  
+He aros, and thider gan te;  
 To a levedi he was y come,  
 Biheld, and hath wele under nome,  
 And seth, bi al thing, that it is  
 His owhen quen dam Heurodis.  
 Yern he biheld hir, and sche him eke,  
-Ac noither to other a word no speke :  
+Ac noither to other a word no speke:  
 For messais that sche on him seighe,  
 That had ben so riche and so heighe,  
-The teres fel out of her eighe ;  
+The teres fel out of her eighe;  
 The other levedis this y seighe,  
 And maked hir oway to ride,  
 Sche most with him no lenger abide.
 
-Alias ! quath he, now me is wo !  
+Alias! quath he, now me is wo!  
 Whi nil deth now me slo,  
-Alias ! wroche, that Y no might  
-Dye now, after this sight !  
-Alias ! to long last mi liif  
+Alias! wroche, that Y no might  
+Dye now, after this sight!  
+Alias! to long last mi liif  
 When Y no dar nought with mi wiif,  
 No hye to me, o word speke,  
-Alias ! whi nil min hert breke !  
+Alias! whi nil min hert breke!  
 Parfay, quath he, tide what bitide,  
 Whider so this levedis ride,  
 The selve way Ichil streche,  
 Of liif, no deth, me no reche.  
 His sclavin he dede on, all so spac, `[speedily (?)]`  
 And henge his harp upon his bac,  
-And had wel gode will to gon ;  
+And had wel gode will to gon;  
 He no spard noither stub no ston.  
 In at a roche the levedis rideth,  
-And he after, and nought abideth ;  
+And he after, and nought abideth;  
 When he was in the roche y go,  
 Wele thre mile, other mo,  
 He com in to a fair cuntray,  
 As bright so sonne on somers day,  
-Smothe, and plain, and al grene ;  
-Hille, no dale nas ther non y sene ;  
+Smothe, and plain, and al grene;  
+Hille, no dale nas ther non y sene;  
 Amidde the lond a castel he sighe,  
-Riche, and real, `[royal]` and wonder heighe ;  
+Riche, and real, `[royal]` and wonder heighe;  
 Al the ut mast wal,  
-Was cler and schine as cristal ;  
+Was cler and schine as cristal;  
 And hundred tours ther were about,  
-Degiselich `[grandly]` and bataild stout ;  
+Degiselich `[grandly]` and bataild stout;  
 The butras com out of the diche,  
 Of rede gold y arched riche,  
 The bonsour `[front]` was avowed `[adorned]` al,  
-Of ich maner divers animal ;  
+Of ich maner divers animal;  
 With in ther wer wide wones, `[dwellings]`  
 Al of precious stones,  
 The werst piler on to biholde,  
-Was al of burnist gold ;  
+Was al of burnist gold;  
 Al that lond was ever light,  
 For when it schuld be therk `[dark(?)]` and night,  
 The riche stones `[sapphires are mentioned in one version]` light gonne,  
@@ -1282,40 +1282,40 @@ And asked, what he wold have y do.
 Than he gan bihold about al,  
 And seighe full liggeand `[lying]` with in the wal,  
 Of folk that were thider y brought,  
-And thought dede and nare nought :  
-Sum stode with outen hade `[head]` ;  
-And sum on armes nade ; `[had no arms]`  
-And sum thurch the bodi hadde wounde ;  
-And sum lay wode `[mad]` y bounde ;  
-And sum armed on hors sete ;  
-And sum astrangled as thai ete ;  
-And sum were in water adreynt `[drowned]` ;  
-And sum with fire al for schreynt `[withered]` ;  
-Wives ther lay on child bedde ;  
-Sum ded, and sum awedde `[mad(?)]` ;  
+And thought dede and nare nought:  
+Sum stode with outen hade `[head]`;  
+And sum on armes nade; `[had no arms]`  
+And sum thurch the bodi hadde wounde;  
+And sum lay wode `[mad]` y bounde;  
+And sum armed on hors sete;  
+And sum astrangled as thai ete;  
+And sum were in water adreynt `[drowned]`;  
+And sum with fire al for schreynt `[withered]`;  
+Wives ther lay on child bedde;  
+Sum ded, and sum awedde `[mad(?)]`;  
 And wonder fele ther lay bisides,  
-Right as thai slepe her under tides ;  
+Right as thai slepe her under tides;  
 Eche was thus in this warld y nome,  
 With fairi thider y come.  
 Ther he seighe his owhen wiif,  
 Dame Heurodis his liif liif  
-Slepe under an ympe tre ;  
+Slepe under an ympe tre;  
 Bi her clothes he knewe that it was he.
 
 And when he hadde bihold this mervails alle,  
-He went in to the kinges halle ;  
+He went in to the kinges halle;  
 Then seighe he ther a semly sight,  
 A tabernacle blisseful and bright  
 Ther in her maister king sete,  
-And her quen fair and swete ;  
+And her quen fair and swete;  
 Her crounes, her clothes, schine so bright,  
 That unnethe bihold he hem might.  
 When he hadde biholden al that thing,  
-He kneled adoun bifor the king ;  
+He kneled adoun bifor the king;  
 O Lord, he seyd, yif it thi wille were,  
 Mi menstraci thou schust y here.  
 The king answerd, what man artow,  
-That art hider y comen now ?  
+That art hider y comen now?  
 Ich, no non that is with me,  
 No sent never after the.  
 Seththen that ich here regni gan,  
@@ -1353,7 +1353,7 @@ That slepeth under the ympe tre.
 Nay, quath the king, that nought nere,  
 A sori couple of you it were,  
 For thou art lene, rowe, and blac,  
-And sche is lovesome with outen lac ;  
+And sche is lovesome with outen lac;  
 A lothlich thing it were forthi, `[therefore]`  
 To sen hir in thi compayni.
 
@@ -1361,14 +1361,14 @@ O sir, he seyd, gentil king,
 Yete were it a wele fouler thing  
 To here a lesing `[lie]` of thy mouthe,  
 So, sir, as ye seyd nouthe, `[just now]`  
-What Ich wold aski have Y schold ;  
+What Ich wold aski have Y schold;  
 And nedes thou most thi word hold.  
 The king seyd, seththen it is so,  
-Take hir bi the hand, and go ;  
+Take hir bi the hand, and go;  
 Of hir Ichil thatow be blithe.  
 He kneled adoun, and thonked him swithe. `[warmly]`  
 His wiif he tok bi the hond  
-And dede him swithe `[quickly]` out of that lond ;  
+And dede him swithe `[quickly]` out of that lond;  
 And went him out of that thede, `[people, land]`  
 Right as he came the way he yede. `[went]`  
 So long he hath the way y nome,  
@@ -1399,24 +1399,24 @@ And heng his harp his rigg `[back]` opon,
 And went him in to that cite,  
 That men might him bi hold and se.  
 Erls, and barouns bold,  
-Burjays, and levedis, him gun bi hold ;  
-Lo ! thai seyd, swiche a man,  
-Hou long the here hongeth him opan !  
-Lo ! hou his berd hongeth to his kne,  
+Burjays, and levedis, him gun bi hold;  
+Lo! thai seyd, swiche a man,  
+Hou long the here hongeth him opan!  
+Lo! hou his berd hongeth to his kne,  
 He is y clongen `[withered]` al so a tre.  
 And as he yede in the strete,  
 With his steward he gan mete,  
 And loude he sett on him a crie,  
 Sir steward, he seyd, merci,  
 Icham an harpour of hethenisse,  
-Helpe me now in this distresse !  
+Helpe me now in this distresse!  
 The steward seyd, com with me, come,  
-Of that Ichave thou schalt have some ;  
+Of that Ichave thou schalt have some;  
 Everich gode harpour is welcom me to,  
 For mi lordes love, sir Orfeo.
 
 In the castel the steward sat atte mete,  
-And mani lording was bi him sete ;  
+And mani lording was bi him sete;  
 There were trompour and tabourers,  
 Harpours fele, and crouders, `[players on the crowd, a kind of violin]`  
 Miche melody thai maked alle,  
@@ -1427,25 +1427,25 @@ The blifulest notes he herped there,
 That ever ani man y herd with ere,  
 Ich man liked wel his gle.  
 The steward biheld and gan y se,  
-And knewe the harp als blive ;  
+And knewe the harp als blive;  
 Menstrel, he seyd, so mot thou thrive,  
-Where hadestow this harp, and hou ?  
+Where hadestow this harp, and hou?  
 Ypray that thou me telle now.
 
 Lord, quath he, in uncouthe thede,  
-Thurch a wildernes as Y yede ;  
+Thurch a wildernes as Y yede;  
 Ther Y founde in a dale,  
 With lyouns a man to torn smale,  
-And wolves him frete `[ate]` with teth so scharp ;  
+And wolves him frete `[ate]` with teth so scharp;  
 Bi him Y found this ich harp,  
 Wele ten yere it is y go.  
-O ! quath the steward, now me is wo !  
-That was mi lord, sir Orfeo !  
-Alias ! wreche what schall Y do,  
+O! quath the steward, now me is wo!  
+That was mi lord, sir Orfeo!  
+Alias! wreche what schall Y do,  
 That have swiche a lord y lore, `[lost]`  
 A way, that Ich was y bore,  
 That him was so hard grace y yarked, `[given]`  
-And so vile deth y marked !  
+And so vile deth y marked!  
 Adoun he fel aswon to grounde,  
 His barouns him tok up in that stounde, `[hour]`  
 And telleth him hou it geth,  
@@ -1457,15 +1457,15 @@ And stont up, and seyt thus lo,
 Steward, herkne now this thing,  
 Yif Ich were Orfeo the king,  
 And hadde y suffred ful yore,  
-In wildernisse miche sore ;  
+In wildernisse miche sore;  
 And hadde y won mi quen owy,  
-Out of the lond of fairy ;  
+Out of the lond of fairy;  
 And hadde y brought the levedi hende, `[gracious]`  
 Right here to the tounes ende,  
 And with a begger her in `[inn]` y nome,  
 And were mi self hider y come,  
 Poverlich to the thus stille, 
-For to asay thi gode wille ;  
+For to asay thi gode wille;  
 And Ich founde the thus trewe,  
 Thou no schust it never rewe,  
 Sikerlich for love, or ay, `[awe]`  
@@ -1477,32 +1477,32 @@ Tho al tho that ther in sete,
 That it was king Orfeo under gete, `[understood]`  
 And the steward him wele knewe,  
 Over and over the bord `[table]` he threwe,  
-And fel adoun to his fet ;  
+And fel adoun to his fet;  
 So dede everich lord that ther sete,  
 And al thai sayd at o criing,  
 Ye beth our lord, sir, and our king.  
 Glad thai were of his live,  
 To chaumber thai ladde him als bilive, `[quickly]`  
 And bathed him and schaved his berd,  
-And tired him as a king apert `[indeed]` ;  
+And tired him as a king apert `[indeed]`;  
 And seththen with gret processioun,  
 Thai brought the quen in to the toun,  
-With al maner menstraci ;  
-Lord, ther was grete melody !  
-For joie thai wepe with her eighe ;  
+With al maner menstraci;  
+Lord, ther was grete melody!  
+For joie thai wepe with her eighe;  
 That hem so sounde y comen seighe.  
 Now king Orfeo newe coround is,  
-And his quen dame Heurodis ;  
-And lived long afterward ;  
+And his quen dame Heurodis;  
+And lived long afterward;  
 And seththen was king the steward.  
 Harpours in Bretaine after than  
 Herd hou this mervaile bigan,  
 And made her of a lay of gode likeing,  
 And nempned `[named]` it after the king.  
-That lay Orfeo is y hote `[called]` ;  
+That lay Orfeo is y hote `[called]`;  
 Gode is the lay, swete is the note.  
-Thus com sir Orfeo out of his care ;  
-God graunt ous alle wele to fare ! Amen.
+Thus com sir Orfeo out of his care;  
+God graunt ous alle wele to fare! Amen.
 
 ```
 
@@ -1521,7 +1521,7 @@ This Middle English version of a French lay seems to offer so few difficulties t
 
 " Sir Orfeo " is the mediaeval interpretation of the story of Orpheus and Eurydice (Ovid's "Metamorphoses," bk. x, 11.1-77), which was told in French, and then translated by some nameless but immortal English poet. The beauty of this Middle English version is undeniable. Despite its brevity and its occasionally laconic phrases, the poem shows real pathos in the account of the passionate grief of Orfeo, and his desolate wanderings in search of his lady. The concrete vividness of color and fragrance in nature, the dim stateliness of the retinue of the king of fairyland, the magic beauty of his strange abode, are described with true poetic sensitiveness. In choice of detail, in management of incident, in " discovery," and in conclusion the narrative is singularly well managed.
 
-As a mediaeval rendering of a classical tale, the poem has many charms, because it so naively and so completely changes the setting and insists upon mediaeval towers and dress and customs. Pluto's dark realm is transformed into a fairy kingdom, Thrace has become Winchester, and the wandering Greek is a Breton harper knocking at the door of a Gothic castle. As a version of one of the most beautiful of the world's stories, this lay has true imaginative distinction ; it pictures the loyalty of love and love's power over time and fairy spells, but it willfully changes the outcome of the old story to suit the sentiment of high romance in an age when every tale must have a happy ending.
+As a mediaeval rendering of a classical tale, the poem has many charms, because it so naively and so completely changes the setting and insists upon mediaeval towers and dress and customs. Pluto's dark realm is transformed into a fairy kingdom, Thrace has become Winchester, and the wandering Greek is a Breton harper knocking at the door of a Gothic castle. As a version of one of the most beautiful of the world's stories, this lay has true imaginative distinction; it pictures the loyalty of love and love's power over time and fairy spells, but it willfully changes the outcome of the old story to suit the sentiment of high romance in an age when every tale must have a happy ending.
 
 ...
 
@@ -1538,7 +1538,7 @@ Orfeo and Heurodis
 ORFEO was a king,  
 In Inglond an heighe lording,  
 A ftalworth man and hardi bo,  
-Large and curteys, he was al fo ;  
+Large and curteys, he was al fo;  
 His fader was comen of king Pluto,  
 And his moder of 'quene' Juno,  
 That fum time were as godes y hold,  
@@ -1546,7 +1546,7 @@ For auentours that thai dede and told.
 This king foiurnd in Traciens,  
 That was a cité of noble defens,  
 For Wincheftcr was cleped tho  
-Traciens, with outen no :  
+Traciens, with outen no:  
 The king hadde a quen of priis,  
 That was y cleped dame Herodis,  
 The faireft leuedi for the nones  
@@ -1569,17 +1569,17 @@ And to here the foules fing:
 Thai fett hem doun al thre,  
 Vnder a fair ympe tre,  
 And wel fone this fair quene,  
-Fel on flepe opon the grene :  
+Fel on flepe opon the grene:  
 The maidens durst hir nought awake,  
 Bot lete hir ligge and reft take,  
 So fche flepe til after none.  
-That vnder tide was al y done ;  
+That vnder tide was al y done;  
 Ac as fone as fche gan awake,  
-Sche crid and lothli here gan make ;  
+Sche crid and lothli here gan make;  
 Sche froted hir honden and hir fet.  
 And crached her vifage, it bled wete,  
 Hir riche robe hye al to rett,  
-And was remeyd out of hir witt :  
+And was remeyd out of hir witt:  
 The tvo maidens hir bifide,  
 No durft with hir no leng abide.  
 But ourn to the palays ful right,  
@@ -1591,79 +1591,79 @@ Damifels fexti and mo.
 In the orchard to the quen hye come,  
 And her vp in her armes nome.  
 And brought hir to bed attelaft,  
-And held hir there fine faft ;  
+And held hir there fine faft;  
 Ac euer fche held in o cri,  
 And wold vp and owy.  
 When Orfeo herd that tiding,  
-Neuer him nas wers for no thing ;  
+Neuer him nas wers for no thing;  
 He come with knightes tene,  
 To chaumber right bifor the quene.  
-And biheld and feyd with grete pite :  
+And biheld and feyd with grete pite:  
 O lef liif, what is te,  
 That euer gete haft ben fo ftille,  
-And now gredeft wonder fchille ;  
+And now gredeft wonder fchille;  
 Thi bodi, that was fo white y core,  
 With thine nailes is al to tore,  
-Alias ! thi rode that was fo red,  
-Is al wan as thou were ded ;  
+Alias! thi rode that was fo red,  
+Is al wan as thou were ded;  
 And alfo thine fingres fmale,  
-Beth al blodi and al pale ;  
-Alias ! thi louefum eyghen to  
-Loketh fo man doth on his fo ;  
+Beth al blodi and al pale;  
+Alias! thi louefum eyghen to  
+Loketh fo man doth on his fo;  
 A dame, Ich bifeche merci,  
 Lete ben al this reweful cri,  
 And tel me what the is, and hou.  
-And what thing may the help now ?  
+And what thing may the help now?  
 Tho lay fche ftille attelaft,  
 And gan to wepe fwithe faft,  
 And feyd thus the king to,  
-Alias ! mi lord, fir Orfeo,  
+Alias! mi lord, fir Orfeo,  
 Seththen we first to gider were,  
 Ones wroth neuer we nere,  
 Bot euer Ich haue y loued the,  
 As mi liif, and so thou me,  
 Ac now we mot delen ato.  
 Do thi beft, for Y mot go.  
-Allas ! quath he, forlorn Ich am,  
-Whider wiltow go and to wham ?  
+Allas! quath he, forlorn Ich am,  
+Whider wiltow go and to wham?  
 Whider thou goft Ichil with the.  
 And whider Y go thou fchalt with me.  
 Nay, nay, fir, that nought nis,  
-Ichil the telle al how it is :  
+Ichil the telle al how it is:  
 As Ich lay this vnder tide,  
 And flepe vnder our orchard fide,  
 Ther come to me to fair knightes  
 Wele y armed al to rightes.  
 And bad me comen an heighing,  
-And fpeke with her lord the king ;  
+And fpeke with her lord the king;  
 And Ich anfwerd at wordes bold,  
-Y durft nought, no Y nold :  
+Y durft nought, no Y nold:  
 Thai priked oghain as thai might driue,  
 Tho com her king alfo bliue,  
 With an hundred knightes and mo,  
-And damiffels an hundred al fo ;  
+And damiffels an hundred al fo;  
 Al on fnowe white ftedes,  
 As white as milke were her wedes,  
 Y no feighe neuer gete bifore  
-So fair creatours y core !  
+So fair creatours y core!  
 The king hadde a croun on hed.  
 It nas of filuer, no of gold red,  
-Ac it was of a precious fton ;  
-As bright as the fonne it fchon :  
+Ac it was of a precious fton;  
+As bright as the fonne it fchon:  
 And as fon as he to me cam,  
 Wold Ich, nold Ich, he me nam.  
 And made me with him ride,  
 Opon a palfray bi his fide,  
 And brought me to his pallays,  
-Wele atird in ich ways ;  
+Wele atird in ich ways;  
 And fchewed me caftels and tours,  
-Riuers, foreftes, frith with flours ;  
+Riuers, foreftes, frith with flours;  
 And his riche ftedes ichon,  
 And feththen me brought oghain hom,  
 In to our owhen orchard,  
-And faid to me after ward :  
-Loke dame ! to morwe thatow be  
-Right here vnder this ympe tre ;  
+And faid to me after ward:  
+Loke dame! to morwe thatow be  
+Right here vnder this ympe tre;  
 And than thou fchalt with ous go,  
 And liue with ous euer mo,  
 And gif thou makeft ous y let,  
@@ -1674,7 +1674,7 @@ And thei thou beft fo to torn,
 gete thou worft with ous y born.
 
 When king Orfeo herd this cas,  
-O we ! quath he, allas ! allas !  
+O we! quath he, allas! allas!  
 Leuer me were to lete mi liif,  
 Than thus to lefe the quen mi wiif,  
 He afked confeyl at ich man,  
@@ -1682,13 +1682,13 @@ Ac no man him help no can.
 A morwe the vnder tide is come,  
 And Orfeo hath his armes y nome,  
 And wele ten hundred knightes with him,  
-Ich y armed ftout and grim ;  
+Ich y armed ftout and grim;  
 And with the quen wenten he,  
-Right vnto that ympe tre :  
+Right vnto that ympe tre:  
 Thai made fcheltrom in ich afide,  
 And fayd thai wold there abide,  
 And dye ther eucrichon,  
-Er the quen fchuld fram hem gon :  
+Er the quen fchuld fram hem gon:  
 Ac gete amiddes hem ful right,  
 The quen was oway y tvight,  
 With fairi forth y nome,  
@@ -1697,7 +1697,7 @@ Tho was ther criing, wepe and wo,
 The king in to his chamber is go,  
 And oft fwoned opon the fton,  
 And made fwichc diol and fwiche mon,  
-That neighe his liif was y fpent ;  
+That neighe his liif was y fpent;  
 Ther was non amendement.  
 He cleped to gider his barouns,  
 Erls, lordes of renouns,  
@@ -1708,64 +1708,64 @@ To wite mi kingdom after ward,
 In mi ftede ben he fchal.  
 To kepe mi londes oner al,  
 For now Ichaue mi quen y lore,  
-The faireft leuedi that euer was bore ;  
+The faireft leuedi that euer was bore;  
 Neuer eft y nil no woman fe,  
 Into wildernes Ichil te,  
 And liue ther euer more,  
-With wilde beftes in holtes hore ;  
+With wilde beftes in holtes hore;  
 And when ge vnder ftond that Y be fpent,  
 Make gou than a parlement.  
-And chefe gou a newe king :  
+And chefe gou a newe king:  
 Now doth gour beft with al mi thing.
 
-Tho was ther wepeing in the halle ;  
-And grete cri among hem alle ;  
+Tho was ther wepeing in the halle;  
+And grete cri among hem alle;  
 Vnnethe might old or gong  
 For wepeing fpeke a word with tong.  
 Thai kneled adoun al y fere,  
 And praid him gif his wille were,  
 That he no fchuld nought fram hem go.  
-Do way ! quath he, it fchal be fo :  
+Do way! quath he, it fchal be fo:  
 All his kingdom he forfoke  
-But a fclauin on him he toke ;  
+But a fclauin on him he toke;  
 He no hadde kirtel, no hode,  
 Schert, no nother gode,  
 Bot his harp he toke algate,  
-And dede him barfot out atte gate :  
+And dede him barfot out atte gate:  
 No man moft with him go.  
-O way ! what ther was wepe, and wo.  
+O way! what ther was wepe, and wo.  
 When he that hadde ben king with croun,  
 Went fo pouerlich out of toun,  
 Thurch wode, and ouer heth.  
 Into the wildernes he geth,  
 Nothing he fint that him is ays,  
-Bot euer he liueth in gret malais ;  
+Bot euer he liueth in gret malais;  
 He that hadde y werd the fowe and griis.  
 And on bed the purper biis,  
 Now on hard hethe he lith,  
-With leues and grefle he him writh :  
+With leues and grefle he him writh:  
 He that hadde caftels, and tours,  
-Riuer, foreft, frith with flours ;  
+Riuer, foreft, frith with flours;  
 Now, thei it commenci to fnewe and frefe,  
-This king mot make his bed in mefe :  
+This king mot make his bed in mefe:  
 He that had y had knightes of priis  
 Bifor him kneland, and leuedis,  
 Now feth he no thing that him liketh,  
-Bot wild wormes bi him ftriketh :  
+Bot wild wormes bi him ftriketh:  
 He that had y had plente  
 Of mete and drink, of ich deynte,  
 Now may he al day digge and wrote,  
-Er he finde his fille of rote ;  
+Er he finde his fille of rote;  
 In fomer he liueth bi wild frut,  
-And berren, bot gode lite ;  
+And berren, bot gode lite;  
 In winter may he no thing finde,  
-Bot rote, grafes, and the rinde ;  
+Bot rote, grafes, and the rinde;  
 Al his bodi was oway duine,  
 For miflays, and al to chine,  
-Lord ! who may telle the fore  
-This king fufferd ten gere and more :  
+Lord! who may telle the fore  
+This king fufferd ten gere and more:  
 His here of his herd, blac and rowe.  
-To his girdel ftede was growe ;  
+To his girdel ftede was growe;  
 His harp, where on was al his gle.  
 He hidde in an holwe tre;  
 And, when the weder was clere and bright,  
@@ -1773,9 +1773,9 @@ He toke his harp to him wel right,
 And harped at his owhen wille,  
 Into alle the wode the foun gan fchille,  
 That alle the wilde beftes that ther beth,  
-For ioie abouten him thai teth ;  
+For ioie abouten him thai teth;  
 And alle the foules that ther were.  
-Come and fete on ich a brere ;  
+Come and fete on ich a brere;  
 To here his harping a fine,  
 So miche melody was ther in.  
 And when he his harping lete wold,  
@@ -1784,92 +1784,92 @@ No beft bi him abide nold.
 He might fe him befides  
 Oft in hot vnder tides,  
 The king o fairy, with his rout,  
-Com to hunt him al about :  
+Com to hunt him al about:  
 With dim cri and bloweing,  
-And houndes also with him berking ;  
+And houndes also with him berking;  
 Ac no beft thai no nome,  
 No neuer he nift whider thai bi come.  
 And other while he might him fe  
 As a gret oft bi him te,  
 Wele atourned ten hundred knightes,  
-Ich y armed to his rightes ;  
+Ich y armed to his rightes;  
 Of cuntenaunce ftout and fers,  
-With mani defplaid baners ;  
-And ich his fwerd y drawe hold :  
+With mani defplaid baners;  
+And ich his fwerd y drawe hold:  
 Ac neuer he nift whider thai wold.  
-And other while he feighe other thing ;  
+And other while he feighe other thing;  
 Knightes and leuedis com daunceing,  
 In queynt atire gifely,  
-Queyitt pas, and foftly ;  
+Queyitt pas, and foftly;  
 Tabours and trimpes gede hem bi,  
 And al maner menftraci.
 
 And on a day he feighe him bifide  
 Sexti leuedis on hors ride,  
-Gentil and iolif, as brid on ris ;  
-Nought o man amonges hem ther nis ;  
+Gentil and iolif, as brid on ris;  
+Nought o man amonges hem ther nis;  
 And ich a faucoun on hond here,  
 And riden on haukin bi o riuere,  
 Of game thai founde wel gode haunt,  
-Maulardes, hayroun, and cormeraunt ;  
+Maulardes, hayroun, and cormeraunt;  
 The foules of the water arifeth,  
 The faucouns hem wele deuifeth,  
-Ich faucoun his pray flough :  
+Ich faucoun his pray flough:  
 That feighe Orfeo, and lough.  
-Par fay, quath he, ther is fair game !  
+Par fay, quath he, ther is fair game!  
 Thider Ichil bi Godes name,  
 Ich was y won fwiche werk to fe .  
-He aros, and thider gan te ;  
+He aros, and thider gan te;  
 To a leuedi he was y come,  
 Biheld, and hath wele vnder nome,  
 And feth, bi al thing, that it is  
-His owhen quen dam Heurodis :  
+His owhen quen dam Heurodis:  
 gern he biheld hir, and fche him eke,  
-Ac noither to other a word no fpeke :  
+Ac noither to other a word no fpeke:  
 For meffais that fche on him feighe,  
 That had ben fo riche and fo heighe,  
-The teres fel out of her eighe ;  
+The teres fel out of her eighe;  
 The other leuedis this y feighe,  
 And maked hir oway to ride,  
 Sche moft with him no lenger abide ,  
-Allas ! quath he, now me is wo !  
+Allas! quath he, now me is wo!  
 Whi nil deth now me flo,  
-Allas ! wroche, that Y no might  
-Dye now, after this fight !  
-Allas ! to long laft mi liif  
+Allas! wroche, that Y no might  
+Dye now, after this fight!  
+Allas! to long laft mi liif  
 When Y no dar nought with mi wiif.  
 No hye to me, o word fpeke,  
-Allas ! whi nil min hert breke !  
+Allas! whi nil min hert breke!  
 Parfay, quath he, tide what bitide,  
 Whider fo this leuedis ride,  
 The felue way Ichil ftreche,  
 Of liif, no deth, me no reche.  
 His fclauain he dede on, al fo fpac,  
-And henge his harp opon his bac ;  
+And henge his harp opon his bac;  
 And had wel gode wil to gon.  
-He no fpard noither ftub no fton :  
+He no fpard noither ftub no fton:  
 In at a roche the leuedis rideth.  
-And he after, and nought abideth ;  
+And he after, and nought abideth;  
 When he was in the roche y go,  
 Wele thre mile, other mo,  
 He com in to a fair cuntray,  
-As bright fo fonne on fomers dav ;  
+As bright fo fonne on fomers dav;  
 Smothe, and plain, and al grene,  
-Hille, no dale, nas ther non y fene ;  
+Hille, no dale, nas ther non y fene;  
 Amidde the lond a caftel he fighe,  
-Riche, and real, and wonder heighe ;  
+Riche, and real, and wonder heighe;  
 Al the vt maft wal,  
-Was clere and fchine as criftal ;  
+Was clere and fchine as criftal;  
 An hundred tours ther were about,  
-Degiselich and bataild ftout ;  
+Degiselich and bataild ftout;  
 The butras com out of the diche.  
-Of rede gold y arched riche ;  
+Of rede gold y arched riche;  
 The bonfour was auowed al,  
-Of ich maner diuers animal ;  
+Of ich maner diuers animal;  
 With in ther wer wide wones,  
 Al of precious ftones.  
 The werft piler on to biholde,  
-Was al of burnift gold ;  
+Was al of burnift gold;  
 Al that lond was euer light,  
 For when it fchuld be therk and night,  
 The riche ftones light gonne.  
@@ -1883,7 +1883,7 @@ He wold in after, gif he might.
 
 Orfeo knokketh atte gate,  
 The porter was redi ther ate,  
-And afked, what he wold haue y do ?  
+And afked, what he wold haue y do?  
 Parfay, quath he, Icham a minftrel lo,  
 To folas thi lord with my gle,  
 gif his fwete wille be.  
@@ -1893,40 +1893,40 @@ And lete him in to the caftel gon.
 Than he gan bihold about al.  
 And feighe ful liggeand with in the wal,  
 Of folk that were thider y brought,  
-And thought dede and niire nought :  
+And thought dede and niire nought:  
 Sum ftode with outen hade;  
-And fuin non amies nade ;  
-And fum thurch the bodi hadde wounde ;   
-And fum lay wode y bounde ;  
-And fum armed on hers fete ;  
-And fum aftrangled as thai ete ;  
-And fum were in water adreynt ;  
-And fum with fire al for fchreynt ;  
-Wiues ther lay on child bedde ;  
+And fuin non amies nade;  
+And fum thurch the bodi hadde wounde;   
+And fum lay wode y bounde;  
+And fum armed on hers fete;  
+And fum aftrangled as thai ete;  
+And fum were in water adreynt;  
+And fum with fire al for fchreynt;  
+Wiues ther lay on child bedde;  
 Sum ded, and fum awedde;  
 And wonder fele ther lay bifides,  
-Right as thai flepe her vnder tides ;  
+Right as thai flepe her vnder tides;  
 Eche was thus in this warld y nome,  
-With fairi thider y come ;  
+With fairi thider y come;  
 Ther he feighe his owhen wiif,  
 Dame Heurodis his liif liif  
-Slepe vnder an ympe tre ;  
+Slepe vnder an ympe tre;  
 Bi her clothes he knewe that it was he.
 
 And when he hadde bihold this meruails alle,  
-He went in to the kinges halle ;  
+He went in to the kinges halle;  
 Than feighe he ther a femly fight,  
-A tabernacle bliffeful and bright ;  
+A tabernacle bliffeful and bright;  
 Ther in her maifter king fete,  
-And her quen fair and f wete ;  
+And her quen fair and f wete;  
 Her crounes, her clothes, fchine fo bright,  
-That vnnethe bihold he hem might :  
+That vnnethe bihold he hem might:  
 When he hadde biholden al that thing,  
-He kneled adoun bifor the king ;  
+He kneled adoun bifor the king;  
 O Lord, he feyd, gif it thi wille were,  
 Mi menftraci thou fchuft y here.  
 The king anfwerd, what man artow,  
-That art hider y comen now ?  
+That art hider y comen now?  
 Ich, no non that is with me,  
 No fent neuer after the,   
 Seththen that ich here regni gan,  
@@ -1949,9 +1949,9 @@ Com to him for to here.
 And liggeth adoun to his fete.  
 Hem thenketh his melody fo fwete.  
 The king herkneth, and fitt ful ftille,  
-To here his gle he hath gode wille ;  
+To here his gle he hath gode wille;  
 Gode bourde he hadde of his gle,  
-The riche quen al fo hadde he ;  
+The riche quen al fo hadde he;  
 When he hadde ftint his harping,  
 Than feyd to him the king,  
 Menftrel, me liketh wele thi gle.  
@@ -1965,7 +1965,7 @@ That flepeth vnder the ympe tre.
 Nay, quath the king, that nought nere,  
 A fori couple of gou it were,  
 For thou art lene, rowe, and blac,  
-And fche is louefome with outen lac ;  
+And fche is louefome with outen lac;  
 A lothlich thing it were forthi,  
 To fen hir in thi compayni.
 
@@ -1973,14 +1973,14 @@ O fir, he feyd, gentil king,
 gete were it a wele fouler thing  
 To here a lefing of thi inouthe,  
 So, fir, as ge feyd nouthe,  
-What Ich wold afki haue Y fchold ;  
+What Ich wold afki haue Y fchold;  
 And nedes thou moft thi word hold.  
 The king feyd, feththen it is fo,  
-Take hir bi the hand, and go ;  
+Take hir bi the hand, and go;  
 Of hir Ichil thatow be blithe.  
 He kneled adoun, and thonked him fwithe.  
 His wiif he tok bi the bond,  
-And dede him fwithe out of that lond ;  
+And dede him fwithe out of that lond;  
 And went him out of that thede,  
 Right as he come the way he gede.  
 So long he hath the way y nome,  
@@ -2011,24 +2011,24 @@ And heng his harp his rigge opon,
 And went him in to that cite,  
 That men might him bi hold and fe.  
 Erls, and barouns bold,  
-Buriays, and leuedis, him gun bi hold ;  
-Lo ! thai feyd, fwiche a man,  
-Hou long the here hongeth him opan !  
-Lo ! hou his herd hongeth to his kne.  
-He is y clongen al fo a tre :  
+Buriays, and leuedis, him gun bi hold;  
+Lo! thai feyd, fwiche a man,  
+Hou long the here hongeth him opan!  
+Lo! hou his herd hongeth to his kne.  
+He is y clongen al fo a tre:  
 And as he gede in the ftrete,  
 With his fteward he gan mete.  
 And fonde he fett on him a crie,  
 Sir fteward, he feyd, merci,  
 Icham an harpour of hetheniffe,  
-Help me now in this diftreffe !  
+Help me now in this diftreffe!  
 The fteward feyd, com with me, come,  
-Of that Ichaue thou fchalt haue fome ;  
+Of that Ichaue thou fchalt haue fome;  
 Euerich gode harpour is welom me to.  
 For mi lordes loue, fir Orfeo.
 
 In the caftel the fteward fat atte mete,  
-And mani lording was bi him fete ;  
+And mani lording was bi him fete;  
 There were trompour and tabourers,  
 Harpours fele, and crouders,  
 Miche melody thai maked alle,  
@@ -2036,28 +2036,28 @@ And Orfeo fat ftille in the halle.
 And herkneth when thai ben al ftille,  
 He toke his harp and tempred fchille.  
 The blifuleft notes he herped there,  
-That euer ani man y herd with ere :  
+That euer ani man y herd with ere:  
 Ich man liked wele his gle;  
 The fteward biheld and gan y fe,  
-And knewe the harp als bliue ;  
+And knewe the harp als bliue;  
 Menftrel, he feyd, fo mot thou thriue,  
-Whore hadeftow this haip, and hou ?  
+Whore hadeftow this haip, and hou?  
 Ypray that thou nic telle now.
 
 Lord, quath he, in vncouthe thede,  
-Thureh a wildernes as Y gede ;  
+Thureh a wildernes as Y gede;  
 Ther Y founde in a dale,  
 With lyouns a man to torn fmale,  
-And wolues him frete with teth fo fcharp ;  
+And wolues him frete with teth fo fcharp;  
 Bi him Y found this ich harp,  
 Wele ten gere it is y go.  
-O ! quath the fteward, now me is wo !  
-That was mi lord, fir Orfeo !  
-Alias ! wreche what fchall Ydo,  
+O! quath the fteward, now me is wo!  
+That was mi lord, fir Orfeo!  
+Alias! wreche what fchall Ydo,  
 That haue fwiche a lord y lore,  
 A way, that Ich was y bore.  
 That him was fo hard grace y garked,  
-And fo vile deth y marked !  
+And fo vile deth y marked!  
 Adoun he fel afwon to grounde,  
 His barouns him tok vp in that ftounde,  
 And telleth him hou it geth.  
@@ -2070,15 +2070,15 @@ And ftont vp, and feyt thus lo,
 Steward, herkne now this thing,  
 gif Ich were Orfeo the king,  
 And hadde y fuffred ful gore,  
-In wilderniffe miche fore ;  
+In wilderniffe miche fore;  
 And hadde y won mi quen owy,  
-Out of the lond of fairy ;  
+Out of the lond of fairy;  
 And hadde y brought the leuedi hende,  
 Right here to the tounes ende,  
 And with a begger her in y nome.  
 And were mi felf hider y come,  
 Pouerlich to the thus ftille.  
-For to afay thi gode wille ;  
+For to afay thi gode wille;  
 And Ich founde the thus trewe,  
 Thou no fchuft it neuer rewe,  
 Sikerlich for loue, or ay,  
@@ -2090,32 +2090,32 @@ Tho al tho that ther in fete,
 That it was king Orfeo vnder gete,  
 And the fteward him wele knewe,  
 Ouer and ouer the bord he threwe,  
-And fel adoun to his fet ;  
+And fel adoun to his fet;  
 So dede euerich lord that ther fete,  
 And al thai fayd at o criing,  
 ge beth our lord, fir, and our king.  
 Glad thai were of his line,  
 To chaumber thai ladde him als biliue,  
 And bathed him and fchaued his berd,  
-And tired him as a king apert ;  
+And tired him as a king apert;  
 And feththen with gret proceffioun,  
 Thai brought the quen in to the toun,  
-With al maner menftraci ;  
-Lord ther was grete melody !  
+With al maner menftraci;  
+Lord ther was grete melody!  
 For ioie thai wepe with her eighe,  
 That hem fo founde y comen feighe.  
 Now king Orfeo newe coround is,  
-And his quen dame Heurodis ;  
-And lined long afterward ;  
+And his quen dame Heurodis;  
+And lined long afterward;  
 And feththen was king the fteward.  
 Harpours in Bretaine after than  
 Herd hou this meruaile bigan,  
 And made her of a lay of gode likeing,  
-And nempned it after the king :  
+And nempned it after the king:  
 That lay Orfeo is y hote,  
 Gode is the lay, fwete is the note.  
-Thus com fir Orfeo out of his care ;  
-God graunt ous alle wele to fare ! Amen.
+Thus com fir Orfeo out of his care;  
+God graunt ous alle wele to fare! Amen.
 
 EXPLICIT. 
 
@@ -2134,13 +2134,13 @@ THE fairy tale of *Orfeo and Heurodis* is possessed of a very distinct, though n
 
 Among the pleysand storeis enumerated in *The Complaynt of Scotland*, 1549, as being popular, is *Opheus, kyng of Portingal*; but no romance of this particular title is known. Therefore, it is more than probable that it might be some corruption of the present story; as we know how little stress should be laid on the geographical correctness, or consistency of the Minstrel-writers. Thus in the following tale, we have Orfeo represented as King of Winchester, the ancient name of which, ' the Romancer, with unparalled ingenuity, discovers to have been Traciens or Thrace:' `[Minstrelsy of the Scottish Border, vol. ii. p. 203.]` and, in the burlesque interlude of the laying of a gaist, printed in this collection, the Gaist is married to ' the Spenzie flie' —
 
-And crownd him kyng of Kandelie ;  
+And crownd him kyng of Kandelie;  
 And thay gat them thame betwene  
 Orpheus Kyng, and Elpha quene.'
 
-The story of Orpheus and Eurydice, in the latter part of the fifteenth Century, was moralized by Robert Henryson, the Scotish poet. It was first printed at Edinburgh, in the year 1508, with the title *Heir begynnis the traitie of Orpheus kyng, and how he geid to hewyn ? to hel to feik his quene*. After detailing, with minute fidelity to his classical authorities, the genealogy and history of the King of Thrace, Henryson introduces, in a different kind of measure, the '*mone lamentable*' of Orpheus, beginning
+The story of Orpheus and Eurydice, in the latter part of the fifteenth Century, was moralized by Robert Henryson, the Scotish poet. It was first printed at Edinburgh, in the year 1508, with the title *Heir begynnis the traitie of Orpheus kyng, and how he geid to hewyn? to hel to feik his quene*. After detailing, with minute fidelity to his classical authorities, the genealogy and history of the King of Thrace, Henryson introduces, in a different kind of measure, the '*mone lamentable*' of Orpheus, beginning
 
-O dulfull harpe ! with mony dolly string  
+O dulfull harpe! with mony dolly string  
 Tume all thi mirth and musik in murnyng  
 And cess of all the sub tell sangis sweit—
 
@@ -2150,35 +2150,35 @@ He passit furth the space of xx. dayis,
 Fer and full ferthcr than I can tell,  
 And ay he fand stretis and ledy wayis,  
 Tyll at the last, vnto the yett of hell  
-He com ; and thare he fand a portar fell  
-With thre hedis, was callit Cerberus ;  
-A hund of hell, a monster meruailus !
+He com; and thare he fand a portar fell  
+With thre hedis, was callit Cerberus;  
+A hund of hell, a monster meruailus!
 
 He charms Cerberus and then the ' three sisters,' Alecto, Megera, and Thesiphoné, whose employment was turning round the wheel on which Ixion was spread. ' Syne,' — the poet says,—
 
 Syne come he till a wonder grisely flud,  
 Droubly and depe, that rathly doun can ryn,  
 Quhare Tantalus nakit full thristy stude.  
-And yit the water yede abone his chyn ;  
+And yit the water yede abone his chyn;  
 Thouch he gapit thare wald na drop cum in,  
-Quhen he dulkit the water wald descend ;  
+Quhen he dulkit the water wald descend;  
 Thus gat he noucht his thrist to slake or mend.
 
 Before his face ane apill hang also  
 Fast at his mouth apon a tolter threde,  
 Quhen he gapit it rokkit to and fro  
-And fled, as it reftisit hym to fede :  
+And fled, as it reftisit hym to fede:  
 Than Orpheus had reuth of his grete nede  
 Tuke out his harp, and fast on it can clink,  
 The water stude, and Tantalus gat drink.
 
 The next object which presents itself in his progress, is Theseus preyed on by a ' grisely gripe' or vulture, which also excites the compassion of Orpheus. On entering ' hydouse hellis house' he exclaims,
 
-O dolly place and groundles depe dungeoun !  
+O dolly place and groundles depe dungeoun!  
 Furnes of fyre, with stynk intollerable.  
 Pit of dispair, wythout remissioun,  
 Thy mete venym, thy drynk is poysonable.  
-Thy grete panis to compt vnnowmerabil ;  
+Thy grete panis to compt vnnowmerabil;  
 Quhat creature cummys to duel in the  
 Is ay deyand, and newir more may dee '.
 
@@ -2187,27 +2187,27 @@ We must pass over the different personages whom he here beholds, in order to mak
 Syn nethir mare he went quhare Pluto was  
 And Proserpine, and thider ward he drewe,  
 Ay play and on his harp as he coud pas,  
-Till at the last Eurydice he knewe ;  
+Till at the last Eurydice he knewe;  
 Lene and dedelike pitouse and pale of hewe,  
 Rycht warsch and wan, and walowit as a wede,  
 Hir lily lyre was lyke vnto the lede.
 
 Quod he, my lady lele, and my delyte,  
 Full wa is me, to se yow changit thus!  
-Quhare is thy rude as rose with chekis quhite ?  
-Thy cristall eyne with blenkis amorouse ?  
-Thi lippis rede to kis deliciouse ? —  
+Quhare is thy rude as rose with chekis quhite?  
+Thy cristall eyne with blenkis amorouse?  
+Thi lippis rede to kis deliciouse? —  
 Quod scho, as now I dar noucht tell, perfay,  
 Bot ye sail wit the cause ane other day.
 
-The present tale has been justly admired no less for the harmony of its versification, than for the beautiful description which it contains of Fairy-land. Heurodis is carried away by the king of the Fairies, whose attendants are as numerous as his riches and magnifieence are dazzling ; and is recovered by Orfeo in the disguise of a Minstrel. The following lines, which occur in one of the ancient copies of thus poem, (but apparently omitted by the transcriber of the manuscript that is followed) may be quoted, as illustrative of Orfeo's skill, and love of Minstrelsy.
+The present tale has been justly admired no less for the harmony of its versification, than for the beautiful description which it contains of Fairy-land. Heurodis is carried away by the king of the Fairies, whose attendants are as numerous as his riches and magnifieence are dazzling; and is recovered by Orfeo in the disguise of a Minstrel. The following lines, which occur in one of the ancient copies of thus poem, (but apparently omitted by the transcriber of the manuscript that is followed) may be quoted, as illustrative of Orfeo's skill, and love of Minstrelsy.
 
 " Orpheo most of ony thing,  
-Liovede the gle of harpyng ;  
+Liovede the gle of harpyng;  
 Syker was every gode harpourc  
 Of hym to have moche honour.  
 Hymself loved for to harpe,  
-And layde thereon his wittes scharpe ;  
+And layde thereon his wittes scharpe;  
 He lerned so, ther non was  
 A better harper in no plas.  
 In the world was never man born,  
@@ -2223,7 +2223,7 @@ At some later period this romantic legend appears to have been considerably alte
 
 ' Orfeo was a king'
 
-has been torn out for the sake of the illumination, it is possible that it may not have begun so abruptly ; — even although the commencement of another poem in the volume is in substance the same with that of the ' Sir Orfeo' in the Harleian manuscript, which in all consists of 510 lines `[Lai le Fraine, printed in Weber's Collection.]`. It may be added that a correspondent in the British Bibliographer `[Vol. iv. p. 18 and 95.]`, states, that in a manuscript volume in the Ashmolean Collection at Oxford, is preserved a copy of the romance of ' King Orfeo' altogether different from the translation published by Ritson. Possibly it might be found on comparison to come nearer to that which is now given.
+has been torn out for the sake of the illumination, it is possible that it may not have begun so abruptly; — even although the commencement of another poem in the volume is in substance the same with that of the ' Sir Orfeo' in the Harleian manuscript, which in all consists of 510 lines `[Lai le Fraine, printed in Weber's Collection.]`. It may be added that a correspondent in the British Bibliographer `[Vol. iv. p. 18 and 95.]`, states, that in a manuscript volume in the Ashmolean Collection at Oxford, is preserved a copy of the romance of ' King Orfeo' altogether different from the translation published by Ritson. Possibly it might be found on comparison to come nearer to that which is now given.
 
 ```
 
@@ -2238,11 +2238,11 @@ SIR ORPHEO.
 We redyn ofte, and fynde ywryte,  
 As clerkes don us to wyte,  
 The layes that ben of harpyng  
-Ben yfounde of frely thing ;  
+Ben yfounde of frely thing;  
 Sum ben of wele, and fum of wo,  
 And fum of joy, and merthe alfo,  
 Sum of bourdys, and fum of rybaudry,  
-And fum ther ben of the feyrè ;  
+And fum ther ben of the feyrè;  
 Sum of trechery, and fum of gyle,  
 And fum of happes that fallen by while.  
 Of alle thing that men may fe  
@@ -2309,7 +2309,7 @@ Felled a flepe upon the grene.
 The may denes durft hur not awake,  
 But byfyde hur mery they can hem make,  
 And lete hur flepe tyl after none,  
-That the undertyde was agone ;  
+That the undertyde was agone;  
 And, al fo fone as fche can wake,  
 Sche cryed, and lothly can hur make,  
 She froted hur hondys and hur fete.  
@@ -2327,24 +2327,24 @@ To fet her lady they thought to do.
 Into the orchard they wer come,  
 And had hur up in armes ynome,  
 And brought hur in bed at the laft,  
-And helde hur in ryghth faft ;  
+And helde hur in ryghth faft;  
 But ever fche cryed with grete mode,  
 And rent hurfelf as fche wer wode.  
 When the kyng herd this tydyng,  
 He was never fo wo for no thing.  
 The kyng com, with knyghthis kene,  
 Into the chamber to his quene,  
-And of hur had grete pytè :  
-Swete hert, he fayde, how may this be ?  
+And of hur had grete pytè:  
+Swete hert, he fayde, how may this be?  
 That ever yet haft ben fo ftylle,  
-And now crieft fo loude and fchrylle ;  
+And now crieft fo loude and fchrylle;  
 Thy body, that was white biforn,  
-With thy nayles is al to-torn ;  
-Alas ! thy rode that was fo rede  
+With thy nayles is al to-torn;  
+Alas! thy rode that was fo rede  
 Is as wan as ony lede.  
 Alfo thy fyngris finalle,  
 They ben al blody and palle.  
-Alas ! thy lovely yÿen two  
+Alas! thy lovely yÿen two  
 Loken on me as man on fo.  
 Leve dam, y befeche the mercy,  
 Lete be al this ruful cry,  
@@ -2357,23 +2357,23 @@ Alas! my lord, fyr Orpheo,
 Seth we togedur were  
 Never yit wroth we ner,  
 Ever yit thou haft loved me,  
-With alle myn hert fo have y the ;  
+With alle myn hert fo have y the;  
 And now we fchul part atwo,  
 Do thy heft, for y moft go,  
-Alas ! he feyde, forlorn y am,  
-Whidur wol thou go and to wham ?  
+Alas! he feyde, forlorn y am,  
+Whidur wol thou go and to wham?  
 Wher thou comeft thou fchalt with me,  
 Whidur thou goft y wyl with thee.  
 Sir, fche feyde, it may not be this,  
-I fchal you telle how it is :  
+I fchal you telle how it is:  
 As y lay this undertyde,  
 To flepe under the orchard-fyde,  
 Ther come to me two fair knyghtes,  
 Wele arayde at alle ryghthis,  
 And bade me come, without lettyng.  
-To fpeke with her lord the kyng ;   
+To fpeke with her lord the kyng;   
 And y anfwerde with wordis bolde  
-That y ne durft, ne y nolde :  
+That y ne durft, ne y nolde:  
 Faft agayn they can dryve,  
 Then com her kyng al fo blyve  
 With a thoufand knytes and mo,  
@@ -2394,12 +2394,12 @@ And brought me in to his palys,
 Ryght wele ydight over al y wys.  
 He fchewed me castels and touris,  
 Medewys, ryveres, feldys, and floures,  
-And his foreftes everyche one ;  
+And his foreftes everyche one;  
 And feth he brought [me] ayen home,  
 Into our owne orcharde,  
-And fayde to me this afterwarde :  
+And fayde to me this afterwarde:  
 Loke to-morew that thou be  
-Here under this ympe-tre ;  
+Here under this ympe-tre;  
 And yif thou makeft ony lette,  
 Wherever thou be thou fchalt be fet.  
 And to-tore thy lymes alle,  
@@ -2408,21 +2408,21 @@ And, thaugh thou be fo to-tore,
 Yit fchalt thou awey be bore.
 
 When the kyng herde this cafe,  
-Out ! he feyde, and alafe!  
+Out! he feyde, and alafe!  
 Me wer lever to lefe my lyfe.  
-Than to lefe the quene my wyfe !  
+Than to lefe the quene my wyfe!  
 He axed confel of many a man.  
 But non of hem help hym can.  
 On the morewe, when tyme came,  
 The kyng his arraes forfoth he name,  
 And two hundred knyghtes with hym,  
-Wele yärmed ftout and grym ;  
+Wele yärmed ftout and grym;  
 With the quene went he.  
 Into the orchard, under the tre,  
 Ther made they watche on every fyde,  
 And caft hem there for to byde,  
 And fuffre deth everychon ,  
-Er fche fchulde from hem gon :  
+Er fche fchulde from hem gon:  
 And there anon withouten lette  
 Among hem all fcho was yfet,  
 Awey with the fayre fche was ynome,  
@@ -2430,17 +2430,17 @@ Wift non of hem wher fcho become.
 Ther was ther wepyng and cryeng alfo,  
 The king to his chamber can go,  
 And fel adown on the ftone,  
-He made grete dele and meche mono ;  
+He made grete dele and meche mono;  
 Wel nye he hed hymfelf yfchent,  
 He fygh ther was no amendement.  
 He fende after erle and baroun,  
-And other lordys of grete renoun ;  
+And other lordys of grete renoun;  
 And, whan they togeder were,  
 Lordys, he feyde, that ben here,  
 Y ordeyne my fteward of myn halle  
 To kepe my londys overalle.  
 Now y have my quene forlore,  
-The bcft lady that ever was bore ;  
+The bcft lady that ever was bore;  
 Y wol never efte woman fe.  
 In wyldernes now wol y be.  
 And wonne there in holtys hore  
@@ -2450,27 +2450,27 @@ Make ye all a parlement,
 And do chefe you a new kyng,  
 And do your beft in al thing.  
 Ther was grete forewe in the halle,  
-Wepyng and cryeng among hem alle ;  
+Wepyng and cryeng among hem alle;  
 Ther ne myght olde ne yonge  
 For wepyng fpeke a worde with tonge.  
 They knelyd all adown in fer,  
 And befought hym, yif his wil wer,  
 That he ne wolde from hem go.  
-Do wey ! he feyde, y wil not fo.  
+Do wey! he feyde, y wil not fo.  
 Alle his kyndam he forfoke,  
-And to him a fclaveyn anon he toke ;  
+And to him a fclaveyn anon he toke;  
 He ne wolde have non hode,  
-Hofe, ne fcho, ne other gode ;  
+Hofe, ne fcho, ne other gode;  
 But his harpe he gan take,  
-And went barfot out at the gate ;  
+And went barfot out at the gate;  
 Ther moft no man with hym go,  
-Alas ! ther was wepyng and wo.  
+Alas! ther was wepyng and wo.  
 He that was kyng, and bar the crowne.  
 Went fo porely out of towne,  
 Into wildernes he gethe,  
 Bothe throw wode and throw hethe.  
 Now he is naught at efe,  
-But now he is at male-efe ;  
+But now he is at male-efe;  
 Now in hard wode he lythe,  
 With erbis and gras he hym wrythe.  
 He that had grete plentè,  
@@ -2478,7 +2478,7 @@ Mete, drynke, and grete dignytè,
 Now he mod bothe digge and wrote,  
 Er he have his fille of rote.  
 In fomer he lyveth by hawys,  
-That on hauthorne growth by fchawys ;  
+That on hauthorne growth by fchawys;  
 And in wynter by rote and rynde,  
 For other thing may he non fynde.  
 His body was awey dryve,  
@@ -2488,7 +2488,7 @@ That he fuffred ten yere and more
 He that had castel and toure,  
 Foreft, fryth, bolhe felde and flour,  
 Now hath he nothing that him lyketh,  
-But wylde beftes that by hym ftrykcth :  
+But wylde beftes that by hym ftrykcth:  
 The here of his hede is blak and row,  
 Bencthe his gurdel it ys ygrow.  
 He takelh his harpe, and maketh hym gle,  
@@ -2498,7 +2498,7 @@ He taketh his harpe anone ryght,
 Into the wode it ryngeth fchylle,  
 As he coude harpe at his wille.  
 The wilde beftes that ther bethe,  
-For joy about hym they gethe ;  
+For joy about hym they gethe;  
 All the foulis that ther were.  
 They comyn aboute hym there,  
 To her harpyng that was fyne,  
@@ -2512,9 +2512,9 @@ In the hote fomer-tyde.
 The kyng of Fayré, with his route.  
 Com to hunte all aboute.  
 With dunnyng and with blowyng,  
-And houndys gret cryeng ;  
+And houndys gret cryeng;  
 But forfothe no beft they nome,  
-Ne he ne wyft wher they becom ;  
+Ne he ne wyft wher they becom;  
 And other while he myght yfè  
 A grete oft by him te,   
 Wel a two hundreth knyghtes,  
@@ -2524,9 +2524,9 @@ Knyghtes and ladies com rydyng
 In bryght atyre and difgyfid,  
 With efy pace and wele avyfed,  
 Taberis and pypes yeden hem by  
-And alle maner of mynftrelfy ;  
+And alle maner of mynftrelfy;  
 And ladyes ther com rydyng,  
-Joly they wer in alle thing ;  
+Joly they wer in alle thing;  
 Jentle and jolef, forfothe, y wys,  
 No man among hem ther nys.  
 Every on an hauke on honde here,  
@@ -2536,15 +2536,15 @@ Fefaunt, heron, and cormerant.
 The foules out of the rever flowe.  
 Every faukun his game flowe.  
 That faw kyng Orpheo, and lowe.  
-As he ftode under a bowe :  
+As he ftode under a bowe:  
 Perfay, he fayde, ther is gode game,  
 Thider y wil in goddis name,  
 Such game he was wont to fe,  
-Up he ros, and thider cam he ;  
+Up he ros, and thider cam he;  
 To his owne lady wel ny he come,  
-And hur wel ny had undernome ;  
+And hur wel ny had undernome;  
 He knew hur by the femelant, y wys,  
-His owe lady, dam Erodyffe :  
+His owe lady, dam Erodyffe:  
 But ther myght non with other fpeke,  
 They fche hym knewe, and he hur eke.  
 For mysfis that fhe on hym fye,  
@@ -2553,18 +2553,18 @@ The teris ran doun by hur yghe,
 So dede of hym when he hur fye.  
 They made hur awey there ryde,  
 For ther myght fche no lenger abyde,  
-Alas ! he fayde, that me is wo !  
-Why nyl deth myn hert flo ?  
-Alas ! wrecche that y ne myght  
-Dye anon after this fyght !  
-Alas ! to long lafteth my lyfe,  
-That y ne may fpeke with my wyfe !  
-Ne fche with me a worde to fpeke !  
-Alas ! why nyl myn hert breke !  
+Alas! he fayde, that me is wo!  
+Why nyl deth myn hert flo?  
+Alas! wrecche that y ne myght  
+Dye anon after this fyght!  
+Alas! to long lafteth my lyfe,  
+That y ne may fpeke with my wyfe!  
+Ne fche with me a worde to fpeke!  
+Alas! why nyl myn hert breke!  
 Perfay, he fayde, [tide what bitide]  
 Y wil fe whyder this ladies ride,  
 In that wey wyl y go  
-For of my lyf yeve y not a flo ;   
+For of my lyf yeve y not a flo;   
 His fclaveyn dede he on his bak,  
 And toke his harpe ryght as he fpak.  
 Faft after hem he can gone  
@@ -2574,19 +2574,19 @@ He went fone after, he nolde not byde.
 When he was into the roche ygo,  
 Wele thre myle, and fume dele mo.  
 He cam to a feyr contray.  
-Was as bryght as ony day ;  
+Was as bryght as ony day;  
 Feyr palys, and alle grene,  
 Hille ne dale was nought fene.  
 Amyd the launde a castel he fye,  
 Noble and ryche, ryght wonder hie.  
 And al the overyft walle  
-Schene as doth the cryftal ;  
+Schene as doth the cryftal;  
 Fayr tours ther wer aboute,  
-Gayly fet with perles ftoute ;  
+Gayly fet with perles ftoute;  
 The utmeft that ftode on the dyche  
-Was of golde and felver ryche ;  
+Was of golde and felver ryche;  
 The fronte that was amyd all  
-Was of dyvers metalle ;  
+Was of dyvers metalle;  
 Within were wyde wonys,  
 Of golde, felver, and precious ftones,   
 Feyr pilers theron wer dyght  
@@ -2601,18 +2601,18 @@ At the castel the ladies alyght,
 Orpheo went after as faft as he myght.  
 Orpheo knocked at the gate.  
 The porter was redy therate,  
-And afked, What wilt thou fo ?  
+And afked, What wilt thou fo?  
 " Perfay, y am a mynftrallo,  
 To folas the with my gle,  
 The merier fchalt thou be."  
 He unded the gate anone,  
 And lete hym into the castel gone.  
 Orpheo loked about over all,  
-He fawe folk fit under the wall ;  
+He fawe folk fit under the wall;  
 Sum that wer thyder ybrought,  
-Al dede were they nought :  
+Al dede were they nought:  
 Amonge hem lay his owne wyfe,  
-That he loved as his lyfe ;  
+That he loved as his lyfe;  
 Sche lay under ane ympe-tre,  
 By her glowes he wyft it was fche.  
 He went forthe into the halle,  
@@ -2626,7 +2626,7 @@ He fel on knees byfore the kyng,
 And befought hym yif his wil were  
 That he wolde of his mynftrelfy her.  
 Then fayde the kyng, What art thow,  
-That art hyder ycom nowe ?  
+That art hyder ycom nowe?  
 Myfelf, ne non that is within me,  
 Never fende after the.  
 Seth y this kyndam furft bygan  
@@ -2665,13 +2665,13 @@ Lord, he feyde, ryche kyng,
 Yit hit wer a fouler thing  
 To here a lefyng of thy mouthe,  
 To me as thou faydeft nouthe.  
-That y fchulde have what y wolde ?  
+That y fchulde have what y wolde?  
 A kyngis worde mod nede be holde.  
 Thou fayft foth, fayde the kyng than,  
 Forfothe thou art a trewe man.  
-Y wol wel that it be fo ;  
-Take hur by the honde, and go ;  
-Y wol that thou of hur be blythe :  
+Y wol wel that it be fo;  
+Take hur by the honde, and go;  
+Y wol that thou of hur be blythe:  
 And he hym thanked mony a fythe.  
 He toke hur by the honde anon  
 With ryght gode wille they can out gon.  
@@ -2682,7 +2682,7 @@ That to Crasfens they were ycome,
 That fum tyme was her owne cetè,  
 But no man wyft they weren he  
 With a begger of pore lyfe  
-He herbored hym and his wyfe ;  
+He herbored hym and his wyfe;  
 He afkrd tydynges of the londe,  
 And who then had the kyndam in honde.  
 The por begger, in his cote,  
@@ -2690,8 +2690,8 @@ Anon tolde hym every grote,
 How the qwene was fet away  
 Of the londe, forfothe to fay,  
 And how the kyng aftur them yede,  
-No man wyft into what ftede ;  
-And now the ftewarde the kyndam doth holde ;  
+No man wyft into what ftede;  
+And now the ftewarde the kyndam doth holde;  
 Mony tydynges he hym them tolde,  
 A morewe at the none-tyde  
 He made the quene there abyde,  
@@ -2700,15 +2700,15 @@ Into the towne he can gon.
 His owne fteward he can mete  
 As he cam by the ftrete.  
 He fet hym doun on his kne,  
-And fayde, Lord, help for charytè !  
+And fayde, Lord, help for charytè!  
 Y am a por mynftrel of Hethenes,  
-Helpe me, lord, at this dystres !  
+Helpe me, lord, at this dystres!  
 The fteward fayde, With me com home.  
-Of my gode thou fchalt have fomme ;  
+Of my gode thou fchalt have fomme;  
 For my lordys love, fyr Orpheo,  
 Al mynftrellys ben welcom me to.  
 Anone they wente into the halle,  
-The fteward and the lordys all ;  
+The fteward and the lordys all;  
 The fteward wafched and wente to mete,  
 And all lordys weren yfete.  
 Ther was merthe in halle  
@@ -2717,20 +2717,20 @@ When they weren all ftylle,
 He toke his harpe that was fchille  
 And pleyde faft with the gle,  
 The ftewarde loked, and can to fe,  
-And knewe the harpe wel blyve :  
+And knewe the harpe wel blyve:  
 Mynftrel, he fayde, as thou moft thryve,  
 Wher had thou that harpe, and howe?  
 Tel me now, fyr, for thy prowe.  
 Lord, he feyde, in unkouthe londe,  
-By a foreft y hit ther fonde ;  
+By a foreft y hit ther fonde;  
 Y fygh a man draw ful fraale,  
-It lay by hym in a dale :  
+It lay by hym in a dale:  
 Now it is ten wynter agone.  
-Alas ! feyde the fteward, and made grete mone,  
+Alas! feyde the fteward, and made grete mone,  
 Hit was my lord, fyr Orpheo,  
-Alas ! that ever he yede us fro.  
+Alas! that ever he yede us fro.  
 The kyng behelde the fteward than,  
-And wyft he was a trewe man ;  
+And wyft he was a trewe man;  
 To hym he feyde, without lefyng,  
 Syr, he feyde, y am Orpheo the kyng.  
 Here, at the townis ennde,  
@@ -2738,13 +2738,13 @@ Y have brought my lady hende.
 The lordys fterten up anon,  
 And maden hym to chamber gon,  
 With merthe, joy, and procesfioun.  
-They fet the quene into the towne :  
+They fet the quene into the towne:  
 Ther they lyved gode lyfe afterwarde,  
 And fythe was the kyng ftewarde.  
-Thus cam they out of care :  
-God geve us grace wele to fare !  
+Thus cam they out of care:  
+God geve us grace wele to fare!  
 And all that have herde this talkyng  
-In heven blys be his wonyng !  
+In heven blys be his wonyng!  
 Amen, amen, for charytè.  
 Lord us graunt that it fo be!
 
@@ -2759,13 +2759,13 @@ Selected and published by Joseph Ritson and revised by Edmund Goldsmid, [Ancient
 
 SIR ORPHEO.
 
-This lay, or tale, being rather too concise to be denominated a metrical romance, is a Gothick metamorphosis of the classical episode of Orpheus and Eurydice, so beautifully related by Ovid. It professes, like the tales of Mary of France, to be a lay of Britain, (whether Great Britain or Armorica, has been already discussed) ; and, if it have not so much merit as some others of these poetical compositions, the most fastidious reader can scarcely complain of its prolixity. There are two copies of this poem ; one, from which it was transcribed, among the Harleian manuscripts, number 3810; and another in the Auchinleck manuscript (W. 4. i. number lii), in the Advocates' Library, Edinburgh : each more or less imperfect. The latter, which omits the prologue, and commences abruptly,  
+This lay, or tale, being rather too concise to be denominated a metrical romance, is a Gothick metamorphosis of the classical episode of Orpheus and Eurydice, so beautifully related by Ovid. It professes, like the tales of Mary of France, to be a lay of Britain, (whether Great Britain or Armorica, has been already discussed); and, if it have not so much merit as some others of these poetical compositions, the most fastidious reader can scarcely complain of its prolixity. There are two copies of this poem; one, from which it was transcribed, among the Harleian manuscripts, number 3810; and another in the Auchinleck manuscript (W. 4. i. number lii), in the Advocates' Library, Edinburgh: each more or less imperfect. The latter, which omits the prologue, and commences abruptly,  
 " Orpheo was a ryche king,"  
-is much longer than the poem here printed, which seems abridged from it, by considerable omissions, many of the remaining lines being the same : but whether it be a translation from a French original (which, at least, is sufficiently probable) there is no means to ascertain. Another fragment in the same MS. (num. xxxv), though upon a different subject, begins precisely like the Harleian copy, but is entitled *Lay le freine* (the Tale of the Ash), and, apparently, a version of Mary's poem under the same title.
+is much longer than the poem here printed, which seems abridged from it, by considerable omissions, many of the remaining lines being the same: but whether it be a translation from a French original (which, at least, is sufficiently probable) there is no means to ascertain. Another fragment in the same MS. (num. xxxv), though upon a different subject, begins precisely like the Harleian copy, but is entitled *Lay le freine* (the Tale of the Ash), and, apparently, a version of Mary's poem under the same title.
 
 Among the "pleysand storeis," enumerated in *The Complaynt of Scotland*, 1549, is "Opheus, kyng of Portingal :" but whether the name should have been Orpheus, and the story were the same, or a different one, cannot be ascertained. "A tedious fable," according to Pinkerton, "by [Robert] Henryson, with a spiritual moralization," of "Orpheus kyng, and how he ycid to hewyn and to hel to seik his quene," was printed at Edinburgh by Walter Chepman, in 1508. In an old poem of "the laying of a gaist," quoted, by Mr. Leyden, from the Bannatyne MS. the "gaist" is married to "the Spenzie Hie,
 
-And crownd him kyng of Kandelie ;  
+And crownd him kyng of Kandelie;  
 And thay gat them betwene  
 *Orpheus king*, and *Elpha quene*."
 
