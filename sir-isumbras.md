@@ -77,7 +77,7 @@ V.
 With carefulle herte and sygheyngez sare,  
 The knyghte felle on his knes al bare,  
 And bothe his handis uphelde :—  
-" Werldes wele I wille for-sake,  
+"Werldes wele I wille for-sake,  
 And to Goddes mercy I me bytake,  
 To hym my saule I ȝelde!  
 In ȝouthe I maye bothe ryde and goo,  
@@ -110,11 +110,11 @@ Come rynnande hym agayne;
 And wele wers tythynges he hym tolde,  
 Brynned were alle his byggynges bolde,  
 His bestes werene alle slayne!  
-" A! Lorde, ther es no thyng lefte one lyfe  
+"A! Lorde, ther es no thyng lefte one lyfe  
 Bot thi thre childir and thi wyfe,  
 The sothe es noghte to layne!"  
 The knyghte thane ansuerde with herte so vey,  
-" With thi that I may one hir see,  
+"With thi that I may one hir see,  
 My wyfe and my childire thre,  
 ȝitt was never mane so fayne."
 
@@ -124,11 +124,11 @@ Bot als he wente by hym allone,
 His hirde-mene mett he everylkone,  
 With a fulle drery swoghe,  
 And saide thaire fee was fro thame revede,  
-" Certis, syr, us es noghte levyde  
+"Certis, syr, us es noghte levyde  
 A stotte unto ȝoure plowghe!"  
 Thay wepede sare and gaffe thame ille;  
 The knyghte bad thay solde be stylle,  
-" I wytte ȝow noghte this woghe;  
+"I wytte ȝow noghte this woghe;  
 God that sent me alle this woo,  
 Wele hase he sent me also.  
 And ȝitt may send y-noghe!"
@@ -145,7 +145,7 @@ Bot changede never the knyghttes blee,
 To he sawe thame so nakede bee  
 He levyde so comly clede.  
 The lavedy bade hir childir be blythe,  
-" I see ȝoure fadir ȝondir one lyve,  
+"I see ȝoure fadir ȝondir one lyve,  
 For nothynge that ȝe drede!"
 
 X.
@@ -171,7 +171,7 @@ With a fulle drery mode;
 His riche surcote i-wysse schare he,  
 And gafe his pore childir thre,  
 That nakede byfore hym stode.  
-" Now salle ȝe alle," he said, " do my rede,  
+"Now salle ȝe alle," he said, " do my rede,  
 To seke thare God was qwike and dede,  
 That done was one the rode;  
 For Jesus Criste so hende es he,  
@@ -262,11 +262,11 @@ And the lady grett and gafe hir ille,
 Nowther of tham myghte other stille,  
 Thaire sorowe it was fulle ranke!  
 Thay sayd, alias that thay were borne,  
-" Felle werdes es layde us by-forne,  
+"Felle werdes es layde us by-forne,  
 That are were wele and wanke!"  
 The knyghte bad scho sulde be stille,  
 And gladly suffir Goddes wille,  
-" Us awe hym alle to thanke!"
+"Us awe hym alle to thanke!"
 
 XVIII.
 
@@ -304,9 +304,9 @@ Those schippes landed by that land syde,
 The folke come up with mekille pryde,  
 ȝaa moo thene I kane nevene;  
 The knyghte thane karpede to the lady free,  
-" What maye thiese ferly folkkes bee?"  
+"What maye thiese ferly folkkes bee?"  
 He spake with lowde stevene:  
-" In this foreste lange hafe we gane,  
+"In this foreste lange hafe we gane,  
 Mete ne drynke myghte we gete nane  
 More thane thiese dayes sevene;  
 Aske we thiese folkes of thaire mete,  
@@ -325,13 +325,13 @@ The Sarazens said he was a spye,
 Whenne that thay herde hym swa gates crye,  
 That thaire schippes had soghte;  
 The sowdane bade do hym awaye,  
-" For thay lefe nott on owre laye,  
+"For thay lefe nott on owre laye,  
 Loke that ȝe gyffe hym noghte!"
 
 XXII.
 
 A knyghte saide to the sowdane kynge,  
-" Now certis, syr, it es a wondir thynge  
+"Now certis, syr, it es a wondir thynge  
 ȝone pore mane for to see;  
 For he es bothe lange and heghe,  
 The faireste mane that ever I seghe,  
@@ -349,7 +349,7 @@ Whenne he hir sawe, hym rewed sare,
 So semly als thay bothe ware,  
 If thay were robed riche.  
 The sowdane byddes hym gold and fee,  
-" If thou wille duelle and be with me,  
+"If thou wille duelle and be with me,  
 And helpe me to my fyghte;  
 If thou be doghty mane of dede,  
 Thou salle be horssede on a stede,  
@@ -360,7 +360,7 @@ XXIV.
 Fulle stille thane stode syr Ysambrace,  
 A Sarazene he sawe wele that he was,  
 And sone he sayde hym naye:  
-" Certis, that salle I never mare  
+"Certis, that salle I never mare  
 Agayne Crystyndomme fyghte no fare,  
 And lefe appone thi laye.  
 Now in this foreste hafe we gane,  
@@ -410,7 +410,7 @@ Unnethes thay myght halde hir stille,
 That ne scho hir-selve walde slaa.  
 Hir armes scho sprede and lowde gane crye,  
 And ofte scho cryed one cure lady,  
-" Salle we departe in two?  
+"Salle we departe in two?  
 Allas! for salle I never blythe be,  
 My weddede lorde salle I never see,  
 Now wakyns alle my woo!"
@@ -436,7 +436,7 @@ XXIX.
 When the lady in schippe was ȝare.  
 Ever scho weped fulle selly sare,  
 And knelis byfore the kynge.  
-" Sir kynge," scho sayde, " I pray the  
+"Sir kynge," scho sayde, " I pray the  
 A bowne that thou wille graunt to me,  
 Now at oure parttynge;  
 Mete and drynke thou gare tham gyfe,  
@@ -494,7 +494,7 @@ He sett hym one a stone.
 With carefulle mode and drery stevene,  
 Unto the heghe kyng of hevene  
 Made he thane his mone.  
-" A! Lorde," he saide, " fulle wo es me,  
+"A! Lorde," he saide, " fulle wo es me,  
 So faire childir als I hafede thre,  
 And nowe ame I lefte allone!  
 Now Gode, that beres the heghe crowne,  
@@ -509,9 +509,9 @@ And fyres thore bryne and glewe;
 He askede tham mete for charyte,  
 And thay bade hym swynke, " And swa do we,  
 Hafe we none other ploghe."  
-" For mete," he sayde, " I wold wyrke fayne,"  
+"For mete," he sayde, " I wold wyrke fayne,"  
 The knyghte ansuerde fulle sone agayne,  
-" Bathe bere and drawe y-noghe."  
+"Bathe bere and drawe y-noghe."  
 Thane mete thay gafe hym fulle gud wone,  
 And thay garte hym here iryne and stone  
 Owte of a sory sloghe.
@@ -555,7 +555,7 @@ And swerdes drawene one lofte.
 He sett hym downe appone his kne,  
 To Jhesu Criste than prayes he,  
 And enterely hym bysoghte:  
-" Nowe, Lorde," he saide, " thou lene me grace in this felde,  
+"Nowe, Lorde," he saide, " thou lene me grace in this felde,  
 ȝone heythene sowdanethatl may ȝelde  
 The woo he hase me wroghte!"
 
@@ -603,13 +603,13 @@ Erles and baronns thay hafe hym soghte,
 And byfore the kynge thay hafe hym broghte,  
 A fulle sare wondide mane was hee!  
 The kyng his name faste fraynes thane,  
-" Sir," he saide " I am a smethymane,  
+"Sir," he saide " I am a smethymane,  
 Whate es jour wille with me?"
 
 XLI.
 
 The kyng ansuerde the knyghte thane,  
-" Wondir I hafe that any smethymane  
+"Wondir I hafe that any smethymane  
 In werre was ever so wyghte."  
 The kynge bad that he solde hafe mete and drynke,  
 And alle that he wolde after thynke,  
@@ -675,13 +675,13 @@ Fulle sore wepande for pyne.
 And als he laye, abowte mydnyghte  
 Thare come an angelle faire and bryghte,  
 And broghte hym brede and wyne.  
-" Palmere," he sayse, " welcome thou bee,  
+"Palmere," he sayse, " welcome thou bee,  
 The kynge of hevene wele gretis the,  
 Forgyffene erre synnes thyne!
 
 XLVI.
 
-" And welecome," he sais, " Syr Ysambrace!  
+"And welecome," he sais, " Syr Ysambrace!  
 Forgeffene es the alle thi tryspase,  
 For sothe als I the sayne!  
 And wele the gretis now oure hevens kynge,  
@@ -724,8 +724,8 @@ The riche qwene in haulle was sett,
 Knyghttes hir serves to handes and fete,  
 Were clede in robis of palle;  
 In the floure a clothe was layde,  
-" This povre palmere," the stewarde sayde,  
-" Salle sytt abowene ȝow alle."  
+"This povre palmere," the stewarde sayde,  
+"Salle sytt abowene ȝow alle."  
 Mete and drynke was forthe broghte,  
 Sir Ysambrace sett and ete noghte,  
 Bot luked abowte in the haulle.  
@@ -738,7 +738,7 @@ L.
 So lange he salt and ete noghte,  
 That the lady grete wondir thoghte,  
 And tille a knyghte gane saye,  
-" Bryng a chayere and a qwyschene.  
+"Bryng a chayere and a qwyschene.  
 And sett ȝone povre palmere ther-in,  
 That he to me telle maye  
 What tydans that he hase herde and sene  
@@ -753,13 +753,13 @@ LI.
 And so nobilly he hase hir tolde,  
 That scho myghte frayne hym what scho wolde,  
 To whils that he there sett;  
-" Now, palmere," scho said, " I salle the gyffe  
+"Now, palmere," scho said, " I salle the gyffe  
 Evermare whils I may lyfe,  
 Thou salle hafe clothe and mete,
 
 LII.
 
-" And a mane to serve the daye and nyghte,  
+"And a mane to serve the daye and nyghte,  
 And a chambir faire and bryghte  
 Withinne the castelle walle."  
 The palmere thankes that lady free,  
@@ -844,13 +844,13 @@ LVII.
 Than scho to the knyghtes tolde,  
 How scho was for that golde solde,  
 And hir lorde was wondide sore;  
-" Bot faste whenne ȝe the palmere see,  
+"Bot faste whenne ȝe the palmere see,  
 Dose hyme swythe to speke with me,  
 Aftir hym me langes fulle sore."  
 The knyghtes gane brynge hym to the haulle,  
 The lady gane hym to concelle calle,  
 And fraystes at hym there,  
-" Was thou ever gentylle mane?  
+"Was thou ever gentylle mane?  
 Whare and howe that thou this golde wanne?"  
 His sorowe thane wexe the mare!
 
@@ -860,7 +860,7 @@ With dulefulle mode and herte fulle sare,
 He gafe the lady ane ansuare,  
 And one his knee hym sett;  
 And a fulle nobille tale ther tille hir he tolde,  
-" My wyfe was for this golde solde,  
+"My wyfe was for this golde solde,  
 Myselfe was fulle sare bett!"  
 And downe than knelide the lady byfore his face,  
 And sayde, " Welecome, my lorde syr Ysambrace!"  
@@ -925,7 +925,7 @@ Sir Ysambrace was thane fulle waa,
 He kyssede his lady and wolde furthe gaa  
 With sorow and hert fulle sare;  
 A dolefulle worde thane gunne he saye,  
-" Nowe, certis, lady, hafe now gud daye,  
+"Nowe, certis, lady, hafe now gud daye,  
 For nowe and evermare!"  
 "A.! lorde," scho sayd, "helpe that I were dyghte  
 In armours, als I were a knyghte,  
@@ -961,7 +961,7 @@ Sir Ysambrace prayed the knyghtes swaa,
 Hame with hym that thay walde gaa,  
 And be of his menȝé;  
 Thay ansuerde, als the angelle tham kende,  
-" For the were we to the batelle sende,  
+"For the were we to the batelle sende,  
 Thyne awenne sonnes are wee! "
 
 LXVI.
@@ -970,7 +970,7 @@ Ofte was syr Ysambrace wele and woo,
 Bot never ȝitt als he was tho,  
 One knees than he hym sett;  
 He grett, and sayde wyth mylde stevene,  
-" Thankede be the heghe kyng of hevene,  
+"Thankede be the heghe kyng of hevene,  
 My bale thane hase he bett!"  
 Sir Ysambrace and that lady free  
 Kyssed alle thaire childir three,  
@@ -1130,7 +1130,7 @@ The MS. last mentioned is described by Mr. Laing in the Reliq. Antiq. vol. ii. p
 
 L. 16. *So was he bothe faire and heghe.* — The Caius College MS. reads, —
 
-" He was long man and heye,  
+"He was long man and heye,  
 The fayreste that evere man seye,  
 A gret lord was he."
 
@@ -1138,11 +1138,11 @@ The MS. last mentioned is described by Mr. Laing in the Reliq. Antiq. vol. ii. p
 
 L. 16. *So was he bothe faire and heghe.* — The Caius College MS. reads, —
 
-" He was long man and heye, The fayreste that evere man seye, A gret lord was he."
+"He was long man and heye, The fayreste that evere man seye, A gret lord was he."
 
 L. 1 9. *He luffede glewmene.* — In the romance of Sir Degrevant are several curious notices of gifts to minstrels. See the present volume, pp. 180, 225, 254, and Sir Eglamour, p. 176. In " Manners and Household Expenses," p. 141, is printed a curious roll containing the names of the minstrels who played before Edward I. at Whitsuntide in 1306. They were divided into ranks, five of them being styled kings, each of whom had five marks. At p. 110 of that work mention is made of a valuable gold cup being given to a minstrel; but robes and garments were the more usual presents. See Piers Ploughman, ed. Wright, pp. 259, 274. The title of king `[Percy, in the notes to his Essay, has collected much curious information relative to this title of the ancient minstrels.]` was merely a popular dignity, and does not necessarily imply a greater degree of " dignity" than Ritson allowed the old " glewmene." Like all professors of music and the light arts, the majority of them were always a wandering class of persons, whose manner of living must generally have excluded them from any rank in society. They were, however, of " great admittance " in the houses of the nobility. We have a curious instance of this in the romance of Orpheo, who, when he is questioned by the king of the fairies how he had the audacity to enter his palace, replies,
 
-" Syre," he seyd, " I trow wele  
+"Syre," he seyd, " I trow wele  
 I ame hot a pore mynstrelle,  
 And ȝit it ys the maner off us,  
 For to seke to gret lordes hous;  
@@ -1177,7 +1177,7 @@ L. 143. *And made thaire, &c.* — The Cottonian MS. reads, " And forth they wen
 
 L. 152. *For saynte charité.* — That is, " for holy charity." Later writers made a kind of allegorical saint of Charity. Ophelia sings, " By Gis and by Saint Charity," in Hamlet, Act iv. Sc. 5; and Spenser writes, —
 
-" Ah! dear Lord, and sweet Saint Charity!  
+"Ah! dear Lord, and sweet Saint Charity!  
 That some good body once would pity me."
 
 L. 185. This line, which is wanting in the original, has been supplied from the Cottonian MS. For *went* read *wente*.
@@ -1197,7 +1197,7 @@ L. 347. " The knyȝte was kalled aȝeyne," Cott. MS.
 
 L. 376. *The knyghte folowed, &c.*— The Cottonian MS. reads,—
 
-" The knyȝte was both hende and fre,  
+"The knyȝte was both hende and fre,  
 And folowed hym to the Grekes see,  
 Ther over the gryflyn he flyȝe."
 
@@ -1287,21 +1287,21 @@ It was now seven days since the pilgrims had tasted bread or meat; the soudan's 
 The soudan beheld that lady there,  
 Him thought an angel that she were,  
 Comen a-down from heaven:  
-" Man! I will give thee gold and fee,  
+"Man! I will give thee gold and fee,  
 <* An thou that woman will sellen me,  
-" More than thou can *neven*. `[Name.]`  
+"More than thou can *neven*. `[Name.]`  
 "I will thee given an hundred pound  
-" Of pennies that ben whole and round,  
-" And rich robes seven:  
-" She shall be queen of my land;  
-" And all men bow unto her hand;  
-" And none withstand her *Steven*." `[Voice.]`  
+"Of pennies that ben whole and round,  
+"And rich robes seven:  
+"She shall be queen of my land;  
+"And all men bow unto her hand;  
+"And none withstand her *Steven*." `[Voice.]`  
 Sir Isumbras said, " Nay!  
-" My wife I will nought seli away,  
-" Though ye me for her sloo!  
-" I wedded her in Godis lay,  
+"My wife I will nought seli away,  
+"Though ye me for her sloo!  
+"I wedded her in Godis lay,  
 "To hold her to mine ending day,  
-" Both for weal and wo."
+"Both for weal and wo."
 
 It evidently would require no small share of casuistry to construe this declaration into an acceptance of the bargain; but the Saracens, having heard the offer of their sovereign, deliberately counted out the stipulated sum on the mantle of Sir Isumbras; took possession of the lady; carried the knight with his infant son on shore; beat him till he was scarcely able to move; and then returned for further orders.
 
@@ -1318,7 +1318,7 @@ The knight was now quite disheartened. But his last calamity was so evidently mi
 His attention was soon attracted by the sound of a smith's bellows: he quickly repaired to the forge, and requested the charitable donation of a little food; but was told by the labourers that he seemed well able to work as they did, and that they had nothing to throw away in charity.
 
 Then answered the knight again,  
-" For meat would I *swink* `[Labour.]` fain!"  
+"For meat would I *swink* `[Labour.]` fain!"  
 Fast he bare and *drow*; `[Drew.]`  
 They given him meat and drink anon.  
 And taughten him to bear stone:  
@@ -1345,13 +1345,13 @@ And before the king him brought;
 Full sore wounded was he.  
 They asked what was his name;  
 He said, " Sire, a smith's man;  
-" What will ye do with me?"  
+"What will ye do with me?"  
 The Christian king said, than,  
-" I trow, never smith's man  
-" In war was half so wight."  
-" I *bid* `[Pray.]` you, give me meat and drink,  
-" And what that I will after think,  
-" Till I have *kevered* `[Recovered.]` my might."  
+"I trow, never smith's man  
+"In war was half so wight."  
+"I *bid* `[Pray.]` you, give me meat and drink,  
+"And what that I will after think,  
+"Till I have *kevered* `[Recovered.]` my might."  
 The king a great oath sware,  
 As soon as he whole were,  
 That he would dub him knight.  
@@ -1379,7 +1379,7 @@ There came an angel fair and bright.
 And brought him bread and wine;  
 He said, " Palmrr, well thou be! "  
 The King of heaven greetrth well thee;  
-" Forgiven is sin thine."
+"Forgiven is sin thine."
 
 Sir Isumbras accepted with pious gratitude the donation of food, by which his strength was instantly restored, and again set out on his travels: but he was still a widower; still deprived of his children, and as poor as ever; nor had his heavenly monitor afforded him any hint for his future guidance. He wandered therefore through the country, without any settled purpose, till he arrived at a " rich burgh," built round a " fair castle," the possessor of which, he was told, was a charitable queen, who daily distributed a florin of gold to every poor man who approached her gates, and even condescended to provide food and lodging within her palace for such as were distinguished by superior misery. Sir Isumbras presented himself with the rest; and his emaciated form and squalid garments procured him instant admittance.
 
@@ -1387,8 +1387,8 @@ The rich queen in hail was set;
 Knights her served, at hand and feet,  
 In rich robes of pall:  
 In the floor a cloth was laid;  
-" The poor Palmer," the steward said,  
-" Shall sit above you all."  
+"The poor Palmer," the steward said,  
+"Shall sit above you all."  
 Meat and drink forth they brought;  
 He sat still, and ate right nought,  
 But looked about the hall.  
@@ -1424,14 +1424,14 @@ Sir Isumbras was bold and keen,
 And took his leave at the queen.  
 And sighed wonder sore:  
 He said, " Madam, have good day!  
-" Sekerly, as I you say.  
-" For now and evennore!"  
-" Help me, sir, that I were dight  
-" In arms, as it were a knight;  
-" I will with you fare:  
-" Gif God would us grace send  
-" That we may together end,  
-" Then done were all my care."  
+"Sekerly, as I you say.  
+"For now and evennore!"  
+"Help me, sir, that I were dight  
+"In arms, as it were a knight;  
+"I will with you fare:  
+"Gif God would us grace send  
+"That we may together end,  
+"Then done were all my care."  
 Soon was the lady dight  
 In arms, as it were a knight;  
 He gave her spear and shield:  
