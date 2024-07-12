@@ -18,7 +18,7 @@ SIR AMADAS
 
 [Sir Amadas `[Two MSS. of this are known, the Auchinleck, edited by Weber; the Ireland, by Robson in his Three Early English Metrical Romances (Sir Amadace), Camden Society, 1842, Both lack a few lines at the beginning, the sense of which is readily gathered. No French original is known, though the thirteenth century French Amadas and Ydoine (ed. Hippeau) contains a bare hint of the situation (cf. Introduction, p. xv.), which may have been developed more fully elsewhere, along the lines followed by the English poem.]` was a knight of great bounty who so squandered his possessions in gifts to those round about him that at last he fell heavily into debt,] Thereupon he sat down with his steward to cast his accounts.
 
-" My lord," said the steward, " ye owe more than you can raise from your lands these seven years. First, ye must pray those who can to wait longer; and then must you dismiss your court, keeping but one man where now ye have ten, however dear they be to you."
+"My lord," said the steward, " ye owe more than you can raise from your lands these seven years. First, ye must pray those who can to wait longer; and then must you dismiss your court, keeping but one man where now ye have ten, however dear they be to you."
 
 But said Amadas: " I might save long and spend nothing ere my debts were quit! And if I dwell here in my native place where I am so well known, I shall be held in great scorn, and all men will curse me for being so free of their goods that I have had in hand. If I were to boast and threaten, and get nothing by it, by the Rood, that were a bad end! Nay, I will not do so; I will follow mine own counsel, and work another way. A hidden sorrow is easier to bear than one perceived; therefore, good steward, by thy love for me, let no man know of my distress; but let us hide it between ourselves. For seven years I will pledge my lands, or till the debts be all quit; and I will go forth out of the country until I have gold and silver to spend. But ere I wend, I will entertain more royally than ever; therefore make preparations. I will give rich gifts to squires and knights, and will deal out alms to the poor, for if men knew that. I were in trouble, some would be fain of that, and it would not help my case. Never was born a man so courteous that he might escape without scorning when each has told his tale."
 
@@ -28,7 +28,7 @@ As he rode on his journey, he came to a chapel of stone and wood between a fores
 
 The knave did as his master commanded, but so foul a stench was in the chapel that he might not endure it. He drew his hood over his face, and going to the door, looked in through a glass window, to learn what marvel was there; and he saw a bier with candles burning about it and a woman sitting by, right sorrowful. But he could not stay there longer, so returned to his master and told what he had seen.
 
-" Sir, I have been at yonder chapel, and have seen a marvel that makes my heart as heavy as lead! There stands a bier with candles, and a lone woman sits by it in heavy sorrow. But so evil is the stench, that not for the palfrey on which I ride would I stay there longer! I trow I have caught my death! "
+"Sir, I have been at yonder chapel, and have seen a marvel that makes my heart as heavy as lead! There stands a bier with candles, and a lone woman sits by it in heavy sorrow. But so evil is the stench, that not for the palfrey on which I ride would I stay there longer! I trow I have caught my death! "
 
 Then Sir Amadas commanded his squire to go and bring him tidings of that woman. And as he looked in through the window, he found it all as the knave had said, and had great pity; but the evil stench drove him too away, and he returned, saying: " Good my lord, now by your leave, take it not ill; but ye may not have tidings by me. There stands the bier with the candles and nothing more; and the woman sighs piteously and wrings her hands, crying on Heaven's King how long must she be there, and saying: ' Dear God, how may this be, that I should have such sorrow as to watch him rotting on his bier!' Yet she swears that she will not leave him alone, so dear was he to her, until she drops dead on the stones."
 
@@ -36,17 +36,17 @@ Then Sir Amadas put spurs to his palfrey and rode up to the chapel door and ther
 
 And she saluted him fair: " Sir, ye are most welcome! "
 
-" Dame, why sit you here alone with this corse tonight? "
+"Dame, why sit you here alone with this corse tonight? "
 
-" Needs must I sit by him, sir — God wot none other would but I! — for he was my wedded husband."
+"Needs must I sit by him, sir — God wot none other would but I! — for he was my wedded husband."
 
-" Peter! " quoth Sir Amadas. " That likes me full ill! Ye ire in a plight to perish also, sitting by him on his bier. What manner of man was he in his life? "
+"Peter! " quoth Sir Amadas. " That likes me full ill! Ye ire in a plight to perish also, sitting by him on his bier. What manner of man was he in his life? "
 
-" Sir, a merchant of this city, who owned rich rents. He had every year three hundred pounds of ready money, and yet he lies here for debt."
+"Sir, a merchant of this city, who owned rich rents. He had every year three hundred pounds of ready money, and yet he lies here for debt."
 
-" By the Rood, dame, tell me how he spent his goods that thusgate `[In this manner.]` it is all away."
+"By the Rood, dame, tell me how he spent his goods that thusgate `[In this manner.]` it is all away."
 
-" Sir, by giving rich gifts to knights, squires, and officers, great lords that were his peers. `[Here the wora seems to mean betters rather than equals.]` He made royal feasts, and every day fed poor folk for God's sake. And yet he wrought as a fool, for whoever came to his gate and asked i' God's name, was not denied as long as he had any goods left. At Yule-tide he clad more men than did ever noble knight, and spared not meats. The boards in his hall stood never bare `[So Chaucer says of his Franklin: " His table dormant in his halle alway. Stood redy covered al the longe day,"]` but aye richly covered. And when I told him he did not well, he held my words lightly and said that God had sent it every deal, until we had borrowed so much that for very shame we might not tell all that we owed. And then came Death — woe's me! — and parted me from my dear lord, and left me all the care. When our neighbours knew that he lay sick, they came thronging in great affright to seek their debts, and they drove away horses, cattle, swine and sheep, all that was my husband's and mine, and left the place bare. My dowry I sold too, and paid them every penny, and still they asked much more. And when I had turned over all that I could get, he still owed thirty pounds to a merchant of this city who had been away in a far country. This man came, when my husband was dead, and, knowing my helpless state, fierce as a boar forbade that the corse be buried, `[Cf, Massinger, The Fatal Dowry, Weber in his edition refers to a law among the ancient Egyptians that permitted bodies to be pledged as security for money borrowed. Robson in his edition (p. xxvi.) quotes authorities to show that the Canon Law once authorised the arrest of a debtor's dead body; and also that it was acted upon for a long time. See also Miss Edgeworth's Castle Rackrent, first part.]` and swore that the hounds of the field should tear his flesh and gnaw his bones. And this is the cause of my woe! For sixteen weeks have I sat by him on his bier, with candles burning night and day; and, so God Almighty help me, shall I do until Death come and take me! "
+"Sir, by giving rich gifts to knights, squires, and officers, great lords that were his peers. `[Here the wora seems to mean betters rather than equals.]` He made royal feasts, and every day fed poor folk for God's sake. And yet he wrought as a fool, for whoever came to his gate and asked i' God's name, was not denied as long as he had any goods left. At Yule-tide he clad more men than did ever noble knight, and spared not meats. The boards in his hall stood never bare `[So Chaucer says of his Franklin: " His table dormant in his halle alway. Stood redy covered al the longe day,"]` but aye richly covered. And when I told him he did not well, he held my words lightly and said that God had sent it every deal, until we had borrowed so much that for very shame we might not tell all that we owed. And then came Death — woe's me! — and parted me from my dear lord, and left me all the care. When our neighbours knew that he lay sick, they came thronging in great affright to seek their debts, and they drove away horses, cattle, swine and sheep, all that was my husband's and mine, and left the place bare. My dowry I sold too, and paid them every penny, and still they asked much more. And when I had turned over all that I could get, he still owed thirty pounds to a merchant of this city who had been away in a far country. This man came, when my husband was dead, and, knowing my helpless state, fierce as a boar forbade that the corse be buried, `[Cf, Massinger, The Fatal Dowry, Weber in his edition refers to a law among the ancient Egyptians that permitted bodies to be pledged as security for money borrowed. Robson in his edition (p. xxvi.) quotes authorities to show that the Canon Law once authorised the arrest of a debtor's dead body; and also that it was acted upon for a long time. See also Miss Edgeworth's Castle Rackrent, first part.]` and swore that the hounds of the field should tear his flesh and gnaw his bones. And this is the cause of my woe! For sixteen weeks have I sat by him on his bier, with candles burning night and day; and, so God Almighty help me, shall I do until Death come and take me! "
 
 Then Sir Amadas asked her the name of that merchant who had brought her to this, and she told him. He said further: " God that is a help to all in trouble, comfort you, dame — and so He will! Have good night."
 
@@ -62,19 +62,19 @@ Said the merchant: " By Jesus, Son of Mary, I will come at thy lord's bidding! "
 
 So the boards were set up, the cloth was laid, and the supper spread forth; and the merchant sat on the dais with Sir Amadas, who made him welcome, although his thoughts were muckle on the dead man that lay on his bier. Presently he said: " To-night as I came along the road, I saw a sight that I remember still, which makes my heart full sore! In a chapel by the wayside lay a corse on a bier, and a woman sat thereby in great trouble."
 
-" Yea," quoth the merchant, " God grant him sorry grace, and all such wasters as he that strip men wonder bare! There he lies, and of my thirty pounds shall I see never a penny the more! "
+"Yea," quoth the merchant, " God grant him sorry grace, and all such wasters as he that strip men wonder bare! There he lies, and of my thirty pounds shall I see never a penny the more! "
 
-" Forgive the dead," cried Sir Amadas, " as God forgives; and turn your mind to better thoughts, and you shall be rewarded! Think how God hath ordained you a better estate than ever he had, and let his bones be buried."
+"Forgive the dead," cried Sir Amadas, " as God forgives; and turn your mind to better thoughts, and you shall be rewarded! Think how God hath ordained you a better estate than ever he had, and let his bones be buried."
 
-" Nay, sir, by Jesu, Mary's son, his body shall never be laid in the earth until I have my silver; and when she is dead as well, then shall dogs gnaw the bones of both these wasters! "
+"Nay, sir, by Jesu, Mary's son, his body shall never be laid in the earth until I have my silver; and when she is dead as well, then shall dogs gnaw the bones of both these wasters! "
 
 When Sir Amadas heard what he had sworn, he said to his squire: " Lay forth thirty pounds on the board, belive!" `[Quickly.]`
 
 The squire thought this wrong, but he must needs obey, and so the merchant was paid. Then the knight called for wine and bade him be merry, and asked presently: " Owed he any more? "
 
-" Blessings on you, sir, it was so much only! "
+"Blessings on you, sir, it was so much only! "
 
-" Then, as far as ten pounds will go, I will see that he hath his right. I shall make read and sing for him, and bring him to Christian burial in the sight of all his neighbours. Pray all the religious men of this city to dine with me to-morrow, and make ready their meat."
+"Then, as far as ten pounds will go, I will see that he hath his right. I shall make read and sing for him, and bring him to Christian burial in the sight of all his neighbours. Pray all the religious men of this city to dine with me to-morrow, and make ready their meat."
 
 At dawn, on the following day, all the bells of the city were set a-ringing for the debtor's soul, and a great pro- cession of religious men and rich burgesses went forth to the burial. And Sir Amadas garred `[Caused.]` thirty priests to chant, and at every Mass he offered a ring.
 
@@ -98,7 +98,7 @@ And when Sir Amadas would have denied this, " Nay," said the other, " hush! I ha
 
 Then bespake Sir Amadas: " An ye have, by God's grace, power for to comfort me now, ye shall find me true and leal, and ever, lord, will I deal justly between you and me."
 
-" Farewell, Sir Amadas," quoth the knight. " Ye shall work by God's grace, and He will be with you! "
+"Farewell, Sir Amadas," quoth the knight. " Ye shall work by God's grace, and He will be with you! "
 
 "Have good day," answered Sir Amadas. " Ye shall find me as true as a man may be."
 
@@ -118,7 +118,7 @@ When the jousting was ended, they went home to disarm themselves; and often and 
 
 Now when they had feasted, the king took Sir Amadas by his white hand, saying: " Sir, my daughter is mine only heir, and she shall be your prize. An ye be a man to wed a wife, I vouch her safe to you. Take her, and while I live ye shall have the half of my kingdom, and after, all."
 
-" Gramercy! " quoth Sir Amadas, and thanked the king for his favour and his good gifts.
+"Gramercy! " quoth Sir Amadas, and thanked the king for his favour and his good gifts.
 
 Soon after they rode to the church for the wedding. Of gold and silver many a pound, and other gifts were scattered as they passed by the way; and afterwards, all the lords and their slender, noble dames gathered in the hall for the feast. Thus came his weal after his woe — God grant that ours do likewise! The royal banquet lasted a fortnight, and during that time many shafts were shaken. `[There were many joustings.]`
 
@@ -126,39 +126,39 @@ A year and a half they lived together in great joy, and a fair child was born to
 
 Then the porter went into the hall and accosted his lord, whom he met there: "Lord, here is come the fairest knight that ever I saw since I was born. Milk-white is his steed and all his other gear. He says that ye have been together, and I hope ye will have seen him. He is come here alone."
 
-" Is he here, mine own true friend? He is most heartily welcome, as indeed he ought to be! I bid you all, my men, to serve him hand and foot, right as ye would do me."
+"Is he here, mine own true friend? He is most heartily welcome, as indeed he ought to be! I bid you all, my men, to serve him hand and foot, right as ye would do me."
 
 Then Sir Amadas went to meet him, and so also his fair lady, who knew well her duty, and ever honoured those whom her lord loved. May all such women be blessed!
 
 Who should stable his steed? For knight, squire, yeoman, or knave he had none. Sir Amadas himself would have taken the horse, and led the guest into the hall; but nay, he would not.
 
-" To tell the truth," said he, " I will not eat or drink or rest, by the God that bought me dear! But if indeed I have saved thee, deal what thou hast a-two, and give me my part, and I will away."
+"To tell the truth," said he, " I will not eat or drink or rest, by the God that bought me dear! But if indeed I have saved thee, deal what thou hast a-two, and give me my part, and I will away."
 
-" For the love of God," quoth Sir Amadas, " let such words be! They grieve my heart sorely! Not even in a fortnight can we divide and dispose our rich lands, for they lie wide apart. But let us dwell together here like brethren, as though all were thine own; and we will not share otherwise, but all shall be at thy disposal — God forbid else! "
+"For the love of God," quoth Sir Amadas, " let such words be! They grieve my heart sorely! Not even in a fortnight can we divide and dispose our rich lands, for they lie wide apart. But let us dwell together here like brethren, as though all were thine own; and we will not share otherwise, but all shall be at thy disposal — God forbid else! "
 
 He said: " Brook well thy broad lands, thy towered cactles, and thy towns; of them keep I none. Hold also thy woods and clear waters, thy wild deer, thy friths and forests, thy rings with precious stones, thy silver and red gold — they stand me in no stead, I swear by St. John! But by my faith, without more ado, half thy wife and half thy child shall be mine! "
 
-" Alas! " cried Sir Amadas, " that ever I won this woman or any worldly goods! For His sake that died on the Tree, do with me whatsoever thou wilt, take all that I have, but spare her life! "
+"Alas! " cried Sir Amadas, " that ever I won this woman or any worldly goods! For His sake that died on the Tree, do with me whatsoever thou wilt, take all that I have, but spare her life! "
 
 The knight well understood, but swore: " By God that bought me dear, of all thy other worldly goods I will take nothing; but think on the covenant thou didst make with me in the woods, when thou wert in need, how fairly thou didst promise me then."
 
-" I know it was so," said Sir Amadas, " but methinks it were great sin to slay my lady! "
+"I know it was so," said Sir Amadas, " but methinks it were great sin to slay my lady! "
 
 Now she understood the word that passed between them, and grieved never the more, but came at once and said: " For His love that died on the Tree, see that you hold what ye promised him, by God and St. Drightine! " `[The O. E, word for lord, used generally for Christ. The passage reads as if the minstrel did not know the name and took it to be that of some special saint.]` And she spake further: " The covenant was good and true; and if God will that it be so, take and part us both in twain. Ye won me, and I am yours. God forbid that ye took wife only that I should make you to be false and lose your good name in the land! "
 
 Still she stood, that dear lady, nor changed colour nor wept; but bade only: " Fetch me hither my young son and lay him on my heart."
 
-" Now," quoth the White Knight to his fellow, " which lovest thou the more? "
+"Now," quoth the White Knight to his fellow, " which lovest thou the more? "
 
-" My dear wife! " he answered.
+"My dear wife! " he answered.
 
-" If thou lovest her the more, thyself shall cut in twain her white sides."
+"If thou lovest her the more, thyself shall cut in twain her white sides."
 
 When Sir Amadas perceived that this must be, he went well nigh mad with grief; and all those who stood in the hall before their lord swooned with horror.
 
 Then was brought in the board `[The preparations for the sacrifice read like a faint reflection from the story, beloved in the Middle Ages, of Abraham and Isaac.]` on which she must be slain. She kissed her lord many a time, that sweet lady, and meekly laid her down, and drew her kerchief over her eyes.
 
-" Jesu in Trinity! " cried Sir Amadas, in bitter woe. " All shall be done according to Thy will; and so I hope it may be."
+"Jesu in Trinity! " cried Sir Amadas, in bitter woe. " All shall be done according to Thy will; and so I hope it may be."
 
 Therewith he was lifting his sword on high, in the intent to strike his lady, when the other knight cried: " Hold! Take her up, and also the child, and peace be with thee! I could not blame thee for grieving to slay so fair a lady to save thy honour! I was full glad when thou didst give all thy possessions to bury my bones, when I lay in the chapel as hounds* meat; and I prayed to God to heal thee of thy woe, who didst make thyself poor to save my credit in the land. And now, farewell, mine own true friend, my dwelling is here no longer. Love thy child and thy wife, who without murmur would have had thee fulfil thy foreward! "
 
@@ -209,7 +209,7 @@ Thoffe Y owe syche too."
 Downe sate Sir Amadas and hee,  
 And kast how that best myght bee,  
 Both far and nere:  
-" My lord, he seyd, ye owe more  
+"My lord, he seyd, ye owe more  
 Than ye of yowre londes mey reyr,  
 Of all this seyvon yere:  
 Who so best mey Y schall hym prey,  
@@ -219,7 +219,7 @@ Putt away mony of yore men,
 Hold not won the ye er held ten,  
 Thof thei be neuer so dere."
 
-" What! seyd Sir Amadas, schuld Y spare  
+"What! seyd Sir Amadas, schuld Y spare  
 Tyll all my dettes qwytte ware,  
 And Y the whyle noght spend;  
 And dwell here ther Y was borne,  
@@ -232,7 +232,7 @@ And Y schuld them bost and threte.
 And therof myght non geyte:  
 Be the rode, that wer a badde ende!  
 
-" Bot nay, Y will noght soo,  
+"Bot nay, Y will noght soo,  
 Myn owne consell Y wyll do:  
 Hyd sorro is better than sene!  
 Stywarde, as thou art me lefe  
@@ -245,7 +245,7 @@ And owtte of cuntrè wille Y wende,
 To Y haue gold and syluer to spende,  
 And owt of deytte be clene.
 
-" Bot, sartenly, or that Y fare,  
+"Bot, sartenly, or that Y fare,  
 Y wyll be more ryall and grettare;  
 Porvè therfore Y schall."—  
 Ryche gyfftes tber he gafe  
@@ -320,7 +320,7 @@ Y trow hit wy 11 be my dedde."
 Then commandyd Sir Amadas  
 Hys sqwyar to loke what ther was,  
 
-" And redy worde faryng thou mee. ?>  
+"And redy worde faryng thou mee. ?>  
 He rydes forthe to the chapell r wall,  
 And, as the mon seyd, he saw all,  
 
@@ -349,12 +349,12 @@ Bot in went the knyght.
 
 t4t JIK AMADil.  
 
-" Gud devon, dame,* 7 seyd he. |t  
+"Gud devon, dame,* 7 seyd he. |t  
 
-" Sir, sche seyd, welcum yow be,*  
+"Sir, sche seyd, welcum yow be,*  
 
 And salod hym anon ryght.  
-" Sey, lcve dame, what doa thou here,  
+"Sey, lcve dame, what doa thou here,  
 Kepyng the ded cors on here,  
 
 Thiselfe thus here on nyghttes ?'  
@@ -363,12 +363,12 @@ P Sir, Y schall yow tell for -why.
 God wot ther wold oon bot Y!  
 
 He was my weddyt feyr.*  
-" Petur! seyd Amadas, he fares full yll  
+"Petur! seyd Amadas, he fares full yll  
 Ye ar lyle in poynte to apyll j .  
 
 He lygges or long on here.  
 Dame, what maner mon was he?"  
-" A marchande, sir, of this cuntre,  
+"A marchande, sir, of this cuntre,  
 
 And had greyt rentes be yere.  
 Ylke a yere a honderte pounde  
@@ -376,12 +376,12 @@ Ylke a yere a honderte pounde
 
 And yen for deytt he lygges here."  
 
-" Tell me, dame, for the rode,  
+"Tell me, dame, for the rode,  
 On what maner spend he is gud, .  
 
 Hat it his so away i"  
 
-" On knyghttes, sqwyers, and oflycers;  
+"On knyghttes, sqwyers, and oflycers;  
 On greyt maysters that wer is-pers,  
 
 lie gafe tham gyfftes ay;  
@@ -399,7 +399,7 @@ And aske owgbth for Godea sake.
 
 He eowd not say hom nay.  
 
-" And yeit he wroght more lyle a fok:  
+"And yeit he wroght more lyle a fok:  
 
 He clad mo men ayeyns the Yole  
 
@@ -417,7 +417,7 @@ That we myght not say, for schame,
 
 What gud that we ther aght.  
 
-" Then com deyd, so wo hit be,  
+"Then com deyd, so wo hit be,  
 And partyd my dere hushond and me,  
 
 And kast me in all the care.  
@@ -459,7 +459,7 @@ He seyd, the howndes schuld the flesch drawc,
 
 That makes this carefull reyd.  
 
-" Sextene wekes have Y sytton here,  
+"Sextene wekes have Y sytton here,  
 And kept my hosbond on this bere,  
 
 With candyls dey and nyght.  
@@ -470,11 +470,11 @@ So helpe me God Almyght!"
 
 Sift AMADAS.  
 
-" Dame, what is the marchandes name.  
+"Dame, what is the marchandes name.  
 That hase wroght yow all this blamed  
 
 Sche tolde hym -what he hyght.  
-" Now he that is <bot of bale,  
+"Now he that is <bot of bale,  
 
 
 Helpe yowe well, and so he schall J .  
@@ -490,7 +490,7 @@ That he apoa the bere thus lygkes:
 
 For as sche says thus have Y wroght/'  
 He cald apon his sompter-mon:  
-" At the marchandes hows owre yn thou tak on;  
+"At the marchandes hows owre yn thou tak on;  
 
 jQn hym is all my thoghtt.  
 Loke thou dyght owre soper he tyme,  
@@ -525,7 +525,7 @@ The marchande in his lialle he fand,
 
 And preiyd hym as be con.  
 The marchand seyd full redy sone,  
-" Thi lordes wylle schall be downe;  
+"Thi lordes wylle schall be downe;  
 
 Y wyll com to that mon."  
 The bord was seyt, the cloth was layd;  
@@ -549,7 +549,7 @@ A womon ther sate with mykell care."
 
 •IH AM A DA*.  
 
-" Yee, seyd the marchand, God gyff hym yll grace.  
+"Yee, seyd the marchand, God gyff hym yll grace.  
 And all suche wastars as he if as,  
 
 That make men wonder bare!  
@@ -558,7 +558,7 @@ Ther lygges he with my XXX^ pownde;
 Ylka a peny, bothe hole and sownde,  
 Therof geyt Y no mare."  
 
-" Fofgyf, seyd Sir Amadas, God forgyfes the dteyd,  
+"Fofgyf, seyd Sir Amadas, God forgyfes the dteyd,  
 And turne thi to a better reyd;  
 
 Grete mede then schalt thou have.  
@@ -566,7 +566,7 @@ Thenke, how God has ordend for th£y
 A better state then euer had hee;  
 
 His bwones thou do grave/'  
-" Nay, sir, be hym that made tnon,  
+"Nay, sir, be hym that made tnon,  
 His body sehall in no yerthe gon  
 
 Or Y my catell have!  
@@ -580,7 +580,7 @@ He callyd his sqwyar hym beforne,
 
 Hastely and swythe;  
 
-" Loke thou drawe forthe, at o worde,  
+"Loke thou drawe forthe, at o worde,  
 XXX ti pownde on this borde,  
 
 Lette hus see belyfe,"  
@@ -597,10 +597,10 @@ And Sir Amadas cummandyd the wyn,
 And bad ylk mon be blytbe.  
 
 Then sey the knyght: " Is ther any mare f  
-" Nai, sir, he seyd, wele motte ye fare!  
+"Nai, sir, he seyd, wele motte ye fare!  
 
 J have that ye me hyght." —  
-" And, als far as x. pownde wyll take,  
+"And, als far as x. pownde wyll take,  
 J schall gare do, for that monnes sake,  
 
 Soo that he have ryght.  
@@ -634,7 +634,7 @@ That thei wold to the innes go,
 
 The more and the lasse: —  
 
-" Hyt is in the deyd name that Y speyke;  
+"Hyt is in the deyd name that Y speyke;  
 He preys yow all vnto the meyte  
 
 The pepull that ar here ;"  
@@ -675,7 +675,7 @@ Than con ylke moo to oder say,
 
 Or euer he past the yate,  
 
-" Lord, wereuer he this gud w*ri>  
+"Lord, wereuer he this gud w*ri>  
 That thus garres to do for this man,  
 
 And thus lyghtly letted hit skappe 1"  
@@ -713,7 +713,7 @@ The hardeste hartyd mon that was there,
 Thei weppyd and made mornyng chere,  
 
 When thei hard hym speyke soo.  
-" Bys mery, he seyd, and have no kare;  
+"Bys mery, he seyd, and have no kare;  
 Ye schall have gud maystyrs euennare,  
 
 Ye ar wele worthy thertbo.  
@@ -729,7 +729,7 @@ For Y schall neuer be your foo/'
 
 Sir Amadas seyd in that stonde:  
 
-" The warst hors is worthe ten pownde  
+"The warst hors is worthe ten pownde  
 
 Of horn all that here gon:  
 Sqwyar, yomon, and knave  
@@ -767,7 +767,7 @@ And in pouerte he fro them fled;
 
 His dedes he con forthenke.  
 
-" Now am he Y that noght has, '  
+"Now am he Y that noght has, '  
 As of a mon that sumtyme was  
 
 Full mykyll seyt by. "  
@@ -791,7 +791,7 @@ God wotte so am Y!
 
 
 
-" Alas, for wanryng of wytte,  
+"Alas, for wanryng of wytte,  
 As a fole Y am for-flytte,  
 
 Of my frendy8 have made my foos;  
@@ -800,7 +800,7 @@ Y am in poynt for to spyll! w
 
 Thus chydes "Syr Amadas*  
 
-" Now, God that dyed on rode.  
+"Now, God that dyed on rode.  
 And bpght me with his precyos blode,  
 
 Me and all myne,  
@@ -839,7 +839,7 @@ Bot salud hym, full ryght.
 
 He spake to hym of that case:  
 
-" What mon art thou this mornyng inase,  
+"What mon art thou this mornyng inase,  
 
 With syche sympell chere?  
 Thou schuld not morne on this wyse: '  
@@ -857,7 +857,7 @@ And of thi mykell care.
 
 SIR AMADAS. %6\  
 
-" Here before ther dwelles a kyng,  
+"Here before ther dwelles a kyng,  
 He has a doghter feyr and yonke;  
 
 He luffes nothyng mare:  
@@ -870,7 +870,7 @@ Bot he that beyres hym best in feld;
 
 He schall wyn her theyrp.  
 
-" Thou schalt cum theder also gay  
+"Thou schalt cum theder also gay  
 As any eyrthely mon may;  
 
 In thi feylyschyppe schall be non.  
@@ -909,7 +909,7 @@ Of all fhyng th§t thou spede."
 
 Than seyd Sir Amadas:  
 
-" Yf ye be comm thro Goddes grace,  
+"Yf ye be comm thro Goddes grace,  
 
 For to comfojd me,  
 Ye schall fynde me gud andieyll,  
@@ -971,7 +971,7 @@ And his doghtter that swete wyght;
 
 Messangers then he chase,  
 His one styward, and knyttes dire:  
-" Goo, wytte of hym and tell yo me,  
+"Goo, wytte of hym and tell yo me,  
 
 What his commyng his.  
 Say, his gud schall be temde,  
@@ -988,7 +988,7 @@ Thei wente down be the sond
 And toke the knyght be the hond,  
 
 And sowne thei con hym sayn:  
-" Owre lord the kyng send Iftis heder,  
+"Owre lord the kyng send Iftis heder,  
 To wytte your comeyng all togeyder;  
 
 The sothe at yow to frayn.  
@@ -1086,7 +1086,7 @@ The kyng tok Sir Amadas,
 And ladde hym forthe into is plase,  
 
 And thus to hym con sey:  
-" Sir knyght, he seyd, withowtyn lease,  
+"Sir knyght, he seyd, withowtyn lease,  
 
 Y have a doghtter, myn eyre ache is;  
 In halle scho eytte to dey;  
@@ -1142,7 +1142,7 @@ Ryght as he an angell weyre,
 
 And all that was in whytte.  
 To the porter he seyd anon,  
-" To thi lorde, sir, that thou gwon,  
+"To thi lorde, sir, that thou gwon,  
 
 And telle hym bod-word tyte:  
 Yf he aske owght of me,  
@@ -1160,7 +1160,7 @@ The porter wold no longer dwell;
 Befor his lord on knes he fell,  
 
 And seyd, " Sir/' to hym full sone:  
-" Sir, at the yate ther is a knyght,  
+"Sir, at the yate ther is a knyght,  
 The feyryst that euer Y sey in syght,  
 
 Markyd vnder mone;  
@@ -1174,7 +1174,7 @@ Hit semes 48 ye had feylosse bene;
 
 Now mey ye ken hym sone."  
 
-" His he theyr, my trv fere?  
+"His he theyr, my trv fere?  
 His comyng is tome full dere  
 
 So oght it wyll to bee."  
@@ -1206,7 +1206,7 @@ Cartenly, as Y yow tell,
 To eytte ne drynke he wolde not dwelt,  
 
 Be Jesu that me dere boght!  
-" Bot skyfte me evon, he con say,  
+"Bot skyfte me evon, he con say,  
 Gyffe me my parte, Y wyll awey,.  
 
 Yf Y had servyd hit oght."  
@@ -1232,7 +1232,7 @@ God forbede ye spare! "
 
 SIR AM ADAS.  
 
-" Broke wyll thi londes wyde,  
+"Broke wyll thi londes wyde,  
 
 Thei lyg so far on ylke a syde,  
 
@@ -1250,7 +1250,7 @@ Halfe thi chylde and halfe thi wyfe
 
 -With me then schall thei gwon."  
 
-" Alas, seyd Sir Amac&s then,  
+"Alas, seyd Sir Amac&s then,  
 That euer Y this lady wan,  
 
 Or any oder gud!  
@@ -1262,7 +1262,7 @@ Take all the gud that Y have
 So that thou wylt my lad£ save!"  
 
 Th^ knyght wele vnderstode:  
-" Sir, he seyd, be sent Albon,  
+"Sir, he seyd, be sent Albon,  
 
 Oder gud wyll Y non,  
 
@@ -1270,7 +1270,7 @@ Bot the chylde then parte thou bode.
 
 472 SIR AMADAS,  
 
-" Tbenke what forward that thou made,  
+"Tbenke what forward that thou made,  
 When thou full greyt myster hade;  
 
 Wele thou hettest me thare \"  
@@ -1282,12 +1282,12 @@ The wordes that thei spake than,
 Full wele the lade dyd vnderstande,  
 
 And grevyd her neuer the mare:  
-" Syr, kythe that ye ar a knyght,  
+"Syr, kythe that ye ar a knyght,  
 And ye schall hold that ye have hyght;  
 
 Goddes forbot ye spare!  
 
-" Sir, this semys a full trwe knyght,  
+"Sir, this semys a full trwe knyght,  
 Ye schall holde that ye have hyght  
 
 Only vnto hym.  
@@ -1318,7 +1318,7 @@ Tliat was of my body borne,
 
 And ley my hart full nere/*  
 The knyght §eyd to his feloo tho:  
-" Wheder lovyst thou better of the too?"  
+"Wheder lovyst thou better of the too?"  
 
 He seyd " My,wyfe so dere."  
 M Sython thou lovyst her the more,  
@@ -1384,7 +1384,7 @@ My body for to grave.
 
 SIB AMADAS. VIS  
 
-" Fare now wele, my frende so dere,  
+"Fare now wele, my frende so dere,  
 My dwellyng his no lenger here  
 For sothe as Y thè tell.  
 Luffe wele thi chylde and thi wyfe,  
