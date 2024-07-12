@@ -261,7 +261,7 @@ Thy fingers that were erst as snow!
 Thy lovely eyes are full of dread  
 And gaze as if I were thy foe!
 
-" Cease, Dearest, I implore thee now  
+"Cease, Dearest, I implore thee now  
 These cries that all the palace fill,  
 And tell me what hath been, and how,  
 Or who hath done thee aught of ill."  
@@ -270,25 +270,25 @@ And weeping bitter tears of woe,
 She answered at his royal will,  
 "Alas! my lord, Sir Orfeo,
 
-" Since we were first together, naught  
+"Since we were first together, naught  
 Hath marred our life; no smallest sign;  
 But we have loved as love we ought;  
 Thou art my life, and I am thine.  
 Now do thy best and do not pine,  
 For we must part, and I to doom! "  
-" Alas! " he cried, and " woe is mine!  
+"Alas! " he cried, and " woe is mine!  
 Where dost thou go, Love, and to whom?
 
 "Whither thou goest I will go,  
 And where I go thou too shalt fare! "  
-" Nay, nay, my lord; thou dost not know:  
+"Nay, nay, my lord; thou dost not know:  
 My doom no mortal man may share.  
 This morn, as I was lying there  
 Asleep beneath an orchard-tree,  
 Two gallant horsemen, young and fair,  
 Rode to my feet, and bent the knee,
 
-" And bade me come with haste and speed  
+"And bade me come with haste and speed  
 To parley with their lord the king.  
 But I replied I durst not heed,  
 Nor would I come for any thing.  
@@ -297,7 +297,7 @@ And came the king with all his court:
 Knights and fair damsels in a ring,  
 All clothed in white of wondrous sort.
 
-" I never in my life before  
+"I never in my life before  
 Have seen such creatures as they were.  
 Upon his head the monarch wore  
 A crown, but nought of gold was there:  
@@ -306,7 +306,7 @@ And blazed as brightly as the sun;
 And when he came, he spoke me fair,  
 And though I wept, he placed me on
 
-" A steed. And so I rode away  
+"A steed. And so I rode away  
 Upon a palfrey by his side.  
 He brought me to his palace gay;  
 More beautiful I never spied.  
@@ -324,7 +324,7 @@ For aye with us in fairy land;
 And if thou failest, woe to thee,  
 For thou shalt feel the fairies' hand!'
 
-" ' Where'er thou art thy limbs shall fail,  
+"' Where'er thou art thy limbs shall fail,  
 No man shalt thou find piteous;  
 Thou shalt be torn with tooth and nail,  
 And would thou hadst returned with us!'"  
@@ -361,7 +361,7 @@ Then woefully he rose, and sent
 For all his barons, earls, and lords.
 
 When they had come in solemn train,  
-" My lords," he said, " all ye have seen;  
+"My lords," he said, " all ye have seen;  
 Hear now: my steward I ordain  
 To rule throughout my broad demesne.  
 He shall be lord as I have been,  
@@ -504,7 +504,7 @@ But quick the others caught her rein,
 And closed about, and made her fly,  
 And would not let her there remain.
 
-" Alas! alas! " he gan to cry,  
+"Alas! alas! " he gan to cry,  
 "Why will not death dispel my pain?  
 Alas! alas! would I could die  
 Now I have seen my love again.  
@@ -612,7 +612,7 @@ Hath bid thee come to fairy lond.
 My faith, I never yet did see  
 Since I was crowned, a man so fond
 
-" As thou who durst us so defy,  
+"As thou who durst us so defy,  
 „ And comest lacking summons true."  
 "Lord," answered he, "know this; that I  
 As a poor simple minstrel sue.  
@@ -639,16 +639,16 @@ The king exclaimed, " for, harper mine,
 I love thy tender minstrelsy:  
 Ask what thou wilt, and it is thine;
 
-" Largess I proffer for thy task;  
+"Largess I proffer for thy task;  
 Speak now, what shall I give to thee? "  
-" Sir," answered he, " one thing I ask;  
+"Sir," answered he, " one thing I ask;  
 This — that thou wilt bestow on me  
 The lady 'neath the orchard-tree  
 A-slumbering in grasses deep."  
 "Nay," quoth the king, "that cannot be;  
 A sorry couple ye would keep.
 
-" For thou art rough, and foul, and lean,  
+"For thou art rough, and foul, and lean,  
 But lovely as a rose is she.  
 'Twere lothly thing to let a queen  
 Be partner of thy company."  
@@ -657,7 +657,7 @@ But surely 'twere a fouler thing
 To hear thy lips lie thus to me!  
 So, sir, my boon, as thou art king!
 
-" I have but asked of thee my due,  
+"I have but asked of thee my due,  
 And thou must needs requite me so."  
 The king replied, " Aye, it is true;  
 Then take her by the hand and go.  
@@ -699,15 +699,15 @@ Into the town, where all might look
 Upon his body soiled and bent.  
 Men laughed aloud in merriment;  
 The ladies, earls, and barons said,  
-" Lo, see the man! his hair is sprent  
+"Lo, see the man! his hair is sprent  
 Like moss about his shaggy head;
 
-" His beard is fallen to his feet  
+"His beard is fallen to his feet  
 Like weathered ivy tumbling down! "  
 There as he went, he chanced to meet  
 His steward coming through the town.  
 Then loud he cried, and plucked his gown,  
-" Sir steward, hearken, pity me!  
+"Sir steward, hearken, pity me!  
 I am a harper of renown;  
 Ah, help me in my misery! "
 
@@ -733,7 +733,7 @@ He knew the harp, and said, " Say now,
 Minstrel, as thou hast fear of Hell,  
 Where gottest thou thy harp, and how?  
 I pray thee haste and quickly tell! "  
-" Lord," quoth he, " in a desert fell  
+"Lord," quoth he, " in a desert fell  
 As I was wandering one morn,  
 I found within a dismal dell  
 A corse by angry lions torn.  
@@ -741,7 +741,7 @@ A corse by angry lions torn.
 "The wolves had gnawed him flesh and bone;  
 His harp was lying in the snow.  
 'Tis full ten weary years agone."  
-" Oh," cried the steward, " dost thou know  
+"Oh," cried the steward, " dost thou know  
 That was my lord, Sir Orfeo!  
 Alas! now am I all forlorn.  
 My lord is lost! ah, me is woe!  
@@ -756,7 +756,7 @@ And when Sir Orfeo well knew
 His steward's love had not a stain,  
 He rose, and spake, and nearer drew.
 
-" Sir steward, hearken now and hear:  
+"Sir steward, hearken now and hear:  
 If I were Orfeo the king,  
 And had sore suffered many a year,  
 Enduring every cruel thing,  
@@ -765,7 +765,7 @@ My queen from fairy land again,
 And now had left her sorrowing  
 In a poor hovel in the plain,
 
-" Sheltered with but a beggar poor,  
+"Sheltered with but a beggar poor,  
 And all alone had come to thee  
 In poverty to try thy door,  
 To test thy faith and loyalty,  
@@ -781,7 +781,7 @@ Down at his feet in dumb delight,
 And all his lordings at the sight  
 Crowded about his feet, to cling  
 And shout for joy with all their might,  
-" Thou art our lord, sir, and our king! "
+"Thou art our lord, sir, and our king! "
 
 Sure all were glad when they had heard;  
 Quickly they led him in with glee,  
@@ -1519,7 +1519,7 @@ Sir Orfeo
 
 This Middle English version of a French lay seems to offer so few difficulties that it is given in its original form, as it appears in the Auchinleck manuscript. The text is copied from that edited by Laing in " Select Pieces of Ancient Popular Poetry of Scotland," reprinted in Edinburgh, 1884. A critical edition of the poem was published by O. Zielke, Breslau, 1880. A very charming free translation in stanza form has been made by E. E. Hunt, Cambridge, 1909.
 
-" Sir Orfeo " is the mediaeval interpretation of the story of Orpheus and Eurydice (Ovid's "Metamorphoses," bk. x, 11.1-77), which was told in French, and then translated by some nameless but immortal English poet. The beauty of this Middle English version is undeniable. Despite its brevity and its occasionally laconic phrases, the poem shows real pathos in the account of the passionate grief of Orfeo, and his desolate wanderings in search of his lady. The concrete vividness of color and fragrance in nature, the dim stateliness of the retinue of the king of fairyland, the magic beauty of his strange abode, are described with true poetic sensitiveness. In choice of detail, in management of incident, in " discovery," and in conclusion the narrative is singularly well managed.
+"Sir Orfeo " is the mediaeval interpretation of the story of Orpheus and Eurydice (Ovid's "Metamorphoses," bk. x, 11.1-77), which was told in French, and then translated by some nameless but immortal English poet. The beauty of this Middle English version is undeniable. Despite its brevity and its occasionally laconic phrases, the poem shows real pathos in the account of the passionate grief of Orfeo, and his desolate wanderings in search of his lady. The concrete vividness of color and fragrance in nature, the dim stateliness of the retinue of the king of fairyland, the magic beauty of his strange abode, are described with true poetic sensitiveness. In choice of detail, in management of incident, in " discovery," and in conclusion the narrative is singularly well managed.
 
 As a mediaeval rendering of a classical tale, the poem has many charms, because it so naively and so completely changes the setting and insists upon mediaeval towers and dress and customs. Pluto's dark realm is transformed into a fairy kingdom, Thrace has become Winchester, and the wandering Greek is a Breton harper knocking at the door of a Gothic castle. As a version of one of the most beautiful of the world's stories, this lay has true imaginative distinction; it pictures the loyalty of love and love's power over time and fairy spells, but it willfully changes the outcome of the old story to suit the sentiment of high romance in an age when every tale must have a happy ending.
 
@@ -2202,7 +2202,7 @@ Bot ye sail wit the cause ane other day.
 
 The present tale has been justly admired no less for the harmony of its versification, than for the beautiful description which it contains of Fairy-land. Heurodis is carried away by the king of the Fairies, whose attendants are as numerous as his riches and magnifieence are dazzling; and is recovered by Orfeo in the disguise of a Minstrel. The following lines, which occur in one of the ancient copies of thus poem, (but apparently omitted by the transcriber of the manuscript that is followed) may be quoted, as illustrative of Orfeo's skill, and love of Minstrelsy.
 
-" Orpheo most of ony thing,  
+"Orpheo most of ony thing,  
 Liovede the gle of harpyng;  
 Syker was every gode harpourc  
 Of hym to have moche honour.  
@@ -2602,7 +2602,7 @@ Orpheo went after as faft as he myght.
 Orpheo knocked at the gate.  
 The porter was redy therate,  
 And afked, What wilt thou fo?  
-" Perfay, y am a mynftrallo,  
+"Perfay, y am a mynftrallo,  
 To folas the with my gle,  
 The merier fchalt thou be."  
 He unded the gate anone,  
@@ -2760,7 +2760,7 @@ Selected and published by Joseph Ritson and revised by Edmund Goldsmid, [Ancient
 SIR ORPHEO.
 
 This lay, or tale, being rather too concise to be denominated a metrical romance, is a Gothick metamorphosis of the classical episode of Orpheus and Eurydice, so beautifully related by Ovid. It professes, like the tales of Mary of France, to be a lay of Britain, (whether Great Britain or Armorica, has been already discussed); and, if it have not so much merit as some others of these poetical compositions, the most fastidious reader can scarcely complain of its prolixity. There are two copies of this poem; one, from which it was transcribed, among the Harleian manuscripts, number 3810; and another in the Auchinleck manuscript (W. 4. i. number lii), in the Advocates' Library, Edinburgh: each more or less imperfect. The latter, which omits the prologue, and commences abruptly,  
-" Orpheo was a ryche king,"  
+"Orpheo was a ryche king,"  
 is much longer than the poem here printed, which seems abridged from it, by considerable omissions, many of the remaining lines being the same: but whether it be a translation from a French original (which, at least, is sufficiently probable) there is no means to ascertain. Another fragment in the same MS. (num. xxxv), though upon a different subject, begins precisely like the Harleian copy, but is entitled *Lay le freine* (the Tale of the Ash), and, apparently, a version of Mary's poem under the same title.
 
 Among the "pleysand storeis," enumerated in *The Complaynt of Scotland*, 1549, is "Opheus, kyng of Portingal :" but whether the name should have been Orpheus, and the story were the same, or a different one, cannot be ascertained. "A tedious fable," according to Pinkerton, "by [Robert] Henryson, with a spiritual moralization," of "Orpheus kyng, and how he ycid to hewyn and to hel to seik his quene," was printed at Edinburgh by Walter Chepman, in 1508. In an old poem of "the laying of a gaist," quoted, by Mr. Leyden, from the Bannatyne MS. the "gaist" is married to "the Spenzie Hie,
