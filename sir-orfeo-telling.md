@@ -148,7 +148,7 @@ And then the steward passed by. He had not heard that tune in a long time. He st
 
 "Of course, of course, you wold be most welcome", and the steward helped the beggar up and talk him into the castle.
 
-And how he played... tunes the like of which they had not heard for seven, eight noine, for ten years or more.
+And how he played... tunes the like of which they had not heard for seven, nor eight, nor nine, not for ten years or more.
 
 But not just tunes the like of which. Tunes the exact same as which.
 
@@ -174,12 +174,8 @@ And his wife was sent for.
 
 And the celebration that started in Winchester that night spread out across the county. And the tale of what had happened went with it.
 
-And many years later, after many happy years together with his wife, the fair Lady Heurodis, they made a final journey to another land.
+And many years later, after many happy years together with his wife, the fair Lady Heurodis, they made their final journey together, to that place they had been before. Where you go, I go; where I go, you go.
 
 And in his stead, the steward became King in his own name and ruled over that land.
 
 And ever since then, when harpers have played, they have told the tale, or soung the lay, of Lady Heorodis and Sir Orfeo. 
-
-
-
-

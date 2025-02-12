@@ -957,7 +957,7 @@ With his lady.
 Sir Walter argues, that Gower is here incorrect, since *Galahaut* or *Galahad* had no paramour. But Gower is perfectly accurate, and alludes to *Gallehault*, king of the *loingtaines isles* or *de oultre les marches*, whose mistress was Malchault, lady in attendance on queen Guenever, and by whose instrumentality the intrigue of Lancelot with her mistress was brought about. See the *Roman de Lancelot*, vol. i. ff. lxxxiii-v, edit. 1513. Scott confounds this *Gallehault* with *Galaad*, the immaculate son of Lancelot, who accomplished the adventure of the Sangreal.
 ```
 
-A version of the verse in a rather more modern form appeared in Percy's *"Reliques of Ancient English Poetry"*, which was later widely reprinted.
+A version of the verse in a rather more modern form appeared in Percy's *"Reliques of Ancient English Poetry"*, which was widely quoted elsewhere.
 
 ```{admonition} From "Percy's Reliques of Ancient English Poetry", in "Tales of Wonder", 1801
 :class: dropdown
@@ -1381,7 +1381,7 @@ Lying there by his side:
 
 ```
 
-As to the tale itself, Brock and Coulston focus on the "loathely lady" motif, and the extent to which Gawaine and Dame Ragnell is a parrallel of Chaucer's  "The Wife of Bath".
+As to the tale itself, Brock and Coulston focus on the "loathely lady" motif, and the extent to which Gawaine and Dame Ragnell is a parallel of Chaucer's  "The Wife of Bath".
 
 ````{admonition} The Wedding of Sir Gawain and Dame Ragnell, 1872
 :class: dropdown
