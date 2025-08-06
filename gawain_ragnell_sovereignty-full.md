@@ -4,7 +4,18 @@ PARTIAL NOTES COPIED OVER
   
 --
 
-The wifes  of Bath's Tale (Chaucer) has a slightly different set-up, where Queen Guinevere sets Gawain the task of answering the question of what it is that a woman most desires.
+The wife  of Bath's Tale (Chaucer) has a slightly different set-up, where Queen Guinevere sets Gawain the task of answering the question of what it is that a woman most desires.
+
+There is also a commentary:
+
+https://archive.org/details/RichardBrathwaitsComments1865ChaucersTales/page/n93/mode/2up
+Richard Brathwait's comments in 1665 upon Chaucer's Tales of the Miller and the Wife of Bath
+by Brathwaite, Richard, 1588?-1673
+
+Publication date 1901
+
+pp75-96
+
 
 https://archive.org/details/bim_eighteenth-century_fables-ancient-and-moder_dryden-john_1773/page/282/mode/2up?q=%22Wife+of+bath%27s+tale%22
 Fables ancient and modern; translated into verse, from Homer, Ovid, Boccace, and Chaucer: with original poems. By Mr. Dryden.  1773
