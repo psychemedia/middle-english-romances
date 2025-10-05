@@ -922,7 +922,7 @@ For paynes he hath ftrong.
 
 Madden also provides several notes on the poem:
 
-```{admontion} Marriage of Sir Gawaine — notes
+```{admonition} Marriage of Sir Gawaine — notes
 :class: dropdown
 
 Frederic Madden [Syr Gawayne; a collection of ancient romance-poems, by Scotish and English authors, relating to that celebrated knight of the Round Table, with an introduction, notes, and a glossary.](https://archive.org/details/bib_fict_2517737/page/298/mode/2up), 1839.
@@ -2486,7 +2486,600 @@ The first major difference comes in the setting: the challenge is not set to Kin
 
 The second difference is in the partial use of the tale as a frame tale, in which the first part of the tale of King Midas, taken from Ovid's *Metamorphoses*, is provided as an example of women's appraently inability to keep a secret, albeit whilst still attempting to maintain a confidence.
 
+```{admonition} *The Wife of Bath's Tale*, Dryden, 1742
+:class: dropdown
+
+https://archive.org/details/bim_eighteenth-century_the-canterbury-tales-of-_chaucer-geoffrey_1742_2/page/n1/mode/2up
+
+The Canterbury tales of Chaucer, modernis'd, by Mr. Betterton, Mr. Boyle, Mr. Brooke, ... published by Mr. Ogle. ... In two volumes.  1742: Vol 2
+
+The Wife of Bath's s Tale; by Mr. Dryden, p. 140-158.
+
+THE DESIRE of Woman:  
+OR THE Wife of BATH's TALE.
+
+By Mr. DRYDEN.
+
+IN Days of Old, when *Arthur* fill'd the Throne,  
+Whoſe Acts and Fame to Foreign Lands were blown;  
+The little Elfs and little Fairy Queen  
+Gambol'd on Heaths, and dane'd along the Green:  
+And where the jolly Troop had led the Round,  
+The Graſs untrodden roſe, and mark'd the Ground:  
+Nor darkling did they glance, the Silver Light  
+Of *Phoebe* ſerv'd to guide their Steps aright,  
+And, with their Tripping pleas'd, prolong the Night.  
+Her Beams they follow'd, where at full they play'd,  
+Nor longer than ſhe ſhed her Horns they ftay'd:  
+From thence with airy Flight to Foreign Lands convey'd  
+Above the reſt, our *Britain* held they dear,  
+More ſolemnly they kept their Sabbaths here,  
+And made more ſpacious Rings, and revel'd half the Year.  
+
+I ſpeak of ancient Times; for now the Swain  
+Returning late may paſs the Woods in vain,  
+And never hope to ſee the nightly Train;  
+In vain the Dairy now with Mints is dreſt,  
+The Dairy-Maid expects no Fairy-Gueſt  
+To skim the Bowls, and after pay the Feaſt.  
+She ſighs, and ſhakes her empty Shoes in vain,  
+No Silver-Penny to reward her Pain:  
+For Priefts with Pray'rs, and other Godly Geer,  
+Have made the merry Goblins diſappear;  
+And where they play'd their merry Pranks before,  
+Have ſprinkled Holy Water on the Floor:  
+And Fry'r, that thro' the wealthy Regions run  
+Thick as the Motes that twinkle in the Sun,  
+Reſort to Farmers rich, and bleſs their Halls;  
+And exorciſe the Beds, and croſs the Walls:  
+This makes the Fairy Choirs forſake the Place,  
+When once 'tis hallow'd with the Rites of Grace:  
+But in the Walks where wicked Elves have been,  
+The Learning of the Pariſh now is ſeen,  
+The Midnight Parſon poſting o'er the Green,  
+With Gown tuck'd up to Wakes; for *Sunday* next,  
+With humming Ale encouraging his Text;  
+Nor wants the holy Leer to Country-Girl betwixt.  
+From Fiends and Imps he ſets the Village free,  
+There haunts not any *Incubus* but He.  
+The Maids and Women need no Danger fear  
+To walk by Night, and Sanctity ſo near:  
+For by ſome Hay-cock, or ſome ſhady Thorn,  
+He bids his Beads both Even-ſong and Morn.  
+
+It ſo befel in this King *Arthur*'s Reign,  
+A luſty Knight was pricking o'er the Plain;  
+A Batchelor he was, and of the Courtly Train,  
+It happen'd as he rode, a Damſel gay  
+In Ruſſet Robes to Market took her Way;  
+Soon on the Girl he caſt an am'rous Eye,  
+So ſtraight ſhe walk'd, and on her Paſterns high:  
+If ſeeing her behind he lik'd her Pace,  
+Now turning ſhort, he better lik'd her Face:  
+He 'lights in haſte, and, full of youthful Fire,  
+By Force accompliſh'd his obſcene Defire:  
+This done, away he rode, not uneſpy'd;  
+For ſwarming at his Back the Country cry'd;  
+And, once in View, they never loſt the Sight,  
+But ſeiz'd, and pinion'd brought to Court the Knight.
+
+Then Courts of Kings were held in high Renown,  
+E're made the common Brothels of the Town:  
+There, Virgins honourable Vows receiv'd,  
+But chaſte as Maids in Monaſteries liv'd:  
+The King himſelf, to nuptial Ties a Slave,  
+No bad Example to his Poets gave:  
+And they not bad, but in a vicious Age,  
+Had not, to pleaſe the Prince, debauch'd the Stage.
+
+Now what ſhould *Arthur* do? He lov'd the Knight;  
+But Sov'reign Monarchs are the Source of Right:  
+Mov'd by the Damſel's Tears and common Cry,  
+He doom'd the brutal Raviſher to die.  
+But fair *Geneura* roſe in his Defence,  
+And pray'd ſo hard for Mercy from the Prince,  
+That to his Queen the King th' Offender gave,  
+And left it in her Pow'r to Kill or Save.  
+This gracious Act the Ladies all approve,  
+Who thought it much, a Man ſhould die for Love;  
+And with their Miſtreſs join'd in cloſe Debate,  
+(Cov'ring their Kindneſs with diſſembled Hate,)  
+If not to free him, to prolong his Fate.  
+At laſt agreed, they call'd him by Conſent  
+Before the Queen and Female Parliament:  
+And the fair Speaker riſing from her Chair,  
+Did thus the Judgment of the Houſe declare:
+
+'Sir Knight, tho' I have ask'd thy Life, yet ſtill  
+'Thy Deſtiny depends upon my Will:  
+'Nor haſt thou other Surety than the Grace  
+'Not due to thee from our offended Race.  
+'But as our Kind is of a ſofter Mold,  
+'And cannot Blood without a Sigh behold,  
+'I grant thee Life; reſerving ſtill the Pow'r  
+'To take the Forfeit when I ſee my Hour:  
+'Unleſs thy Anſwer to my next Demand  
+'Shall ſet Thee free from our avenging Hand:  
+'The Queſtion, whoſe Solution I require,  
+'Is, *What the Sex of Women moſt defire?*  
+'In this Diſpute thy Judges are at Strife:  
+'Beware; for on thy Wit depends thy Life,  
+'Yet (leſt ſurpriz'd, unknowing what to ſay,  
+'Thou damn thy ſelf) we give thee farther Day:  
+'A Year is thine, to wander at thy Will,  
+'And learn from others, if thou want'ſt the Skill,  
+'But, not to hold our Proffer turn'd in Scorn,  
+'Good Sureties will we have for thy Return;  
+'That at the Time prefix'd thou ſhalt obey,  
+'And at thy Pledges Peril keep thy Day.' 
+  
+Woe was the Knight at this ſevere Cemmand!  
+But well he knew 'twas bootleſs to withſtand:  
+The Terms accepted, as the Fair ordain,  
+He put in Bail for his Return again;  
+And promis'd Anſwer at the Day aſſign'd,  
+The beſt, with Heav'n's Aſſiſtance, he could find.
+
+His Leave thus taken, on his Way he went  
+With heavy Heart, and full of Diſcontent,  
+Miſdoubting much, and fearful of th' Event.  
+T'was hard the Truth of ſuch a Point to find,  
+As was not yet agreed among the Kind.  
+Thus on he went; ſtill anxious more and more,  
+Ask'd all he met, and knock'd at ev'ry Door;  
+Enquir'd of Men; but made his chief Requeſt  
+To learn from Women what they lov'd the beſt.  
+They anſwer'd each according to her Mind,  
+To pleaſe herſelf, not all the Female Kind.  
+One was for Wealth, another was for Place:  
+Crones, old and ugly, wiſh'd a better Face,  
+The Widow's Wiſh was, oftentimes to wed  
+The wanton Maids were all for Sport a-Bed.  
+Some ſaid, the Sex were pleas'd with handſome Lies,  
+And ſome groſs Flattry lov'd without Diſguiſe:  
+Truth is, ſays one, he ſeldom fails to win,  
+Who flatters well; for that's our darling Sin.  
+But long Attendance, and a duteous Mind,  
+Will work ev'n with the Wiſeſt of our Kind.  
+One thought the Sexes prime Felicity  
+Was from the Bonds of Wedlock to be free:  
+Their Pleaſures, Hours, and Actions all their own,  
+And uncontrolbd to give Account to none.  
+Some wiſh a Husband-Fool; but ſuch are curſt,  
+For Fools perverſe, of Husbands are the worſt:  
+All Women would be counted Chaſte and Wiſe;  
+Nor ſhould our Spouſes ſee, but with our Eyes:  
+For Fools will prate; and tho' they want the Wit  
+To find cloſe Faults, yet open Blots will hit:  
+Tho' better for their Eaſe to hold their Tongue,  
+For Womankind was never in the Wrong.  
+So Noiſe enſues, and Quarrels laſt for Life;  
+The Wife abhors the Fool, the Fool the Wife.  
+And ſome Men ſay, that great Delight have we  
+To be for Truth extoll'd, and Secrecy;  
+And conſtant in one Purpoſe ſtill to dwell,  
+And not our Husband's Counſels to reveal.  
+But that's a Fable; for our Sex is frail,  
+Inventing rather than not tell a Tale.  
+Like leaky Sieves, no Secrets we can hold:  
+Witneſs the famous Tale that *Ovid* told.
+
+*Midas* the King, as in his Book appears,  
+By *Phoebus* was endow'd with Aſſes Ears,  
+Which under his long Locks he well conceal'd,  
+(As Monarchs Vices muſt not be reveal'd)  
+For fear the People have 'em in the Wind,  
+Who long ago were neither Dumb nor Blind;  
+Nor apt to think from Heav'n their Title ſprings,  
+Since *Jove* and *Mars* left of begetting Kings:  
+This *Midas* knew; and durſt communicate  
+To none but to his Wife, his Ears of State.  
+One muſt be truſted, and he thought her fit,  
+As paſſing prudent, and a parlous Wit.  
+To this ſagacious Confeſſor he went,  
+And told her what a Gift the Gods had ſent;  
+But told it under Matrimonial Seal,  
+With ſtrict Injunction never to reveal.  
+The Secret heard, ſhe plighted him her Troth  
+(And ſacred, ſure, is ev'ry Woman's Oath)  
+The Royal Malady ſhould reſt unknown,  
+Both for her Husband's Honour and her own.  
+But ne'ertheleſs ſhe pin'd with Diſcontent;  
+The Counſel rumbled till it found a Vent.  
+The Thing, ſhe knew, ſhe was oblig'd to hide;  
+By Int'reſt and by Oath the Wife was ty'd;  
+But if ſhe told it not, the Woman dy'd.  
+Loth to betray a Husband and a Prince,  
+But ſhe muſt burſt, or blab; and no Pretence  
+Of Honour ty'd her Tongue from Self-Defence.  
+A marſhy Ground commodiouſly was near;  
+Thither ſhe ran, and held her Breath for fear,  
+Leſt if a Word ſhe ſpoke of any thing,  
+That Word might be the Secret of the King.  
+Thus, full of Counſel, to the Fen ſhe went,  
+Grip'd all the Way, and longing for a Vent:  
+Arriv'd by pure Neceſſity compell'd,  
+On her majeſtic Marrow-bones ſhe kneel'd;  
+Then to the Waters-brink ſhe laid her Head,  
+And, as a *Bittour* bumps within a Reed,  
+'To thee alone, O Lake, ſhe ſaid, I tell  
+'(And, as thy Queen, command thee to concea)  
+'Beneath his Locks the King my Husband wears  
+'A goodly Royal Pair of Aſſes Ears.  
+'Now I have eas'd my Boſom of the Pain,  
+Till the next longing Fit returns again!'
+
+Thus thro' a Woman was the Secret known;  
+Tell us, and in Effect you tell the Town.  
+But, to my Tale: The Knight with heavy Cheer,  
+Wandring in vain, had now conſum'd the Year:  
+One Day was only left to ſolve the Doubt;  
+Yet knew no more than when he firſt ſet out.  
+But home he muſt; and as th'Award had been,  
+Yield up his Body Captive to the Queen.  
+In this deſpairing State he happ'd to ride,  
+As Fortune led him, by a Foreft-ſide:  
+Lonely the Vale, and full of Horror-ſtood,  
+Brown with the Shade of a religious Wood:  
+When full before him, at the Noon of Night,  
+(The Moon was up, and ſhot gleamy Light)  
+He ſaw a Choir of Ladies in a Round;  
+That featly footing ſeem'd to skim the Ground:  
+Thus dancing Hand in Hand, ſo light they were,  
+He knew not where they trod, on Earth or Air.  
+At ſpeed he drove, and came a ſudden Gueſt,  
+In hope where many Women were, at leaſt  
+Some one by chance might anſwer his Requeſt.  
+But faſter than his Horſe the Ladies flew,  
+And in a trice were vaniſh'd out of View.
+
+One only Hag remain'd; but fouler far  
+Than Grandame Apes in *Indian* Foreſts are  
+Againſt a wither'd Oak ſhe lean'd her Weight,  
+Propp'd on her truſty Staff, not half upright,  
+And dropp'd an aukward Court'ſy to the Knight.  
+Then ſaid, 'What makes you, Sir, ſo late abroad  
+'Without a Guide, and this no beaten Road?  
+'Or want you aught that here you hope to find,  
+'Or travel for ſome Trouble in your Mind?  
+'The laſt I gueſs; and, if I read aright,  
+'Thoſe of our Sex are bound to ſerve a Knight:  
+'Perhaps good Counſel may your Grief aſſuage;  
+'Then tell your Pain: For Wiſdom is in Age.'  
+
+To this the Knight: 'Good Mother, would you know  
+'The ſecret Cauſe and Spring of all my Woe?  
+'My Life muſt with, To-morrow's Light expire,  
+'Unleſs I tell *what Women moſt deſire*.  
+'Now, could you help me at this hard Eſſay,  
+'Or for your inborn Goodneſs, or for Pay;  
+'Yours is my Life, redeem'd by your Advice,  
+'Ask what you pleaſe, and I will pay the Price:  
+'The proudeſt Kerchief of the Court ſhall reſt  
+'Well ſatisfy'd of what they love the beſt.'  
+'Plight me thy Faith, quoth ſhe, that what I ask,  
+'Thy Danger over, and perform'd the Task;  
+'That ſhalt thou give for Hire of thy Demand;  
+'Here, take thy Oath, and ſeal it on my Hand;  
+'I warrant thee, on Peril of my Life,  
+'Thy Word ſhall pleaſe both Widow, Maid, and Wife'.
+
+More Words there needed not to move the Knight  
+To take her Offer, and his Truth to plight,  
+With that ſhe ſpread her Mantle on the Ground,  
+And, firſt enquiring whither he was bound,  
+Bid him not fear, tho' long and rough the Way,  
+At Court he ſhould arrive e're Break of Day:  
+His Horſe ſhould find the Way without a Guide,  
+She ſaid: With Fury they began to ride,  
+He on the midſt, the Beldam at his Side.  
+The Horſe, what Devil drove I cannot tell;  
+But only this, they ſped their Journey well:  
+And all the Way the Crone inform'd the Knihht,  
+How he ſhould anſwer the Demand aright.
+
+To Court they came: The News was quickly ſpread,  
+Of his returning to redeem his Head.  
+The Female Senate was aſſembled ſoon,  
+With all the Mob of Women in the Town:  
+The Queen ſate Lord Chief Juſtice of the Hall,  
+And bade the Crier cite the Criminal,  
+The Knight appear'd, and Silence they proclaim, .  
+Then firſt the *Culprit* anſwer'd to his Name:  
+And, after Forms of Law, was laſt requir'd  
+To name the Thing that Women moſt deſir'd.  
+
+Th'Offender, taught his Leſſon by the Way,  
+And by his Counſel order'd what to ſay,  
+Thus bold began: 'My Lady Liege (ſaid he)  
+'What all your Sex deſire, is *Sov'reignty*.  
+'The Wife affects her Husband to command;  
+'All muſt be hers, both Money, Houſe and Land.  
+'The Maids are Miſtreſſes ev'n in their Name;  
+'And of their Servants full Dominion claim.  
+'This, at the Peril of my Head, I ſay,  
+'A blunt plain Truth, The Sex aſpires to Sway,  
+'You to rule all, while we, like Slaves, obey.'
+
+TO DO
+
+There was not one, or Widow, Maid, or Wiſe,  
+But ſaid, the Knight had well deſerv'd his Life.  
+Ev'n fair Geneura, with a Bluſh, confeſs'd  
+The Man had found what Women love the beſt.  
+
+Up ſtarts the Beldam, who was there unſeen,  
+And, Rev'rence made, accoſted thus the Queen:  
+'My Liege, ſaid ſhe, before the Court ariſe,  
+'May I, poor Wretch, find Favour in your Eyes.  
+'To grant my juſt Requeſt? T'was I who taught  
+'The Knight this Anſwer, and inſpir'd his Thought.  
+'None but a Woman could a Man direct  
+'To tell us Women, what we moſt affect.  
+'But firſt I ſwore him on his Knightly Troth,  
+'(And here demand Performance of his Oath)  
+'To grant the Boon that next I ſhould defire:  
+'He gave his Faith, and I expect my Hire:  
+My Promiſe is fulfill'd: I ſav'd his Life,  
+'And claim his Debt, to take me for his Wife.'  
+The Knight was ask'd, nor could his Oath deny,  
+But hop'd they would not force him to comply.  
+The Women, who would rather wreſt the Laws,  
+Than let a Siſter-Plaintiff loſe the Cauſe,  
+(As Judges on the Bench more gracious are,  
+And more attent to Brothers of the. Bar)  
+Cry'd one and all, the Suppliant ſhould have Right,  
+And to the Grandame-Hag adjudg'd the Knight.
+
+In vain he ſigh'd, and oft' with Tears deſird  
+Some reaſonable Sute might be requir'd.  
+But ſtill the Crone was conſtant to her Note:  
+The more he ſpoke, the more ſhe ſtretch'd her Throat.  
+In vain he proffer'd all his Goods, to fave  
+His Body, deſtin'd to that living Grave.  
+The liqu'riſh Hag rejects the Pelf with Scorm:  
+And nothing but the Man would ſerve her Turn.  
+'Not all the Wealth of Eaſtern Kings, ſaid ſhe,  
+'Have Pow'r to part my plighted Love and me:  
+'And Old, and Ugly as I am, and Poor,  
+'Yet never will I break the Faith I ſwore!  
+'For mine thou art by Promiſe, during Life,  
+'And I thy loving and obedient Wife.'
+
+'My Love! Nay, rather my Damnation Thou,  
+'Said he; nor am I bound to keep my Vow:  
+'The Fiend, thy Sire, has ſent thee from below,  
+'Elſe how could'ſt thou my ſecret Sorrows know?  
+'Avant, old Witch; for I renounce thy Bed:  
+'The Queen may take the Forfeit of my Head,  
+'E're any of my Race ſo foul a Crone ſhall wed.'
+
+Both heard, the Judge pronounc'd againſt the Knight,  
+So was he marry'd in his own deſpite:  
+And all Day after hid him as an Owl,  
+Not able to ſuſtain a Sight ſo foul.  
+Perhaps the Reader thinks I do him Wrong, |  
+To paſs the Marriage-Feaſt and Nuptial Song:  
+Mirth there was none, the Man was *a-la-mort*,  
+And little Courage had to make his Court.  
+To Bed they went, the Bridegroom and the Bride:  
+Was never ſuch an ill-pair'd Couple ty'd.  
+Reſtleſs, he toſs'd and tumbled to and fro,  
+And roll'd and wriggled further off for Woe.  
+The good old Wife lay ſmiling by his Side,  
+And caught him in her quiv'ring Arms, and cry'd,  
+'When you my raviſh'd Predeceſſor ſaw,  
+'You were not then become this Man of Straw;  
+'Had you been ſuch, you might have 'ſcap'd the Law.  
+'Is this the Cuſtom of King Artbur's Court?  
+'Are all Round-Table Knights of ſuch a Sort?  
+'Remember I am ſhe who ſav'd your Life,  
+'Your loving, lawful, and complying Wife:  
+'Not thus you ſwore in your unhappy Hour,  
+'Nor I for this Return employ'd my Pow'r.  
+'In time of Need I was your faithful Friend;  
+'Nor did I ſince, nor ever will offend.  
+'Believe me, my lov'd Lord, 'tis much unkind;  
+'What Fury has poſſeſs'd your alter'd Mind?  
+'Thus on my Wedding-Night — without Pretence—  
+'Come, turn this Way, or tell me my Offence.  
+'If not your Wife, let Reaſon's Rule perſuade;  
+'Name but my Fault, Amends ſhall ſoon be made.  
+'Amends! Nay, that's impofſible, ſaid he;  
+'What Change of Age or Uglineſs can be?  
+'Or, could *Medea*'s Magick mend thy Face,  
+'Thou art deſcended from ſo mean a Race,  
+'That never Knight was match'd with ſuch Diſgrace.  
+'What Wonder, Madam, if I move my Side,  
+'When, if I turn, I turn to ſuch a Bride?'  
+
+'And is this all that troubles you ſo ſore?  
+'And what the Devil could'ſt thou wiſh me more?  
+'Ah, *Benedicite*! reply'd the Crone:  
+'Then Cauſe of juſt Complaining you have none.  
+'The Remedy to this were ſoon apply'd,  
+'Wou'd you be like the Bridegroom to the Bride.  
+'But (for you ſay, a long-deſcended Race,  
+'And Wealth and Dignity, and Pow'r and Place,  
+'Make Gentlemen, and that your high Degree  
+'Is much diſparag'd to be match'd with me;)  
+'Know this, my Lord, Nobility of Blood  
+'Is but a glitt'ring and fallacious Good:  
+'The Nobleman is he, whoſe noble Mind  
+'Is fill'd with inborn Worth, unborrow'd from his Kind,  
+'The King of Heav'n was in a Manger laid,  
+'And took his Earth but from an humble Maid;  
+'Then what can Birth, or mortal Men beſtow?  
+'Since Floods no higher than their Fountains flow.  
+'We, who for Name and empty Honour ſtrive,  
+'Our true Nobility from him derive.  
+'Your Anceſtors, who puff your Mind with Pride,  
+'And vaſt Eſtates to mighty Titles ty'd,  
+'Did not your Honour, but their own advance:  
+'For Virtue comes not by Inheritance.  
+'If you tralineate from your Father's Mind,  
+'What are you elſe but of a Baſtard-kind?  
+'Do as your great Progenitors have done,  
+'And by your Virtues prove yourſelf their Son.  
+'No Father can infuſe, or Wit or Grace;  
+'A Mother comes acroſs, and marrs the Race.  
+'A Grandſire or a Grandame taints the Blood;  
+'And ſeldom three Deſcents continue Good.  
+'Were Virtue by Deſcent, a noble Name  
+'Could never villanize his Father's Fame;  
+'But as the firſt, the laſt of all the Line  
+'Would, like the Sun, ev'n in Deſcending ſhine.  
+'Take Fire, and bear it to the darkeſt Houſe  
+'Betwixt King *Arthur*'s Court and *Caucaſus*,  
+'If you depart, the Flame ſhall ſtill remain,  
+'And the bright Blaze enlighten all the Plain:  
+'Nor, till the Fuel periſh, can decay,  
+'By Nature form'd on Things combuſtible to Prey.  
+'Such is not Man, who mixing better Seed  
+'With worſe, begets a baſe degen'rate Breed:  
+'The Bad corrupts the Good, and leaves behind  
+'No Trace of all the great Begetter's Mind.  
+'The Father ſinks within his Son, we ſee,  
+'And often riſes in the third Degree:  
+'If better Luck a better Mother give;  
+'Chance gave us Being, and by Chance we live.  
+'Such as our Atoms were, ev'n ſuch are we,  
+'Or call it Chance, or ſtrong Neceſſity,  
+'Thus, loaded with dead Weight, the Will is free.  
+'And thus it needs muſt be: For Seed conjoin'd  
+'Lets into Nature's Work the imperfect Kind:  
+'But Fire, th' Enliv'ner of the gen'ral Frame,  
+'Is One, its Operations ſtill the ſame.  
+'Its Principle is in itſelf: While ours  
+'Works, as Confed'rates war, wich mingled Pow'rs:  
+'Or Man, or Woman, whichſoever fails:  
+'And, oft, the Vigour of the worſe prevails.  
+'*Aether* with *Sulphur* blended alters Hue,  
+'And caſts a duſky Gleam of *Sodom* blue.  
+'Thus in a Brute, their ancient Honour ends,  
+'And the fair Mermaid in a Fiſh deſcends:  
+'The Line is gone; no longer Duke or Earl;  
+'But, by himſelf degraded, turns a Churl.  
+'Nobility of Blood is but Renown  
+'Of thy great Fathers, by their Virtue known,  
+'And a long Trail of Light to thee deſcending down,  
+'If in thy Smoke it ends, their Glories ſhine;  
+'But Infamy and Villanage are thine.  
+'Then what I ſaid before is plainly ſhow'd,  
+'The true Nobility proceeds from God:  
+'Not left us by Inheritance, but giv'n  
+'By Bounty of our Stars, and Grace of Heav'n,  
+'Thus from a Captive *Servius Tullus* roſe,  
+'Whom for his Virtues the firſt Romans choſe;  
+'*Fabritius* from their Walls repell'd the Foe,  
+'Whoſe noble Hands had exercis'd the Plough.  
+'From hence, my Lord and Love, I thus conclude,  
+'That tho' my homely Anceſtors were rude,  
+'Mean as I am, yet I may have the Grace.  
+'To make you Father of a gen'rous Race:  
+'And Noble then am I, when I begin,  
+'In Virtue cloth'd, to caſt the Rags of Sin:  
+'If Poverty be my upbraided Crime,  
+'And you believe in Heav'n, there was a Time  
+'When He, the great Controller of our Fate,  
+'Deign'd to be Man, and liv'd in low Eſtate:  
+'Which he, who had the World at his Diſpoſe,  
+'If Poverty were Vice, would never chooſe.  
+'Philoſophers have ſaid, and Poets ſing,  
+'*That a glad Poverty's an honeſt Thing.*  
+'Content is Wealth, the Riches of the Mind;  
+'And happy He who can that Treaſure find.  
+'But the baſe Miſer ſtarves amidſt his Store,  
+'Broods on his Gold, and griping ſtill at more,  
+'Sits ſadly pining, and believes he's poor.  
+The ragged Beggar, tho' he wants Relief,  
+'Has not to loſe, and *ſings before the Thief*.  
+'Want is a bitter and a hateful Good,  
+'Becauſe its Virtues are not underſtood:  
+'Yet many Things, impoſſible to Thought,  
+'Have been by Need to full Perfection brought:  
+'The Daring of the Soul proceeds from thence,  
+'Sharpneſs of Wit, and active Diligence:  
+'Prudence at once, and Fortitude it gives,  
+'And, if in Patience ta'en, it mends our Lives:  
+'For ev'n that Indigence that brings me low,  
+'Makes me Myſelf, and Him above to know.  
+'A Good which none wound challenge, few would chooſe;  
+'A fair Poſſeſſion, which Mankind refuſe.  
+'If we from Wealth to Poverty deſcend,  
+'Want gives to know the Flatt'rer from the Friend.  
+'If I am Old and Ugly, well for you;  
+'No lewd Adult'rer will my Love purſue.  
+'Nor Jealouſy, the Bane of Marry'd Life,  
+'Shall haunt you, for a wither'd homely Wiſe:  
+'For Age and Uglineſs, as all agree,  
+'Are the beſt Guards of Female Chaſtity.  
+
+'Yet, fince I ſee your Mind is worldly bent,  
+'I'll do my beſt to further your Content.  
+'And therefore, of two Gifts in my Diſpoſe,  
+'Think e're you ſpeak, I grant you Leave to chooſe:  
+'Would you I ſhould be ſtill Deform'd and Old,  
+'Nauſeous to touch, and loathſom to Behold;  
+'On this Condition, to remain for Life  
+'A careful, tender, and obedient Wife,  
+'In all I can contribute to your Eaſe,  
+'And not in Deed; or Word, or Thought diſpleaſe?  
+'Or, would you rather have me Young and Fair,  
+'And take the Chance that happens to your Share?  
+'Temptations are in Beauty, and in Youth;  
+'And how can you depend upon my Truth?  
+'Now weigh the Danger with the doubtful Bliſs,  
+'And thank yourſelf, if aught ſhould fall amiſ.'
+
+Sore ſigh'd the Knight, who this long Sermon heard;  
+At length, conſid'ring all, his Heart he chear'd;  
+And thus reply'd: 'My Lady, and my Wife,  
+'To your wiſe Conduct I reſign my Life:  
+'Chooſe you for me; for well you underſtand  
+'The future Good and Ill on either Hand:  
+'But, if an humble Huſband may requeſt,  
+'Provide, and order all Things for the beſt:  
+'Yours be the Care to profit, and to pleaſe;  
+'And let your Subject-Servant take his Eaſe.
+
+'Then thus in Peace, quoth ſhe, concludes the Strife,  
+'Since I am turn'd the Huſband, you the Wife:  
+'The Matrimonial Victory is mine;  
+'Which, having fairly gain'd, I will reſign.  
+'Forgive, if I have ſaid or done amiſs,  
+'And ſeal the Bargain with a friendly Kiſs:  
+'I promis'd you but one Content to ſhare;  
+'But now I will become both Good and Fair.  
+'The Bus'neſs of my Life ſhall be to pleaſe.  
+'And for my Beauty, that as Time ſhall try;  
+'But draw the Curtain firſt, and caſt your Eye.'
+
+He look'd, and ſaw a Creature heav'nly fair,  
+In Bloom of Youth, and of a charming Air.  
+With Joy he turn'd, and ſeiz'd her Iv'ry Arm;  
+And, like *Pygmalion*, found the Statue warm.  
+Small Arguments there needed to prevail,  
+A Storm of Kiſſes pour'd as thick as Hail.  
+Thus, long in mutual Bliſs they lay embrac'd,  
+And their firſt Love continued to the laſt:  
+One Sunſhine was their Life, no Cloud between;;  
+Nor ever was a kinder Couple ſeen.  
+
+And ſo may all our Lives like theirs be led;  
+Heav'n ſend the Maids young Husbands, freſh in Bed.  
+May Widows wed as often as they can,  
+And ever for the better change their Man.  
+And ſome devouring Plague purſue their Lives,  
+Who will not well be govern'd by their Wives.
+
+END OF THE WIFE OF BATH'S TALE.  
+
+```
+
 ```{admonition} As first put into "modern" English, 1912
+:class: dropdown
+
 https://archive.org/details/completepoetica01mackgoog/page/170/mode/2up
 The complete poetical works of Geoffrey Chaucer: now first put into modern English
 by Chaucer, Geoffrey, -1400 John S. P. Tatlock and Percy MacKaye
