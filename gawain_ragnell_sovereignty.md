@@ -8,7 +8,7 @@ The core of the tale is follows:
 >
 > Back at court, the hag arrives, eats noisily, and goes off with Gawain. He is astonished to see she is beautiful; she says she is under an enchantment, and will he have her foul by day and fair by night, or v.v. He flounders, says it is her choice. She is released from the curse and the next morning the court is surprised to see Gawain with the fair maiden.
 
-In [*The Legend of Sir Gawain; studies upon its original scope and significance*](https://archive.org/details/cu31924072606613/page/n65/mode/2up), 1897, p48, Jessie L. Weston summarises an 1839 version of the original metrical romance by Frederic Madden in the following terms:
+In [*The Legend of Sir Gawain; studies upon its original scope and significance*](https://archive.org/details/cu31924072606613/page/n65/mode/2up), 1897, p48, Jessie L. Weston summarises an 1839 version of the original metrical romance, by Frederic Madden in the following terms:
 
 > ... In the fragmentary poem of the *The Marriage of Sir Gawayne* `[Sir Gawayne, Madden, p. 288.]` we find the hero, in order to rescue King Arthur from the snares of a powerful enchanter, chivalrously wedding the magician's sister, a lady of unexampled hideousness. On the marriage night she reveals herself as beautiful as she was previously repulsive, and gives her husband the choice whether he will have her beautiful by night, and hideous by day, or vice versa. Gawain, with that courtesy for which he was famous, leaves the decision to the lady; whereupon she tells him she has been laid under a spell to preserve this repulsive form till she finds a knight courteous enough 'to give her her will.' The spell is now broken, and she will be beautiful alike by night and by day.
 
@@ -30,7 +30,7 @@ XIX.
 
 THE ANCIENT FRAGMENT OF THE MARRIAGE OF SIR GAWAINE.
 
-The Second Poem in this Volume, intitled The MArriage of Sir Gawayne, having been offered to the Reader with large conjectural Supplements and Corrections, the old Fragment itself is here literally and exactiy printed from the Editor's folio MS. with all its defects, inaccuracies, and errata; that ſuch auſtere Antiquaries, as complain that the ancient copies have not been always rigidly adhered to, may ſee how unfit for publication many of the pieces would have been if all the blunders, corruptions, and nonſenſe of illiterate Reciters and Tranſcribers had been ſuperſtitiouſly retained, without ſome attempt to correct and emend them.
+The Second Poem in this Volume, intitled The Marriage of Sir Gawayne, having been offered to the Reader with large conjectural Supplements and Corrections, the old Fragment itself is here literally and exactiy printed from the Editor's folio MS. with all its defects, inaccuracies, and errata; that ſuch auſtere Antiquaries, as complain that the ancient copies have not been always rigidly adhered to, may ſee how unfit for publication many of the pieces would have been if all the blunders, corruptions, and nonſenſe of illiterate Reciters and Tranſcribers had been ſuperſtitiouſly retained, without ſome attempt to correct and emend them.
 
 This Ballad had moſt unfortunately ſuffered by having half of every leaf in this Part of the MS. torn away; and, as about Nine Stanzas' generally occur in the half page now remaining, it is concluded, that the other half contained nearly the ſame number of Stanzas.
 ```
@@ -338,7 +338,7 @@ Alle yor oun afkyng?"
 "For foth," fayd' the lady, "I am no qued',  
 Thou muft graunt me a knyght to wed',  
 His name is S. Gawen;  
-And' fuche couen‘nt I woll make the,  
+And' fuche couen'nt I woll make the,  
 Butt thorowe myne anfwere thy lyf' fauyd' be,  
 Elle lett my defyre be in vayne.  
 And' yf myne anfwere faue thy lyf',  
@@ -418,7 +418,7 @@ Elle alle my laboure is neu the nere,
 Thus fhe gaf me tell.  
 And butt yf her anfwer' help me well,  
 Elle lett her haue her defyre no dele,  
-This was her coven‘nt;  
+This was her coven'nt;  
 And' yf her anfwere help me, and' none other,  
 Then wold' fhe haue you, here is alle to-geder,  
 That made fhe warraunt."  
@@ -547,7 +547,7 @@ That make I God' avowe!
 In fuche a plyght fhallt thou net me fynde,  
 And' yf thou do, lett me bete and' bynde,  
 As is for thy beft prouf `[prow?]`."  
-"‘ Nowe haue good' day," fayd' S. Gromy,  
+"' Nowe haue good' day," fayd' S. Gromy,  
 "Farewell," fayd' S. Arthoure, "fo mott I the,  
 I am glad' I haue fo fped'."—  
 King Arthoure turnyd' hys hors into the playn,  
@@ -767,7 +767,7 @@ And' thou, S. knyght, curteys Gawen,
 Has gevyn me the foueynte, fteyn,  
 That woll not wroth the erly ne late.  
 Kyffe me, S. knyght, euyn now here,  
-I pray the, be glad', and' make ‘good' chere,  
+I pray the, be glad', and' make 'good' chere,  
 For well is me begoh";—  
 Ther they made joye, oute of mynde,  
 So was itt reason and' cors of kynde,  
@@ -933,7 +933,7 @@ Marriage of Sir Gawaine.
 
 THIS fragment is borrowed from the text of the Percy Manuscript, as given in the [*"Reliques of Ancient English Poetry,"* vol. iii. p. 350, edit. 1794](https://archive.org/details/bim_eighteenth-century_reliques-of-ancient-engl_1794_3/page/350/mode/2up). Dr. Percy supplied the deficiencies in a very ingenious manner, and inserted the ballad thus amended in the first edition of his collection, 8vo, 1764, and repeated it in all subsequent impressions; but this mode of editing ancient poetry having justly been blamed by Ritson and Pinkerton, the Bishop in the fourth edition annexed the fragment, "with all its defects, inaccuracies and errata," in order to show the state of the poem in the MS. Ritson reprinted the genuine and the *amended* texts in parallel columns in the Dissertation prefixed to his *Metrical Romances*, 8vo, 1802, p. cx, and the ballad in its improved form was introduced also by Lewis into his *Tales of Wonder*, vol. ii. p. 362, 8vo, 1802. The Bishop was of opinion that this poem was more ancient than the time of Chaucer, and that he borrowed from it his *Wife of Bathe's tale* (See *Cambro-Briton*, vol. i. p. 256, 8vo, 1820); and Sir Walter Scott in a letter to George Ellis writes, that the tale of Sir Gawayne’s Foul Lady is originally Scaldic, as appears in the history of Hrolf Kraka, edited py Torfzeus, 12mo, Havn. 1715, cap. vii. (*Life*, by Lockhart, vol.i. p. 334.) The passage itself is quoted from the *Saga* by Scott in his *Border Minstrelsy*, vol. ii. p. 140, in illustration of the old Scotish ballad of King Henrie, which preserves very remarkably the legend of the Scandinavian monarch, Helgius.
 
-Warton says in a note to his *"History of English Poetry,"* vol. ii. p. 41, ed. 1894, "I must not forget here, that Sir Gawaine, one of Arthur's champions, is celebrated in a separate romance. Among Tanner’s Manuscripts we have *The Weddynge of Sir Gawaine*, Numb. 455, Bibl. Bodl. It begins, ‘ Be ye blythe, and listeneth to the lyf of a lorde riche.’" It would have given me much pleasure to have included this romance in the present volume, but Warton’s reference is erroneous, and although the Rev. Dr. Bandinel with the greatest courtesy undertook a minute and laborious search for the poem in question, it was without success. Warton’s notorious inaccuracy in matters of this sort forms a sad blot in his otherwise very useful and entertaining work, of which a *critical* edition is still much desiderated.
+Warton says in a note to his *"History of English Poetry,"* vol. ii. p. 41, ed. 1894, "I must not forget here, that Sir Gawaine, one of Arthur's champions, is celebrated in a separate romance. Among Tanner’s Manuscripts we have *The Weddynge of Sir Gawaine*, Numb. 455, Bibl. Bodl. It begins, 'Be ye blythe, and listeneth to the lyf of a lorde riche.’" It would have given me much pleasure to have included this romance in the present volume, but Warton’s reference is erroneous, and although the Rev. Dr. Bandinel with the greatest courtesy undertook a minute and laborious search for the poem in question, it was without success. Warton’s notorious inaccuracy in matters of this sort forms a sad blot in his otherwise very useful and entertaining work, of which a *critical* edition is still much desiderated.
 
 P. 289, 1.32. *Tearne-wadling.*
 
@@ -1381,7 +1381,7 @@ Lying there by his side:
 
 ```
 
-As to the tale itself, Brock and Coulston focus on the "loathely lady" motif, and the extent to which Gawaine and Dame Ragnell is a parallel of Chaucer's  "The Wife of Bath".
+As to the tale itself, Brock and Coulston focus on the "loathely lady" motif, and the extent to which Gawaine and Dame Ragnell is a parallel of Chaucer's "The Wife of Bath".
 
 ````{admonition} The Wedding of Sir Gawain and Dame Ragnell, 1872
 :class: dropdown
@@ -2475,6 +2475,114 @@ To sir Gawaine and his lady gay.
 This mode of publishing ancient poetry displays, it must be confessed, considerable talent and genius, but savours strongly, at the same time, of unfairness and dishonesty. Here are numerous stanzas inserted which are not in the original, and others omitted which are there. The purchasers and perusers of such a collection are deceived and imposed upon; the pleasure they receive is derived from the idea of antiquity, which, in fact, is perfect illusion.
 
 If the ingenious editor had published all his imperfect poems by correcting the blunders of puerility or inattention, and supplying the defects of barbarian ignorance, with proper distinction of type (as, in one instance, he actually has done), it would not only have gratified the austerest antiquary, but also provided refined entertainment "for every reader of taste and genius." He would have acted fairly and honorably, and given every sort of reader complete satisfaction. Authenticity would have been united with improvement, and all would have gone well; whereas, in the present editions, it is firmly believed, not one article has been ingeniously or faithfully printed from the beginning to the end; nor did the late eminent Thomas Tyrwhitt, so ardent a researcher into ancient poetry, and an intimate friend of the possessor, ever see this curious, though tattered, fragment, nor would the late excellent George Stevens, on the bishop's personal application, consent to sanction the authenticity of the printed copy with his signature. `[The Bishop of Dromore (as he now is), on a former occasion, having himself, as he well knows, already falsified and corrupted a modern Scottish song, "This line," he says, "being quoted from memory and given as old Scottish poetry, is (by no one, in such a case, except himself) now usually printed " (Reliques, 1775 I., xxxviii. [Scottish poetry, of the fifteenth or sixteenth century, has been so printed, but not that of the eighteenth, unless by impostors.]) "Come ye frae the border?" to give it a certain appearance of rust and antiquity. This identical song being afterward, faithfully and correctly printed in a certain collection of such things, from the earliest copy known, which, like all the rest, was accurately referred to "Live you upo' the border?" (Scottish Songs printed for J. Johnson, 1794, i., 266), the worthy prelate thought proper, in the last edition of his already recited compilation, to assert that his own corruption "would have been readily corrected by that copy, had not all confidence been destroyed by its being altered in the Historical Essay, prefixed to that pubUcation to "'Ye Live upo' the border;' the better," he adds, with his usual candour, "to favour a position, that many of the pipers might live upon the borders, for the conveniency of attending fairs, etc., in both kingdoms." This, however, is an infamous lye; it being much more likely that he himself, who has practised every kind of forgery and imposture, had some such end to alter this identical line, with much more violence, and, as he owns himself, actual "corruption," to give the quotation an air of antiquity, which it was not entitled to. The present editor's text is perfectly accurate, to a single comma, but, "this line," as he pretends to apologise for his own, "being quoted (in the Essay) from memory," having frequently heard it so sung, in his younger days, by a north country blacksmith without thinking it necessary, at the moment, to turn to the genuine text, which lay at his elbow, and which his lordship dare not impeach. "Thou hypocrite, first cast out the beam out of thine own eye, and then shalt thou see (more) clearly to cast out the mote out of thy brother's eye" (Gospel according to St. Matthew, chap, vii., verse 5).]`
+
+```
+
+## The Wife of Bath's Tale
+
+Chaucer's *The Wife of Bath's Tale* differs in a couple of respects to the metrical romance, and is the version I have heard told most recently, and independently, by female tellers (Debs Newbold and Holly Medland), firstly from a female / feminst perspective, and secondly, as a frame tale.
+
+The first major difference comes in the setting: the challenge is not set to King to Arthur, but is rather placed upon a knight found guilty of a brutal rape. He is saved from a punishment of death by Guinevere, who sets him the challenge of finding, within a year and a day, what it is that women desire the most; she should then decide his fate depneding on his answer.
+
+The second difference is in the partial use of the tale as a frame tale, in which the first part of the tale of King Midas, taken from Ovid's *Metamorphoses*, is provided as an example of women's appraently inability to keep a secret, albeit whilst still attempting to maintain a confidence.
+
+```{admonition} As first put into "modern" English, 1912
+https://archive.org/details/completepoetica01mackgoog/page/170/mode/2up
+The complete poetical works of Geoffrey Chaucer: now first put into modern English
+by Chaucer, Geoffrey, -1400 John S. P. Tatlock and Percy MacKaye
+
+Publication date 1912
+
+pp171-8
+
+Here beginneth the Tale of the Wife of Bath.
+
+In the old days of King Arthur, of whom Britons speak great glory, this land was all filled with fairy power. The elf-queen danced full oft, with her merry company, in many a green mead; this was the belief of old, as I find in books. I speak of many hundred years ago; but in our times no man can see elves any more. For now the great charity and the prayers of limiters and of other holy friars, who reach every land and every brook, as thick as motes in a sunbeam, blessing halls, towers, chambers, kitchens, cities, burgs, castles, thorps, dairies, barns, stables, bowers, — this brings it to pass that there be no elves. For where a fairy was wont to walk, there walks the limiter himself now, of mornings or of afternoons, and says his matins and his holy things as he goes in his mendicancy. Women may go up and down in safety ; in every bush, under every tree, save him, there is none incubus, — and he will do them nought but dishonor.
+
+And so befell that this King Arthur had a lusty young knight in his court, who on a day came riding from the river; and it happed that he saw a maid walking ahead alone as she was born, and her he ravished. For this violation there was such clamor and such appeal unto King Arthur, that the knight was condemned by course of law to die; and peradventure, such was the statute then, he would have lost his head, but that the queen and other ladies so long prayed the king for grace, till he granted him his life thereupon, and gave him over to the queen's will, to choose whether she would save him or let him die.
+
+The queen thanked the king right heartily; and after this, upon a day when she saw her time, she spake thus to the knight: 'You stand yet,' quoth she, 'in such case that you have even now no assurance of your life. I grant you life, if you can tell me what thing it is that women desire most. Beware, and guard your neckbone from iron! And if you cannot tell it forthwith, I will give you yet leave to go for a twelvemonth and a day, to search out and learn an answer sufficient for this point. And ere you depart, I will have security that you will yield up your body in this place.'
+
+Woe was this knight, and he sighed sorrowfully. But what! He might not do even as he list. And at last he chose to go and come again even at the year's end, with such reply as God should purvey him; and he took his leave and went his way forth.
+
+He sought every house and place where he hoped to find such luck as to learn what women chiefly love. But he could arrive at no coast where he could find two creatures agreeing together on this thing. Some said that women best love riches; some said honor; some said mirth; some, rich array; some, lusty husbands, and to be widowed and wedded often. Some said that our hearts are most eased when we be flattered and gratified. They came full nigh the truth; a man shall best win us by flattery, I will not deny it, and by attentiveness and diligence we are caught, both great and small. And some said how we love best to be free and to do even as we will, and that no man reprove us for our faults, but say that we be wise and never foolish at all. For in sooth there is none amongst us, if any wight claw us on a sore place, that will not kick, because he tells us the truth. Try, and he shall find it out who does so. For be we never so sinful within, we would be held for wise, and clean of evil-doing.
+
+And some said that we have great delight to be accounted stable and eke trustworthy and steadfast in one purpose, and never bewraying what men tell us. But that tale is not worth a rake-handle, perdy! We women can conceal nothing, as witness Midas; will ye hear the tale?
+
+Ovid, amongst other small stories, says that Midas had two ass's ears growmg upon his head under his lone hair, which blemish he hid full cunningly from every man's sight, as best he could, so that none wist of it save his wife. He loved her most and trusted her; and he prayed her to tell of his disfigurement to no creature. She swore to him, 'Nay, not to gain all the world she would not do that villainy and sin, to bring her husband so foul a name; for her own honor she would not do it.' But nevertheless she felt she should die, to hide a secret so long; it swelled so sore about her heart, it seemed to her, that some word must needs burst from her. And since she durst tell it to no human creature, she ran down to a marsh hard by; her heart was ablaze till she came there. And ever as a bittern bumbles in the mire, she laid her mouth down unto the water: Thou water, bewray me not with thy sound,' quoth she ; 'I tell it to thee, and to none else. Mine husband hath two lone ass's ears. Now my heart is whole and well again; now it is out. In very truth I could keep it in no longer.' By this you may see that though we bide a time, we can conceal no secret forever; it must out. If you will hear the remnant of the tale, read Ovid; there you may learn it.
+
+This knight, of whom is my tale chiefly, when he saw he could not come by it — that is to say, what women most love — full sorrowful was the spirit withm his breast. But home he went, he might not tarry; the day was come when he must turn homeward. And as he went, deep in care, it befell that he , rode under a forest-side, where he saw four-and-twenty ladies and yet more go on a dance. Full eagerly he drew toward this dance, in hope of learning some piece of wisdom. But in truth, ere he fully came there, the dance was vanished — where, he wist not; and he discerned no living creature, save that he saw sitting on the green an old wife, a fouler wight none could imagine. At the approach of the knight this old wife arose and said, 'Sir knight, by this way lies no path. Tell me, by your faith, what seek you? Peradventure it may be the better for you; these old folk know many a thing.'
+
+'My dear mother,' quoth this knight, 'in truth I am but a dead man, unless I can say what thing it is that women desire most. Could you instruct me, I would well pay you your reward.'
+
+'Plight me your troth,' quoth she, 'on my hand here, that you will do the first thing that I require of you, if it lie in your power; and ere it be night I will tell it you.'
+
+'Take my pledge here,' said the knight, 'I agree.'
+
+'Then,' quoth she, 'I dare be bound your life is safe; for upon my soul I will stand to it that the queen will say as I do. Let see the proudest kerchief or caul of the whole court, who dares say nay to what I shall teach you. Let us go on, without further words.'
+
+Then she whispered a word in his ear, and bade him be glad and have no dread.
+
+When they were come to the court, this knight said 'he had kept his day, as he had promised, and ready was his answer.' Then were assembled to hear his answer full many a noble wife, and many a maiden, and many a widow, — because they be wise; and the queen herself sat as justicer. And then this knight was summoned. Silence was commanded to every wight, and the knight was bidden tell in full audience what thing mortal women most love. This knight stood not like a dumb beast, but anon answered the question with manly voice, that all the court heard it. 'My liege lady,' quoth he, 'over all this world women wish to have sovereignty over their husbands as well as over their lovers, and to be in mastership above them. This is your chiefest desire, though you slay me for the word; do as you list, I am here at your will.'
+
+In all the court there was neither wife nor maid nor widow to gainsay what he replied, but all declared he was worthy to have his freedom. And at that word, the old woman started up whom the knight had seen sitting on the green.
+
+'Your favor, my sovereign lady!' quoth she. 'Do me justice, ere your court break up. I taught the knight this answer, for which he plighted me his faith that he would do the first thing I should require of him, if it lay in his power. Before the court, then, I pray you, sir knight,' quoth she, 'that you take me to wife, for you well know that I have saved your neck. If I speak falsely, say me nay, upon your faith!'
+
+This knight answered, 'I wot full well that such was my promise, alas and alack! But for the love of God, pray choose another request! Take all my goods; let my body go.'
+
+'Nay, then,' answered she, 'I beshrew us both. For though I be foul, poor, and old, I would none of all the metal or ore that is buried under the earth or lies upon it, but I were thy wife, and thy love eke.'
+
+'My love!' quoth he, 'nay, my damnation! Alas that any of my kindred should be so foully mismated!'
+
+But all this was for nought. This is the conclusion, that he was constrained, and needs must wed her. And he took his old wife and went to his chamber.
+
+Now peradventure some men would say that of my negligence I take no care to tell you all the rejoicing and pomp which was at the celebration that day. To which thing I shall briefly answer, and say there was no joy nor celebration at all; but only heaviness and much sorrow. For he wedded her privily on a morn; and such was his woe, hid him all day after like an owl, his wife looked so ugly.
+
+Great was his misery when he was alone with his wife; he tossed about and turned to and fro. His old wife lay evermore smiling, and said, 'Ah, *benedicite*, dear husband! fares every knight thus with his wife as you do? Is this the way of King Arthur's household? Is every knight of his so distant? I am your own love and your wife eke, and I have saved your neck, and certes, I have never yet done you a wrong. Why do you so this first night? You fare as a man who has lost his wit. What is my guilt? Tell it me, for the love of God, and if I have the power, it shall be amended.'
+
+'Amended!' quoth this knight. 'Alas, nay, nay; it cannot be amended forevermore! You are so loathly and so old, and eke come of so low a lineage, that it is small wonder though I toss and turn. Would God my heart would burst!'
+
+'Is this the cause of your unquiet?'
+
+'Yea, certainly, and no wonder,' quoth he.
+
+'Now, sir,' she replied, 'I could amend all this ere three days were gone, if I list, so you bear yourself toward me well.
+
+'But when you speak of such gentility as is descended from ancient wealth, so that therefor you knights are men of breeding, — such arrogance is not worth a hen. Look who is ever most virtuous, openly and privily, and ever most inclines to do what gentle deeds he may; take him for the gentlest man. Christ wills that we claim our gentility from him, not from our ancestors' ancient wealth. For though all their heritage, by reason whereof we claim high station, descend to us, yet they cannot at all bequeath to any of us their virtuous living, which made them to be called gentle men and to bid us follow them and do in like manner. The wise poet of Florence, who is named Dante, has a noble saying on this matter; lo, in such rhyme is Dante's saying:—
+
+"Seldom into the brtnches of the tree  
+Mounts worth of man, for He that gives it to us  
+Wills that of Him we claim nobility."
+
+For we may claim naught as from our ancestors save temporal things which men may injure and impair. Every wight eke knows this as well as I, that if nobility were planted by nature in a certain family all down the line, then would they never cease to do the fair offices of nobility, both privately and before the world; they could never do villainy or sin. Take fire and bear it into the darkest house betwixt here and the mount of Caucasus, and let men shut the doors and go thence, nevertheless the fire will burn and blaze as fairly as though twenty thousand men beheld it ; on peril of my life, it will hold to its natural office till it die! Here you may well see how nobility hangs not from ancient possessions, since folk perform not alway its works, as does the fire, lo! according to its nature. For, God wot, men may full often see a lord's son do shame and baseness; and he that will have esteem for gentility because he was born of a noble house and had virtuous and noble ancestors, and yet himself will not perform the deeds of gentility nor follow after his gentle ancestor who is dead, he is not noble, be he duke or baron; for base sinful deeds make a churl. For gentility then were but renown of your ancestors for their high worthiness, which is full extraneous to your person. Your gentility comes only from God. Then comes our true gentility of divine grace, and was in no wise bequeathed to us with our earthly station.
+
+'Think how noble was that Tullius Hostilius, as Valerius tells, who rose out of poverty to high nobility. Read Seneca, and Boethius eke; there you shall see expressly that he who does noble deeds is noble. And therefore, dear husband, I conclude thus: albeit mine ancestors were untutored, yet may the high God — and so I hope — grant me grace to live virtuously. Then I am noble, when I begin to live virtuously and to abandon evil.
+
+'And you reproach me for poverty; but the high God on whom we believe chose freely to live in poverty. And certes every man, maid or wife, may well know that Jesus, King of Heaven, would not choose an ill manner of living. Verily, cheerful poverty is an honorable thing, so will Seneca say and other clerks. Whoso holds him content with his poverty, I count him rich, though he have not a shirt! He who covets is a poor wight, for he would have that which is not within his power. But he that has naught, nor covets to have, is rich, albeit you count him but a serving-lad. True poverty, it sings by nature. Juvenal says merrily, concerning poverty:—
+
+"The poor man as he strides along  
+Before the thieves may sing a song."
+
+Poverty is a hateful good, and a full great ridder from cares, I trow, and eke a great teacher of wisdom to him that takes it in patience. All this is poverty, though it seem wretched; and a possession which no wight will challenge. When a man is humbled, full often poverty makes him to know his God and himself eke. Poverty methinks is a perspective glass through which he may see who are his true friends. And therefore, sir, I pray, so I grieve you not, upbraid me no more for my poverty.
+
+'Now, sir, you reproach me for mine old age. And certes, sir, though there were no authority in any book to tell you so, yet you honorable gentlefolk say that men should do courtesy to an old wight, and for your gentle manners call him Father. And I could find authorities for this, I trow. Now you say I am old and foul — then dread you not to be a cuckold. For ugliness and age, on my life, are great wardens over chastity. But nevertheless, since I know what it is you would have, I shall fulfil your worldly will.
+
+'Choose,' quoth she, 'one of these two things, to have me foul and old till I die, and to you a true, humble wife, never in all my days displeasing you ; or else to have me young and fair, and take your adventure of the resorting to your house — or mayhap to some other place — which there will be for my sake. Now choose yourself which you will have.'
+
+This knight took counsel with himself and sighed sore; but at last he spake after this manner: 'My lady and love, and my dear wife, I put me in your wise governance. Do you choose which may be greatest pleasure and greatest honor to you and me also; I care not which of the two, for it suffices me as it pleases you.'
+
+'Then have I got the mastery over you,* quoth she, 'since I may make choice, and control as I list?'
+
+'Yea, certes, wife,' quoth he; 'I hold that for the best.'
+
+Quoth she, 'Kiss me, we be angered no longer. For by my faith I will be both unto you — that is to say, both fair, yea, and good. I pray to God that I may die mad, but I be as good and faithful as ever wife was since the world was new. And except I be in the morn as fair to see as any lady, queen or empress, betwixt the east and the west, do with my life and death as you will. Cast up the curtain, look how it is.'
+
+And when the knight saw verily that she was so fair and likewise so young, he clasped her in his two arms for joy, his heart bathed in a bath of bliss. A thousand times together he kissed her.
+
+And she obeyed him in all which might cause him delight or pleasure. And thus they lived in perfect joy to the end of their lives. And may Jesu Christ send us husbands meek, young, and lusty, and grace to overlive them that we wed. And eke I pray Jesu to shorten their days that will not be ruled by their wives. And old, angry niggards of money, God send them betimes a very pestilence!
+
+Here endeth the Wife of Bath's Tale.
 
 ```
 
