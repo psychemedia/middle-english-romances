@@ -1769,7 +1769,9 @@ To Sir Gawaine and his lady gay.
 
 We can also find a summarised version of the tale, as well as additional commentary, in *The English and Scottish popular ballads*.
 
-```{admonition}
+```{admonition} Commentary in *The English and Scottish popular ballads*, 1884
+:class: dropdown
+
 https://archive.org/details/englishscottishp12chilrich/page/288/mode/2up
 
 The English and Scottish popular ballads
