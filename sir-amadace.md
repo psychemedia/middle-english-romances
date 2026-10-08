@@ -248,7 +248,7 @@ And owt of deytte be clene.
 "Bot, sartenly, or that Y fare,  
 Y wyll be more ryall and grettare;  
 Porvè therfore Y schall."—  
-Ryche gyfftes tber he gafe  
+Ryche gyfftes ther he gafe  
 To knyghttes and to sqwyers bathe;  
 To pore men dalt his dale.—  
 "Yf men myghtt wytte that me wer woo,  
@@ -486,7 +486,7 @@ Full mykell his thoght was than.
 He seyd, "As Y come be the strette,  
 A syghtte Y -saw, Y thynke theron yette;  
 
-Tberfore my hart his sare:  
+Therfore my hart his sare:  
 In a chapell be the way,  
 A body on a bere lay;  
 
@@ -539,7 +539,7 @@ Of kyndene* mey you lythe.
 The marchand was peyd XXX ti pownde fyw,  
 And Sir Amadas cummandyd the wyn,  
 
-And bad ylk mon be blytbe.  
+And bad ylk mon be blythe.  
 
 Then sey the knyght: "Is ther any mare f  
 "Nai, sir, he seyd, wele motte ye fare!  
@@ -1215,7 +1215,7 @@ Bot the chylde then parte thou bode.
 
 472 SIR AMADAS,  
 
-"Tbenke what forward that thou made,  
+"Thenke what forward that thou made,  
 When thou full greyt myster hade;  
 
 Wele thou hettest me thare \"  

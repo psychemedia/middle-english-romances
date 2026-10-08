@@ -2064,7 +2064,7 @@ N 2 That
 And This, for Luſt an am'rous Philtre bought;  
 
 
-136 PROLOGUE tm tbe  
+136 PROLOGUE
 That not one Woman keeps her Marriage-Vow.  
 (This by the way, but to my Purpoſe now.)  
 
